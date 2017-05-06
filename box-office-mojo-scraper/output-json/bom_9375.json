@@ -1,0 +1,643 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Over the Brooklyn Bridge'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=overthebrooklynbridge.htm"},
+					"DomesticTotalGross": {"S":"b'$837,914'"},
+					"Runtime": {"S":"b'1 hrs. 48 min.'"},
+					"Distributor": {"S":"b'MGM'"},
+					"Genre": {"S":"b'Unknown'"},
+					"ReleaseDate": {"S":"b'1983'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$837,914'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 1983': '74', 'Yearly 1983': '148', 'All Time Domestic': '7,577'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Over the Hedge'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=overthehedge.htm"},
+					"DomesticTotalGross": {"S":"b'$155,019,340'"},
+					"Runtime": {"S":"b'1 hrs. 27 min.'"},
+					"Distributor": {"S":"b'Paramount (DreamWorks)'"},
+					"Genre": {"S":"b'Animation'"},
+					"ReleaseDate": {"S":"b'May 19, 2006'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'Lorne Cameron, Karey Kirkpatrick'"},
+					"Composer": {"S":"b', Actor'"},
+					"Director": {"S":"b'Tim Johnson'"},
+					"Domestic": {"S":"b'$155,019,340'"},
+					"Worldwide": {"S":"b'$336,002,996'"},
+					"Foreign": {"S":"b'$180,983,656'"},
+					"WidestRelease": {"S":"b'4,093 theaters'"},
+					"OpeningWeekend": {"S":"b'$38,457,003'"},
+					"CloseDate": {"S":"b'September 4, 2006'"},
+					"InRelease": {"S":"b'112 days / 16 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Animation': '60', 'Animation - Computer': '53'}"},
+					"Franchise": {"S":"{Showdown: 'Angry Birds' Comps: '1', 'Showdown: Computer Animation: Battle of the Average': '2', 'Brand: DreamWorks Animation': '16'}"},
+					"Chart": {"S":"{'Third Weekends': '101', BOM Users' Grades: '223', 'Second Weekends': '195', 'Rated PG, Opening Weekends Adjusted': '75', 'Opening Weekends Adjusted - May': '70', BOM Users' Grades (2006 Releases): '42', 'Widest Releases': '59', 'Fastest to $100 million': '258', 'Opening Weekends - May': '66', 'Yearly Opening Weekends 2006': '14', 'Yearly (Wide) 2006': '11', 'Rated G and PG': '105', 'All Time Domestic': '299', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '85', 'All Time Worldwide': '332', 'Slowest to $100 million': '377', 'Smallest Drops, All Wide Releases': '1,035', 'Widest Opening Releases': '64', 'Worldwide Yearly 2006': '11', 'Opening Weeks': '371', 'Smallest Drops, 2,500+ theaters (Saturation)': '193', 'Movies That Never #1 Adjusted': '40', 'Yearly 2006': '11', 'Widest PG Rated Releases': '19', 'Opening Weekends - Summer': '187', 'Single Day Monday Gross Adjusted': '148', 'Third Weekends Adjusted': '124', 'Smallest Drops, 2,000+ theaters (Very Wide)': '310', 'Memorial Day 4-Day Holiday Weekends': '44', 'Rated PG, Opening Weekends': '72', 'Opening Weekends Adjusted - Summer': '199', 'Movies That Never Hit #1': '24', 'Opening Weekends Not At #1': '40', 'Widest PG Rated Openings': '19', 'Rated PG': '86', 'Rated G and PG Adjusted': '200', 'Highest All Time Rank (on August 27, 2006)': '136', 'Opening Weekends': '323', 'Opening Weekends Adjusted': '331', 'Opening Weekends Not At #1 Adjusted': '19', 'Yearly PG Rated 2006': '4', 'Yearly Opening Weekends (Wide) 2006': '14', 'Rated G and PG, Opening Weekends Adjusted': '93', 'Single Day Monday Gross': '150', 'Opening Weeks Adjusted': '397', 'Rated PG Adjusted': '150', 'Rated G and PG, Opening Weekends': '88'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Over the Top'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=overthetop.htm"},
+					"DomesticTotalGross": {"S":"b'$16,057,580'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Genre": {"S":"b'Action Drama'"},
+					"ReleaseDate": {"S":"b'February 13, 1987'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'Sylvester Stallone'"},
+					"Actor": {"S":"b'Sylvester Stallone'"},
+					"Domestic": {"S":"b'$16,057,580'"},
+					"WidestRelease": {"S":"b'1,758 theaters'"},
+					"OpeningWeekend": {"S":"b'$5,149,200'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{BOM Users' Grades (1987 Releases): '30', 'Yearly 1987': '68', 'Yearly Opening Weekends (Wide) 1987': '38', 'Highest All Time Rank (on July 5, 1988)': '375', 'Yearly PG Rated 1987': '18', 'Yearly Opening Weekends 1987': '35', President's Day 4-Day Holiday Weekend Openers: '94', 'All Time Domestic': '3,642', 'Yearly (Wide) 1987': '69'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Overboard'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=overboard.htm"},
+					"DomesticTotalGross": {"S":"b'$26,713,187'"},
+					"Runtime": {"S":"b'1 hrs. 52 min.'"},
+					"Distributor": {"S":"b'MGM'"},
+					"Genre": {"S":"b'Romantic Comedy'"},
+					"ReleaseDate": {"S":"b'December 18, 1987'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'Leslie Dixon'"},
+					"Composer": {"S":"b'Randy Newman*, Alan Silvestri'"},
+					"Actor": {"S":"b'Goldie Hawn, Kurt Russell'"},
+					"Director": {"S":"b'Garry Marshall'"},
+					"Domestic": {"S":"b'$26,713,187'"},
+					"WidestRelease": {"S":"b'1,135 theaters'"},
+					"OpeningWeekend": {"S":"b'$1,880,006'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Romantic Comedy': '156', 'Memory Loss / Amnesia': '20', 'Off-Screen Couples On-Screen': '22'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1987': '45', 'Smallest Drops, All Wide Releases': '23', 'Highest All Time Rank (on February 16, 1988)': '399', 'Yearly Opening Weekends (Wide) 1987': '99', 'Opening Weeks': '3,972', 'Yearly Opening Weekends 1987': '90', BOM Users' Grades (1987 Releases): '31', 'Opening Weeks Adjusted': '3,660', 'Movies That Never Hit the Top 5 Adjusted': '71', 'Yearly PG Rated 1987': '10', 'All Time Domestic': '2,705', 'Opening Weekends': '4,353', 'Opening Weekends Adjusted': '4,154', 'Yearly (Wide) 1987': '44'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Overexposed'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=overexposed.htm"},
+					"DomesticTotalGross": {"S":"b'$577,701'"},
+					"Runtime": {"S":"b'N/A'"},
+					"Distributor": {"S":"b'Concorde'"},
+					"Genre": {"S":"b'Unknown'"},
+					"ReleaseDate": {"S":"b'1990'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$577,701'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 1990': '110', 'Yearly 1990': '203', 'All Time Domestic': '8,041'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Overnight'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=overnight.htm"},
+					"Runtime": {"S":"b'1 hrs. 20 min.'"},
+					"Distributor": {"S":"b'ThinkFilm'"},
+					"Genre": {"S":"b'Documentary'"},
+					"ReleaseDate": {"S":"b'November 10, 2004'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '1461'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Owl and the Sparrow'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=owlandthesparrow.htm"},
+					"DomesticTotalGross": {"S":"b'$47,071'"},
+					"Runtime": {"S":"b'1 hrs. 37 min.'"},
+					"Distributor": {"S":"b'Wave Releasing'"},
+					"Genre": {"S":"b'Foreign'"},
+					"ReleaseDate": {"S":"b'January 16, 2009'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$47,071'"},
+					"Worldwide": {"S":"b'$170,324'"},
+					"Foreign": {"S":"b'$123,253'"},
+					"WidestRelease": {"S":"b'4 theaters'"},
+					"OpeningWeekend": {"S":"b'$9,475'"},
+					"CloseDate": {"S":"b'April 5, 2009'"},
+					"InRelease": {"S":"b'63 days / 9 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1379'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 2009': '226', 'Yearly (Limited) 2009': '215', 'Yearly 2009': '367', 'Worldwide Yearly 2009': '317', 'All Time Domestic': '11,404', 'Yearly Opening Weekends 2009': '365', 'Yearly PG Rated 2009': '52'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Owning Mahowny'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=owningmahowny.htm"},
+					"DomesticTotalGross": {"S":"b'$1,011,871'"},
+					"Runtime": {"S":"b'1 hrs. 47 min.'"},
+					"Distributor": {"S":"b'Sony Classics'"},
+					"Genre": {"S":"b'Crime Drama'"},
+					"ReleaseDate": {"S":"b'May 2, 2003'"},
+					"ProductionBudget": {"S":"b'$10 million'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Philip Seymour Hoffman, Minnie Driver, John Hurt'"},
+					"Domestic": {"S":"b'$1,011,871'"},
+					"Worldwide": {"S":"b'$1,176,302'"},
+					"Foreign": {"S":"b'$164,431'"},
+					"WidestRelease": {"S":"b'24 theaters'"},
+					"OpeningWeekend": {"S":"b'$33,287'"},
+					"CloseDate": {"S":"b'October 23, 2003'"},
+					"InRelease": {"S":"b'175 days / 25 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2003': '71', 'Yearly Opening Weekends 2003': '273', 'Yearly Opening Weekends (Limited) 2003': '144', 'Yearly R Rated 2003': '85', 'Yearly 2003': '214', 'Highest All Time Rank (on October 16, 2003)': '4491', 'All Time Domestic': '7,363', 'Worldwide Yearly 2003': '226'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Oxford Blues'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=oxfordblues.htm"},
+					"DomesticTotalGross": {"S":"b'$8,793,152'"},
+					"Runtime": {"S":"b'1 hrs. 37 min.'"},
+					"Distributor": {"S":"b'MGM'"},
+					"Genre": {"S":"b'Comedy'"},
+					"ReleaseDate": {"S":"b'August 24, 1984'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Cary Elwes*, Rob Lowe'"},
+					"Domestic": {"S":"b'$8,793,152'"},
+					"WidestRelease": {"S":"b'1,075 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,486,418'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - College': '36'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Wide) 1984': '77', 'Yearly Opening Weekends (Wide) 1984': '78', 'Yearly PG-13 Rated 1984': '11', 'Opening Weeks Adjusted': '3,363', 'Highest All Time Rank (on December 14, 1985)': '335', 'Yearly Opening Weekends 1984': '73', 'Opening Weeks': '3,919', 'Opening Weekends Adjusted': '3,559', 'All Time Domestic': '4,630', 'Opening Weekends': '4,070', 'Yearly 1984': '85'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Oxygen'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=oxygen.htm"},
+					"DomesticTotalGross": {"S":"b'$3,088'"},
+					"Runtime": {"S":"b'1 hrs. 32 min.'"},
+					"Distributor": {"S":"b'Unapix Ent.'"},
+					"Genre": {"S":"b'Crime Thriller'"},
+					"ReleaseDate": {"S":"b'November 5, 1999'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Composer": {"S":"b'Rolfe Kent'"},
+					"Actor": {"S":"b'Maura Tierney, Adrien Brody'"},
+					"Domestic": {"S":"b'$3,088'"},
+					"CloseDate": {"S":"b'November 18, 1999'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1999': '373', 'All Time Domestic': '14,262', 'Yearly R Rated 1999': '187'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Oxygen for the Ears'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=oxygenfortheears.htm"},
+					"Runtime": {"S":"b'1 hrs. 34 min.'"},
+					"Distributor": {"S":"b'Indican'"},
+					"Genre": {"S":"b'Documentary'"},
+					"ReleaseDate": {"S":"b'July 2013'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '1499'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Oy Vey! My Son is Gay!'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=oyveymysonisgay.htm"},
+					"DomesticTotalGross": {"S":"b'$89,507'"},
+					"Runtime": {"S":"b'1 hrs. 31 min.'"},
+					"Distributor": {"S":"b'Saint Juste'"},
+					"Genre": {"S":"b'Comedy'"},
+					"ReleaseDate": {"S":"b'December 24, 2010'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Carmen Electra, Lainie Kazan, Saul Rubinek, Vincent Pastore'"},
+					"Domestic": {"S":"b'$89,507'"},
+					"WidestRelease": {"S":"b'5 theaters'"},
+					"OpeningWeekend": {"S":"b'$4,042'"},
+					"CloseDate": {"S":"b'March 3, 2011'"},
+					"InRelease": {"S":"b'70 days / 10 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Gay / Lesbian': '207'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '10,510'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Oye Lucky, Lucky Oye'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=oyeluckyluckyoye.htm"},
+					"DomesticTotalGross": {"S":"b'$80,037'"},
+					"Runtime": {"S":"b'2 hrs. 20 min.'"},
+					"Distributor": {"S":"b'UTV Communications'"},
+					"Genre": {"S":"b'Foreign'"},
+					"ReleaseDate": {"S":"b'November 26, 2008'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$80,037'"},
+					"Worldwide": {"S":"b'$1,976,868'"},
+					"Foreign": {"S":"b'$1,896,831'"},
+					"WidestRelease": {"S":"b'45 theaters'"},
+					"OpeningWeekend": {"S":"b'$42,399'"},
+					"CloseDate": {"S":"b'December 7, 2008'"},
+					"InRelease": {"S":"b'16 days / 2.3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1208'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Unrated Movies 2008': '84', 'Worldwide Yearly 2008': '286', 'Yearly (Limited) 2008': '206', 'Yearly Opening Weekends 2008': '282', 'Yearly 2008': '379', 'All Time Domestic': '10,658', 'Yearly Opening Weekends (Limited) 2008': '130'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Oz The Great and Powerful'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=oz.htm"},
+					"DomesticTotalGross": {"S":"b'$234,911,825'"},
+					"Runtime": {"S":"b'2 hrs. 7 min.'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"Genre": {"S":"b'Adventure'"},
+					"ReleaseDate": {"S":"b'March 8, 2013'"},
+					"ProductionBudget": {"S":"b'$215 million'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Producer": {"S":"b'Palak Patel, Joe Roth'"},
+					"Composer": {"S":"b'Danny Elfman'"},
+					"Actor": {"S":"b'Tony Cox, James Franco, Mila Kunis, Michelle Williams, Rachel Weisz, Zach Braff, Joey King'"},
+					"Writer": {"S":"b'Mitchell Kapner'"},
+					"Cinematographer": {"S":"b'Peter Deming'"},
+					"Director": {"S":"b'Sam Raimi'"},
+					"Domestic": {"S":"b'$234,911,825'"},
+					"Worldwide": {"S":"b'$493,311,825'"},
+					"Foreign": {"S":"b'$258,400,000'"},
+					"WidestRelease": {"S":"b'3,912 theaters'"},
+					"OpeningWeekend": {"S":"b'$79,110,453'"},
+					"CloseDate": {"S":"b'July 18, 2013'"},
+					"InRelease": {"S":"b'133 days / 19 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Fantasy - Live Action': '18', '3D': '42', 'Prequel': '11', 'IMAX (Feature-length)': '54'}"},
+					"Franchise": {"S":"{'Showdown: Fantastic Beasts v. Hobbit v. Oz': '2', 'Showdown: Jungle Book v Oz v Alice v Maleficent v Cinderella': '4'}"},
+					"Chart": {"S":"{'Theater Averages (Wide Releases) - All Time': '98', 'Second Weekends': '74', 'Top 3-Day Grosses': '75', 'Third Weekends': '88', 'Single Day Sunday Gross': '85', 'Rated PG, Opening Weekends': '15', 'Highest All Time Rank (on June 23, 2013)': '87', 'Top 6-Day Grosses': '89', 'Consecutive Weekends At #1': '229', 'Theater Averages - Wide Opening Weekends': '93', 'Rated G and PG': '47', 'Ninth Weekends': '192', 'All Time Domestic': '120', 'Single Day Friday Gross': '118', 'Fifth Weekends': '165', 'Single Day Saturday Gross Adjusted': '80', 'All Time Worldwide': '169', 'Slowest to $100 million': '541', 'Smallest Drops, All Wide Releases': '2,727', 'Widest Opening Releases': '118', 'Opening Weeks': '85', 'Opening Weekends - March': '6', 'Smallest Drops, 2,500+ theaters (Saturation)': '863', 'Opening Weekends - Spring': '10', 'Most Weekends at #1 (non-consecutive)': '233', 'Slowest to $200 million': '78', 'Rated PG, Opening Weekends Adjusted': '21', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '425', 'Third Weekends Adjusted': '186', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,239', 'Opening Weeks Adjusted': '130', 'Single Day Sunday Gross Adjusted': '122', 'Opening Weekends Adjusted - Spring': '12', 'Rated PG Adjusted': '98', 'Single Day Saturday Gross': '59', 'Opening Day Gross': '117', 'Opening Weekends Adjusted - March': '8', 'Widest PG Rated Releases': '47', 'Single Day Friday Gross Adjusted': '161', 'Rated G and PG, Opening Weekends Adjusted': '25', 'Worldwide Openings': '79', 'Rated PG': '40', 'Top 9-Day Grosses': '81', 'Widest PG Rated Openings': '45', 'Foreign Opening Weekends': '79', 'Top 8-Day Grosses': '87', 'Opening Weekends': '74', 'Widest Releases': '125', 'Fastest to $200 million': '95', 'Fastest to $100 million': '94', 'Top 4-Day Grosses': '85', 'Top 7-Day Grosses': '91', 'Second Weekends Adjusted': '105', 'Top 10-Day Grosses': '81', 'Single Day Gross': '156', 'Fourth Weekends': '154', 'Fastest to $150 million': '94', 'Opening Weekends Adjusted': '114', 'Rated G and PG Adjusted': '141', 'Rated G and PG, Opening Weekends': '17', 'Top 5-Day Grosses': '87'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'P.K.'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pk.htm"},
+					"DomesticTotalGross": {"S":"b'$10,616,104'"},
+					"Runtime": {"S":"b'2 hrs. 33 min.'"},
+					"Distributor": {"S":"b'UTV Communications'"},
+					"Genre": {"S":"b'Foreign'"},
+					"ReleaseDate": {"S":"b'December 19, 2014'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$10,616,104'"},
+					"Worldwide": {"S":"b'$100,370,104'"},
+					"Foreign": {"S":"b'$89,754,000'"},
+					"WidestRelease": {"S":"b'272 theaters'"},
+					"OpeningWeekend": {"S":"b'$3,565,258'"},
+					"CloseDate": {"S":"b'February 12, 2015'"},
+					"InRelease": {"S":"b'56 days / 8 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '26'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Top Ranking Limited Release Debuts': '117', 'All Time Domestic': '4,357', 'Opening Weekends (Limited Release)': '32'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'P.O.W. - The Escape'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=powtheescape.htm"},
+					"DomesticTotalGross": {"S":"b'$2,497,233'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"Distributor": {"S":"b'Cannon Films'"},
+					"Genre": {"S":"b'Unknown'"},
+					"ReleaseDate": {"S":"b'April 4, 1986'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$2,497,233'"},
+					"WidestRelease": {"S":"b'476 theaters'"},
+					"OpeningWeekend": {"S":"b'$1,100,691'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 1986': '64', 'Yearly Opening Weekends 1986': '115', 'Highest All Time Rank (on July 5, 1988)': '914', 'Yearly 1986': '136', 'All Time Domestic': '6,211', 'Yearly (Limited) 1986': '18', 'Yearly Opening Weekends (Limited) 1986': '10'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'P.S.'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=ps.htm"},
+					"DomesticTotalGross": {"S":"b'$180,503'"},
+					"Runtime": {"S":"b'1 hrs. 37 min.'"},
+					"Distributor": {"S":"b'Newmarket'"},
+					"Genre": {"S":"b'Fantasy Comedy'"},
+					"ReleaseDate": {"S":"b'October 15, 2004'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Composer": {"S":"b'Craig Wedren'"},
+					"Actor": {"S":"b'Laura Linney, Topher Grace, Gabriel Byrne, Marcia Gay Harden, Paul Rudd, Lois Smith'"},
+					"Domestic": {"S":"b'$180,503'"},
+					"Worldwide": {"S":"b'$180,503'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'17 theaters'"},
+					"OpeningWeekend": {"S":"b'$18,710'"},
+					"CloseDate": {"S":"b'December 2, 2004'"},
+					"InRelease": {"S":"b'49 days / 7 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - What If?': '40'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 2004': '110', 'Yearly Opening Weekends (Limited) 2004': '177', 'Yearly 2004': '319', 'Yearly Opening Weekends 2004': '315', 'All Time Domestic': '9,543', 'Worldwide Yearly 2004': '301', 'Yearly (Limited) 2004': '166'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'P.S. I Love You'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=psiloveyou.htm"},
+					"DomesticTotalGross": {"S":"b'$53,695,808'"},
+					"Runtime": {"S":"b'2 hrs. 6 min.'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Genre": {"S":"b'Romance'"},
+					"ReleaseDate": {"S":"b'December 21, 2007'"},
+					"ProductionBudget": {"S":"b'$30 million'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Richard LaGravenese, Steven Rogers'"},
+					"Producer": {"S":"b'Broderick Johnson, Andrew A. Kosove, Molly Smith'"},
+					"Composer": {"S":"b'John Powell'"},
+					"Actor": {"S":"b'Hilary Swank, Gerard Butler, Lisa Kudrow, Gina Gershon, Kathy Bates, James Marsters, Harry Connick Jr., Jeffrey Dean Morgan'"},
+					"Director": {"S":"b'Richard LaGravenese'"},
+					"Domestic": {"S":"b'$53,695,808'"},
+					"Worldwide": {"S":"b'$156,835,339'"},
+					"Foreign": {"S":"b'$103,139,531'"},
+					"WidestRelease": {"S":"b'2,471 theaters'"},
+					"OpeningWeekend": {"S":"b'$6,481,221'"},
+					"CloseDate": {"S":"b'March 13, 2008'"},
+					"InRelease": {"S":"b'84 days / 12 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Romantic Drama': '33'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Movies That Never Hit the Top 5': '21', 'Smallest Drops, All Wide Releases': '34', 'Movies That Never Hit the Top 5 Adjusted': '42', 'Yearly Opening Weekends 2007': '105', 'Opening Weeks': '1,819', 'Opening Weekends Adjusted': '3,140', 'Opening Weeks Adjusted': '2,185', 'Yearly Opening Weekends (Wide) 2007': '109', 'Yearly 2007': '47', BOM Users' Grades (2007 Releases): '81', 'Yearly (Wide) 2007': '46', 'Worldwide Yearly 2007': '35', 'Yearly PG-13 Rated 2007': '24', 'Smallest Drops, 2,000+ theaters (Very Wide)': '10', 'All Time Domestic': '1,451', 'Opening Weekends': '2,578'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'P.S. Your Cat is Dead'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=psyourcatisdead.htm"},
+					"DomesticTotalGross": {"S":"b'$28,454'"},
+					"Runtime": {"S":"b'1 hrs. 32 min.'"},
+					"Distributor": {"S":"b'TLA Releasing'"},
+					"Genre": {"S":"b'Unknown'"},
+					"ReleaseDate": {"S":"b'January 17, 2003'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$28,454'"},
+					"WidestRelease": {"S":"b'7 theaters'"},
+					"OpeningWeekend": {"S":"b'$9,424'"},
+					"CloseDate": {"S":"b'March 20, 2003'"},
+					"InRelease": {"S":"b'63 days / 9 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{New Year's: '18'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2003': '275', 'Yearly Opening Weekends 2003': '368', 'Yearly Unrated Movies 2003': '110', 'Highest All Time Rank (on January 30, 2003)': '5637', 'Yearly 2003': '421', 'All Time Domestic': '12,067', 'Yearly Opening Weekends (Limited) 2003': '239'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'P2'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=p2.htm"},
+					"DomesticTotalGross": {"S":"b'$3,995,018'"},
+					"Runtime": {"S":"b'1 hrs. 38 min.'"},
+					"Distributor": {"S":"b'Summit Entertainment'"},
+					"Genre": {"S":"b'Horror Thriller'"},
+					"ReleaseDate": {"S":"b'November 9, 2007'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Gregory Levasseur'"},
+					"Producer": {"S":"b'Gregory Levasseur'"},
+					"Actor": {"S":"b'Wes Bentley, Rachel Nichols'"},
+					"Composer": {"S":"b'tomandandy'"},
+					"Domestic": {"S":"b'$3,995,018'"},
+					"Worldwide": {"S":"b'$7,766,240'"},
+					"Foreign": {"S":"b'$3,771,222'"},
+					"WidestRelease": {"S":"b'2,131 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,083,398'"},
+					"CloseDate": {"S":"b'December 20, 2007'"},
+					"InRelease": {"S":"b'42 days / 6 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Thriller - Psycho / Stalker / Blank from Hell': '30'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Worst Openings - Very Wide Adjusted': '15', 'Biggest Theater Drops': '56', 'Smallest Drops, All Wide Releases': '3,852', 'Worst Opening Weekend Per-Theater Averages Adjusted': '91', 'Yearly Opening Weekends 2007': '151', 'Opening Weeks': '4,234', 'Opening Weekends Adjusted': '4,488', 'Yearly R Rated 2007': '81', 'Yearly Opening Weekends (Wide) 2007': '161', 'Worst Opening Weekend Per-Theater Averages': '111', 'Yearly 2007': '191', 'Widest Opening Independent Releases': '158', 'Opening Weeks Adjusted': '4,451', 'Yearly (Wide) 2007': '170', 'Worldwide Yearly 2007': '219', 'Widest Independent Releases': '168', BOM Users' Grades (2007 Releases): '155', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,954', 'All Time Domestic': '5,672', 'Opening Weekends': '4,250', 'Worst Openings - Very Wide': '10'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'PCU'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pcu.htm"},
+					"DomesticTotalGross": {"S":"b'$4,330,020'"},
+					"Runtime": {"S":"b'1 hrs. 19 min.'"},
+					"Distributor": {"S":"b'Fox'"},
+					"Genre": {"S":"b'Comedy'"},
+					"ReleaseDate": {"S":"b'April 29, 1994'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Zak Penn'"},
+					"Actor": {"S":"b'Jon Favreau, David Spade'"},
+					"Domestic": {"S":"b'$4,330,020'"},
+					"WidestRelease": {"S":"b'1,741 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,129,483'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - College': '40'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1994': '144', 'Smallest Drops, All Wide Releases': '3,581', BOM Users' Grades (1994 Releases): '64', 'Opening Weeks': '4,446', 'Opening Weekends': '4,237', 'Highest All Time Rank (on May 24, 1994)': '1941', 'Yearly Opening Weekends (Wide) 1994': '121', 'Yearly (Wide) 1994': '132', 'Opening Weeks Adjusted': '4,319', 'Yearly PG-13 Rated 1994': '43', 'All Time Domestic': '5,569', 'Yearly Opening Weekends 1994': '115', 'Opening Weekends Adjusted': '4,081'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'PIERROT LE FOU'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pierrotlefou07.htm"},
+					"DomesticTotalGross": {"S":"b'$52,640'"},
+					"Runtime": {"S":"b'1 hrs. 50 min.'"},
+					"Distributor": {"S":"b'Janus Films'"},
+					"Genre": {"S":"b'Foreign'"},
+					"ReleaseDate": {"S":"b'June 15, 2007'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Writer": {"S":"b', Composer'"},
+					"Cinematographer": {"S":"b'Raoul Coutard'"},
+					"Actor": {"S":"b'Anna Karina'"},
+					"Director": {"S":"b''"},
+					"Domestic": {"S":"b'$52,640'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"OpeningWeekend": {"S":"b'$7,254'"},
+					"CloseDate": {"S":"b'September 20, 2007'"},
+					"InRelease": {"S":"b'98 days / 14 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1340'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Unrated Movies 2007': '82', 'Yearly 2007': '417', 'Yearly Opening Weekends 2007': '451', 'Yearly Opening Weekends (Limited) 2007': '284', 'All Time Domestic': '11,230', 'Yearly (Limited) 2007': '231'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'PLAYMOBIL'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=playmobil.htm"},
+					"Runtime": {"S":"b'N/A'"},
+					"Distributor": {"S":"b'Open Road Films'"},
+					"Genre": {"S":"b'Animation'"},
+					"ReleaseDate": {"S":"b'January 18, 2019'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unknown'"},
+					"Director": {"S":"b'Lino DiSalvo'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Animation': 'n/a'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'POM Wonderful Presents: The Greatest Movie Ever Sold'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=greatestmovieeversold.htm"},
+					"DomesticTotalGross": {"S":"b'$638,476'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"Distributor": {"S":"b'Sony Classics'"},
+					"Genre": {"S":"b'Documentary'"},
+					"ReleaseDate": {"S":"b'April 22, 2011'"},
+					"ProductionBudget": {"S":"b'$1.8 million'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Morgan Spurlock'"},
+					"Producer": {"S":"b'Keith Calder, Morgan Spurlock'"},
+					"Actor": {"S":"b'Morgan Spurlock'"},
+					"Director": {"S":"b'Morgan Spurlock'"},
+					"Domestic": {"S":"b'$638,476'"},
+					"Worldwide": {"S":"b'$638,476'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'141 theaters'"},
+					"OpeningWeekend": {"S":"b'$118,294'"},
+					"CloseDate": {"S":"b'September 1, 2011'"},
+					"InRelease": {"S":"b'133 days / 19 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sundance 2011': '14', 'Documentary': '218'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '7,912'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'PTU'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=ptu.htm"},
+					"Runtime": {"S":"b'1 hrs. 27 min.'"},
+					"Distributor": {"S":"b'Palm'"},
+					"Genre": {"S":"b'Foreign'"},
+					"ReleaseDate": {"S":"b'N/A'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'n/a'"},
+					"Worldwide": {"S":"b'$849'"},
+					"Foreign": {"S":"b'$849'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '2053'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		}
+	]
+}

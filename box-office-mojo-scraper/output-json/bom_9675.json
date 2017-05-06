@@ -1,0 +1,661 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Ping Pong Playa'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pingpongplaya.htm"},
+					"DomesticTotalGross": {"S":"b'$77,907'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"Distributor": {"S":"b'IFC'"},
+					"Genre": {"S":"b'Sports Comedy'"},
+					"ReleaseDate": {"S":"b'September 5, 2008'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$77,907'"},
+					"WidestRelease": {"S":"b'14 theaters'"},
+					"OpeningWeekend": {"S":"b'$30,797'"},
+					"CloseDate": {"S":"b'October 9, 2008'"},
+					"InRelease": {"S":"b'35 days / 5 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sports Comedy': '74'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2008': '211', 'Yearly Opening Weekends 2008': '305', 'Yearly PG-13 Rated 2008': '117', 'Yearly 2008': '384', 'All Time Domestic': '10,691', 'Yearly Opening Weekends (Limited) 2008': '153'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Ping Pong Summer'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pingpongsummer.htm"},
+					"DomesticTotalGross": {"S":"b'$52,909'"},
+					"Runtime": {"S":"b'1 hrs. 32 min.'"},
+					"Distributor": {"S":"b'Gravitas Ventures'"},
+					"Genre": {"S":"b'Comedy'"},
+					"ReleaseDate": {"S":"b'June 6, 2014'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Actor": {"S":"b'Susan Sarandon'"},
+					"Domestic": {"S":"b'$52,909'"},
+					"WidestRelease": {"S":"b'17 theaters'"},
+					"OpeningWeekend": {"S":"b'$25,781'"},
+					"CloseDate": {"S":"b'June 26, 2014'"},
+					"InRelease": {"S":"b'21 days / 3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sundance 2014': '31'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '11,218'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Pinjar'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pinjar.htm"},
+					"Runtime": {"S":"b'N/A'"},
+					"Distributor": {"S":"b'Net Effect'"},
+					"Genre": {"S":"b'Unknown'"},
+					"DomesticTotalasofNov.23,2003": {"S":"b'$66,290'"},
+					"ReleaseDate": {"S":"b'October 24, 2003'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$66,290'"},
+					"Worldwide": {"S":"b'$66,290'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'22 theaters'"},
+					"OpeningWeekend": {"S":"b'$16,617'"},
+					"InRelease": {"S":"b'31 days / 4.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2003': '226', 'Yearly Opening Weekends 2003': '325', 'Yearly Unrated Movies 2003': '79', 'Yearly 2003': '372', 'All Time Domestic': '10,898', 'Highest All Time Rank (on November 23, 2003)': '5712', 'Worldwide Yearly 2003': '301', 'Yearly Opening Weekends (Limited) 2003': '196'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Pink Cadillac'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pinkcadillac.htm"},
+					"DomesticTotalGross": {"S":"b'$12,143,484'"},
+					"Runtime": {"S":"b'2 hrs. 2 min.'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Genre": {"S":"b'Unknown'"},
+					"ReleaseDate": {"S":"b'May 26, 1989'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'David Valdes'"},
+					"Actor": {"S":"b'Clint Eastwood'"},
+					"Domestic": {"S":"b'$12,143,484'"},
+					"WidestRelease": {"S":"b'1,993 theaters'"},
+					"OpeningWeekend": {"S":"b'$4,408,593'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1989': '74', BOM Users' Grades (1989 Releases): '67', 'Yearly Opening Weekends (Wide) 1989': '55', 'Memorial Day 4-Day Holiday Weekend Openers': '75', 'Yearly PG-13 Rated 1989': '19', 'Memorial Day 4-Day Holiday Weekends': '185', 'Yearly (Wide) 1989': '71', 'All Time Domestic': '4,151', 'Highest All Time Rank (on July 4, 1989)': '857', 'Yearly Opening Weekends 1989': '49'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Pink Floyd: The Wall'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pinkfloydthewall.htm"},
+					"DomesticTotalGross": {"S":"b'$22,244,207'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"Distributor": {"S":"b'MGM'"},
+					"Genre": {"S":"b'Music Drama'"},
+					"ReleaseDate": {"S":"b'August 13, 1982'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$22,244,207'"},
+					"WidestRelease": {"S":"b'673 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,712,095'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 1982': '42', 'Smallest Drops, All Wide Releases': '487', 'Yearly Opening Weekends (Wide) 1982': '45', 'Opening Weekends Adjusted': '3,183', 'Highest All Time Rank (on November 30, 1982)': '257', 'Yearly (Wide) 1982': '31', 'Yearly 1982': '33', BOM Users' Grades (1982 Releases): '17', 'Opening Weeks': '3,669', 'Opening Weeks Adjusted': '2,767', 'Yearly R Rated 1982': '18', 'All Time Domestic': '3,029', 'Opening Weekends': '3,976'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Pink Ribbons, Inc.'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pinkribbons.htm"},
+					"DomesticTotalGross": {"S":"b'$26,608'"},
+					"Runtime": {"S":"b'1 hrs. 38 min.'"},
+					"Distributor": {"S":"b'First Run'"},
+					"Genre": {"S":"b'Documentary'"},
+					"ReleaseDate": {"S":"b'June 1, 2012'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$26,608'"},
+					"WidestRelease": {"S":"b'4 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,721'"},
+					"CloseDate": {"S":"b'September 13, 2012'"},
+					"InRelease": {"S":"b'105 days / 15 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '955'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '12,163'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Pinocchio'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pinocchio02.htm"},
+					"DomesticTotalGross": {"S":"b'$3,675,719'"},
+					"Genre": {"S":"b'Family Adventure'"},
+					"Distributor": {"S":"b'Miramax'"},
+					"DomesticLifetimeGross": {"S":"b''"},
+					"ReleaseDate": {"S":"b'December 25, 2002'"},
+					"Runtime": {"S":"b'1 hrs. 48 min.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'G'"},
+					"Cinematographer": {"S":"b'Dante Spinotti'"},
+					"Actor": {"S":"b'Roberto Benigni, Glenn Close*, Breckin Meyer*, Topher Grace*, Kevin James*'"},
+					"Director": {"S":"b'Roberto Benigni'"},
+					"Domestic": {"S":"b'$3,684,305'"},
+					"Worldwide": {"S":"b'$41,323,171'"},
+					"Foreign": {"S":"b'$37,638,866'"},
+					"WidestRelease": {"S":"b'1,195 theaters'"},
+					"OpeningWeekend": {"S":"b'$1,151,463'"},
+					"CloseDate": {"S":"b'January 23, 2003'"},
+					"InRelease": {"S":"b'30 days / 4.3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Toys Come to Life': '13'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly G Rated 2002': '9', 'Widest G Rated Releases': '158', 'Yearly 2002': '185', 'Opening Weekends Adjusted': '4,647', BOM Users' Grades (2002 Releases): '172', 'Highest All Time Rank (on January 12, 2003)': '3422', 'Opening Weekends': '4,629', 'All Time Domestic': '5,773', 'Yearly Opening Weekends 2002': '146', 'Yearly (Wide) 2002': '153', 'Smallest Drops, All Wide Releases': '3,271', 'Rated G, Opening Weekends Adjusted': '177', 'Opening Weeks': '4,436', 'Yearly Opening Weekends (Wide) 2002': '153', 'Rated G, Opening Weekends': '172', 'Widest G Rated Openings': '151', 'Worst Openings - Wide Releases': '155', 'Worst Openings - Wide Releases Adjusted': '138', 'Worst Opening Weekend Per-Theater Averages': '108', 'Worldwide Yearly 2002': '96', 'Opening Weeks Adjusted': '4,499', 'Worst Opening Weekend Per-Theater Averages Adjusted': '117'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Pinocchio (Italian version)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pinocchio03.htm"},
+					"DomesticTotalGross": {"S":"b'$8,586'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Miramax'"},
+					"DomesticLifetimeGross": {"S":"b''"},
+					"ReleaseDate": {"S":"b'February 7, 2003'"},
+					"Runtime": {"S":"b'1 hrs. 48 min.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$3,684,305'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"OpeningWeekend": {"S":"b'$6,092'"},
+					"CloseDate": {"S":"b'February 13, 2003'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2003': '318', 'Yearly Opening Weekends 2003': '409', 'Yearly Unrated Movies 2003': '145', 'Yearly 2003': '464', 'Yearly Opening Weekends (Limited) 2003': '280', 'Highest All Time Rank (on February 13, 2003)': '5783'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Pinocchio (Re-issue) (1984)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pinocchio84.htm"},
+					"DomesticTotalGross": {"S":"b'$26,414,038'"},
+					"Genre": {"S":"b'Animation'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"DomesticLifetimeGross": {"S":"b''"},
+					"ReleaseDate": {"S":"b'December 21, 1984'"},
+					"Runtime": {"S":"b'1 hrs. 28 min.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'G'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$84,254,167'"},
+					"WidestRelease": {"S":"b'1,309 theaters'"},
+					"OpeningWeekend": {"S":"b'$3,769,251'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 1984': '49', 'Widest G Rated Releases': '148', 'Smallest Drops, All Wide Releases': '202', 'Yearly Opening Weekends (Wide) 1985': '49', 'Highest All Time Rank (on December 14, 1985)': '136', 'Yearly G Rated 1984': '1', 'Widest G Rated Openings': '148', 'Yearly (Wide) 1985': '33', 'Yearly 1984': '35'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Pinocchio (Re-issue) (1992)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pinocchio92.htm"},
+					"DomesticTotalGross": {"S":"b'$18,863,559'"},
+					"Genre": {"S":"b'Animation'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"DomesticLifetimeGross": {"S":"b''"},
+					"ReleaseDate": {"S":"b'June 26, 1992'"},
+					"Runtime": {"S":"b'1 hrs. 28 min.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'G'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$84,254,167'"},
+					"Worldwide": {"S":"b'$121,892,045'"},
+					"Foreign": {"S":"b'$37,637,878'"},
+					"WidestRelease": {"S":"b'1,936 theaters'"},
+					"OpeningWeekend": {"S":"b'$3,145,140'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Widest G Rated Releases': '93', 'Yearly Opening Weekends (Wide) 1992': '89', 'Smallest Drops, All Wide Releases': '251', 'Rated G, Opening Weekends Adjusted': '131', 'Worldwide Yearly 1992': '27', 'Widest G Rated Openings': '90', 'Opening Weekends Adjusted': '3,517', 'Opening Weekends': '3,786', 'Yearly (Wide) 1992': '65', 'Opening Weeks Adjusted': '3,045', 'Rated G, Opening Weekends': '139', 'Opening Weeks': '3,356', 'Yearly G Rated 1992': '4', 'Yearly Opening Weekends 1992': '85', 'Yearly 1992': '67', 'Highest All Time Rank (on August 4, 1992)': '834'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Pinocchio and the Emperor of the Night'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pinocchioandemperorofnight.htm"},
+					"DomesticTotalGross": {"S":"b'$3,261,638'"},
+					"Runtime": {"S":"b'0 hrs. 45 min.'"},
+					"Distributor": {"S":"b'New World'"},
+					"Genre": {"S":"b'Unknown'"},
+					"ReleaseDate": {"S":"b'December 25, 1987'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'G'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$3,261,638'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Animation - Fantasy': '53', 'Animation': '256'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly G Rated 1987': '6', 'Yearly 1987': '130', 'All Time Domestic': '5,913'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Pioneer'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pioneer.htm"},
+					"DomesticTotalGross": {"S":"b'$6,871'"},
+					"Runtime": {"S":"b'1 hrs. 50 min.'"},
+					"Distributor": {"S":"b'Magnolia'"},
+					"Genre": {"S":"b'Thriller'"},
+					"ReleaseDate": {"S":"b'December 5, 2014'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Wes Bentley, Stephen Lang'"},
+					"Domestic": {"S":"b'$6,871'"},
+					"Worldwide": {"S":"b'$6,871'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'3 theaters'"},
+					"OpeningWeekend": {"S":"b'$1,857'"},
+					"CloseDate": {"S":"b'January 8, 2015'"},
+					"InRelease": {"S":"b'35 days / 5 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '13,712'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Pipe Dream'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pipedream.htm"},
+					"DomesticTotalGross": {"S":"b'$15,430'"},
+					"Runtime": {"S":"b'1 hrs. 31 min.'"},
+					"Distributor": {"S":"b'Castle Hill'"},
+					"Genre": {"S":"b'Unknown'"},
+					"ReleaseDate": {"S":"b'October 4, 2002'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Martin Donovan'"},
+					"Domestic": {"S":"b'$15,430'"},
+					"WidestRelease": {"S":"b'3 theaters'"},
+					"OpeningWeekend": {"S":"b'$7,998'"},
+					"CloseDate": {"S":"b'October 24, 2002'"},
+					"InRelease": {"S":"b'21 days / 3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 2002': '354', 'Highest All Time Rank (on October 24, 2002)': '5568', 'Yearly 2002': '425', 'Yearly R Rated 2002': '168', 'Yearly Opening Weekends (Limited) 2002': '214', 'Yearly (Limited) 2002': '263', 'All Time Domestic': '12,847'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Pippi Longstocking'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pippilongstocking.htm"},
+					"DomesticTotalGross": {"S":"b'$505,335'"},
+					"Runtime": {"S":"b'1 hrs. 15 min.'"},
+					"Distributor": {"S":"b'Legacy'"},
+					"Genre": {"S":"b'Unknown'"},
+					"ReleaseDate": {"S":"b'August 22, 1997'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'G'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$505,335'"},
+					"WidestRelease": {"S":"b'73 theaters'"},
+					"OpeningWeekend": {"S":"b'$62,196'"},
+					"CloseDate": {"S":"b'October 30, 1997'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Animation': '309'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1997': '216', 'Yearly Opening Weekends 1997': '182', 'Yearly G Rated 1997': '6', 'Highest All Time Rank (on September 9, 1997)': '3495', 'Yearly (Limited) 1997': '53', 'All Time Domestic': '8,222', 'Yearly Opening Weekends (Limited) 1997': '44'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Piranha 2: The Spawning'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=piranha2.htm"},
+					"Runtime": {"S":"b'1 hrs. 24 min.'"},
+					"Distributor": {"S":"b'Unknown'"},
+					"Genre": {"S":"b'Horror'"},
+					"ReleaseDate": {"S":"b'November 5, 1982'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Lance Henriksen'"},
+					"Director": {"S":"b'James Cameron'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{BOM Users' Grades (1982 Releases): '47'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Piranha 3D'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=piranha3d.htm"},
+					"DomesticTotalGross": {"S":"b'$25,003,155'"},
+					"Runtime": {"S":"b'1 hrs. 29 min.'"},
+					"Distributor": {"S":"b'Weinstein / Dimension'"},
+					"Genre": {"S":"b'Horror'"},
+					"ReleaseDate": {"S":"b'August 20, 2010'"},
+					"ProductionBudget": {"S":"b'$24 million'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Mark Canton, Ryan Kavanaugh, Gregory Levasseur'"},
+					"Composer": {"S":"b'Michael Wandmacher'"},
+					"Actor": {"S":"b'Richard Dreyfuss, Elisabeth Shue, Adam Scott, Jerry OConnell, Ving Rhames, Christopher Lloyd, Eli Roth*'"},
+					"Director": {"S":"b'Alexandre Aja'"},
+					"Domestic": {"S":"b'$25,003,155'"},
+					"Worldwide": {"S":"b'$83,188,165'"},
+					"Foreign": {"S":"b'$58,185,010'"},
+					"WidestRelease": {"S":"b'2,491 theaters'"},
+					"OpeningWeekend": {"S":"b'$10,106,872'"},
+					"CloseDate": {"S":"b'November 18, 2010'"},
+					"InRelease": {"S":"b'91 days / 13 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Horror - Terror in the Water': '12', 'Creature Feature': '44', '3D': '218'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Smallest Drops, All Wide Releases': '3,701', 'Opening Weeks Adjusted': '2,462', 'Opening Weekends - August': '156', 'Widest Independent Releases': '116', 'Opening Weeks': '1,858', 'Opening Weekends Adjusted': '2,499', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,856', 'All Time Domestic': '2,847', 'Opening Weekends': '1,848', 'Widest Opening Independent Releases': '112'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Piranha 3DD'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=piranha3dd.htm"},
+					"DomesticTotalGross": {"S":"b'$376,512'"},
+					"Runtime": {"S":"b'1 hrs. 23 min.'"},
+					"Distributor": {"S":"b'Weinstein / Dimension'"},
+					"Genre": {"S":"b'Horror'"},
+					"ReleaseDate": {"S":"b'June 1, 2012'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Marcus Dunstan, Patrick Melton'"},
+					"Producer": {"S":"b'Mark Canton'"},
+					"Domestic": {"S":"b'$376,512'"},
+					"Worldwide": {"S":"b'$8,493,728'"},
+					"Foreign": {"S":"b'$8,117,216'"},
+					"WidestRelease": {"S":"b'86 theaters'"},
+					"OpeningWeekend": {"S":"b'$182,237'"},
+					"CloseDate": {"S":"b'June 21, 2012'"},
+					"InRelease": {"S":"b'21 days / 3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Horror - Terror in the Water': '20', 'Creature Feature': '74', '3D': '274'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '8,555'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Pirate Radio'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=boatthatrocked.htm"},
+					"DomesticTotalGross": {"S":"b'$8,017,917'"},
+					"Runtime": {"S":"b'1 hrs. 55 min.'"},
+					"Distributor": {"S":"b'Focus Features'"},
+					"Genre": {"S":"b'Comedy'"},
+					"ReleaseDate": {"S":"b'November 13, 2009'"},
+					"ProductionBudget": {"S":"b'$50 million'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Tim Bevan, Eric Fellner'"},
+					"Actor": {"S":"b'Philip Seymour Hoffman, Bill Nighy, Rhys Ifans, Kenneth Branagh, Emma Thompson, Jack Davenport, Gemma Arterton, Tom Sturridge, Nick Frost, January Jones*'"},
+					"Domestic": {"S":"b'$8,017,917'"},
+					"Worldwide": {"S":"b'$36,348,784'"},
+					"Foreign": {"S":"b'$28,330,867'"},
+					"WidestRelease": {"S":"b'883 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,904,380'"},
+					"CloseDate": {"S":"b'January 7, 2010'"},
+					"InRelease": {"S":"b'56 days / 8 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 2009': '52', 'Smallest Drops, All Wide Releases': '2,949', 'Worldwide Yearly 2009': '113', 'Yearly (Wide) 2009': '148', 'Opening Weeks': '3,935', 'Opening Weekends Adjusted': '4,358', 'Saturday Share of Opening Weekends': '85', 'Yearly Opening Weekends 2009': '133', 'Opening Weeks Adjusted': '4,346', 'Yearly 2009': '151', BOM Users' Grades (2009 Releases): '82', 'Yearly Opening Weekends (Wide) 2009': '146', 'All Time Domestic': '4,755', 'Opening Weekends': '3,884'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Pirates (1986)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pirates.htm"},
+					"DomesticTotalGross": {"S":"b'$1,641,825'"},
+					"Runtime": {"S":"b'2 hrs. 4 min.'"},
+					"Distributor": {"S":"b'Cannon Films'"},
+					"Genre": {"S":"b'Adventure Comedy'"},
+					"ReleaseDate": {"S":"b'July 18, 1986'"},
+					"ProductionBudget": {"S":"b'$40 million'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Roman Polanski'"},
+					"Director": {"S":"b'Roman Polanski'"},
+					"Domestic": {"S":"b'$1,641,825'"},
+					"WidestRelease": {"S":"b'1,108 theaters'"},
+					"OpeningWeekend": {"S":"b'$1,035,447'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"{'Pirate': '21'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on July 5, 1988)': '901', 'Opening Weeks': '4,589', 'Opening Weekends Adjusted': '4,529', 'Yearly (Wide) 1986': '117', 'Yearly Opening Weekends 1986': '117', 'Opening Weeks Adjusted': '4,448', 'Yearly PG-13 Rated 1986': '35', 'Yearly Opening Weekends (Wide) 1986': '115', 'Worst Openings - Wide Releases': '125', 'Yearly 1986': '154', 'Worst Opening Weekend Per-Theater Averages': '101', 'All Time Domestic': '6,733', 'Opening Weekends': '4,658'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bPirates of the Caribbean: At World's End"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=piratesofthecaribbean3.htm"},
+					"DomesticTotalGross": {"S":"b'$309,420,425'"},
+					"Runtime": {"S":"b'2 hrs. 48 min.'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"Genre": {"S":"b'Period Adventure'"},
+					"ReleaseDate": {"S":"b'May 25, 2007'"},
+					"ProductionBudget": {"S":"b'$300 million'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Jerry Bruckheimer'"},
+					"Composer": {"S":"b'Hans Zimmer'"},
+					"Actor": {"S":"b'Johnny Depp, Orlando Bloom, Keira Knightley, Geoffrey Rush, Jack Davenport, Bill Nighy, Jonathan Pryce, Stellan Skarsgard, Tom Hollander, Naomie Harris'"},
+					"Writer": {"S":"b'Ted Elliott, Terry Rossio'"},
+					"Cinematographer": {"S":"b'Dariusz Wolski'"},
+					"Director": {"S":"b'Gore Verbinski'"},
+					"Domestic": {"S":"b'$309,420,425'"},
+					"Worldwide": {"S":"b'$963,420,425'"},
+					"Foreign": {"S":"b'$654,000,000'"},
+					"WidestRelease": {"S":"b'4,362 theaters'"},
+					"OpeningWeekend": {"S":"b'$114,732,820'"},
+					"CloseDate": {"S":"b'October 4, 2007'"},
+					"InRelease": {"S":"b'133 days / 19 weeks'"},
+					"Awards": {"S":"Nominated for Two Oscars."},
+					"GenreRank": {"S":"{'Pirate': '2', 'Swashbuckler': '2', 'Adventure - Period': '4'}"},
+					"Franchise": {"S":"{Showdown: 'Spider-Man' Vs. 'Pirates': '3', 'Showdown: Indiana Jones Vs. Jack Sparrow': '2', 'Showdown: Sparrow Vs. Wonka Vs. Mad Hatter': '3', 'Series: Pirates of the Caribbean': '2', 'Showdown: Memorial Day Showdown': '2', Showdown: Summer '07 Crown: '4', Showdown: 'Pirates' Vs. 'Pirates': '2'}"},
+					"Chart": {"S":"{'Theater Averages (Wide Releases) - All Time': '43', BOM Users' Grades: '319', 'Second Weekends': '54', 'Top 3-Day Grosses': '35', 'Third Weekends': '92', 'Single Day Sunday Gross': '24', 'Smallest Drops, 2,000+ theaters (Very Wide)': '2,064', 'Rated PG-13, Opening Weekends': '26', 'Top 6-Day Grosses': '35', 'Consecutive Weekends At #1': '182', 'Theater Averages - Wide Opening Weekends': '42', 'Highest All Time Rank (on July 26, 2007)': '23', BOM Users' Grades (2007 Releases): '70', 'Rated PG-13, Opening Weekends Adjusted': '22', 'Yearly PG-13 Rated 2007': '3', 'Single Day Sunday Gross Adjusted': '17', 'All Time Domestic': '58', 'Single Day Friday Gross': '32', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '799', 'Single Day Saturday Gross Adjusted': '27', 'All Time Worldwide': '33', 'Slowest to $100 million': '609', 'Fastest to $300 million': '45', 'Smallest Drops, All Wide Releases': '4,009', 'Widest Opening Releases': '7', 'Third Weekends Adjusted': '139', 'Opening Weeks': '27', 'All Time Adjusted': '131', 'Fourth Weekends': '136', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,481', 'Most Weekends at #1 (non-consecutive)': '193', 'Slowest to $200 million': '142', 'Opening Weekends - Summer': '18', 'Single Day Monday Gross Adjusted': '7', 'Yearly Opening Weekends (Wide) 2007': '3', 'Single Day Thursday Gross': '41', 'Rated PG-13': '36', 'Memorial Day 4-Day Holiday Weekends': '1', 'Widest PG-13 Rated Releases': '6', 'Opening Weekends Adjusted - Summer': '15', 'Opening Weekends - May': '9', 'Single Day Saturday Gross': '38', 'Opening Day Gross': '36', 'Widest PG-13 Rated Openings': '6', 'Opening Weekends Adjusted - May': '10', 'Single Day Friday Gross Adjusted': '29', 'Non-Opening Tuesday Gross Adjusted': '119', 'Fastest to $250 million': '38', 'Worldwide Openings': '15', 'Yearly 2007': '4', 'Memorial Day 4-Day Holiday Weekend Openers': '1', 'Top 5-Day Grosses': '31', 'Foreign Opening Weekends': '10', 'Top 8-Day Grosses': '35', 'Single Day Thursday Gross Adjusted': '48', 'Opening Weekends': '32', 'Widest Releases': '9', 'Fastest to $200 million': '31', 'Fastest to $100 million': '26', 'Fastest to $150 million': '22', 'Biggest 2nd Weekend Drops': '410', 'Top 4-Day Grosses': '27', 'Yearly Opening Weekends 2007': '3', 'Yearly (Wide) 2007': '4', 'Top 7-Day Grosses': '35', 'Single Day Monday Gross': '7', 'Second Weekends Adjusted': '55', 'Opening Weeks Adjusted': '21', 'Single Day Gross': '68', 'Top 9-Day Grosses': '36', 'Opening Weekends Adjusted': '25', 'Theater Averages - Wide Opening Weekends Adjusted': '53', 'Worldwide Yearly 2007': '1', 'Theater Averages (Wide Releases) - All Time Adjusted': '57', 'Single Day Tuesday Gross Adjusted': '128', 'Top 10-Day Grosses': '36', 'Rated PG-13 Adjusted': '39'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bPirates of the Caribbean: Dead Man's Chest"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=piratesofthecaribbean2.htm"},
+					"DomesticTotalGross": {"S":"b'$423,315,812'"},
+					"Runtime": {"S":"b'2 hrs. 31 min.'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"Genre": {"S":"b'Period Adventure'"},
+					"ReleaseDate": {"S":"b'July 7, 2006'"},
+					"ProductionBudget": {"S":"b'$225 million'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Jerry Bruckheimer'"},
+					"Composer": {"S":"b'Hans Zimmer'"},
+					"Actor": {"S":"b'Johnny Depp, Orlando Bloom, Keira Knightley, Jack Davenport, Bill Nighy, Jonathan Pryce, Stellan Skarsgard, Tom Hollander, Naomie Harris, Geoffrey Rush*'"},
+					"Writer": {"S":"b'Stuart Beattie, Ted Elliott, Terry Rossio'"},
+					"Cinematographer": {"S":"b'Dariusz Wolski'"},
+					"Director": {"S":"b'Gore Verbinski'"},
+					"Domestic": {"S":"b'$423,315,812'"},
+					"Worldwide": {"S":"b'$1,066,179,725'"},
+					"Foreign": {"S":"b'$642,863,913'"},
+					"WidestRelease": {"S":"b'4,133 theaters'"},
+					"OpeningWeekend": {"S":"b'$135,634,554'"},
+					"CloseDate": {"S":"b'December 7, 2006'"},
+					"InRelease": {"S":"b'154 days / 22 weeks'"},
+					"Awards": {"S":"Nominated for Four Oscars, Including One Win."},
+					"GenreRank": {"S":"{'Pirate': '1', 'Swashbuckler': '1', 'Treasure Hunt': '1', 'Adventure - Period': '1'}"},
+					"Franchise": {"S":"{'Showdown: Summer Spectacular': '2', Showdown: 'Spider-Man' Vs. 'Pirates': '1', 'Showdown: Sparrow Vs. Wonka Vs. Mad Hatter': '1', 'Series: Pirates of the Caribbean': '1', Showdown: 'Pirates' Vs. 'Pirates': '1', 'Showdown: All Time Openers': '5'}"},
+					"Chart": {"S":"{'Second Weekends': '16', 'Top 3-Day Grosses': '20', 'Third Weekends': '16', 'Single Day Sunday Gross': '18', 'Opening Weekends - July': '4', 'Fastest to $350 million': '13', 'Consecutive Weekends At #1': '64', 'Eighth Weekends': '106', 'Rated PG-13, Opening Weekends Adjusted': '9', 'Yearly Opening Weekends 2006': '1', 'Yearly (Wide) 2006': '1', 'All Time Domestic': '16', 'Top 8-Day Grosses': '15', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '608', 'Non-Opening Thursday Gross Adjusted': '44', 'All Time Worldwide': '19', 'Non-Opening Wednesday Gross Adjusted': '11', 'Worldwide Yearly 2006': '1', 'Eighth Weekends Adjusted': '179', 'All Time Adjusted': '48', 'Fourth Weekends': '25', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,181', 'Slowest to $200 million': '157', 'Non-Opening Thursday Gross': '37', 'Single Day Thursday Gross': '49', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,654', 'Highest All Time Rank (on August 27, 2006)': '6', 'Widest PG-13 Rated Releases': '34', 'Single Day Saturday Gross': '21', 'Opening Day Gross': '25', 'Widest PG-13 Rated Openings': '33', 'Worldwide Openings': '62', 'Fastest to $150 million': '20', 'Single Day Thursday Gross Adjusted': '52', 'Foreign Opening Weekends': '118', 'Opening Weekends Adjusted - July': '3', 'Fastest to $400 million': '13', 'Widest Releases': '50', 'Fastest to $100 million': '22', 'Rated PG-13': '11', 'Top 4-Day Grosses': '20', 'Theater Averages - Wide Opening Weekends': '22', 'Opening Weeks Adjusted': '5', 'Sixth Weekends': '93', 'Single Day Tuesday Gross Adjusted': '11', 'Top 10-Day Grosses': '15', 'Theater Averages (Wide Releases) - All Time': '23', BOM Users' Grades: '187', 'Sixth Weekends Adjusted': '157', 'Opening Weekends Adjusted': '9', BOM Users' Grades (2006 Releases): '32', 'Rated PG-13, Opening Weekends': '19', 'Top 6-Day Grosses': '17', 'Rated PG-13 Adjusted': '11', 'Non-Opening Friday Gross': '51', 'Single Day Tuesday Gross': '19', 'Non-Opening Wednesday Gross': '18', 'Fourth Weekends Adjusted': '32', 'Ninth Weekends': '67', 'Seventh Weekends': '111', 'Single Day Sunday Gross Adjusted': '11', 'Fifth Weekends': '59', 'Seventh Weekends Adjusted': '195', 'Opening Weekends Adjusted - Summer': '8', 'Slowest to $100 million': '613', 'Fastest to $300 million': '15', 'Smallest Drops, All Wide Releases': '3,405', 'Widest Opening Releases': '43', 'Eleventh Weekends': '159', 'Most Weekends at #1 (non-consecutive)': '81', 'Yearly 2006': '1', 'Opening Weekends - Summer': '10', 'Yearly PG-13 Rated 2006': '1', 'Single Day Monday Gross Adjusted': '15', 'Third Weekends Adjusted': '15', 'Theater Averages (Wide Releases) - All Time Adjusted': '12', 'Single Day Wednesday Gross': '41', 'Twelfth Weekends': '179', 'Ninth Weekends Adjusted': '122', 'Single Day Wednesday Gross Adjusted': '37', 'Single Day Friday Gross Adjusted': '14', 'Non-Opening Tuesday Gross Adjusted': '8', 'Fastest to $250 million': '15', 'Non-Opening Tuesday Gross': '16', 'Tenth Weekends Adjusted': '198', 'Top 9-Day Grosses': '15', 'Non-Opening Friday Gross Adjusted': '45', 'Single Day Friday Gross': '22', 'Opening Weekends': '20', 'Fastest to $200 million': '16', 'Yearly Opening Weekends (Wide) 2006': '1', 'Top 7-Day Grosses': '15', 'Single Day Monday Gross': '20', 'Friday to Saturday Drops on Opening Weekends': '139', 'Second Weekends Adjusted': '11', 'Single Day Gross': '36', 'Fifth Weekends Adjusted': '103', 'Theater Averages - Wide Opening Weekends Adjusted': '11', 'Opening Weeks': '14', 'Tenth Weekends': '133', 'Non-Holiday Monday Gross': '11', 'Single Day Saturday Gross Adjusted': '11', 'Top 5-Day Grosses': '19'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Pirates of the Caribbean: Dead Men Tell No Tales'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=potc5.htm"},
+					"Runtime": {"S":"b'N/A'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"Genre": {"S":"b'Period Adventure'"},
+					"ReleaseDate": {"S":"b'May 26, 2017'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Writer": {"S":"b'Jeff Nathanson'"},
+					"Producer": {"S":"b'Jerry Bruckheimer'"},
+					"Actor": {"S":"b'Johnny Depp, Javier Bardem, Kaya Scodelario, Brenton Thwaites, Geoffrey Rush'"},
+					"Director": {"S":"b'Joachim Ronning, Espen Sandberg'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Adventure - Period': 'n/a', 'Swashbuckler': 'n/a', 'Pirate': 'n/a', '3D': 'n/a', 'IMAX (Feature-length)': 'n/a'}"},
+					"Franchise": {"S":"{'Series: Pirates of the Caribbean': 'n/a'}"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Pirates of the Caribbean: On Stranger Tides'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=piratesofthecaribbean4.htm"},
+					"DomesticTotalGross": {"S":"b'$241,071,802'"},
+					"Runtime": {"S":"b'2 hrs. 17 min.'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"Genre": {"S":"b'Period Adventure'"},
+					"ReleaseDate": {"S":"b'May 20, 2011'"},
+					"ProductionBudget": {"S":"b'$250 million'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Jerry Bruckheimer, John DeLuca, Ted Elliott, Terry Rossio'"},
+					"Composer": {"S":"b'Hans Zimmer'"},
+					"Actor": {"S":"b'Johnny Depp, Penelope Cruz, Ian McShane, Kevin McNally, Sam Claflin, Geoffrey Rush'"},
+					"Writer": {"S":"b'Ted Elliott, Terry Rossio'"},
+					"Cinematographer": {"S":"b'Dariusz Wolski'"},
+					"Director": {"S":"b'Rob Marshall'"},
+					"Domestic": {"S":"b'$241,071,802'"},
+					"Worldwide": {"S":"b'$1,045,713,802'"},
+					"Foreign": {"S":"b'$804,642,000'"},
+					"WidestRelease": {"S":"b'4,164 theaters'"},
+					"OpeningWeekend": {"S":"b'$90,151,958'"},
+					"CloseDate": {"S":"b'September 29, 2011'"},
+					"InRelease": {"S":"b'133 days / 19 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Pirate': '4', 'Swashbuckler': '4', 'Adventure - Period': '7', 'IMAX (Feature-length)': '52', '3D': '39', 'Treasure Hunt': '5'}"},
+					"Franchise": {"S":"{Showdown: 'Pirates' Vs. 'Pirates': '4', 'Series: Pirates of the Caribbean': '4'}"},
+					"Chart": {"S":"{'Theater Averages (Wide Releases) - All Time': '83', BOM Users' Grades: '304', 'Second Weekends': '79', 'Top 3-Day Grosses': '59', 'Third Weekends': '154', 'Single Day Sunday Gross': '72', 'Opening Weekends Adjusted - May': '27', 'Rated PG-13, Opening Weekends': '42', 'Widest Releases': '35', 'Fastest to $100 million': '70', 'Theater Averages - Wide Opening Weekends': '78', 'Rated PG-13, Opening Weekends Adjusted': '56', 'Single Day Sunday Gross Adjusted': '106', 'All Time Domestic': '116', 'Single Day Friday Gross': '51', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '644', 'Single Day Saturday Gross Adjusted': '89', 'All Time Worldwide': '21', 'Slowest to $100 million': '565', 'Smallest Drops, All Wide Releases': '3,551', 'Widest Opening Releases': '36', 'Opening Weeks': '64', 'Fourth Weekends': '189', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,246', 'Highest All Time Rank (on July 7, 2011)': '73', 'Slowest to $200 million': '90', 'Opening Weekends - Summer': '37', 'Single Day Monday Gross Adjusted': '146', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,748', 'Memorial Day 4-Day Holiday Weekends': '29', 'Widest PG-13 Rated Releases': '25', 'Opening Weekends Adjusted - Summer': '51', 'Opening Weekends - May': '20', 'Single Day Saturday Gross': '67', 'Opening Day Gross': '59', 'Widest PG-13 Rated Openings': '26', 'Single Day Friday Gross Adjusted': '65', 'Worldwide Openings': '14', 'Top 9-Day Grosses': '73', 'Top 6-Day Grosses': '74', 'Foreign Opening Weekends': '4', 'Top 8-Day Grosses': '75', 'Opening Weekends': '56', 'Opening Weekends Adjusted': '76', 'Fastest to $200 million': '83', 'Rated PG-13 Adjusted': '111', 'Rated PG-13': '66', 'Top 4-Day Grosses': '64', 'Top 7-Day Grosses': '73', 'Single Day Monday Gross': '102', 'Second Weekends Adjusted': '130', 'Opening Weeks Adjusted': '100', 'Single Day Gross': '129', 'Fastest to $150 million': '71', 'Theater Averages - Wide Opening Weekends Adjusted': '168', 'Non-Holiday Monday Gross': '91', 'Top 10-Day Grosses': '71', 'Top 5-Day Grosses': '71'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Pirates of the Caribbean: The Curse of the Black Pearl'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=piratesofthecaribbean.htm"},
+					"DomesticTotalGross": {"S":"b'$305,413,918'"},
+					"Runtime": {"S":"b'2 hrs. 15 min.'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"Genre": {"S":"b'Period Adventure'"},
+					"ReleaseDate": {"S":"b'July 9, 2003'"},
+					"ProductionBudget": {"S":"b'$140 million'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Jerry Bruckheimer'"},
+					"Composer": {"S":"b'Klaus Badelt, Ramin Djawadi*'"},
+					"Actor": {"S":"b'Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley, Jack Davenport, Jonathan Pryce, Zoe Saldana*'"},
+					"Writer": {"S":"b'Ted Elliott, Terry Rossio'"},
+					"Cinematographer": {"S":"b'Dariusz Wolski'"},
+					"Director": {"S":"b'Gore Verbinski'"},
+					"Domestic": {"S":"b'$305,413,918'"},
+					"Worldwide": {"S":"b'$654,264,015'"},
+					"Foreign": {"S":"b'$348,850,097'"},
+					"WidestRelease": {"S":"b'3,416 theaters'"},
+					"OpeningWeekend": {"S":"b'$46,630,690'"},
+					"CloseDate": {"S":"b'January 8, 2004'"},
+					"InRelease": {"S":"b'184 days / 26.3 weeks'"},
+					"Awards": {"S":"Nominated for Five Oscars."},
+					"GenreRank": {"S":"{'Pirate': '3', 'Swashbuckler': '3', 'Treasure Hunt': '3', 'Adventure - Period': '5'}"},
+					"Franchise": {"S":"{'Showdown: Summer 2003 Championship': '2', Showdown: 'Pirates' Vs. 'Pirates': '3', 'Showdown: Sparrow Vs. Wonka Vs. Mad Hatter': '4', 'Series: Pirates of the Caribbean': '3', 'Showdown: Summer Spectacular': '6'}"},
+					"Chart": {"S":"{'Third Weekends': '70', BOM Users' Grades: '49', 'Second Weekends': '114', 'Non-Opening Thursday Gross Adjusted': '51', 'Fourth Weekends': '37', 'Third Weekends Adjusted': '63', 'Opening Weekends - July': '39', 'Highest All Time Rank (on September 26, 2003)': '16', 'Rated PG-13, Opening Weekends': '144', 'Widest Releases': '428', 'Fastest to $100 million': '163', 'Eighth Weekends': '13', 'Fourth Weekends Adjusted': '34', 'Opening Weekends Adjusted - July': '36', 'Eleventh Weekends Adjusted': '51', 'Opening Wednesdays': '27', 'Ninth Weekends': '30', 'Seventh Weekends': '42', 'All Time Domestic': '61', 'Single Day Saturday Gross Adjusted': '222', 'Consecutive Weekends In Top 10': '95', 'Slowest to $100 million': '472', 'Fastest to $300 million': '57', 'Smallest Drops, All Wide Releases': '891', 'Widest Opening Releases': '512', 'Yearly 2003': '3', 'Single Day Gross': '785', 'Eighth Weekends Adjusted': '30', 'Eleventh Weekends': '33', 'All Time Adjusted': '101', 'Twelfth Weekends Adjusted': '75', 'Worldwide Yearly 2003': '4', 'Smallest Drops, 2,500+ theaters (Saturation)': '146', 'Seventh Weekends Adjusted': '69', 'Slowest to $200 million': '80', 'Opening Weekends - Summer': '143', 'Fifth Weekends': '30', 'Single Day Monday Gross Adjusted': '156', 'Opening Weeks Adjusted': '144', 'Top 5-Day Grosses for movies opening on a Wednesday': '28', 'Single Day Thursday Gross': '78', 'Rated PG-13': '38', 'Labor Day 4-Day Holiday Weekends': '53', 'Most Weekends in Top 5 (non-consecutive)': '78', 'Single Day Wednesday Gross': '48', 'Twelfth Weekends': '51', 'Ninth Weekends Adjusted': '52', 'All Time Worldwide': '101', 'Non-Opening Tuesday Gross Adjusted': '105', 'Single Day Saturday Gross': '306', 'Single Day Wednesday Gross Adjusted': '33', 'Tenth Weekends Adjusted': '44', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '65', 'Yearly PG-13 Rated 2003': '2', 'Fastest to $250 million': '76', 'Consecutive Weekends In Top 5': '103', 'Fastest to $150 million': '121', 'Top 5-Day Grosses': '164', 'Non-Opening Wednesday Gross Adjusted': '79', 'Single Day Thursday Gross Adjusted': '63', 'Opening Weekends': '229', 'Non-Opening Thursday Gross': '60', 'Fastest to $200 million': '93', 'Rated PG-13 Adjusted': '29', 'Smallest Drops, 2,000+ theaters (Very Wide)': '237', 'Yearly Opening Weekends (Wide) 2003': '10', 'Sixth Weekends Adjusted': '72', 'Top 7-Day Grosses': '141', 'Opening Weekends Adjusted - Summer': '121', 'Second Weekends Adjusted': '79', 'Non-Friday Opening Weekends Adjusted': '36', 'Non-Friday Opening Weekends': '40', BOM Users' Grades (2003 Releases): '5', 'Yearly Opening Weekends 2003': '10', 'Most Weekends in Top 10 (non-consecutive)': '117', 'Sixth Weekends': '45', 'Opening Weekends Adjusted': '191', 'Fifth Weekends Adjusted': '51', 'Opening Weeks': '178', 'Tenth Weekends': '27', 'Single Day Tuesday Gross Adjusted': '114', 'Yearly (Wide) 2003': '3', 'Rated PG-13, Opening Weekends Adjusted': '126'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Pitbull. Niebezpieczne kobiety'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pitbull.htm"},
+					"Runtime": {"S":"b'2 hrs. 15 min.'"},
+					"Distributor": {"S":"b'Unknown'"},
+					"Genre": {"S":"b'Action'"},
+					"ReleaseDate": {"S":"b'TBD'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': 'n/a'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,659 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Cheyenne Autumn'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=cheyenneautumn.htm"},
+					"Genre": {"S":"b'Western'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'October 3, 1964'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Runtime": {"S":"b'2 hrs. 36 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Cinematographer": {"S":"b'William Clothier'"},
+					"Composer": {"S":"b'Alex North'"},
+					"Producer": {"S":"b'Bernard Smith'"},
+					"Writer": {"S":"b'James R. Webb'"},
+					"Actor": {"S":"b'Richard Widmark, Carroll Baker, James Stewart, Edward G. Robinson, Karl Malden, Sal Mineo'"},
+					"Director": {"S":"b'John Ford'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Chi-Raq'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=chiraq.htm"},
+					"Genre": {"S":"b'Comedy / Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'December 4, 2015'"},
+					"Distributor": {"S":"b'Roadside Attractions'"},
+					"DomesticTotalGross": {"S":"b'$2,653,032'"},
+					"Runtime": {"S":"b'1 hrs. 58 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Angela Bassett, Nick Cannon, John Cusack, Jennifer Hudson, Samuel L. Jackson, Teyonah Parris, Wesley Snipes, D.B. Sweeney'"},
+					"Producer": {"S":"b'Spike Lee'"},
+					"Director": {"S":"b'Spike Lee'"},
+					"Foreign": {"S":"b'n/a'"},
+					"Domestic": {"S":"b'$2,653,032'"},
+					"Worldwide": {"S":"b'$2,653,032'"},
+					"OpeningWeekend": {"S":"b'$1,198,453'"},
+					"CloseDate": {"S":"b'January 28, 2016'"},
+					"WidestRelease": {"S":"b'305 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"{'Brand: Amazon Studios': '5'}"},
+					"Chart": {"S":"{'All Time Domestic': '6,146'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Chic!'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=chic.htm"},
+					"Genre": {"S":"b'Comedy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'May 1, 2015'"},
+					"Distributor": {"S":"b'Distrib Films'"},
+					"DomesticTotalGross": {"S":"b'$5,587'"},
+					"Runtime": {"S":"b'1 hrs. 43 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Foreign": {"S":"b'n/a'"},
+					"Domestic": {"S":"b'$5,587'"},
+					"Worldwide": {"S":"b'$5,587'"},
+					"OpeningWeekend": {"S":"b'$587'"},
+					"CloseDate": {"S":"b'May 7, 2015'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '13,877'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Chicago'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=chicago.htm"},
+					"Genre": {"S":"b'Musical'"},
+					"ProductionBudget": {"S":"b'$45 million'"},
+					"ReleaseDate": {"S":"b'December 27, 2002'"},
+					"Distributor": {"S":"b'Miramax'"},
+					"DomesticTotalGross": {"S":"b'$170,687,518'"},
+					"Runtime": {"S":"b'1 hrs. 47 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Cinematographer": {"S":"b'Dion Beebe'"},
+					"Composer": {"S":"b'Danny Elfman'"},
+					"Producer": {"S":"b'Don Carmody, Neil Meron, Craig Zadan'"},
+					"Writer": {"S":"b'Bill Condon'"},
+					"Actor": {"S":"b'Renee Zellweger, Richard Gere, Queen Latifah, John C. Reilly, Lucy Liu*'"},
+					"Director": {"S":"b'Rob Marshall'"},
+					"Foreign": {"S":"b'$136,089,214'"},
+					"Domestic": {"S":"b'$170,687,518'"},
+					"Worldwide": {"S":"b'$306,776,732'"},
+					"WideOpeningWeekend": {"S":"b'$8,238,709'"},
+					"InRelease": {"S":"b'252 days / 36 weeks'"},
+					"WidestRelease": {"S":"b'2,701 theaters'"},
+					"CloseDate": {"S":"b'September 4, 2003'"},
+					"LimitedOpeningWeekend": {"S":"b'<b> $2,074,929</b>'"},
+					"Awards": {"S":"Nominated for Thirteen Oscars, Including Six Wins."},
+					"GenreRank": {"S":"{'Musical': '3'}"},
+					"Franchise": {"S":"{'Showdown: End-of-Year Musicals': '1', 'Showdown: La La Land v. Chicago v. Les Mis': '1'}"},
+					"Chart": {"S":"{'Worldwide Yearly 2002': '12', 'Yearly (Wide) 2003': '8', 'Opening Weeks Adjusted': '2,378', 'Eleventh Weekends Adjusted': '28', 'Most Weekends in Top 5 (non-consecutive)': '59', 'Eighth Weekends': '22', 'Martin Lurther King 4-Day Holiday Weekends': '118', 'Twelfth Weekends': '30', 'All Time Domestic': '250', 'Fifth Weekends Adjusted': '183', 'Opening Weekends - January': '154', 'Rated PG-13 Adjusted': '126', BOM Users' Grades (2002 Releases): '37', 'Yearly PG-13 Rated 2002': '6', 'Eighth Weekends Adjusted': '41', 'Fourth Weekends Adjusted': '136', 'Yearly Opening Weekends (Wide) 2003': '101', BOM Users' Grades: '353', 'Super Bowl Opening Weekends': '25', 'Ninth Weekends Adjusted': '36', 'Highest All Time Rank (on May 11, 2003)': '81', 'Movies That Never Hit #1': '14', 'Smallest Drops, All Wide Releases': '437', 'Fourth Weekends': '121', 'Sixth Weekends': '72', 'Yearly 2002': '10', 'Opening Weekends Adjusted - January': '155', 'Seventh Weekends Adjusted': '80', 'Twelfth Weekends Adjusted': '45', 'Seventh Weekends': '53', 'Most Weekends in Top 10 (non-consecutive)': '46', 'Opening Weekends': '2,190', 'Opening Weekends (Limited Release)': '124', 'Best Picture Nomination Effect': '41', 'Sixth Weekends Adjusted': '105', 'All Time Worldwide': '386', 'Ninth Weekends': '21', 'Saturday Share of Opening Weekends': '22', 'Movies That Never #1 Adjusted': '16', 'Consecutive Weekends In Top 10': '38', 'Rated PG-13': '136', 'Slowest to $100 million': '78', 'Yearly Opening Weekends (Limited) 2002': '2', 'Yearly Opening Weekends 2002': '140', 'Consecutive Weekends In Top 5': '81', President's Day 4-Day Holiday Weekends: '79', 'Tenth Weekends': '10', 'Fifth Weekends': '149', 'Opening Weeks': '2,186', 'Eleventh Weekends': '16', 'Opening Weekends Adjusted': '2,414', 'Tenth Weekends Adjusted': '20'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Chicago 10'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=chicago10.htm"},
+					"Genre": {"S":"b'Documentary'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'February 29, 2008'"},
+					"Distributor": {"S":"b'Roadside Attractions'"},
+					"DomesticTotalGross": {"S":"b'$177,490'"},
+					"Runtime": {"S":"b'1 hrs. 43 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Hank Azaria* , Nick Nolte* , Mark Ruffalo*, Liev Schreiber*'"},
+					"Producer": {"S":"b'Peter Schlessel, Jeff Skoll'"},
+					"Domestic": {"S":"b'$177,490'"},
+					"InRelease": {"S":"b'147 days / 21 weeks'"},
+					"OpeningWeekend": {"S":"b'$42,724'"},
+					"CloseDate": {"S":"b'July 24, 2008'"},
+					"WidestRelease": {"S":"b'14 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary - Political': '53', 'Documentary': '442'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 2008': '112', 'Yearly 2008': '317', 'Yearly (Limited) 2008': '145', 'Yearly Opening Weekends 2008': '280', 'Yearly Opening Weekends (Limited) 2008': '128', 'All Time Domestic': '9,564'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Chicago Cab'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=chicagocab.htm"},
+					"Genre": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'September 11, 1998'"},
+					"Distributor": {"S":"b'Castle Hill'"},
+					"DomesticTotalGross": {"S":"b'$23,946'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Gillian Anderson*, John Cusack*, Julianne Moore*'"},
+					"Producer": {"S":"b'John Cusack'"},
+					"Domestic": {"S":"b'$23,946'"},
+					"OpeningWeekend": {"S":"b'$2,947'"},
+					"CloseDate": {"S":"b'October 8, 1998'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Taxi / Taxi Driver': '12'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 1998': '163', 'Yearly 1998': '306', 'All Time Domestic': '12,291', 'Yearly (Limited) 1998': '146', 'Yearly Opening Weekends (Limited) 1998': '167', 'Highest All Time Rank (on October 6, 1998)': '4158', 'Yearly Opening Weekends 1998': '295'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Chicago Joe and the Showgirl'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=chicagojoeandtheshowgirl.htm"},
+					"Genre": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'July 27, 1990'"},
+					"Distributor": {"S":"b'New Line'"},
+					"DomesticTotalGross": {"S":"b'$85,395'"},
+					"Runtime": {"S":"b'1 hrs. 45 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Composer": {"S":"b'Hans Zimmer'"},
+					"Actor": {"S":"b'Kiefer Sutherland'"},
+					"Producer": {"S":"b'Tim Bevan'"},
+					"Domestic": {"S":"b'$85,395'"},
+					"OpeningWeekend": {"S":"b'$14,979'"},
+					"CloseDate": {"S":"b'August 23, 1990'"},
+					"WidestRelease": {"S":"b'18 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 1990': '196', 'All Time Domestic': '10,573', 'Yearly R Rated 1990': '116', 'Yearly Opening Weekends (Limited) 1990': '90', 'Yearly 1990': '214', 'Yearly (Limited) 1990': '77', 'Highest All Time Rank (on August 21, 1990)': '2161'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Chicken Little'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=chickenlittle.htm"},
+					"Genre": {"S":"b'Animation'"},
+					"ProductionBudget": {"S":"b'$150 million'"},
+					"ReleaseDate": {"S":"b'November 4, 2005'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"DomesticTotalGross": {"S":"b'$135,386,665'"},
+					"Runtime": {"S":"b'1 hrs. 21 min.'"},
+					"MPAARating": {"S":"b'G'"},
+					"Composer": {"S":"b'John Debney'"},
+					"Writer": {"S":"b'Ron Bencich, Ron J. Friedman'"},
+					"Actor": {"S":"b'Zach Braff*, Garry Marshall*, Patrick Stewart*'"},
+					"Foreign": {"S":"b'$179,046,172'"},
+					"Domestic": {"S":"b'$135,386,665'"},
+					"Worldwide": {"S":"b'$314,432,837'"},
+					"InRelease": {"S":"b'161 days / 23 weeks'"},
+					"OpeningWeekend": {"S":"b'$40,049,778'"},
+					"CloseDate": {"S":"b'April 13, 2006'"},
+					"WidestRelease": {"S":"b'3,658 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': '92', 'Animation - Computer': '63', 'Sci-Fi - Alien Invasion': '15', 'Animation - Sci-Fi': '6', 'Animation': '72'}"},
+					"Franchise": {"S":"{'Showdown: Computer Animation: Battle of the Average': '3', 'Showdown: November Disney Animation': '5', 'Showdown: Disney November Tussle': '2', 'Showdown: Animated Heroes &amp; Villains': '6'}"},
+					"Chart": {"S":"{'Smallest Drops, 3,000+ theaters (Super-Saturation)': '48', 'Consecutive Weekends At #1': '267', 'Top 3-Day Grosses': '288', 'Yearly Opening Weekends (Wide) 2005': '13', 'Yearly Opening Weekends 2005': '13', 'Opening Weeks Adjusted': '378', 'Smallest Drops, 2,500+ theaters (Saturation)': '95', 'Single Day Saturday Gross Adjusted': '266', 'Fastest to $100 million': '314', 'Second Weekends': '143', 'All Time Domestic': '383', 'Rated G Adjusted': '56', 'Widest Opening Releases': '223', 'Most Weekends at #1 (non-consecutive)': '268', 'Rated G and PG': '132', 'Worldwide Yearly 2005': '12', 'Opening Weekends - Holiday': '58', 'Fourth Weekends Adjusted': '171', 'Opening Weekends Adjusted - Holiday': '66', 'Yearly G Rated 2005': '1', 'Post-Thanksgiving Weekend  - Biggest Drops': '29', 'Thanksgiving 5-day Weekends': '92', 'Widest Releases': '247', 'Single Day Saturday Gross': '308', 'Rated G, Opening Weekends': '14', 'Smallest Drops, All Wide Releases': '628', 'Thanksgiving 5-day Weekends Adjusted': '96', 'Smallest Drops, 2,000+ theaters (Very Wide)': '154', 'Widest G Rated Releases': '13', 'Yearly (Wide) 2005': '14', 'Opening Weekends': '301', 'Opening Weekends Adjusted - November': '46', 'Rated G and PG, Opening Weekends Adjusted': '81', BOM Users' Grades (2005 Releases): '115', 'Rated G, Opening Weekends Adjusted': '17', 'All Time Worldwide': '370', 'Second Weekends Adjusted': '131', 'Highest All Time Rank (on March 26, 2006)': '172', 'Fourth Weekends': '128', 'Thanksgiving 3-day Weekends Adjusted': '117', 'Slowest to $100 million': '321', 'Rated G': '27', 'Opening Weekends - November': '40', 'Opening Weekends Adjusted': '293', 'Single Day Gross': '792', 'Yearly 2005': '14', 'Thanksgiving 3-day Weekends': '100', 'Opening Weeks': '378', 'Rated G and PG, Opening Weekends': '83', 'Widest G Rated Openings': '12'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Chicken Run'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=chickenrun.htm"},
+					"Genre": {"S":"b'Animation'"},
+					"ProductionBudget": {"S":"b'$45 million'"},
+					"ReleaseDate": {"S":"b'June 23, 2000'"},
+					"Distributor": {"S":"b'DreamWorks'"},
+					"DomesticTotalGross": {"S":"b'$106,834,564'"},
+					"Runtime": {"S":"b'1 hrs. 24 min.'"},
+					"MPAARating": {"S":"b'G'"},
+					"Composer": {"S":"b'John Powell'"},
+					"Writer": {"S":"b'Karey Kirkpatrick'"},
+					"Actor": {"S":"b'Mel Gibson, Imelda Staunton*'"},
+					"Producer": {"S":"b'Jeffrey Katzenberg, Peter Lord'"},
+					"Director": {"S":"b'Peter Lord'"},
+					"Foreign": {"S":"b'$118,000,000'"},
+					"Domestic": {"S":"b'$106,834,564'"},
+					"Worldwide": {"S":"b'$224,834,564'"},
+					"OpeningWeekend": {"S":"b'$17,506,162'"},
+					"WidestRelease": {"S":"b'2,953 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Mouse/Rat - Featured': '8', 'Animation - Stop Motion': '1', 'Animation': '87'}"},
+					"Franchise": {"S":"{'Brand: Aardman': '1', 'Showdown: Stop Motion Commotion': '1', 'Brand: DreamWorks Animation': '23'}"},
+					"Chart": {"S":"{'Worldwide Yearly 2000': '16', BOM Users' Grades (2000 Releases): '20', 'Highest All Time Rank (on October 26, 2000)': '175', 'Widest G Rated Releases': '38', 'Opening Weekends': '1,029', 'Opening Weeks Adjusted': '685', 'Rated G, Opening Weekends Adjusted': '41', 'All Time Domestic': '587', 'Independence Day Weekends': '79', 'All Time Worldwide': '585', 'Rated G Adjusted': '60', 'Yearly G Rated 2000': '1', 'Movies That Never #1 Adjusted': '83', 'Rated G, Opening Weekends': '47', 'Rated G and PG': '193', BOM Users' Grades: '278', 'Slowest to $100 million': '92', 'Yearly (Wide) 2000': '18', 'Yearly Opening Weekends (Wide) 2000': '32', 'Rated G': '34', 'Yearly Opening Weekends 2000': '32', 'Movies That Never Hit #1': '108', 'Opening Weekends - June': '141', 'Yearly 2000': '20', 'Opening Weekends Adjusted - June': '144', 'Smallest Drops, All Wide Releases': '774', 'Opening Weeks': '829', 'Smallest Drops, 2,000+ theaters (Very Wide)': '201', 'Opening Weekends Adjusted': '867', 'Widest G Rated Openings': '68'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Chicken Soup for the Soul'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=chickensoupforthesoul.htm"},
+					"Genre": {"S":"b'Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'2017'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Chicken with Plums'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=chickenwithplums.htm"},
+					"DomesticTotalasofDec.13,2012": {"S":"b'$253,874'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'August 17, 2012'"},
+					"Distributor": {"S":"b'Sony Classics'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"Genre": {"S":"b'Foreign'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Mathieu Amalric'"},
+					"Foreign": {"S":"b'$1,174,417'"},
+					"Domestic": {"S":"b'$253,874'"},
+					"Worldwide": {"S":"b'$1,428,291'"},
+					"InRelease": {"S":"b'119 days / 17 weeks'"},
+					"OpeningWeekend": {"S":"b'$11,301'"},
+					"WidestRelease": {"S":"b'24 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '834'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '9,111'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Chico &amp; Rita'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=chicoandrita.htm"},
+					"Genre": {"S":"b'Foreign'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'February 10, 2012'"},
+					"Distributor": {"S":"b'GKIDS'"},
+					"DomesticTotalGross": {"S":"b'$350,524'"},
+					"Runtime": {"S":"b'1 hrs. 34 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Foreign": {"S":"b'$1,883,933'"},
+					"Domestic": {"S":"b'$350,524'"},
+					"Worldwide": {"S":"b'$2,234,457'"},
+					"InRelease": {"S":"b'63 days / 9 weeks'"},
+					"OpeningWeekend": {"S":"b'$20,654'"},
+					"CloseDate": {"S":"b'April 12, 2012'"},
+					"WidestRelease": {"S":"b'23 theaters'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"{'Foreign Language': '729', 'Animation': '319'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '8,650'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Chihwaseon'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=chihwaseon.htm"},
+					"Genre": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'February 14, 2003'"},
+					"Distributor": {"S":"b'Kino'"},
+					"DomesticTotalGross": {"S":"b'$64,029'"},
+					"Runtime": {"S":"b'1 hrs. 57 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Foreign": {"S":"b'$6,842,206'"},
+					"Domestic": {"S":"b'$64,029'"},
+					"Worldwide": {"S":"b'$6,906,235'"},
+					"InRelease": {"S":"b'147 days / 21 weeks'"},
+					"OpeningWeekend": {"S":"b'$8,196'"},
+					"CloseDate": {"S":"b'July 24, 2003'"},
+					"WidestRelease": {"S":"b'5 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 2003': '378', 'Yearly (Limited) 2003': '227', 'All Time Domestic': '10,947', 'Worldwide Yearly 2003': '191', 'Yearly Opening Weekends (Limited) 2003': '249', 'Highest All Time Rank (on June 29, 2003)': '5566', 'Yearly Unrated Movies 2003': '80', 'Yearly 2003': '373'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Child 44'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=child44.htm"},
+					"Genre": {"S":"b'Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'April 17, 2015'"},
+					"Distributor": {"S":"b'Lionsgate/Summit'"},
+					"DomesticTotalGross": {"S":"b'$1,224,330'"},
+					"Runtime": {"S":"b'2 hrs. 17 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Richard Price'"},
+					"Actor": {"S":"b'Tom Hardy, Noomi Rapace, Joel Kinnaman, Gary Oldman, Jason Clarke, Vincent Cassel, Charles Dance, Paddy Considine'"},
+					"Producer": {"S":"b'Ridley Scott, Greg Shapiro'"},
+					"Director": {"S":"b'Daniel Espinosa'"},
+					"Foreign": {"S":"b'$11,726,763'"},
+					"Domestic": {"S":"b'$1,224,330'"},
+					"Worldwide": {"S":"b'$12,951,093'"},
+					"InRelease": {"S":"b'28 days / 4 weeks'"},
+					"OpeningWeekend": {"S":"b'$621,812'"},
+					"CloseDate": {"S":"b'May 14, 2015'"},
+					"WidestRelease": {"S":"b'510 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '7,077'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Child of God'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=childofgod.htm"},
+					"Genre": {"S":"b'Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'August 1, 2014'"},
+					"Distributor": {"S":"b'Well Go USA'"},
+					"DomesticTotalGross": {"S":"b'$39,324'"},
+					"Runtime": {"S":"b'1 hrs. 44 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'James Franco'"},
+					"Actor": {"S":"b'James Franco, Tim Blake Nelson'"},
+					"Director": {"S":"b'James Franco'"},
+					"Domestic": {"S":"b'$39,324'"},
+					"InRelease": {"S":"b'14 days / 2 weeks'"},
+					"OpeningWeekend": {"S":"b'$27,630'"},
+					"CloseDate": {"S":"b'August 14, 2014'"},
+					"WidestRelease": {"S":"b'8 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '11,643'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bChild's Play"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=childsplay.htm"},
+					"Genre": {"S":"b'Horror'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'November 11, 1988'"},
+					"Distributor": {"S":"b'United Artists'"},
+					"DomesticTotalGross": {"S":"b'$33,244,684'"},
+					"Runtime": {"S":"b'1 hrs. 27 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Foreign": {"S":"b'$10,952,000'"},
+					"Domestic": {"S":"b'$33,244,684'"},
+					"Worldwide": {"S":"b'$44,196,684'"},
+					"OpeningWeekend": {"S":"b'$6,583,963'"},
+					"WidestRelease": {"S":"b'1,490 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Toys Come to Life': '6', 'Horror - Slasher': '27'}"},
+					"Franchise": {"S":"{Series: Child's Play: '1'}"},
+					"Chart": {"S":"{'Yearly R Rated 1988': '18', 'Opening Weeks Adjusted': '1,966', BOM Users' Grades (1988 Releases): '45', 'Yearly Opening Weekends 1988': '23', 'Yearly (Wide) 1988': '34', 'Opening Weekends': '2,560', 'Fewest Theaters to Debut at #1': '100', 'Highest All Time Rank (on January 3, 1989)': '348', 'All Time Domestic': '2,313', 'Yearly 1988': '34', 'Smallest Drops, All Wide Releases': '629', 'Post-Thanksgiving Weekend - Best Holds': '180', 'Opening Weeks': '2,466', 'Opening Weekends Adjusted': '2,087', 'Yearly Opening Weekends (Wide) 1988': '25'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bChild's Play 2"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=childsplay2.htm"},
+					"Genre": {"S":"b'Horror'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'November 9, 1990'"},
+					"Distributor": {"S":"b'Universal'"},
+					"DomesticTotalGross": {"S":"b'$28,501,605'"},
+					"Runtime": {"S":"b'1 hrs. 24 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Composer": {"S":"b'Graeme Revell'"},
+					"Foreign": {"S":"b'$7,262,000'"},
+					"Domestic": {"S":"b'$28,501,605'"},
+					"Worldwide": {"S":"b'$35,763,605'"},
+					"OpeningWeekend": {"S":"b'$10,718,520'"},
+					"WidestRelease": {"S":"b'2,017 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Toys Come to Life': '9', 'Horror - Slasher': '33'}"},
+					"Franchise": {"S":"{Series: Child's Play: '3'}"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '1,450', 'Yearly Opening Weekends 1990': '19', 'Yearly R Rated 1990': '18', 'Yearly 1990': '41', 'Opening Weekends': '1,754', 'Opening Weekends Adjusted - November': '144', 'Opening Weekends - November': '184', 'Post-Thanksgiving Weekend  - Biggest Drops': '96', 'Yearly (Wide) 1990': '41', 'Worldwide Yearly 1990': '25', 'All Time Domestic': '2,606', 'Smallest Drops, All Wide Releases': '3,342', 'Opening Weeks': '1,969', 'Highest All Time Rank (on December 25, 1990)': '485', 'Opening Weekends Adjusted': '1,244', BOM Users' Grades (1990 Releases): '77', 'Yearly Opening Weekends (Wide) 1990': '20'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bChild's Play 3"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=childsplay3.htm"},
+					"Genre": {"S":"b'Horror'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'August 30, 1991'"},
+					"Distributor": {"S":"b'Universal'"},
+					"DomesticTotalGross": {"S":"b'$14,960,255'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Cinematographer": {"S":"b'John R. Leonetti'"},
+					"Foreign": {"S":"b'$5,600,000'"},
+					"Domestic": {"S":"b'$14,960,255'"},
+					"Worldwide": {"S":"b'$20,560,255'"},
+					"OpeningWeekend": {"S":"b'$5,718,940'"},
+					"WidestRelease": {"S":"b'2,130 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Toys Come to Life': '12', 'Horror - Slasher': '56'}"},
+					"Franchise": {"S":"{Series: Child's Play: '5'}"},
+					"Chart": {"S":"{'Yearly (Wide) 1991': '80', 'Highest All Time Rank (on October 1, 1991)': '917', 'Yearly Opening Weekends 1991': '45', 'All Time Domestic': '3,772', 'Yearly 1991': '79', 'Labor Day 4-Day Holiday Weekend Openers': '44', BOM Users' Grades (1991 Releases): '80', 'Yearly Opening Weekends (Wide) 1991': '49', 'Worldwide Yearly 1991': '30', 'Yearly R Rated 1991': '41', 'Labor Day 4-Day Holiday Weekends': '188'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bChild's Pose"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=childspose.htm"},
+					"Genre": {"S":"b'Foreign'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'February 19, 2014'"},
+					"Distributor": {"S":"b'Zeitgeist'"},
+					"DomesticTotalGross": {"S":"b'$97,170'"},
+					"Runtime": {"S":"b'1 hrs. 52 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Foreign": {"S":"b'n/a'"},
+					"Domestic": {"S":"b'$97,170'"},
+					"Worldwide": {"S":"b'$97,170'"},
+					"InRelease": {"S":"b'72 days / 10.3 weeks'"},
+					"OpeningWeekend": {"S":"b'$12,955'"},
+					"CloseDate": {"S":"b'May 1, 2014'"},
+					"WidestRelease": {"S":"b'10 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1158'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '10,425'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bChildhood's End"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=childhoodsend.htm"},
+					"Genre": {"S":"b'Comedy / Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'April 4, 1997'"},
+					"Distributor": {"S":"b'Plainview Pictures'"},
+					"DomesticTotalGross": {"S":"b'$3,804'"},
+					"Runtime": {"S":"b'1 hrs. 55 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$3,804'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"OpeningWeekend": {"S":"b'$2,556'"},
+					"CloseDate": {"S":"b'April 10, 1997'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 1997': '118', 'Yearly (Limited) 1997': '124', 'All Time Domestic': '14,130', 'Yearly 1997': '301', 'Yearly Opening Weekends 1997': '256'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Childless'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=childless2015.htm"},
+					"Genre": {"S":"b'Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'May 15, 2015'"},
+					"Distributor": {"S":"b'Monterey Media, Inc.'"},
+					"DomesticTotalGross": {"S":"b'$1,036'"},
+					"Runtime": {"S":"b'1 hrs. 27 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Barbara Hershey, Joe Mantegna'"},
+					"Domestic": {"S":"b'$1,036'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"OpeningWeekend": {"S":"b'$732'"},
+					"CloseDate": {"S":"b'May 21, 2015'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '14,593'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Children Underground'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=childrenunderground.htm"},
+					"Genre": {"S":"b'Documentary'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'September 19, 2001'"},
+					"Distributor": {"S":"b'Cinemax'"},
+					"DomesticTotalGross": {"S":"b'$12,798'"},
+					"Runtime": {"S":"b'1 hrs. 44 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$12,798'"},
+					"InRelease": {"S":"b'16 days / 2.3 weeks'"},
+					"OpeningWeekend": {"S":"b'$3,075'"},
+					"CloseDate": {"S":"b'October 4, 2001'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '1137'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on August 28, 2002)': '4661', 'All Time Domestic': '13,064', 'Yearly (Limited) 2001': '190', 'Yearly 2001': '337', 'Yearly Opening Weekends 2001': '305', 'Yearly Opening Weekends (Limited) 2001': '177'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Children of Fate'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=childrenoffate.htm"},
+					"Genre": {"S":"b'Documentary'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'November 23, 1993'"},
+					"Distributor": {"S":"b'First Run'"},
+					"DomesticTotalGross": {"S":"b'$1,738'"},
+					"Runtime": {"S":"b'1 hrs. 25 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$1,738'"},
+					"InRelease": {"S":"b'10 days / 1.4 weeks'"},
+					"OpeningWeekend": {"S":"b'$1,099'"},
+					"CloseDate": {"S":"b'December 2, 1993'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '1421'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1993': '259', 'All Time Domestic': '14,475', 'Yearly Opening Weekends (Limited) 1993': '106', 'Yearly Opening Weekends 1993': '236', 'Highest All Time Rank (on November 28, 1993)': '2963', 'Yearly (Limited) 1993': '94'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Children of Heaven'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=childrenofheaven.htm"},
+					"Genre": {"S":"b'Foreign'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'January 22, 1999'"},
+					"Distributor": {"S":"b'Miramax'"},
+					"DomesticTotalGross": {"S":"b'$933,933'"},
+					"Runtime": {"S":"b'1 hrs. 28 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$933,933'"},
+					"OpeningWeekend": {"S":"b'$20,100'"},
+					"WidestRelease": {"S":"b'18 theaters'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"{'Foreign Language': '425'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 1999': '273', 'Yearly 1999': '208', 'All Time Domestic': '7,444', 'Yearly Opening Weekends (Limited) 1999': '141', 'Highest All Time Rank (on August 28, 2002)': '3506', 'Yearly (Limited) 1999': '62', 'Yearly PG Rated 1999': '17'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Children of Invention'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=childrenofinvention.htm"},
+					"Genre": {"S":"b'Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'March 12, 2010'"},
+					"Distributor": {"S":"b'Unknown'"},
+					"Runtime": {"S":"b'1 hrs. 26 min.'"},
+					"DomesticTotalasofMar.18,2010": {"S":"b'$11,183'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$11,183'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"OpeningWeekend": {"S":"b'$4,874'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '13,231'}"}
+				}
+			}
+		}
+	]
+}

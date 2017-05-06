@@ -1,0 +1,672 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jabberwocky'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jabberwocky.htm"},
+					"ReleaseDate": {"S":"b'1977'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Cinema 5'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 45 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'Terry Gilliam'"},
+					"Director": {"S":"b'Terry Gilliam'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jack'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jack.htm"},
+					"ReleaseDate": {"S":"b'August 9, 1996'"},
+					"Genre": {"S":"b'Family Comedy'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"ProductionBudget": {"S":"b'$45 million'"},
+					"DomesticTotalGross": {"S":"b'$58,620,973'"},
+					"Runtime": {"S":"b'1 hrs. 53 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'James DeMonaco'"},
+					"Actor": {"S":"b'Robin Williams, Diane Lane, Jennifer Lopez'"},
+					"Composer": {"S":"b'Michael Kamen'"},
+					"Cinematographer": {"S":"b'John Toll'"},
+					"Domestic": {"S":"b'$58,620,973'"},
+					"WidestRelease": {"S":"b'2,232 theaters'"},
+					"OpeningWeekend": {"S":"b'$11,191,496'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Wide) 1996': '26', 'All Time Domestic': '1,311', 'Labor Day 4-Day Holiday Weekends': '178', BOM Users' Grades (1996 Releases): '103', 'Yearly Opening Weekends (Wide) 1996': '29', 'Yearly Opening Weekends 1996': '28', 'Fewest Theaters to Debut at #1': '175', 'Opening Weekends Adjusted': '1,247', 'Smallest Drops, All Wide Releases': '704', 'Opening Weekends - August': '130', 'Opening Weeks Adjusted': '974', 'Opening Weekends Adjusted - August': '86', 'Opening Weekends': '1,687', 'Highest All Time Rank (on October 11, 1996)': '321', 'Yearly PG-13 Rated 1996': '8', 'Opening Weeks': '1,428', 'Yearly 1996': '25'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jack Frost'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jackfrost.htm"},
+					"ReleaseDate": {"S":"b'December 11, 1998'"},
+					"Genre": {"S":"b'Family'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'$85 million'"},
+					"DomesticTotalGross": {"S":"b'$34,562,556'"},
+					"Runtime": {"S":"b'1 hrs. 42 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'Mark Steven Johnson'"},
+					"Producer": {"S":"b'Mark Canton, Michael Tadross'"},
+					"Actor": {"S":"b'Michael Keaton'"},
+					"Composer": {"S":"b'Trevor Rabin'"},
+					"Domestic": {"S":"b'$34,562,556'"},
+					"WidestRelease": {"S":"b'2,152 theaters'"},
+					"OpeningWeekend": {"S":"b'$7,104,125'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Christmas': '30'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{BOM Users' Grades (1998 Releases): '118', 'All Time Domestic': '2,245', 'Yearly 1998': '60', 'Opening Weekends Adjusted - December': '185', 'Opening Weekends - December': '200', 'Opening Weekends Adjusted': '2,199', 'Smallest Drops, All Wide Releases': '962', 'Highest All Time Rank (on February 21, 1999)': '797', 'Opening Weeks Adjusted': '2,438', 'Yearly Opening Weekends (Wide) 1998': '77', 'Opening Weekends': '2,420', 'Smallest Drops, 2,000+ theaters (Very Wide)': '276', 'Opening Weeks': '2,653', 'Yearly (Wide) 1998': '55', 'Yearly Opening Weekends 1998': '73', 'Yearly PG Rated 1998': '8'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jack Goes Boating'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jackgoesboating.htm"},
+					"ReleaseDate": {"S":"b'September 17, 2010'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Overture Films'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$541,992'"},
+					"Runtime": {"S":"b'1 hrs. 29 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Philip Seymour Hoffman'"},
+					"Actor": {"S":"b'Philip Seymour Hoffman, Amy Ryan'"},
+					"Director": {"S":"b'Philip Seymour Hoffman'"},
+					"Domestic": {"S":"b'$541,992'"},
+					"Worldwide": {"S":"b'$619,570'"},
+					"Foreign": {"S":"b'$77,578'"},
+					"WidestRelease": {"S":"b'90 theaters'"},
+					"CloseDate": {"S":"b'December 16, 2010'"},
+					"OpeningWeekend": {"S":"b'$28,916'"},
+					"InRelease": {"S":"b'91 days / 13 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '8,122'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jack Paradise'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jackparadise.htm"},
+					"ReleaseDate": {"S":"b'February 20, 2004'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'K Film'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$79,974'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$79,974'"},
+					"WidestRelease": {"S":"b'31 theaters'"},
+					"CloseDate": {"S":"b'February 29, 2004'"},
+					"OpeningWeekend": {"S":"b'$41,704'"},
+					"InRelease": {"S":"b'10 days / 1.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Musical': '75'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2004': '374', 'Yearly (Limited) 2004': '221', 'Yearly Opening Weekends 2004': '259', 'All Time Domestic': '10,659', 'Highest All Time Rank (on February 29, 2004)': '5743', 'Yearly Opening Weekends (Limited) 2004': '121', 'Yearly Unrated Movies 2004': '79'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jack Reacher'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=oneshot.htm"},
+					"ReleaseDate": {"S":"b'December 21, 2012'"},
+					"Genre": {"S":"b'Crime Drama'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'$60 million'"},
+					"DomesticTotalGross": {"S":"b'$80,070,736'"},
+					"Runtime": {"S":"b'2 hrs. 10 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Christopher McQuarrie'"},
+					"Producer": {"S":"b'Tom Cruise, David Ellison, Dana Goldberg, Paul Schwake, Paula Wagner'"},
+					"Actor": {"S":"b'Tom Cruise, Rosamund Pike, Richard Jenkins, David Oyelowo, Werner Herzog, Jai Courtney, Robert Duvall'"},
+					"Director": {"S":"b'Christopher McQuarrie'"},
+					"Domestic": {"S":"b'$80,070,736'"},
+					"Worldwide": {"S":"b'$218,340,595'"},
+					"Foreign": {"S":"b'$138,269,859'"},
+					"WidestRelease": {"S":"b'3,352 theaters'"},
+					"CloseDate": {"S":"b'March 21, 2013'"},
+					"OpeningWeekend": {"S":"b'$15,210,156'"},
+					"InRelease": {"S":"b'91 days / 13 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"{'Series: Jack Reacher': '1', Showdown: 'Valkyrie' Vs. 'Jack Reacher': '2'}"},
+					"Chart": {"S":"{'All Time Worldwide': '606', 'Widest Opening Releases': '450', 'Opening Weeks': '749', 'All Time Domestic': '886', 'Worst Openings - Super Saturated': '176', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '28', 'Opening Weekends Adjusted - December': '144', 'Opening Weekends - December': '85', 'Opening Weekends Adjusted': '1,780', 'Smallest Drops, All Wide Releases': '365', 'Worst Openings - Super Saturated Adjusted': '137', 'Opening Weeks Adjusted': '1,102', 'Smallest Drops, 2,500+ theaters (Saturation)': '47', 'Smallest Drops, 2,000+ theaters (Very Wide)': '76', 'Widest Releases': '487', 'Opening Weekends': '1,202'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jack Reacher: Never Go Back'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jackreacher2.htm"},
+					"ReleaseDate": {"S":"b'October 21, 2016'"},
+					"Genre": {"S":"b'Crime Drama'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'$60 million'"},
+					"DomesticTotalGross": {"S":"b'$58,697,076'"},
+					"Runtime": {"S":"b'1 hrs. 58 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Tom Cruise, David Ellison, Don Granger'"},
+					"Actor": {"S":"b'Tom Cruise, Aldis Hodge, Cobie Smulders'"},
+					"Composer": {"S":"b'Henry Jackman'"},
+					"Director": {"S":"b'Edward Zwick'"},
+					"Domestic": {"S":"b'$58,697,076'"},
+					"Worldwide": {"S":"b'$162,146,076'"},
+					"Foreign": {"S":"b'$103,449,000'"},
+					"WidestRelease": {"S":"b'3,780 theaters'"},
+					"CloseDate": {"S":"b'January 12, 2017'"},
+					"OpeningWeekend": {"S":"b'$22,872,490'"},
+					"InRelease": {"S":"b'84 days / 12 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"{'Series: Jack Reacher': '2'}"},
+					"Chart": {"S":"{'Opening Weekends Adjusted - Fall': '127', 'Opening Weekends - Fall': '67', 'Opening Weekends - October': '37', 'Top Movies in the Past 365 Days': '57', 'All Time Domestic': '1,308', 'Widest Opening Releases': '158', 'Opening Weekends Adjusted - October': '71', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '712', 'Opening Weekends Adjusted': '1,196', 'Smallest Drops, All Wide Releases': '3,752', 'Widest Releases': '174', 'Opening Weeks Adjusted': '1,294', 'Opening Weekends Not At #1': '173', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,350', 'Widest PG-13 Rated Releases': '97', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,888', 'Opening Weeks': '763', 'Widest PG-13 Rated Openings': '88', 'Opening Weekends': '716'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jack Ryan: Shadow Recruit'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jackryan.htm"},
+					"ReleaseDate": {"S":"b'January 17, 2014'"},
+					"Genre": {"S":"b'Action Thriller'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'$60 million'"},
+					"DomesticTotalGross": {"S":"b'$50,577,412'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Adam Cozad, David Koepp'"},
+					"Producer": {"S":"b'Lorenzo di Bonaventura, David Ellison, Dana Goldberg, Mark Vahradian'"},
+					"Actor": {"S":"b'Chris Pine, Keira Knightley, Kevin Costner, Kenneth Branagh'"},
+					"Composer": {"S":"b'Patrick Doyle'"},
+					"Director": {"S":"b'Kenneth Branagh'"},
+					"Domestic": {"S":"b'$50,577,412'"},
+					"Worldwide": {"S":"b'$135,511,030'"},
+					"Foreign": {"S":"b'$84,933,618'"},
+					"WidestRelease": {"S":"b'3,387 theaters'"},
+					"CloseDate": {"S":"b'April 3, 2014'"},
+					"OpeningWeekend": {"S":"b'$15,451,981'"},
+					"InRelease": {"S":"b'77 days / 11 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Spy': '52', 'IMAX (Feature-length)': '159'}"},
+					"Franchise": {"S":"{'Series: Jack Ryan': '5'}"},
+					"Chart": {"S":"{'Saturday Share of Opening Weekends': '192', 'Smallest Drops, All Wide Releases': '2,022', 'Widest Releases': '457', 'All Time Domestic': '1,563', 'Worst Openings - Super Saturated': '180', 'Widest Opening Releases': '422', 'Opening Weekends Adjusted - January': '100', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '279', 'Opening Weekends Adjusted': '1,724', 'Martin Lurther King 4-Day Holiday Weekend Openers': '29', 'Worst Openings - Super Saturated Adjusted': '148', 'Opening Weekends - January': '75', 'Opening Weeks Adjusted': '1,715', 'Smallest Drops, 2,500+ theaters (Saturation)': '550', 'Smallest Drops, 2,000+ theaters (Very Wide)': '809', 'Opening Weeks': '1,190', 'Opening Weekends - Winter': '163', 'Martin Lurther King 4-Day Holiday Weekends': '41', 'Opening Weekends': '1,190'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jack and Diane'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jackanddiane.htm"},
+					"DomesticTotalasofNov.15,2012": {"S":"b'$1,142'"},
+					"ReleaseDate": {"S":"b'November 2, 2012'"},
+					"Genre": {"S":"b'Romance'"},
+					"Distributor": {"S":"b'Magnolia'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Riley Keough*, Juno Temple'"},
+					"Domestic": {"S":"b'$1,142'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"OpeningWeekend": {"S":"b'$294'"},
+					"InRelease": {"S":"b'14 days / 2 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '14,578'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jack and Jill'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jackandjill.htm"},
+					"ReleaseDate": {"S":"b'November 11, 2011'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"ProductionBudget": {"S":"b'$79 million'"},
+					"DomesticTotalGross": {"S":"b'$74,158,157'"},
+					"Runtime": {"S":"b'1 hrs. 31 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'Steve Koren'"},
+					"Producer": {"S":"b'Allen Covert , Todd Garner, Jack Giarraputo, Tim Herlihy, Steve Koren, Adam Sandler, Robert Smigel'"},
+					"Actor": {"S":"b'Dana Carvey*, Adam Sandler, Katie Holmes, Al Pacino, Nick Swardson, Allen Covert, David Spade*, Norm MacDonald*, Eugenio Derbez'"},
+					"Composer": {"S":"b', Director'"},
+					"Domestic": {"S":"b'$74,158,157'"},
+					"Worldwide": {"S":"b'$149,673,788'"},
+					"Foreign": {"S":"b'$75,515,631'"},
+					"WidestRelease": {"S":"b'3,438 theaters'"},
+					"CloseDate": {"S":"b'February 26, 2012'"},
+					"OpeningWeekend": {"S":"b'$25,003,575'"},
+					"InRelease": {"S":"b'112 days / 16 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Twins': '2', 'Thanksgiving': '1'}"},
+					"Franchise": {"S":"{'Showdown: Sandler-Dugan Comedies': '6', 'Showdown: Adam Sandler in Decline': '3'}"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '1,148', 'All Time Domestic': '978', 'Opening Weekends Adjusted - November': '116', 'Thanksgiving 5-day Weekends': '114', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '586', 'Smallest Drops, All Wide Releases': '3,318', 'Opening Weekends Adjusted - Holiday': '179', 'Opening Weekends - November': '84', 'Thanksgiving 5-day Weekends Adjusted': '133', 'Opening Weekends Adjusted': '895', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,600', 'Opening Weeks': '800', 'Widest Opening Releases': '380', 'Thanksgiving 3-day Weekends': '132', 'Rated PG, Opening Weekends Adjusted': '192', 'Widest PG Rated Releases': '136', 'Post-Thanksgiving Weekend - Best Holds': '109', 'Opening Weekends - Holiday': '131', 'Thanksgiving 3-day Weekends Adjusted': '178', 'Opening Weekends Not At #1': '143', 'Rated G and PG, Opening Weekends': '160', 'Widest PG Rated Openings': '133', 'Widest Releases': '409', 'Opening Weekends': '628', 'Rated PG, Opening Weekends': '130', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,142'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jack and Sarah'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jackandsarah.htm"},
+					"ReleaseDate": {"S":"b'March 22, 1996'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Gramercy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$218,626'"},
+					"Runtime": {"S":"b'1 hrs. 50 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Richard E. Grant, Samantha Mathis, Judi Dench, Ian McKellen'"},
+					"Domestic": {"S":"b'$218,626'"},
+					"WidestRelease": {"S":"b'29 theaters'"},
+					"CloseDate": {"S":"b'June 27, 1996'"},
+					"OpeningWeekend": {"S":"b'$59,098'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on April 16, 1996)': '3321', 'Yearly (Limited) 1996': '71', 'All Time Domestic': '9,313', 'Yearly PG Rated 1996': '44', 'Yearly Opening Weekends (Limited) 1996': '53', 'Yearly Opening Weekends 1996': '194', 'Yearly 1996': '254'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jack and the Cuckoo-Clock Heart'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jackcuckooclock.htm"},
+					"ReleaseDate": {"S":"b'September 24, 2014'"},
+					"Genre": {"S":"b'Animation'"},
+					"Distributor": {"S":"b'Shout! Factory'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 29 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'n/a'"},
+					"Worldwide": {"S":"b'$3,445,000'"},
+					"Foreign": {"S":"b'$3,445,000'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Animation': '422'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jack the Bear'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jackthebear.htm"},
+					"ReleaseDate": {"S":"b'April 2, 1993'"},
+					"Genre": {"S":"b'Comedy / Drama'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$5,145,823'"},
+					"Runtime": {"S":"b'1 hrs. 39 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Steven Zaillian'"},
+					"Actor": {"S":"b'Danny DeVito, Reese Witherspoon*'"},
+					"Composer": {"S":"b'James Horner'"},
+					"Domestic": {"S":"b'$5,145,823'"},
+					"WidestRelease": {"S":"b'1,071 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,219,891'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{That '70s Movie: '46'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '4,015', 'Yearly Opening Weekends 1993': '110', 'All Time Domestic': '5,358', 'Yearly PG-13 Rated 1993': '42', 'Yearly 1993': '143', 'Opening Weekends Adjusted': '4,020', 'Smallest Drops, All Wide Releases': '3,526', 'Yearly (Wide) 1993': '123', 'Opening Weekends': '4,184', 'Yearly Opening Weekends (Wide) 1993': '118', 'Opening Weeks': '4,188', 'Highest All Time Rank (on April 27, 1993)': '1691'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jack the Giant Slayer'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jackthegiantkiller.htm"},
+					"ReleaseDate": {"S":"b'March 1, 2013'"},
+					"Genre": {"S":"b'Adventure'"},
+					"Distributor": {"S":"b'Warner Bros. (New Line)'"},
+					"ProductionBudget": {"S":"b'$195 million'"},
+					"DomesticTotalGross": {"S":"b'$65,187,603'"},
+					"Runtime": {"S":"b'1 hrs. 54 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Darren Lemke, Christopher McQuarrie'"},
+					"Producer": {"S":"b'Jon Jashni, Neal H. Moritz'"},
+					"Actor": {"S":"b'Ewen Bremner, Warwick Davis, Nicholas Hoult, Eleanor Tomlinson, Ewan McGregor, Stanley Tucci, Eddie Marsan, Ian McShane, Bill Nighy*'"},
+					"Composer": {"S":"b'John Ottman'"},
+					"Director": {"S":"b'Bryan Singer'"},
+					"Domestic": {"S":"b'$65,187,603'"},
+					"Worldwide": {"S":"b'$197,687,603'"},
+					"Foreign": {"S":"b'$132,500,000'"},
+					"WidestRelease": {"S":"b'3,525 theaters'"},
+					"CloseDate": {"S":"b'June 13, 2013'"},
+					"OpeningWeekend": {"S":"b'$27,202,226'"},
+					"InRelease": {"S":"b'105 days / 15 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': '154', 'Fantasy - Live Action': '46', 'Adventure - Period': '29', 'IMAX (Feature-length)': '144'}"},
+					"Franchise": {"S":"{Showdown: 'Hansel' Vs. 'Jack' Vs. 'Dracula': '1', 'Brand: Legendary Pictures': '27', Showdown: 'John' Vs. 'Jack': '2', 'Showdown: BFG Comps': '1'}"},
+					"Chart": {"S":"{'Widest Opening Releases': '307', 'All Time Domestic': '1,154', 'Biggest 2nd Weekend Drops': '291', 'Opening Weekends - March': '48', 'Opening Weeks': '647', 'Opening Weekends Adjusted - March': '68', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '839', 'Opening Weekends Adjusted': '800', 'Smallest Drops, All Wide Releases': '4,130', 'Opening Weekends Adjusted - Spring': '102', 'Opening Weeks Adjusted': '934', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,538', 'Opening Weekends - Spring': '69', 'Widest PG-13 Rated Releases': '188', 'Smallest Drops, 2,000+ theaters (Very Wide)': '2,144', 'Widest Releases': '331', 'Widest PG-13 Rated Openings': '169', 'Opening Weekends': '562'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jackass 3-D'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jackass3d.htm"},
+					"ReleaseDate": {"S":"b'October 15, 2010'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'$20 million'"},
+					"DomesticTotalGross": {"S":"b'$117,229,692'"},
+					"Runtime": {"S":"b'1 hrs. 34 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Spike Jonze, Jeff Tremaine'"},
+					"Actor": {"S":"b'Johnny Knoxville'"},
+					"Director": {"S":"b'Jeff Tremaine'"},
+					"Domestic": {"S":"b'$117,229,692'"},
+					"Worldwide": {"S":"b'$171,685,792'"},
+					"Foreign": {"S":"b'$54,456,100'"},
+					"WidestRelease": {"S":"b'3,139 theaters'"},
+					"CloseDate": {"S":"b'January 20, 2011'"},
+					"OpeningWeekend": {"S":"b'$50,353,641'"},
+					"InRelease": {"S":"b'98 days / 14 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': '107', 'Sports - Extreme': '2', 'Comedy - R-Rated Youth': '14', 'Reality TV': '3'}"},
+					"Franchise": {"S":"{'Showdown: Jackass Vs. Jackass': '1', 'Brand: MTV': '3', 'Series: Jackass': '1'}"},
+					"Chart": {"S":"{'Top 3-Day Grosses': '194', 'Opening Weekends - Fall': '4', 'Opening Weekends - October': '4', 'Fastest to $100 million': '295', 'Opening Day Gross': '130', 'Rated R, Opening Weekends': '19', 'Opening Weekends Adjusted - October': '7', 'Friday Share of Opening Weekends': '97', 'Highest All Time Rank (on December 9, 2010)': '350', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '705', 'Rated R, Opening Weekends Adjusted': '39', 'Smallest Drops, All Wide Releases': '3,727', 'Theater Averages - Wide Opening Weekends': '157', 'Opening Weeks Adjusted': '335', 'Widest R Rated Releases': '128', 'Opening Weekends Adjusted - Fall': '8', 'Single Day Saturday Gross': '337', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,871', 'Opening Weeks': '231', 'Single Day Gross': '436', 'Rated R': '97', 'All Time Domestic': '509', 'Widest Opening Releases': '752', 'Friday to Saturday Drops on Opening Weekends': '105', 'Single Day Friday Gross': '140', 'Opening Weekends Adjusted': '291', 'Slowest to $100 million': '340', 'Widest R Rated Openings': '139', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,337', 'Single Day Friday Gross Adjusted': '197', 'Widest Releases': '728', 'Opening Weekends': '199', 'Theater Averages (Wide Releases) - All Time': '178'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jackass Presents: Bad Grandpa'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=badgrandpa.htm"},
+					"ReleaseDate": {"S":"b'October 25, 2013'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'$15 million'"},
+					"DomesticTotalGross": {"S":"b'$102,003,019'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Spike Jonze*, Johnny Knoxville, Jeff Tremaine'"},
+					"Producer": {"S":"b'Spike Jonze, Johnny Knoxville, Jeff Tremaine'"},
+					"Actor": {"S":"b'Johnny Knoxville'"},
+					"Director": {"S":"b'Jeff Tremaine'"},
+					"Domestic": {"S":"b'$102,003,019'"},
+					"Worldwide": {"S":"b'$151,831,537'"},
+					"Foreign": {"S":"b'$49,828,518'"},
+					"WidestRelease": {"S":"b'3,345 theaters'"},
+					"CloseDate": {"S":"b'January 23, 2014'"},
+					"OpeningWeekend": {"S":"b'$32,055,177'"},
+					"InRelease": {"S":"b'91 days / 13 weeks'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"{'Comedy - R-Rated Youth': '19', 'Comedy - Road Trip': '5'}"},
+					"Franchise": {"S":"{'Showdown: Jackass Vs. Jackass': '2', Showdown: 'Dumb' Vs. 'Grandpa': '1', 'Brand: MTV': '4', 'Series: Jackass': '2'}"},
+					"Chart": {"S":"{'Opening Weekends - Fall': '28', 'Opening Weekends - October': '18', 'Opening Weeks Adjusted': '743', 'All Time Domestic': '630', 'Rated R, Opening Weekends': '78', 'Opening Weekends Adjusted - October': '28', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '199', 'Smallest Drops, All Wide Releases': '1,669', 'Widest R Rated Releases': '50', 'Opening Weekends Adjusted - Fall': '47', 'Post-Thanksgiving Weekend  - Biggest Drops': '167', 'Smallest Drops, 2,000+ theaters (Very Wide)': '615', 'Opening Weeks': '487', 'Slowest to $100 million': '120', 'Widest Opening Releases': '461', 'Rated R, Opening Weekends Adjusted': '157', 'Opening Weekends Adjusted': '663', 'Rated R': '138', 'Widest R Rated Openings': '39', 'Smallest Drops, 2,500+ theaters (Saturation)': '411', 'Widest Releases': '493', 'Opening Weekends': '428'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jackass: Number Two'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jackass2.htm"},
+					"ReleaseDate": {"S":"b'September 22, 2006'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'$11.5 million'"},
+					"DomesticTotalGross": {"S":"b'$72,778,712'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Spike Jonze'"},
+					"Producer": {"S":"b'Spike Jonze, Jeff Tremaine'"},
+					"Actor": {"S":"b'Johnny Knoxville'"},
+					"Director": {"S":"b'Jeff Tremaine'"},
+					"Domestic": {"S":"b'$72,778,712'"},
+					"Worldwide": {"S":"b'$84,618,532'"},
+					"Foreign": {"S":"b'$11,839,820'"},
+					"WidestRelease": {"S":"b'3,063 theaters'"},
+					"CloseDate": {"S":"b'November 30, 2006'"},
+					"OpeningWeekend": {"S":"b'$29,002,002'"},
+					"InRelease": {"S":"b'70 days / 10 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sports - Extreme': '3', 'Comedy - R-Rated Youth': '23', 'Reality TV': '4', 'Comedy - Sequel (Live Action)': '38'}"},
+					"Franchise": {"S":"{'Showdown: Jackass Vs. Jackass': '4', 'Brand: MTV': '7', 'Series: Jackass': '3'}"},
+					"Chart": {"S":"{'Highest All Time Rank (on December 14, 2006)': '478', 'Opening Weekends - Fall': '39', 'Yearly Opening Weekends 2006': '18', 'Worldwide Yearly 2006': '70', 'All Time Domestic': '998', 'Rated R, Opening Weekends': '108', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '480', 'Smallest Drops, All Wide Releases': '2,931', 'Yearly R Rated 2006': '5', 'Opening Weeks Adjusted': '592', 'Widest R Rated Releases': '173', 'Widest Opening Releases': '778', BOM Users' Grades (2006 Releases): '115', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,361', 'Opening Weeks': '559', 'Yearly (Wide) 2006': '34', 'Yearly 2006': '33', 'Opening Weekends - September': '16', 'Yearly Opening Weekends (Wide) 2006': '18', 'Rated R, Opening Weekends Adjusted': '102', 'Opening Weekends Adjusted': '521', 'Widest R Rated Openings': '151', 'Smallest Drops, 2,500+ theaters (Saturation)': '959', 'Opening Weekends Adjusted - September': '8', 'Widest Releases': '842', 'Opening Weekends Adjusted - Fall': '27', 'Opening Weekends': '519'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jackass: The Movie'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jackass.htm"},
+					"ReleaseDate": {"S":"b'October 25, 2002'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'$5 million'"},
+					"DomesticTotalGross": {"S":"b'$64,255,312'"},
+					"Runtime": {"S":"b'1 hrs. 20 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Spike Jonze, Jeff Tremaine'"},
+					"Actor": {"S":"b'Johnny Knoxville'"},
+					"Director": {"S":"b'Jeff Tremaine'"},
+					"Domestic": {"S":"b'$64,255,312'"},
+					"Worldwide": {"S":"b'$79,493,831'"},
+					"Foreign": {"S":"b'$15,238,519'"},
+					"WidestRelease": {"S":"b'2,532 theaters'"},
+					"CloseDate": {"S":"b'January 16, 2003'"},
+					"OpeningWeekend": {"S":"b'$22,763,437'"},
+					"InRelease": {"S":"b'84 days / 12 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sports - Extreme': '4', 'Comedy - R-Rated Youth': '29', 'Reality TV': '5', 'TV Adaptation (Live Action)': '40'}"},
+					"Franchise": {"S":"{'Showdown: Jackass Vs. Jackass': '5', 'Brand: MTV': '9', 'Series: Jackass': '4'}"},
+					"Chart": {"S":"{'Opening Weekends - Fall': '68', 'Opening Weekends - October': '38', 'Opening Weeks Adjusted': '722', 'All Time Domestic': '1,175', 'Rated R, Opening Weekends': '172', 'Worldwide Yearly 2002': '56', 'Friday Share of Opening Weekends': '130', 'Yearly Opening Weekends 2002': '25', 'Yearly (Wide) 2002': '44', 'Smallest Drops, All Wide Releases': '2,315', BOM Users' Grades: '654', 'Yearly 2002': '45', 'Opening Weekends Adjusted - Fall': '43', 'Smallest Drops, 2,000+ theaters (Very Wide)': '979', 'Opening Weeks': '784', 'Yearly R Rated 2002': '11', 'Rated R, Opening Weekends Adjusted': '150', 'Friday to Saturday Drops on Opening Weekends': '145', 'Opening Weekends Adjusted': '645', 'Highest All Time Rank (on December 27, 2002)': '496', 'Yearly Opening Weekends (Wide) 2002': '26', 'Opening Weekends Adjusted - October': '27', 'Opening Weekends': '721', BOM Users' Grades (2002 Releases): '148', 'Smallest Drops, 2,500+ theaters (Saturation)': '674'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jackie'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jackie.htm"},
+					"ReleaseDate": {"S":"b'December 2, 2016'"},
+					"DomesticTotalasofMar.19,2017": {"S":"b'$13,935,861'"},
+					"Distributor": {"S":"b'Fox Searchlight'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Genre": {"S":"b'Drama'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Natalie Portman, Greta Gerwig, Billy Crudup, John Hurt, Peter Sarsgaard'"},
+					"Director": {"S":"b'Pablo Larrain'"},
+					"Domestic": {"S":"b'$13,935,861'"},
+					"Worldwide": {"S":"b'$13,935,861'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'508 theaters'"},
+					"OpeningWeekend": {"S":"b'$278,715'"},
+					"InRelease": {"S":"b'108 days / 15.4 weeks'"},
+					"Awards": {"S":"Nominated for Three Oscars."},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Theater Averages - All Time Adjusted': '105', 'Top Movies in the Past 365 Days': '116', 'Theater Averages - Opening Weekends': '90', 'All Time Domestic': '3,917', 'Movies That Never Hit the Top 10': '85'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jackie &amp; Ryan'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jackieryan.htm"},
+					"ReleaseDate": {"S":"b'July 3, 2015'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Main Street Films'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Ami Canaan Mann'"},
+					"Actor": {"S":"b'Ben Barnes, Clea DuVall, Katherine Heigl'"},
+					"Director": {"S":"b'Ami Canaan Mann'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jackie Brown'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jackiebrown.htm"},
+					"ReleaseDate": {"S":"b'December 25, 1997'"},
+					"Genre": {"S":"b'Crime'"},
+					"Distributor": {"S":"b'Miramax'"},
+					"ProductionBudget": {"S":"b'$12 million'"},
+					"DomesticTotalGross": {"S":"b'$39,673,162'"},
+					"Runtime": {"S":"b'2 hrs. 31 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Quentin Tarantino'"},
+					"Producer": {"S":"b'Lawrence Bender'"},
+					"Actor": {"S":"b'Samuel L. Jackson, Michael Keaton, Robert DeNiro, Chris Tucker*'"},
+					"Director": {"S":"b'Quentin Tarantino'"},
+					"Domestic": {"S":"b'$39,673,162'"},
+					"WidestRelease": {"S":"b'1,642 theaters'"},
+					"OpeningWeekend": {"S":"b'$9,292,248'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"{'Heist / Caper': '33', 'Con Artist / Hustler': '14', 'Crime Time': '29'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{BOM Users' Grades (1997 Releases): '19', 'Yearly (Wide) 1997': '57', 'Opening Weeks Adjusted': '1,261', 'All Time Domestic': '1,965', 'Yearly R Rated 1997': '29', 'Yearly Opening Weekends (Wide) 1997': '61', 'Yearly 1997': '58', 'Opening Weekends Adjusted - December': '130', 'Opening Weekends - December': '171', 'Opening Weekends Adjusted': '1,642', 'Smallest Drops, All Wide Releases': '662', 'Non-Friday Opening Weekends Adjusted': '186', 'Yearly Opening Weekends 1997': '58', 'Opening Thursdays': '28', 'Opening Weekends': '2,019', 'Opening Weeks': '1,600', 'Highest All Time Rank (on January 31, 1998)': '621'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jackie Chan in Shinjuku Incident'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=shinjukuincident.htm"},
+					"ReleaseDate": {"S":"b'February 5, 2010'"},
+					"Genre": {"S":"b'Crime Thriller'"},
+					"Distributor": {"S":"b'Columbia'"},
+					"ProductionBudget": {"S":"b'$15 million'"},
+					"Runtime": {"S":"b'2 hrs. 0 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Jackie Chan'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bJackie Chan's First Strike"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=firststrike.htm"},
+					"ReleaseDate": {"S":"b'January 10, 1997'"},
+					"Genre": {"S":"b'Action'"},
+					"Distributor": {"S":"b'New Line'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$15,318,863'"},
+					"Runtime": {"S":"b'1 hrs. 25 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Jackie Chan'"},
+					"Director": {"S":"b'Stanley Tong'"},
+					"Domestic": {"S":"b'$15,318,863'"},
+					"Worldwide": {"S":"b'$21,890,845'"},
+					"Foreign": {"S":"b'$6,571,982'"},
+					"WidestRelease": {"S":"b'1,344 theaters'"},
+					"OpeningWeekend": {"S":"b'$5,778,933'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Action - Martial Arts': '69'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{BOM Users' Grades (1997 Releases): '55', 'Yearly Opening Weekends (Wide) 1997': '85', 'Opening Weeks Adjusted': '2,732', 'All Time Domestic': '3,724', 'Yearly 1997': '98', 'Opening Weekends Adjusted - January': '168', 'Yearly Opening Weekends 1997': '81', 'Yearly (Wide) 1997': '99', 'Yearly PG-13 Rated 1997': '30', 'Opening Weekends Adjusted': '2,578', 'Highest All Time Rank (on February 14, 1997)': '1376', 'Opening Weekends': '2,789', 'Opening Weeks': '2,933', 'Worldwide Yearly 1997': '56'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jacknife'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jacknife.htm"},
+					"ReleaseDate": {"S":"b'March 10, 1989'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Cineplex Odeon'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$2,049,769'"},
+					"Runtime": {"S":"b'1 hrs. 42 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Robert DeNiro, Kathy Baker, Ed Harris'"},
+					"Domestic": {"S":"b'$2,049,769'"},
+					"WidestRelease": {"S":"b'109 theaters'"},
+					"CloseDate": {"S":"b'June 8, 1989'"},
+					"OpeningWeekend": {"S":"b'$32,597'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on April 25, 1989)': '1506', 'Yearly (Limited) 1989': '28', 'Yearly Opening Weekends (Limited) 1989': '71', 'All Time Domestic': '6,463', 'Yearly 1989': '141', 'Yearly Opening Weekends 1989': '174', 'Yearly R Rated 1989': '63'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jackpot'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jackpot.htm"},
+					"ReleaseDate": {"S":"b'June 27, 2014'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Doppelganger Releasing'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$806'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$806'"},
+					"Worldwide": {"S":"b'$1,060,806'"},
+					"Foreign": {"S":"b'$1,060,000'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"CloseDate": {"S":"b'June 29, 2014'"},
+					"OpeningWeekend": {"S":"b'$806'"},
+					"InRelease": {"S":"b'3 days / 0.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1980'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '14,631'}"}
+				}
+			}
+		}
+	]
+}

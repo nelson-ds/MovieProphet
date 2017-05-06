@@ -1,0 +1,670 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Johanna'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=johanna.htm"},
+					"ReleaseDate": {"S":"b'TBD'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Tartan'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': 'n/a'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bJohn Carpenter's Ghosts of Mars"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=ghostsofmars.htm"},
+					"ReleaseDate": {"S":"b'August 24, 2001'"},
+					"Genre": {"S":"b'Sci-Fi Horror'"},
+					"Distributor": {"S":"b'Sony / Screen Gems'"},
+					"ProductionBudget": {"S":"b'$28 million'"},
+					"DomesticTotalGross": {"S":"b'$8,709,640'"},
+					"Runtime": {"S":"b'1 hrs. 38 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Ice Cube, Jason Statham'"},
+					"Director": {"S":"b'John Carpenter'"},
+					"Domestic": {"S":"b'$8,709,640'"},
+					"Worldwide": {"S":"b'$14,010,832'"},
+					"Foreign": {"S":"b'$5,301,192'"},
+					"WidestRelease": {"S":"b'2,048 theaters'"},
+					"OpeningWeekend": {"S":"b'$3,804,452'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sci-Fi Horror': '40', 'Zombie': '30', 'Action Heroine': '66'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '3,651', 'All Time Domestic': '4,637', 'Yearly Opening Weekends (Wide) 2001': '120', 'Highest All Time Rank (on August 28, 2002)': '2087', 'Yearly Opening Weekends 2001': '112', 'Biggest Theater Drops': '151', BOM Users' Grades (2001 Releases): '133', 'Smallest Drops, All Wide Releases': '3,714', 'Yearly (Wide) 2001': '125', 'Yearly R Rated 2001': '53', 'Opening Weekends': '3,503', 'Yearly 2001': '131', 'Worst Openings - Very Wide': '72', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,863', 'Opening Weeks': '3,459', 'Worldwide Yearly 2001': '140', 'Worst Openings - Very Wide Adjusted': '129', 'Opening Weekends Adjusted': '3,709'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bJohn Carpenter's Vampires"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=vampires.htm"},
+					"ReleaseDate": {"S":"b'October 30, 1998'"},
+					"Genre": {"S":"b'Horror'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"ProductionBudget": {"S":"b'$20 million'"},
+					"DomesticTotalGross": {"S":"b'$20,308,772'"},
+					"Runtime": {"S":"b'1 hrs. 48 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Director": {"S":"b'John Carpenter'"},
+					"Domestic": {"S":"b'$20,308,772'"},
+					"WidestRelease": {"S":"b'1,793 theaters'"},
+					"OpeningWeekend": {"S":"b'$9,106,497'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Vampire': '32'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weekends - October': '159', BOM Users' Grades (1998 Releases): '127', 'Yearly R Rated 1998': '35', 'All Time Domestic': '3,206', 'Highest All Time Rank (on August 28, 2002)': '1279', 'Opening Weekends Adjusted - October': '114', 'Yearly 1998': '86', 'Yearly Opening Weekends (Wide) 1998': '65', 'Opening Weekends Adjusted': '1,720', 'Smallest Drops, All Wide Releases': '3,660', 'Lowest Grossing #1 Movies': '23', 'Fewest Theaters to Debut at #1': '194', 'Opening Weeks Adjusted': '1,843', 'Opening Weekends': '2,050', 'Lowest Grossing #1 Movies Adjusted': '64', 'Opening Weeks': '2,162', 'Yearly (Wide) 1998': '79', 'Yearly Opening Weekends 1998': '62'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'John Carter'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=johncarterofmars.htm"},
+					"ReleaseDate": {"S":"b'March 9, 2012'"},
+					"Genre": {"S":"b'Sci-Fi Adventure'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"ProductionBudget": {"S":"b'$250 million'"},
+					"DomesticTotalGross": {"S":"b'$73,078,100'"},
+					"Runtime": {"S":"b'2 hrs. 12 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Mark Andrews, Michael Chabon, Andrew Stanton'"},
+					"Producer": {"S":"b'Colin Wilson'"},
+					"Actor": {"S":"b'James Purefoy, Taylor Kitsch, Lynn Collins, Samantha Morton , Willem Dafoe, Thomas Haden Church, Mark Strong, Ciaran Hinds, Dominic West, Bryan Cranston*, Daryl Sabara*'"},
+					"Composer": {"S":"b'Michael Giacchino'"},
+					"Director": {"S":"b'Andrew Stanton'"},
+					"Domestic": {"S":"b'$73,078,100'"},
+					"Worldwide": {"S":"b'$284,139,100'"},
+					"Foreign": {"S":"b'$211,061,000'"},
+					"WidestRelease": {"S":"b'3,749 theaters'"},
+					"CloseDate": {"S":"b'June 28, 2012'"},
+					"OpeningWeekend": {"S":"b'$30,180,188'"},
+					"InRelease": {"S":"b'112 days / 16 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': '145', 'Sci-Fi - Based on Book': '20', 'Sci-Fi - Adventure': '44', 'IMAX (Feature-length)': '136'}"},
+					"Franchise": {"S":"{Showdown: 'Prince of Persia' Vs. 'Tron Legacy' Vs. 'John Carter' Vs. 'Lone Ranger': '4', Showdown: 'Battleship' Vs. 'John Carter': '1', 'Showdown: Sci-Fi Flops (2012-2013)': '1', Showdown: 'John' Vs. 'Jack': '1'}"},
+					"Chart": {"S":"{'Worldwide Openings': '131', 'All Time Domestic': '994', 'Opening Weekends Adjusted - March': '55', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '630', 'Smallest Drops, All Wide Releases': '3,495', 'Opening Weekends Adjusted - Spring': '80', 'Opening Weeks Adjusted': '732', 'Opening Weekends - Spring': '57', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,713', 'Opening Weeks': '518', 'Widest PG-13 Rated Openings': '98', 'All Time Worldwide': '436', 'Widest Opening Releases': '177', 'Opening Weekends - March': '41', 'Opening Weekends Not At #1 Adjusted': '125', 'Opening Weekends Adjusted': '675', 'Foreign Opening Weekends': '77', 'Opening Weekends Not At #1': '78', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,222', 'Widest PG-13 Rated Releases': '108', 'Widest Releases': '193', 'Opening Weekends': '472'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'John Dies at the End'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=johndiesattheend.htm"},
+					"ReleaseDate": {"S":"b'January 25, 2013'"},
+					"Genre": {"S":"b'Fantasy Comedy'"},
+					"Distributor": {"S":"b'Magnolia'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$141,951'"},
+					"Runtime": {"S":"b'1 hrs. 39 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Paul Giamatti'"},
+					"Composer": {"S":"b'Brian Tyler'"},
+					"Domestic": {"S":"b'$141,951'"},
+					"WidestRelease": {"S":"b'19 theaters'"},
+					"CloseDate": {"S":"b'April 11, 2013'"},
+					"OpeningWeekend": {"S":"b'$12,467'"},
+					"InRelease": {"S":"b'77 days / 11 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - Dark/Black': '71'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '9,883'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'John Q.'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=johnq.htm"},
+					"ReleaseDate": {"S":"b'February 15, 2002'"},
+					"Genre": {"S":"b'Drama / Thriller'"},
+					"Distributor": {"S":"b'New Line'"},
+					"ProductionBudget": {"S":"b'$36 million'"},
+					"DomesticTotalGross": {"S":"b'$71,756,802'"},
+					"Runtime": {"S":"b'1 hrs. 52 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Cinematographer": {"S":"b'Rogier Stoffers'"},
+					"Producer": {"S":"b'Michael De Luca'"},
+					"Actor": {"S":"b'Denzel Washington, Robert Duvall, James Woods, Anne Heche, Eddie Griffin, Kimberly Elise'"},
+					"Composer": {"S":"b'Aaron Zigman'"},
+					"Director": {"S":"b'Nick Cassavetes'"},
+					"Domestic": {"S":"b'$71,756,802'"},
+					"Worldwide": {"S":"b'$102,244,770'"},
+					"Foreign": {"S":"b'$30,487,968'"},
+					"WidestRelease": {"S":"b'2,505 theaters'"},
+					"CloseDate": {"S":"b'May 2, 2002'"},
+					"OpeningWeekend": {"S":"b'$20,275,194'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Hostage': '10'}"},
+					"Franchise": {"S":"{'Showdown: Denzel Washington Thriller Throwdown': '3'}"},
+					"Chart": {"S":"{'Highest All Time Rank (on May 14, 2002)': '387', 'Opening Weeks Adjusted': '804', 'All Time Domestic': '1,016', 'Worldwide Yearly 2002': '51', 'Opening Weekends Adjusted - Winter': '66', 'Opening Weekends - February': '60', 'Yearly Opening Weekends 2002': '30', 'Yearly (Wide) 2002': '39', 'Smallest Drops, All Wide Releases': '1,763', 'Yearly Opening Weekends (Wide) 2002': '31', President's Day 4-Day Holiday Weekends: '35', 'Yearly 2002': '39', 'Opening Weekends': '853', BOM Users' Grades (2002 Releases): '68', 'Opening Weekends Adjusted - February': '43', President's Day 4-Day Holiday Weekend Openers: '22', 'Smallest Drops, 2,000+ theaters (Very Wide)': '665', 'Opening Weeks': '869', 'Opening Weekends - Winter': '97', 'Opening Weekends Adjusted': '780', 'Yearly PG-13 Rated 2002': '20'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'John Rabe'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=johnrabe.htm"},
+					"ReleaseDate": {"S":"b'May 21, 2010'"},
+					"Genre": {"S":"b'Historical Drama'"},
+					"Distributor": {"S":"b'Strand'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$67,519'"},
+					"Runtime": {"S":"b'2 hrs. 14 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Actor": {"S":"b'Steve Buscemi'"},
+					"Domestic": {"S":"b'$67,519'"},
+					"Worldwide": {"S":"b'$67,519'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'6 theaters'"},
+					"CloseDate": {"S":"b'October 14, 2010'"},
+					"OpeningWeekend": {"S":"b'$4,892'"},
+					"InRelease": {"S":"b'147 days / 21 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '10,878'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'John Tucker Must Die'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=johntuckermustdie.htm"},
+					"ReleaseDate": {"S":"b'July 28, 2006'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'$18 million'"},
+					"DomesticTotalGross": {"S":"b'$41,011,711'"},
+					"Runtime": {"S":"b'1 hrs. 27 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Jeff Lowell'"},
+					"Producer": {"S":"b'Bob Cooper'"},
+					"Actor": {"S":"b'Penn Badgley, Jesse Metcalfe, Brittany Snow, Ashanti Douglas, Sophia Bush, Arielle Kebbel, Jenny McCarthy, Amanda Crew*, Taylor Kitsch*'"},
+					"Director": {"S":"b'Betty Thomas'"},
+					"Domestic": {"S":"b'$41,011,711'"},
+					"Worldwide": {"S":"b'$68,824,526'"},
+					"Foreign": {"S":"b'$27,812,815'"},
+					"WidestRelease": {"S":"b'2,566 theaters'"},
+					"CloseDate": {"S":"b'November 2, 2006'"},
+					"OpeningWeekend": {"S":"b'$14,276,534'"},
+					"InRelease": {"S":"b'98 days / 14 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - High School': '18', 'Summer Girl Power': '14'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2006': '75', 'Smallest Drops, All Wide Releases': '3,647', 'Yearly Opening Weekends 2006': '66', 'Worldwide Yearly 2006': '82', 'All Time Domestic': '1,898', 'Friday Share of Opening Weekends': '118', 'Yearly PG-13 Rated 2006': '33', 'Yearly Opening Weekends (Wide) 2006': '66', 'Opening Weekends Adjusted - July': '191', 'Opening Weekends - July': '149', 'Opening Weeks Adjusted': '1,279', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,299', 'Friday to Saturday Drops on Opening Weekends': '97', 'Yearly (Wide) 2006': '77', BOM Users' Grades (2006 Releases): '165', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,815', 'Opening Weeks': '1,124', 'Opening Weekends Adjusted': '1,507', 'Opening Weekends': '1,299'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'John Wick'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=johnwick.htm"},
+					"ReleaseDate": {"S":"b'October 24, 2014'"},
+					"Genre": {"S":"b'Action'"},
+					"Distributor": {"S":"b'Lionsgate/Summit'"},
+					"ProductionBudget": {"S":"b'$20 million'"},
+					"DomesticTotalGross": {"S":"b'$43,037,835'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Derek Kolstad'"},
+					"Producer": {"S":"b'Basil Iwanyk, David Leitch, Eva Longoria, Keanu Reeves, Chad Stahelski, Mike Witherill'"},
+					"Actor": {"S":"b'Keanu Reeves, Adrianne Palicki, Willem Dafoe, Michael Nyqvist, Bridget Moynahan, Ian McShane, Jason Isaacs, Alfie Allen, Lance Reddick'"},
+					"Director": {"S":"b'David Leitch, Chad Stahelski'"},
+					"Domestic": {"S":"b'$43,037,835'"},
+					"Worldwide": {"S":"b'$88,761,661'"},
+					"Foreign": {"S":"b'$45,723,826'"},
+					"WidestRelease": {"S":"b'2,589 theaters'"},
+					"CloseDate": {"S":"b'January 22, 2015'"},
+					"OpeningWeekend": {"S":"b'$14,415,922'"},
+					"InRelease": {"S":"b'91 days / 13 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Revenge': '30', 'Hitman / Assassin': '19', 'Dog': '19', 'IMAX (Feature-length)': '166'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weekends - Fall': '152', 'Opening Weekends - October': '83', 'Opening Weeks Adjusted': '1,958', 'All Time Domestic': '1,820', 'Smallest Drops, All Wide Releases': '2,360', 'Opening Weekends Adjusted - October': '138', 'Smallest Drops, 2,500+ theaters (Saturation)': '690', 'Opening Weeks': '1,309', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,003', 'Opening Weekends Adjusted': '1,924', 'Opening Weekends': '1,283'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'John Wick: Chapter Two'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=johnwick2.htm"},
+					"ReleaseDate": {"S":"b'February 10, 2017'"},
+					"Genre": {"S":"b'Action'"},
+					"Distributor": {"S":"b'Lionsgate/Summit'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalasofMar.22,2017": {"S":"b'$90,291,420'"},
+					"Runtime": {"S":"b'2 hrs. 2 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Derek Kolstad'"},
+					"Producer": {"S":"b'Basil Iwanyk'"},
+					"Actor": {"S":"b'Common, Laurence Fishburne, John Leguizamo, Ian McShane, Bridget Moynahan, Keanu Reeves, Ruby Rose'"},
+					"Director": {"S":"b'Chad Stahelski'"},
+					"Domestic": {"S":"b'$90,291,420'"},
+					"Worldwide": {"S":"b'$158,591,420'"},
+					"Foreign": {"S":"b'$68,300,000'"},
+					"WidestRelease": {"S":"b'3,113 theaters'"},
+					"OpeningWeekend": {"S":"b'$30,436,123'"},
+					"InRelease": {"S":"b'41 days / 5.9 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Hitman / Assassin': '11'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Rated R, Opening Weekends': '92', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '394', 'All Time Domestic': '752', 'Top Movies in the Past 365 Days': '37', 'Smallest Drops, All Wide Releases': '2,601', President's Day 4-Day Holiday Weekends: '53', 'Opening Weeks Adjusted': '765', 'Widest R Rated Releases': '147', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,155', 'Opening Weekends Adjusted - February': '42', 'Opening Weekends - Winter': '43', 'Rated R': '177', 'Widest Opening Releases': '703', 'Opening Weeks': '478', 'Rated R, Opening Weekends Adjusted': '200', 'Opening Weekends Adjusted - Winter': '65', 'Opening Weekends - February': '29', 'Opening Weekends Not At #1 Adjusted': '175', 'Opening Weekends Adjusted': '775', 'Opening Weekends Not At #1': '74', 'Smallest Drops, 2,500+ theaters (Saturation)': '801', 'Widest R Rated Openings': '120', 'Widest Releases': '776', 'Opening Weekends': '465'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'John and Mary'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=johnandmary.htm"},
+					"ReleaseDate": {"S":"b'December 14, 1969'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 32 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Ben Kadish'"},
+					"Actor": {"S":"b'Dustin Hoffman, Mia Farrow'"},
+					"Cinematographer": {"S":"b'Gayne Rescher'"},
+					"Writer": {"S":"b'John Mortimer'"},
+					"Composer": {"S":"b'Quincy Jones'"},
+					"Director": {"S":"b'Peter Yates'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Johnny Be Good'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=johnnybegood.htm"},
+					"ReleaseDate": {"S":"b'March 25, 1988'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Orion Pictures'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$17,550,399'"},
+					"Runtime": {"S":"b'1 hrs. 26 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Anthony Michael Hall, Uma Thurman'"},
+					"Director": {"S":"b'Bud S. Smith'"},
+					"Domestic": {"S":"b'$17,550,399'"},
+					"WidestRelease": {"S":"b'1,194 theaters'"},
+					"OpeningWeekend": {"S":"b'$5,249,388'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 1988': '36', 'All Time Domestic': '3,470', 'Yearly 1988': '59', 'Highest All Time Rank (on July 5, 1988)': '364', 'Yearly (Wide) 1988': '58', 'Opening Weekends Adjusted': '2,550', 'Smallest Drops, All Wide Releases': '2,291', 'Yearly R Rated 1988': '33', 'Opening Weeks Adjusted': '2,500', 'Opening Weekends': '2,955', 'Yearly Opening Weekends (Wide) 1988': '39', 'Opening Weeks': '2,921'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Johnny Belinda'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=johnnybelinda.htm"},
+					"ReleaseDate": {"S":"b'September 14, 1948'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 42 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Producer": {"S":"b'Jerry Wald'"},
+					"Actor": {"S":"b'Jane Wyman, Lew Ayres, Charles Bickford, Agnes Moorehead, Stephen McNally, Jan Sterling*, Rosalind Ivan*, Dan Seymour*, Mabel Paige*, Ida Moore*, Alan Napier*'"},
+					"Cinematographer": {"S":"b'Ted McCord'"},
+					"Writer": {"S":"b'Allen Vincent, Irma von Cube, Elmer Harris*'"},
+					"Composer": {"S":"b'Max Steiner'"},
+					"Director": {"S":"b'Jean Negulesco'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Johnny Dangerously'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=johnnydangerously.htm"},
+					"ReleaseDate": {"S":"b'December 21, 1984'"},
+					"Genre": {"S":"b'Crime Comedy'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$17,124,395'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Michael Keaton, Danny DeVito'"},
+					"Director": {"S":"b'Amy Heckerling'"},
+					"Domestic": {"S":"b'$17,124,395'"},
+					"WidestRelease": {"S":"b'1,106 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,947,746'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on February 12, 1985)': '423', 'Yearly Opening Weekends 1984': '62', BOM Users' Grades (1984 Releases): '47', 'All Time Domestic': '3,526', 'Yearly (Wide) 1984': '54', 'Yearly Opening Weekends (Wide) 1984': '65', 'Yearly 1984': '60', 'Yearly PG-13 Rated 1984': '6', 'Smallest Drops, All Wide Releases': '216'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Johnny English'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=johnnyenglish.htm"},
+					"ReleaseDate": {"S":"b'July 18, 2003'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'$40 million'"},
+					"DomesticTotalGross": {"S":"b'$28,082,366'"},
+					"Runtime": {"S":"b'1 hrs. 28 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'Neal Purvis, Robert Wade'"},
+					"Producer": {"S":"b'Tim Bevan, Eric Fellner'"},
+					"Actor": {"S":"b'Rowan Atkinson, John Malkovich'"},
+					"Composer": {"S":"b'Ed Shearmur'"},
+					"Domestic": {"S":"b'$28,082,366'"},
+					"Worldwide": {"S":"b'$160,583,018'"},
+					"Foreign": {"S":"b'$132,500,652'"},
+					"WidestRelease": {"S":"b'2,236 theaters'"},
+					"CloseDate": {"S":"b'September 25, 2003'"},
+					"OpeningWeekend": {"S":"b'$9,134,085'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - Bumbling': '22', 'Comedy - Spy': '21'}"},
+					"Franchise": {"S":"{Showdown: 'Mr. Bean' vs. 'Johnny English': '3'}"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '1,967', 'All Time Domestic': '2,623', 'Yearly (Wide) 2003': '96', 'Highest All Time Rank (on September 23, 2003)': '1350', 'Opening Weekends Adjusted': '2,198', 'Smallest Drops, All Wide Releases': '3,265', 'Yearly Opening Weekends (Wide) 2003': '95', 'Worldwide Yearly 2003': '35', 'Yearly PG Rated 2003': '18', 'Opening Weekends': '2,039', 'Yearly Opening Weekends 2003': '93', 'Opening Weeks': '1,845', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,565', BOM Users' Grades (2003 Releases): '96', 'Yearly 2003': '95'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Johnny English Reborn'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=johnnyenglish2.htm"},
+					"ReleaseDate": {"S":"b'October 21, 2011'"},
+					"Genre": {"S":"b'Action Comedy'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'$45 million'"},
+					"DomesticTotalGross": {"S":"b'$8,305,970'"},
+					"Runtime": {"S":"b'1 hrs. 41 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Producer": {"S":"b'Rowan Atkinson, Tim Bevan, Eric Fellner'"},
+					"Actor": {"S":"b'Rowan Atkinson, Rosamund Pike, Gillian Anderson, Dominic West'"},
+					"Composer": {"S":"b'Ilan Eshkeri'"},
+					"Director": {"S":"b'Oliver Parker'"},
+					"Domestic": {"S":"b'$8,305,970'"},
+					"Worldwide": {"S":"b'$160,078,586'"},
+					"Foreign": {"S":"b'$151,772,616'"},
+					"WidestRelease": {"S":"b'1,554 theaters'"},
+					"CloseDate": {"S":"b'November 24, 2011'"},
+					"OpeningWeekend": {"S":"b'$3,833,300'"},
+					"InRelease": {"S":"b'35 days / 5 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - Bumbling': '32', 'Comedy - Spy': '31'}"},
+					"Franchise": {"S":"{Showdown: 'Mr. Bean' vs. 'Johnny English': '4'}"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '4,182', 'All Time Domestic': '4,701', 'Opening Weeks': '3,595', 'Opening Weekends': '3,484', 'Opening Weekends Adjusted': '4,140', 'Smallest Drops, All Wide Releases': '3,560'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Johnny Handsome'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=johnnyhandsome.htm"},
+					"ReleaseDate": {"S":"b'September 29, 1989'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'TriStar'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$7,237,794'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Charles Roven'"},
+					"Actor": {"S":"b'Morgan Freeman, Lance Henriksen, Mickey Rourke, Forest Whitaker'"},
+					"Director": {"S":"b'Walter Hill'"},
+					"Domestic": {"S":"b'$7,237,794'"},
+					"WidestRelease": {"S":"b'813 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,437,642'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weekends Adjusted': '3,840', 'Yearly Opening Weekends (Wide) 1989': '86', 'Opening Weeks Adjusted': '3,819', 'Yearly Opening Weekends 1989': '79', 'All Time Domestic': '4,896', 'Highest All Time Rank (on October 24, 1989)': '1118', 'Yearly 1989': '99', 'Opening Weeks': '4,078', 'Opening Weekends': '4,093', 'Yearly (Wide) 1989': '89', 'Yearly R Rated 1989': '43'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Johnny Mnemonic'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=johnnymnemonic.htm"},
+					"ReleaseDate": {"S":"b'May 26, 1995'"},
+					"Genre": {"S":"b'Sci-Fi Action'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"ProductionBudget": {"S":"b'$26 million'"},
+					"DomesticTotalGross": {"S":"b'$19,075,720'"},
+					"Runtime": {"S":"b'1 hrs. 38 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Don Carmody'"},
+					"Actor": {"S":"b'Dolph Lundgren, Keanu Reeves'"},
+					"Director": {"S":"b'Robert Longo'"},
+					"Domestic": {"S":"b'$19,075,720'"},
+					"WidestRelease": {"S":"b'2,035 theaters'"},
+					"OpeningWeekend": {"S":"b'$6,033,850'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Future - Near': '50', 'Virtual Reality': '10', 'Sci-Fi Chase': '31'}"},
+					"Franchise": {"S":"{'Showdown: Future Chase': '5'}"},
+					"Chart": {"S":"{'Highest All Time Rank (on July 11, 1995)': '1044', 'Opening Weeks Adjusted': '2,205', 'Opening Weekends - May': '188', BOM Users' Grades (1995 Releases): '111', 'Opening Weekends Adjusted - May': '185', 'Yearly Opening Weekends (Wide) 1995': '73', 'Yearly (Wide) 1995': '80', 'Smallest Drops, All Wide Releases': '2,566', 'Yearly 1995': '84', 'Yearly Opening Weekends 1995': '68', 'Opening Weekends': '2,711', 'Memorial Day 4-Day Holiday Weekends': '140', 'Memorial Day 4-Day Holiday Weekend Openers': '66', 'Opening Weekends Adjusted': '2,385', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,132', 'Opening Weeks': '2,580', 'Yearly R Rated 1995': '36', 'All Time Domestic': '3,326'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Johnny Stecchino'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=johnnystecchino.htm"},
+					"ReleaseDate": {"S":"b'October 9, 1992'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'New Line'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$626,057'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Roberto Benigni'"},
+					"Director": {"S":"b'Roberto Benigni'"},
+					"Domestic": {"S":"b'$626,057'"},
+					"WidestRelease": {"S":"b'18 theaters'"},
+					"CloseDate": {"S":"b'February 25, 1993'"},
+					"OpeningWeekend": {"S":"b'$15,508'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '562'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 1992': '95', 'Yearly Opening Weekends (Limited) 1992': '74', 'Yearly (Limited) 1992': '55', 'All Time Domestic': '7,935', 'Highest All Time Rank (on June 4, 1982)': '715', 'Yearly 1992': '186', 'Yearly Opening Weekends 1992': '186'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Johnny Suede'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=johnnysuede.htm"},
+					"ReleaseDate": {"S":"b'August 14, 1992'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Miramax'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$90,091'"},
+					"Runtime": {"S":"b'1 hrs. 37 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Tom DiCillo'"},
+					"Actor": {"S":"b'Brad Pitt, Samuel L. Jackson*'"},
+					"Director": {"S":"b'Tom DiCillo'"},
+					"Domestic": {"S":"b'$90,091'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"OpeningWeekend": {"S":"b'$8,535'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 1992': '113', 'Yearly Opening Weekends (Limited) 1992': '89', 'Yearly (Limited) 1992': '77', 'All Time Domestic': '10,500', 'Highest All Time Rank (on August 20, 1992)': '2627', 'Yearly 1992': '217', 'Yearly Opening Weekends 1992': '201'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Johnson Family Vacation'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=johnsonfamilyvacation.htm"},
+					"ReleaseDate": {"S":"b'April 7, 2004'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Fox Searchlight'"},
+					"ProductionBudget": {"S":"b'$12 million'"},
+					"DomesticTotalGross": {"S":"b'$31,203,964'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Cedric the Entertainer, Paul Hall'"},
+					"Actor": {"S":"b'Cedric the Entertainer, Vanessa Williams, Bow Wow'"},
+					"Domestic": {"S":"b'$31,203,964'"},
+					"Worldwide": {"S":"b'$31,462,753'"},
+					"Foreign": {"S":"b'$258,789'"},
+					"WidestRelease": {"S":"b'1,326 theaters'"},
+					"CloseDate": {"S":"b'September 9, 2004'"},
+					"OpeningWeekend": {"S":"b'$9,375,307'"},
+					"InRelease": {"S":"b'156 days / 22.3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - Road Trip': '28'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2004': '88', 'All Time Domestic': '2,446', 'Opening Weeks Adjusted': '2,238', 'Yearly PG-13 Rated 2004': '47', 'Highest All Time Rank (on July 15, 2004)': '1311', BOM Users' Grades (2004 Releases): '169', 'Opening Weekends - April': '140', 'Opening Weekends Adjusted - April': '151', 'Opening Weekends Adjusted': '2,206', 'Smallest Drops, All Wide Releases': '1,585', 'Worldwide Yearly 2004': '114', 'Yearly Opening Weekends 2004': '81', 'Easter Opening Weekends': '40', 'Opening Weeks': '2,033', 'Yearly (Wide) 2004': '87', 'Yearly Opening Weekends (Wide) 2004': '84', 'Opening Weekends': '1,999'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Joker'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=joker.htm"},
+					"ReleaseDate": {"S":"b'August 31, 2012'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'UTV Communications'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$169,181'"},
+					"Runtime": {"S":"b'3 hrs. 20 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$169,181'"},
+					"Worldwide": {"S":"b'$169,181'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'74 theaters'"},
+					"CloseDate": {"S":"b'September 20, 2012'"},
+					"OpeningWeekend": {"S":"b'$105,366'"},
+					"InRelease": {"S":"b'21 days / 3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sci-Fi Comedy': '61', 'Foreign Language': '965'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '9,629'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jolly LLB'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jollyllb.htm"},
+					"ReleaseDate": {"S":"b'TBD'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'FIP'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': 'n/a'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jolly Llb 2'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jollyllb2.htm"},
+					"ReleaseDate": {"S":"b'February 10, 2017'"},
+					"Genre": {"S":"b'Comedy / Drama'"},
+					"Distributor": {"S":"b'FIP'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$1,654,254'"},
+					"Runtime": {"S":"b'2 hrs. 16 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$1,654,254'"},
+					"Worldwide": {"S":"b'$22,974,019'"},
+					"Foreign": {"S":"b'$21,319,765'"},
+					"WidestRelease": {"S":"b'173 theaters'"},
+					"CloseDate": {"S":"b'March 2, 2017'"},
+					"OpeningWeekend": {"S":"b'$774,355'"},
+					"InRelease": {"S":"b'21 days / 3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '267'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Top Movies in the Past 365 Days': '214', 'All Time Domestic': '6,723'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jonah Hex'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jonahhex.htm"},
+					"ReleaseDate": {"S":"b'June 18, 2010'"},
+					"Genre": {"S":"b'Western'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'$47 million'"},
+					"DomesticTotalGross": {"S":"b'$10,547,117'"},
+					"Runtime": {"S":"b'1 hrs. 21 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Mark Neveldine, Brian Taylor'"},
+					"Producer": {"S":"b'Akiva Goldsman, Jon Jashni, Andrew Lazar, Thomas Tull'"},
+					"Actor": {"S":"b'John Gallagher Jr., Josh Brolin, John Malkovich, Megan Fox, Michael Fassbender, Will Arnett, Michael Shannon, Lance Reddick, Aidan Quinn'"},
+					"Composer": {"S":"b'Marco Beltrami'"},
+					"Director": {"S":"b'Jimmy Hayward'"},
+					"Domestic": {"S":"b'$10,547,117'"},
+					"Worldwide": {"S":"b'$10,903,312'"},
+					"Foreign": {"S":"b'$356,195'"},
+					"WidestRelease": {"S":"b'2,825 theaters'"},
+					"CloseDate": {"S":"b'August 12, 2010'"},
+					"OpeningWeekend": {"S":"b'$5,379,365'"},
+					"InRelease": {"S":"b'56 days / 8 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Western': '41', 'Comic Book Adaptation': '127'}"},
+					"Franchise": {"S":"{'Brand: DC Comics': '26', 'Brand: Legendary Pictures': '43'}"},
+					"Chart": {"S":"{'Biggest 2nd Weekend Drops': '94', 'Opening Weeks Adjusted': '3,586', 'All Time Domestic': '4,370', 'Worst Openings - Saturated Adjusted': '44', 'Biggest Theater Drops': '5', 'Opening Weekends Adjusted': '3,689', 'Smallest Drops, All Wide Releases': '4,331', 'Worst Openings - Saturated': '50', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,627', 'Worst Openings - Very Wide': '195', 'Smallest Drops, 2,000+ theaters (Very Wide)': '2,265', 'Opening Weeks': '2,866', 'Worst Openings - Very Wide Adjusted': '133', 'Opening Weekends': '2,908'}"}
+				}
+			}
+		}
+	]
+}

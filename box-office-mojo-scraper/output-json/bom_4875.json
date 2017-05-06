@@ -1,0 +1,674 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fulltime Killer'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fulltimekiller.htm"},
+					"ReleaseDate": {"S":"b'March 21, 2003'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Palm'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$23,124'"},
+					"Runtime": {"S":"b'1 hrs. 42 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$23,124'"},
+					"Worldwide": {"S":"b'$23,124'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'5 theaters'"},
+					"OpeningWeekend": {"S":"b'$3,676'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Hitman / Assassin': '74', 'Foreign Language': '1571'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Worldwide Yearly 2003': '319', 'Highest All Time Rank (on April 22, 2003)': '5718', 'All Time Domestic': '12,333', 'Yearly 2003': '429', 'Yearly (Limited) 2003': '283', 'Yearly Opening Weekends 2003': '441', 'Yearly Opening Weekends (Limited) 2003': '312', 'Yearly Unrated Movies 2003': '118'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fun Size'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=funsize.htm"},
+					"ReleaseDate": {"S":"b'October 26, 2012'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'$14 million'"},
+					"DomesticTotalGross": {"S":"b'$9,409,538'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Max Werner'"},
+					"Producer": {"S":"b'Steve Golin, Paul Green , Josh Schwartz'"},
+					"Actor": {"S":"b'Victoria Justice, Jane Levy, Chelsea Handler, Johnny Knoxville, Thomas Mann'"},
+					"Director": {"S":"b'Josh Schwartz'"},
+					"Domestic": {"S":"b'$9,409,538'"},
+					"Worldwide": {"S":"b'$11,417,362'"},
+					"Foreign": {"S":"b'$2,007,824'"},
+					"WidestRelease": {"S":"b'3,016 theaters'"},
+					"CloseDate": {"S":"b'December 13, 2012'"},
+					"OpeningWeekend": {"S":"b'$4,101,017'"},
+					"InRelease": {"S":"b'49 days / 7 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - High School': '49'}"},
+					"Franchise": {"S":"{'Brand: Nickelodeon': '25'}"},
+					"Chart": {"S":"{'Widest Opening Releases': '866', 'Worst Openings - Super Saturated Adjusted': '1', 'Worst Openings - Saturated': '18', 'All Time Domestic': '4,545', 'Worst Openings - Super Saturated': '3', 'Worst Opening Weekend Per-Theater Averages Adjusted': '123', 'Worst Openings - Saturated Adjusted': '12', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '333', 'Opening Weekends Adjusted': '4,082', 'Smallest Drops, All Wide Releases': '2,311', 'Widest Releases': '917', 'Opening Weeks Adjusted': '4,117', 'Smallest Drops, 2,500+ theaters (Saturation)': '672', 'Biggest Theater Drops': '77', 'Worst Openings - Very Wide': '91', 'Smallest Drops, 2,000+ theaters (Very Wide)': '977', 'Opening Weeks': '3,473', 'Worst Openings - Very Wide Adjusted': '55', 'Opening Weekends': '3,370'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fun with Dick and Jane'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=funwithdickandjane.htm"},
+					"ReleaseDate": {"S":"b'December 21, 2005'"},
+					"Genre": {"S":"b'Crime Comedy'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"ProductionBudget": {"S":"b'$100 million'"},
+					"DomesticTotalGross": {"S":"b'$110,332,737'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Judd Apatow, Nick Stoller'"},
+					"Producer": {"S":"b'Jim Carrey, Brian Grazer'"},
+					"Actor": {"S":"b'Jim Carrey, Tea Leoni, Alec Baldwin'"},
+					"Composer": {"S":"b'Theodore Shapiro'"},
+					"Director": {"S":"b'Dean Parisot'"},
+					"Domestic": {"S":"b'$110,332,737'"},
+					"Worldwide": {"S":"b'$202,026,112'"},
+					"Foreign": {"S":"b'$91,693,375'"},
+					"WidestRelease": {"S":"b'3,239 theaters'"},
+					"CloseDate": {"S":"b'February 26, 2006'"},
+					"OpeningWeekend": {"S":"b'$14,383,515'"},
+					"InRelease": {"S":"b'72 days / 10.3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy Remake': '8'}"},
+					"Franchise": {"S":"{'Showdown: Jim Carrey Comedy': '3'}"},
+					"Chart": {"S":"{'Single Day Monday Gross Adjusted': '185', 'Movies That Never #1 Adjusted': '125', 'Opening Weeks Adjusted': '606', 'All Time Domestic': '559', 'Worst Openings - Super Saturated': '154', BOM Users' Grades (2005 Releases): '120', 'Movies That Never Hit #1': '99', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '10', 'Opening Weekends - December': '94', 'Yearly Opening Weekends 2005': '55', 'Smallest Drops, All Wide Releases': '103', 'Non-Friday Opening Weekends Adjusted': '167', BOM Users' Grades: '521', 'Yearly PG-13 Rated 2005': '11', 'Highest All Time Rank (on February 26, 2006)': '270', 'Smallest Drops, 2,000+ theaters (Very Wide)': '28', 'Opening Weeks': '592', 'Martin Lurther King 4-Day Holiday Weekends': '110', 'Yearly Opening Weekends (Wide) 2005': '56', 'All Time Worldwide': '678', 'Widest Opening Releases': '783', 'Friday to Saturday Drops on Opening Weekends': '7', 'Non-Friday Opening Weekends': '164', 'Opening Weekends Adjusted - December': '114', 'Worldwide Yearly 2005': '19', 'Opening Weekends Adjusted': '1,441', 'Slowest to $100 million': '190', 'Yearly (Wide) 2005': '18', 'Smallest Drops, 2,500+ theaters (Saturation)': '19', 'Yearly 2005': '18', 'Widest Releases': '580', 'Sunday Share of Opening Weekends': '6', 'Opening Weekends': '1,286'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Funny About Love'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=funnyaboutlove.htm"},
+					"ReleaseDate": {"S":"b'September 21, 1990'"},
+					"Genre": {"S":"b'Romantic Comedy'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$8,141,292'"},
+					"Runtime": {"S":"b'1 hrs. 41 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'David Frankel'"},
+					"Producer": {"S":"b'Jordan Kerner'"},
+					"Domestic": {"S":"b'$8,141,292'"},
+					"WidestRelease": {"S":"b'1,213 theaters'"},
+					"OpeningWeekend": {"S":"b'$3,036,352'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Romantic Comedy': '264'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Wide) 1990': '86', 'Opening Weeks Adjusted': '3,741', 'All Time Domestic': '4,725', 'Yearly Opening Weekends 1990': '82', 'Yearly (Wide) 1990': '101', 'Opening Weekends Adjusted': '3,604', 'Smallest Drops, All Wide Releases': '2,516', 'Opening Weekends': '3,825', 'Highest All Time Rank (on October 23, 1990)': '1169', 'Yearly 1990': '107', 'Opening Weeks': '3,954', 'Yearly PG-13 Rated 1990': '27'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Funny Bones'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=funnybones.htm"},
+					"ReleaseDate": {"S":"b'March 24, 1995'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$532,268'"},
+					"Runtime": {"S":"b'2 hrs. 8 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Simon Fields'"},
+					"Director": {"S":"b'Peter Chelsom'"},
+					"Domestic": {"S":"b'$532,268'"},
+					"WidestRelease": {"S":"b'49 theaters'"},
+					"CloseDate": {"S":"b'July 6, 1995'"},
+					"OpeningWeekend": {"S":"b'$26,946'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1995': '219', 'Yearly Opening Weekends 1995': '211', 'All Time Domestic': '8,157', 'Yearly Opening Weekends (Limited) 1995': '73', 'Yearly (Limited) 1995': '50', 'Yearly R Rated 1995': '120'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Funny Farm'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=funnyfarm.htm"},
+					"ReleaseDate": {"S":"b'June 3, 1988'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$25,537,221'"},
+					"Runtime": {"S":"b'1 hrs. 41 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Chevy Chase'"},
+					"Composer": {"S":"b'Elmer Bernstein'"},
+					"Director": {"S":"b'George Roy Hill'"},
+					"Domestic": {"S":"b'$25,537,221'"},
+					"WidestRelease": {"S":"b'1,557 theaters'"},
+					"OpeningWeekend": {"S":"b'$5,655,439'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 1988': '31', 'Yearly PG Rated 1988': '12', 'All Time Domestic': '2,792', 'Yearly 1988': '40', 'Yearly (Wide) 1988': '39', 'Opening Weekends Adjusted': '2,399', 'Smallest Drops, All Wide Releases': '964', 'Opening Weeks Adjusted': '2,290', 'Opening Weekends': '2,828', 'Yearly Opening Weekends (Wide) 1988': '34', 'Opening Weeks': '2,747', BOM Users' Grades (1988 Releases): '33', 'Highest All Time Rank (on July 19, 1988)': '434'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Funny Games'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=funnygames.htm"},
+					"ReleaseDate": {"S":"b'March 14, 2008'"},
+					"Genre": {"S":"b'Horror Thriller'"},
+					"Distributor": {"S":"b'Warner Independent'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$1,294,919'"},
+					"Runtime": {"S":"b'1 hrs. 48 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Michael Haneke'"},
+					"Cinematographer": {"S":"b'Darius Khondji'"},
+					"Actor": {"S":"b'Naomi Watts, Tim Roth, Michael Pitt, Brady Corbet'"},
+					"Director": {"S":"b'Michael Haneke'"},
+					"Domestic": {"S":"b'$1,294,919'"},
+					"Worldwide": {"S":"b'$7,938,872'"},
+					"Foreign": {"S":"b'$6,643,953'"},
+					"WidestRelease": {"S":"b'288 theaters'"},
+					"CloseDate": {"S":"b'May 1, 2008'"},
+					"OpeningWeekend": {"S":"b'$544,833'"},
+					"InRelease": {"S":"b'49 days / 7 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Horror Remake': '58', 'Horror - Torture': '25'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{BOM Users' Grades (2008 Releases): '129', 'All Time Domestic': '7,002', 'Worldwide Yearly 2008': '214', 'Yearly (Limited) 2008': '43', 'Yearly R Rated 2008': '73', 'Yearly Opening Weekends 2008': '166', 'Yearly 2008': '211', 'Yearly Opening Weekends (Limited) 2008': '18'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Funny Girl'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=funnygirl.htm"},
+					"ReleaseDate": {"S":"b'September 18, 1968'"},
+					"Runtime": {"S":"b'2 hrs. 31 min.'"},
+					"Distributor": {"S":"b'Columbia'"},
+					"DomesticLifetimeGross": {"S":"b''"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$52,000,000'"},
+					"Genre": {"S":"b'Musical'"},
+					"MPAARating": {"S":"b'G'"},
+					"Actor": {"S":"b'Barbra Streisand, Omar Sharif'"},
+					"Domestic": {"S":"b'$52,223,306'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Rated G': '81', 'All Time Domestic': '1,497', 'Highest All Time Rank (on January 1, 1982)': '76', 'All Time Adjusted': '176', 'Rated G Adjusted': '30', 'Rated G and PG Adjusted': '85'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Funny Girl (re-issue)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=funnygirl01.htm"},
+					"ReleaseDate": {"S":"b'August 31, 2001'"},
+					"Runtime": {"S":"b'2 hrs. 27 min.'"},
+					"Distributor": {"S":"b'Sony Repertory'"},
+					"DomesticLifetimeGross": {"S":"b''"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$223,306'"},
+					"Genre": {"S":"b'Musical'"},
+					"MPAARating": {"S":"b'G'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$52,223,306'"},
+					"WidestRelease": {"S":"b'3 theaters'"},
+					"CloseDate": {"S":"b'October 11, 2001'"},
+					"OpeningWeekend": {"S":"b'$65,560'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2001': '122', 'Yearly G Rated 2001': '10', 'Highest All Time Rank (on August 28, 2002)': '4309', 'Yearly 2001': '262', 'Yearly Opening Weekends 2001': '195', 'Yearly Opening Weekends (Limited) 2001': '67'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Funny Ha Ha'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=funnyhaha.htm"},
+					"ReleaseDate": {"S":"b'April 29, 2005'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Goodbye Cruel Releasing'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$77,070'"},
+					"Runtime": {"S":"b'1 hrs. 29 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$77,070'"},
+					"Worldwide": {"S":"b'$82,620'"},
+					"Foreign": {"S":"b'$5,550'"},
+					"WidestRelease": {"S":"b'3 theaters'"},
+					"CloseDate": {"S":"b'September 11, 2005'"},
+					"OpeningWeekend": {"S":"b'$10,555'"},
+					"InRelease": {"S":"b'140 days / 20 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Twentysomething': '28'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2005': '201', 'All Time Domestic': '10,705', 'Yearly 2005': '361', 'Yearly Opening Weekends (Limited) 2005': '212', 'Yearly Unrated Movies 2005': '69', 'Worldwide Yearly 2005': '328', 'Yearly Opening Weekends 2005': '351'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Funny Lady'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=funnylady.htm"},
+					"ReleaseDate": {"S":"b'March 9, 1975'"},
+					"Genre": {"S":"b'Musical'"},
+					"Distributor": {"S":"b'Columbia'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$39,000,000'"},
+					"Runtime": {"S":"b'2 hrs. 19 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Barbra Streisand, James Caan, Omar Sharif'"},
+					"Domestic": {"S":"b'$39,000,000'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Musical': '27'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '1,998'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Funny Money'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=funnymoney.htm"},
+					"ReleaseDate": {"S":"b'January 26, 2007'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'ThinkFilm'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$2,844'"},
+					"Runtime": {"S":"b'1 hrs. 38 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Chevy Chase, Penelope Ann Miller, Armand Assante'"},
+					"Domestic": {"S":"b'$2,844'"},
+					"Worldwide": {"S":"b'$31,290'"},
+					"Foreign": {"S":"b'$28,446'"},
+					"WidestRelease": {"S":"b'4 theaters'"},
+					"CloseDate": {"S":"b'February 1, 2007'"},
+					"OpeningWeekend": {"S":"b'$1,839'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Worldwide Yearly 2007': '441', 'Yearly Opening Weekends (Limited) 2007': '405', 'Yearly R Rated 2007': '206', 'Yearly Opening Weekends 2007': '572', 'Yearly 2007': '603', 'Yearly (Limited) 2007': '417', 'All Time Domestic': '14,302'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Funny People'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=funnypeople.htm"},
+					"ReleaseDate": {"S":"b'July 31, 2009'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'$75 million'"},
+					"DomesticTotalGross": {"S":"b'$51,855,045'"},
+					"Runtime": {"S":"b'2 hrs. 16 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Judd Apatow'"},
+					"Producer": {"S":"b'Judd Apatow, Jack Giarraputo, Evan Goldberg, Barry Mendel, Clayton Townsend'"},
+					"Actor": {"S":"b'Adam Sandler, Seth Rogen, Jonah Hill, Eric Bana, Leslie Mann, Jason Schwartzman, Aubrey Plaza, Justin Long*, Aziz Ansari*'"},
+					"Director": {"S":"b'Judd Apatow'"},
+					"Domestic": {"S":"b'$51,855,045'"},
+					"Worldwide": {"S":"b'$71,585,235'"},
+					"Foreign": {"S":"b'$19,730,190'"},
+					"WidestRelease": {"S":"b'3,008 theaters'"},
+					"CloseDate": {"S":"b'September 17, 2009'"},
+					"OpeningWeekend": {"S":"b'$22,657,780'"},
+					"InRelease": {"S":"b'49 days / 7 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Hollywood / Movies': '16'}"},
+					"Franchise": {"S":"{'Showdown: Apatow Director Outings': '5', 'Showdown: Apatow Attack': '6'}"},
+					"Chart": {"S":"{'Rated R, Opening Weekends': '174', 'Biggest 2nd Weekend Drops': '252', 'All Time Domestic': '1,512', 'Yearly Opening Weekends 2009': '48', 'Worldwide Yearly 2009': '78', 'Smallest Drops, All Wide Releases': '4,170', 'Opening Weeks Adjusted': '897', 'Yearly R Rated 2009': '17', 'Smallest Drops, 2,000+ theaters (Very Wide)': '2,169', 'Opening Weeks': '681', 'Opening Weekends Adjusted - July': '133', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '848', 'Widest Opening Releases': '884', 'Friday to Saturday Drops on Opening Weekends': '199', 'Opening Weekends Adjusted': '972', 'Opening Weekends - July': '96', 'Yearly (Wide) 2009': '60', 'Widest R Rated Openings': '185', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,553', BOM Users' Grades (2009 Releases): '55', 'Yearly 2009': '59', 'Widest Releases': '939', 'Yearly Opening Weekends (Wide) 2009': '50', 'Opening Weekends': '727'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fur: An Imaginary Portrait of Diane Arbus'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fur.htm"},
+					"ReleaseDate": {"S":"b'November 10, 2006'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Picturehouse'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$223,202'"},
+					"Runtime": {"S":"b'1 hrs. 58 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Nicole Kidman, Ty Burrell'"},
+					"Composer": {"S":"b'Carter Burwell'"},
+					"Cinematographer": {"S":"b'Bill Pope'"},
+					"Domestic": {"S":"b'$223,202'"},
+					"Worldwide": {"S":"b'$2,305,841'"},
+					"Foreign": {"S":"b'$2,082,639'"},
+					"WidestRelease": {"S":"b'39 theaters'"},
+					"CloseDate": {"S":"b'December 21, 2006'"},
+					"OpeningWeekend": {"S":"b'$28,815'"},
+					"InRelease": {"S":"b'42 days / 6 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2006': '320', 'Yearly R Rated 2006': '121', 'Yearly Opening Weekends 2006': '307', 'Worldwide Yearly 2006': '271', 'All Time Domestic': '9,281', 'Yearly (Limited) 2006': '145', 'Yearly Opening Weekends (Limited) 2006': '149', BOM Users' Grades (2006 Releases): '88'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Furious 7'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fast7.htm"},
+					"ReleaseDate": {"S":"b'April 3, 2015'"},
+					"Genre": {"S":"b'Action'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'$190 million'"},
+					"DomesticTotalGross": {"S":"b'$353,007,020'"},
+					"Runtime": {"S":"b'2 hrs. 17 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Chris Morgan'"},
+					"Producer": {"S":"b'Vin Diesel, Neal H. Moritz, Thomas Tull'"},
+					"Actor": {"S":"b'Tony Jaa, Vin Diesel, Paul Walker, Dwayne Johnson, Michelle Rodriguez, Jordana Brewster, Tyrese Gibson, Chris Ludacris Bridges, Lucas Black, Jason Statham, Djimon Hounsou, Kurt Russell'"},
+					"Composer": {"S":"b'Brian Tyler'"},
+					"Director": {"S":"b'James Wan'"},
+					"Domestic": {"S":"b'$353,007,020'"},
+					"Worldwide": {"S":"b'$1,516,045,911'"},
+					"Foreign": {"S":"b'$1,163,038,891'"},
+					"WidestRelease": {"S":"b'4,022 theaters'"},
+					"CloseDate": {"S":"b'July 24, 2015'"},
+					"OpeningWeekend": {"S":"b'$147,187,040'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'IMAX (Feature-length)': '19', 'Car Racing': '1'}"},
+					"Franchise": {"S":"{'Showdown: Biggest 2D-Only Openers': '5', Showdown: 'Fast Five' Vs. 'Fast 6' Vs. 'Furious 7': '1', 'Series: The Fast and the Furious': '1'}"},
+					"Chart": {"S":"{'Top 3-Day Grosses': '16', 'Slowest to $200 million': '156', 'Biggest 2nd Weekend Drops': '533', 'Rated PG-13 Adjusted': '51', 'Single Day Tuesday Gross': '31', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '758', 'Opening Weekends Adjusted - April': '1', 'Top 8-Day Grosses': '16', 'Opening Weekends Adjusted - Spring': '4', 'Single Day Monday Gross Adjusted': '86', 'Fastest to $150 million': '17', 'Non-Opening Friday Gross': '49', 'Single Day Saturday Gross': '15', 'Opening Weeks Adjusted': '28', 'Single Day Wednesday Gross': '99', 'Top 5-Day Grosses': '16', 'Single Day Gross': '19', 'Easter Opening Weekends': '2', 'Opening Day Gross': '16', 'All Time Worldwide': '6', 'Sixth Weekends': '193', 'Single Day Sunday Gross Adjusted': '44', 'Non-Holiday Monday Gross': '20', 'Single Day Friday Gross': '15', 'Non-Opening Tuesday Gross': '27', 'Rated PG-13, Opening Weekends Adjusted': '20', 'Second Weekends': '19', 'Highest All Time Rank (on June 11, 2015)': '29', 'Opening Weekends - April': '1', 'Single Day Tuesday Gross Adjusted': '54', 'Fastest to $200 million': '17', 'Second Weekends Adjusted': '45', 'Single Day Sunday Gross': '26', 'Fourth Weekends': '42', 'Opening Weekends': '16', 'Rated PG-13': '22', 'Widest PG-13 Rated Releases': '50', 'Consecutive Weekends At #1': '33', 'Most Weekends at #1 (non-consecutive)': '47', 'Theater Averages (Wide Releases) - All Time Adjusted': '38', 'Third Weekends': '35', 'Opening Weekends Adjusted': '23', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,417', 'Top 6-Day Grosses': '16', 'Most Weekends in Top 5 (non-consecutive)': '120', 'Single Day Wednesday Gross Adjusted': '166', 'Worldwide Openings': '5', 'Rated PG-13, Opening Weekends': '15', 'All Time Domestic': '37', 'Theater Averages - Wide Opening Weekends Adjusted': '37', 'Widest Opening Releases': '79', 'Top 9-Day Grosses': '16', 'Friday Share of Opening Weekends': '64', 'Non-Opening Wednesday Gross Adjusted': '109', 'Smallest Drops, All Wide Releases': '3,883', 'Theater Averages - Wide Opening Weekends': '15', 'Single Day Saturday Gross Adjusted': '29', 'Top 10-Day Grosses': '16', 'Opening Weekends - Spring': '4', 'All Time Adjusted': '166', 'Opening Weeks': '15', 'Consecutive Weekends In Top 5': '110', 'Slowest to $100 million': '619', 'Widest PG-13 Rated Openings': '50', 'Fastest to $100 million': '16', 'Third Weekends Adjusted': '97', 'Widest Releases': '79', 'Friday to Saturday Drops on Opening Weekends': '62', 'Single Day Friday Gross Adjusted': '19', 'Non-Opening Wednesday Gross': '58', 'Top 4-Day Grosses': '17', 'Non-Opening Tuesday Gross Adjusted': '47', 'Single Day Thursday Gross': '131', 'Single Day Monday Gross': '43', 'Fastest to $350 million': '30', 'Fourth Weekends Adjusted': '145', 'Fastest to $300 million': '23', 'Foreign Opening Weekends': '6', 'Theater Averages (Wide Releases) - All Time': '15', 'Lowest Grossing #1 Movies Adjusted': '77', 'Non-Opening Thursday Gross': '110', 'Fastest to $250 million': '16', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,977', 'Top 7-Day Grosses': '17'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Furry Vengeance'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=furryvengeance.htm"},
+					"ReleaseDate": {"S":"b'April 30, 2010'"},
+					"Genre": {"S":"b'Family Comedy'"},
+					"Distributor": {"S":"b'Summit Entertainment'"},
+					"ProductionBudget": {"S":"b'$35 million'"},
+					"DomesticTotalGross": {"S":"b'$17,630,465'"},
+					"Runtime": {"S":"b'1 hrs. 32 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Producer": {"S":"b'Robert Simonds'"},
+					"Actor": {"S":"b'Brendan Fraser, Rob Riggle*'"},
+					"Composer": {"S":"b'Ed Shearmur'"},
+					"Director": {"S":"b'Roger Kumble'"},
+					"Domestic": {"S":"b'$17,630,465'"},
+					"Worldwide": {"S":"b'$36,236,710'"},
+					"Foreign": {"S":"b'$18,606,245'"},
+					"WidestRelease": {"S":"b'3,002 theaters'"},
+					"CloseDate": {"S":"b'July 15, 2010'"},
+					"OpeningWeekend": {"S":"b'$6,627,564'"},
+					"InRelease": {"S":"b'77 days / 11 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Family - Animal (Live action)': '29', 'Environmentalist': '23'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Saturday Share of Opening Weekends': '200', 'Worst Openings - Saturated': '99', 'All Time Domestic': '3,459', 'Opening Weeks': '2,844', 'Worst Openings - Saturated Adjusted': '74', 'Opening Weekends - April': '195', 'Opening Weekends Adjusted': '3,360', 'Smallest Drops, All Wide Releases': '1,260', 'Widest Opening Independent Releases': '46', 'Opening Weeks Adjusted': '3,577', 'Widest Independent Releases': '49', 'Smallest Drops, 2,000+ theaters (Very Wide)': '420', 'Widest Releases': '961', 'Opening Weekends': '2,545', 'Smallest Drops, 2,500+ theaters (Saturation)': '272'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fury'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fury.htm"},
+					"ReleaseDate": {"S":"b'May 29, 1936'"},
+					"Genre": {"S":"b'Crime Drama'"},
+					"Distributor": {"S":"b'MGM'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 32 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Producer": {"S":"b'Joseph L. Mankiewicz'"},
+					"Actor": {"S":"b'Sylvia Sidney, Spencer Tracy, Walter Abel, Bruce Cabot, Edward Ellis, Walter Brennan, Frank Albertson, George Walcott'"},
+					"Cinematographer": {"S":"b'Joseph Ruttenberg'"},
+					"Writer": {"S":"b'Bartlett Cormak, Fritz Lang'"},
+					"Composer": {"S":"b'Franz Waxman'"},
+					"Director": {"S":"b'Fritz Lang'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fury (2014)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fury2014.htm"},
+					"ReleaseDate": {"S":"b'October 17, 2014'"},
+					"Genre": {"S":"b'War'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"ProductionBudget": {"S":"b'$68 million'"},
+					"DomesticTotalGross": {"S":"b'$85,817,906'"},
+					"Runtime": {"S":"b'2 hrs. 14 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'David Ayer'"},
+					"Producer": {"S":"b'David Ayer, Brad Pitt'"},
+					"Actor": {"S":"b'Brad Pitt, Logan Lerman, Shia LaBeouf, Michael Pena, Jon Bernthal, Jason Isaacs'"},
+					"Composer": {"S":"b'Steven Price'"},
+					"Director": {"S":"b'David Ayer'"},
+					"Domestic": {"S":"b'$85,817,906'"},
+					"Worldwide": {"S":"b'$211,817,906'"},
+					"Foreign": {"S":"b'$126,000,000'"},
+					"WidestRelease": {"S":"b'3,313 theaters'"},
+					"CloseDate": {"S":"b'January 19, 2015'"},
+					"OpeningWeekend": {"S":"b'$23,702,421'"},
+					"InRelease": {"S":"b'95 days / 13.6 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'War - World War 2': '8'}"},
+					"Franchise": {"S":"{Showdown: 'The Monuments Men' Vs. 'Fury': '1'}"},
+					"Chart": {"S":"{'All Time Worldwide': '642', 'Opening Weekends - Fall': '56', 'Opening Weekends - October': '33', 'Widest Releases': '516', 'All Time Domestic': '795', 'Rated R, Opening Weekends': '162', 'Opening Weekends Adjusted - October': '55', 'Widest R Rated Releases': '59', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '321', 'Post-Thanksgiving Weekend - Best Holds': '52', 'Smallest Drops, All Wide Releases': '2,263', 'Opening Weekends Adjusted - Fall': '101', 'Opening Weeks Adjusted': '1,027', 'Widest Opening Releases': '622', 'Smallest Drops, 2,500+ theaters (Saturation)': '650', 'Widest R Rated Openings': '92', 'Smallest Drops, 2,000+ theaters (Very Wide)': '946', 'Opening Weeks': '662', 'Rated R': '192', 'Opening Weekends Adjusted': '1,058', 'Opening Weekends': '682'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fury at Furnace Creek'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=furyatfurnacecreek.htm"},
+					"ReleaseDate": {"S":"b'April 30, 1948'"},
+					"Genre": {"S":"b'Western'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 28 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Producer": {"S":"b'Fred Kohlmar'"},
+					"Actor": {"S":"b'Victor Mature, Coleen Gray, Glenn Langan, Reginald Gardiner, Albert Dekker, Fred Clark, Robert Warwick'"},
+					"Cinematographer": {"S":"b'Harry Jackson'"},
+					"Writer": {"S":"b'Charles G. Booth, Winston Miller*'"},
+					"Composer": {"S":"b'David Raksin'"},
+					"Director": {"S":"b'H. Bruce Humberstone'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Future of Food'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=futureoffood.htm"},
+					"ReleaseDate": {"S":"b'September 14, 2005'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'Cinema Libre Studio'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$81,280'"},
+					"Runtime": {"S":"b'1 hrs. 28 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$81,280'"},
+					"WidestRelease": {"S":"b'5 theaters'"},
+					"CloseDate": {"S":"b'December 11, 2005'"},
+					"OpeningWeekend": {"S":"b'$8,721'"},
+					"InRelease": {"S":"b'93 days / 13.3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '645'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2005': '197', 'All Time Domestic': '10,637', 'Yearly 2005': '357', 'Yearly Opening Weekends (Limited) 2005': '232', 'Yearly Unrated Movies 2005': '67', 'Yearly Opening Weekends 2005': '371'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Futuro Beach'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=futurobeach.htm"},
+					"ReleaseDate": {"S":"b'February 27, 2015'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Strand'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$20,262'"},
+					"Runtime": {"S":"b'1 hrs. 46 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$20,262'"},
+					"WidestRelease": {"S":"b'4 theaters'"},
+					"CloseDate": {"S":"b'May 14, 2015'"},
+					"OpeningWeekend": {"S":"b'$3,324'"},
+					"InRelease": {"S":"b'77 days / 11 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1598', 'Gay / Lesbian': '268'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '12,515'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'G'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=g.htm"},
+					"ReleaseDate": {"S":"b'September 16, 2005'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Aloha Releasing'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$3,020,784'"},
+					"Runtime": {"S":"b'1 hrs. 39 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$3,020,784'"},
+					"Worldwide": {"S":"b'$3,020,784'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'495 theaters'"},
+					"CloseDate": {"S":"b'November 20, 2005'"},
+					"OpeningWeekend": {"S":"b'$248,337'"},
+					"InRelease": {"S":"b'70 days / 10 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2005': '29', 'All Time Domestic': '6,007', 'Yearly 2005': '182', 'Yearly R Rated 2005': '61', 'Yearly Opening Weekends (Limited) 2005': '33', 'Worldwide Yearly 2005': '228', 'Yearly Opening Weekends 2005': '171'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'G-Force'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=g-force.htm"},
+					"ReleaseDate": {"S":"b'July 24, 2009'"},
+					"Genre": {"S":"b'Family Adventure'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"ProductionBudget": {"S":"b'$150 million'"},
+					"DomesticTotalGross": {"S":"b'$119,436,770'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Producer": {"S":"b'Jerry Bruckheimer'"},
+					"Actor": {"S":"b'Bill Nighy, Sam Rockwell*, Will Arnett, Jon Favreau*, Zach Galifianakis, Nicolas Cage*, Penelope Cruz*, Steve Buscemi* , Tracy Morgan*'"},
+					"Composer": {"S":"b'Trevor Rabin'"},
+					"Domestic": {"S":"b'$119,436,770'"},
+					"Worldwide": {"S":"b'$292,817,841'"},
+					"Foreign": {"S":"b'$173,381,071'"},
+					"WidestRelease": {"S":"b'3,697 theaters'"},
+					"CloseDate": {"S":"b'December 3, 2009'"},
+					"OpeningWeekend": {"S":"b'$31,706,934'"},
+					"InRelease": {"S":"b'133 days / 19 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': '106', 'CGI Star': '25', 'Family - Talking Animal (Live action)': '9'}"},
+					"Franchise": {"S":"{'Showdown: C.G. Critter Clash': '4', 'Showdown: Mid-Range 3D Family Bash': '2', 'Showdown: Talking Critter Beatdown': '3'}"},
+					"Chart": {"S":"{'Smallest Drops, 3,000+ theaters (Super-Saturation)': '353', 'Rated PG': '129', 'All Time Domestic': '491', 'Yearly Opening Weekends 2009': '30', 'Worldwide Yearly 2009': '23', 'Smallest Drops, All Wide Releases': '2,394', 'Opening Weeks Adjusted': '478', 'Yearly Opening Weekends (Wide) 2009': '30', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,020', 'Yearly PG Rated 2009': '10', 'Yearly 2009': '26', 'Opening Weekends Adjusted - July': '85', 'All Time Worldwide': '416', 'Widest Opening Releases': '205', 'Opening Weeks': '367', 'Yearly (Wide) 2009': '27', 'Highest All Time Rank (on November 29, 2009)': '312', 'Widest PG Rated Releases': '87', 'Opening Weekends Adjusted': '558', 'Opening Weekends - July': '66', 'Slowest to $100 million': '244', 'Rated G and PG': '160', 'Rated G and PG, Opening Weekends': '116', 'Rated G and PG, Opening Weekends Adjusted': '164', 'Rated PG, Opening Weekends Adjusted': '133', BOM Users' Grades (2009 Releases): '157', 'Widest PG Rated Openings': '82', 'Widest Releases': '225', 'Opening Weekends': '434', 'Rated PG, Opening Weekends': '96', 'Smallest Drops, 2,500+ theaters (Saturation)': '704'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'G.B.F.'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=gbf.htm"},
+					"ReleaseDate": {"S":"b'January 17, 2014'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Vertical Entertainment'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Natasha Lyonne, Megan Mullally'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - High School': '72', 'Gay / Lesbian': '338'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'G.I. Jane'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=gijane.htm"},
+					"ReleaseDate": {"S":"b'August 22, 1997'"},
+					"Genre": {"S":"b'Action Drama'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$48,169,156'"},
+					"Runtime": {"S":"b'2 hrs. 5 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'David Twohy'"},
+					"Producer": {"S":"b'Roger Birnbaum, Ridley Scott'"},
+					"Actor": {"S":"b'Demi Moore, Viggo Mortensen, Anne Bancroft, James Caviezel*'"},
+					"Composer": {"S":"b'Trevor Jones'"},
+					"Director": {"S":"b'Ridley Scott'"},
+					"Domestic": {"S":"b'$48,169,156'"},
+					"WidestRelease": {"S":"b'2,043 theaters'"},
+					"OpeningWeekend": {"S":"b'$11,094,241'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Drama - Summer': '52', 'Action Heroine': '36'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{BOM Users' Grades (1997 Releases): '82', 'Yearly R Rated 1997': '16', 'Opening Weeks': '1,632', 'Opening Weeks Adjusted': '1,258', 'All Time Domestic': '1,632', 'Opening Weekends - August': '134', 'Highest All Time Rank (on October 10, 1997)': '463', 'Yearly Opening Weekends (Wide) 1997': '54', 'Labor Day 4-Day Holiday Weekends': '63', 'Yearly (Wide) 1997': '42', 'Opening Weekends Adjusted': '1,336', 'Smallest Drops, All Wide Releases': '853', 'Lowest Grossing #1 Movies': '12', 'Yearly Opening Weekends 1997': '51', 'Opening Weekends': '1,705', 'Yearly 1997': '42', 'Lowest Grossing #1 Movies Adjusted': '41', 'Consecutive Weekends At #1': '377', 'Most Weekends at #1 (non-consecutive)': '377', 'Opening Weekends Adjusted - August': '96'}"}
+				}
+			}
+		}
+	]
+}

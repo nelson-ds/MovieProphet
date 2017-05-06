@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Movie Prophet - The Box Office Sorcerer</title>
+
+    <!-- jQuery -->
+    <script src="{{url_for('static', filename='js/jquery.js')}}"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="{{url_for('static', filename='js/bootstrap.min.js')}}"></script>
+
+    <!-- Select2 -->
+    <script src="{{ url_for('static', filename='select2/js/select2.full.js') }}"></script>
+
+
+    <!-- Select2 -->
+    <link href= "{{ url_for('static', filename='select2/css/select2.min.css') }}" rel="stylesheet" />
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/sb-admin.css') }}">
+
+    <!-- Custom Fonts -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='font-awesome/css/font-awesome.min.css') }}">
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+    <script type=text/javascript>
+
+        $(function() {
+          $('a#calculate').bind('click', function() {
+            console.log($('input[name="f_budget"]').val());
+            console.log($('select[name="f_actors[]"]').val());
+            $.getJSON('/_return_revenue', {
+              f_moviename: $('input[name="f_moviename"]').val(),
+              f_budget: $('input[name="f_budget"]').val(),
+              f_production: $('input[name="f_production"]').val(),
+              f_actors: $('select[name="f_actors[]"]').val()
+            }, function(data) {
+              $("#info").html('<font size="4"> For the Movie: </font> <font size="6"><p> ' + data.mname + '</font> <font size="4"><p> With budget: <p><font size="6">$' + data.bdgt + '</font>')
+
+              $("#pic").empty().prepend('<img src="{{ url_for("static", filename="images/mprophet.gif") }}" style="width:128px;height:160px;" />')
+
+              $("#result").html('<p align="right"><font size="6"><font size="4">Revenue is: </font></p>')
+
+              if (data.result > 0) {
+                  $("#arrow").empty().html('<p align="right"><font size="6">$' + data.result + '  </font><img src="{{ url_for("static", filename="images/up.png") }}" style="width:24px;height:24px;" align="centre" /></p>')
+              }
+              else{
+                  $("#arrow").empty().html('<p align="right"><font size="6">$(' + data.result + ')  </font><img src="{{ url_for("static", filename="images/down.png") }}" style="width:24px;height:24px;" /></p>')
+              }
+            });
+            return false;
+          });
+        });
+    </script>
+
+
+    <script type="text/javascript">
+        function test_func(data) {
+            console.log(data);
+            $(document).ready(function() {
+            // $(".js-example-basic-multiple").select2({ containerCssClass: "mySpecialClass" });
+            $(".js-example-basic-multiple").select2({
+            data: data
+            });
+        });
+        }
+        test_func({{ data|safe }})
+
+
+    </script>
+
+</head>
+
+<body>
+
+    <div id="wrapper">
+
+        <!-- Navigation -->
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="{{ url_for('index') }}">Movie Prophet
+                <!-- <a class="navbar-brand" href="index.html"><img src="\images\mp_icon7.png" alt="Home" style="width:190px;height:35px;"> -->
+                </a>
+            </div>
+            <!-- Top Menu Items -->
+            <ul class="nav navbar-right top-nav">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-binoculars"></i> About <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="#"><i class="fa fa-fw fa-newspaper-o"></i> Abstract</a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-fw fa-laptop"></i> Analysis</a>
+                        </li>
+                        <li class="divider"></li>
+                        <li>
+                            <a href="#"><i class="fa fa-fw fa-users"></i> Creators</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+            <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav side-nav">
+                    <li>
+                        <a href="{{ url_for('index') }}"><i class="fa fa-fw fa-dashboard"></i> Dashboard</a>   
+                    </li>
+                    <li class="active">
+                        <a href="{{ url_for('prediction') }}"><i class="fa fa-fw fa-dashboard"></i> Prediction</a>   
+                    </li>
+                    <li>
+                        <a href="{{ url_for('chart') }}"><i class="fa fa-fw fa-bar-chart-o"></i> Charts</a>
+                    </li>
+                    <li>
+                        <a href="{{ url_for('table') }}"><i class="fa fa-fw fa-table"></i> Tables</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </nav>
+
+        <div id="page-wrapper">
+
+            <div class="container-fluid">
+
+                <!-- Page Heading -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h1 class="page-header">
+                            Prediction <small>Based on Movie Proposal</small>
+                        </h1>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6">
+
+                        <form role="form">
+
+                            <div class="form-group">
+                                <label for="moviename">Movie Name</label>
+                                <input class="form-control" type="text" name="f_moviename">
+                                <p class="help-block">Movie Name will not impact prediction</p>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="budget">Budget</label>
+                                <input class="form-control" placeholder="Enter amount in $" type="number" name="f_budget">
+                            </div>
+
+                            <div class="form-group">
+                                <label for="budget">Production House</label>
+                                <input class="form-control" name="f_production">
+                            </div>
+
+                            <div class="form-group">
+                                <label for="id_label_multiple"> Actors</label>
+                                <p><select class="js-example-basic-multiple form-control" multiple="multiple" style="width:100%" name="f_actors[]"></select>
+                            </div>
+
+
+                            <button type="button" class="btn btn-default"> <a href="javascript:void();" id="calculate" style="text-decoration:none; color:inherit;"> Submit</a></button>
+                            <button type="reset" class="btn btn-default">Reset</button>
+
+                        </form>
+
+                    </div>
+
+                    <div class="col-md-6">
+
+                        <div class="col-md-4">
+                            <span id="info"></span>
+                        </div>
+
+                        <div class="col-md-2">
+                            <span id="pic"><img src="{{ url_for("static", filename="images/mprophet.gif") }}" /></span>
+                        </div>
+
+                        <div class="col-md-6">
+                            <span id="result"></span>
+                            <span id="arrow"></span>
+                        </div>
+                    
+                </div>
+
+            </div>
+            <!-- /.container-fluid -->
+
+        </div>
+        <!-- /#page-wrapper -->
+
+    </div>
+    <!-- /#wrapper -->
+
+</body>
+
+</html>

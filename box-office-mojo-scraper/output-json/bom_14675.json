@@ -1,0 +1,669 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Solutrean'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=sonyeventfilm2017.htm"},
+					"Runtime": {"S":"b'N/A'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"Genre": {"S":"b'Unknown'"},
+					"ReleaseDate": {"S":"b'September 15, 2017'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unknown'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'IMAX (Feature-length)': 'n/a'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Son'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=son03.htm"},
+					"DomesticTotalGross": {"S":"b'$70,262'"},
+					"Runtime": {"S":"b'1 hrs. 43 min.'"},
+					"Distributor": {"S":"b'New Yorker'"},
+					"Genre": {"S":"b'Foreign'"},
+					"ReleaseDate": {"S":"b'January 10, 2003'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$70,262'"},
+					"Worldwide": {"S":"b'$70,262'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'3 theaters'"},
+					"OpeningWeekend": {"S":"b'$10,048'"},
+					"CloseDate": {"S":"b'January 29, 2004'"},
+					"InRelease": {"S":"b'259 days / 37 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1243'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2003': '221', 'Yearly Opening Weekends 2003': '362', 'Yearly Unrated Movies 2003': '77', 'Highest All Time Rank (on April 10, 2003)': '5547', 'Yearly 2003': '367', 'All Time Domestic': '10,826', 'Worldwide Yearly 2003': '300', 'Yearly Opening Weekends (Limited) 2003': '233'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Son of No One'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=sonofnoone.htm"},
+					"DomesticTotalGross": {"S":"b'$30,680'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"Distributor": {"S":"b'Anchor Bay Films'"},
+					"Genre": {"S":"b'Crime Thriller'"},
+					"ReleaseDate": {"S":"b'November 4, 2011'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Joy Gorman'"},
+					"Actor": {"S":"b'Channing Tatum, Al Pacino, Juliette Binoche, Ray Liotta, Katie Holmes, Tracy Morgan'"},
+					"Domestic": {"S":"b'$30,680'"},
+					"Worldwide": {"S":"b'$30,680'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'10 theaters'"},
+					"OpeningWeekend": {"S":"b'$18,015'"},
+					"CloseDate": {"S":"b'November 17, 2011'"},
+					"InRelease": {"S":"b'14 days / 2 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '11,951'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bThe Son's Room"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=sonsroom.htm"},
+					"DomesticTotalGross": {"S":"b'$1,016,340'"},
+					"Runtime": {"S":"b'1 hrs. 39 min.'"},
+					"Distributor": {"S":"b'Miramax'"},
+					"Genre": {"S":"b'Foreign'"},
+					"ReleaseDate": {"S":"b'January 25, 2002'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$1,016,340'"},
+					"Worldwide": {"S":"b'$11,767,402'"},
+					"Foreign": {"S":"b'$10,751,062'"},
+					"WidestRelease": {"S":"b'21 theaters'"},
+					"OpeningWeekend": {"S":"b'$4,887'"},
+					"CloseDate": {"S":"b'June 20, 2002'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{Cannes Film Festival - Palme D'Or winners: '26', 'Foreign Language': '400'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 2002': '386', 'Yearly Opening Weekends (Limited) 2002': '246', 'Highest All Time Rank (on August 28, 2002)': '3360', 'Yearly 2002': '231', 'Yearly R Rated 2002': '95', 'Yearly (Limited) 2002': '73', 'All Time Domestic': '7,349', 'Worldwide Yearly 2002': '169'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Song'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=song2014.htm"},
+					"DomesticTotalGross": {"S":"b'$1,009,620'"},
+					"Runtime": {"S":"b'1 hrs. 52 min.'"},
+					"Distributor": {"S":"b'Samuel Goldwyn'"},
+					"Genre": {"S":"b'Music Drama'"},
+					"ReleaseDate": {"S":"b'September 26, 2014'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$1,009,620'"},
+					"WidestRelease": {"S":"b'340 theaters'"},
+					"OpeningWeekend": {"S":"b'$568,596'"},
+					"CloseDate": {"S":"b'October 23, 2014'"},
+					"InRelease": {"S":"b'28 days / 4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Christian': '82'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '7,369'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Song of Sparrows'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=songofsparrows.htm"},
+					"DomesticTotalGross": {"S":"b'$116,372'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"Distributor": {"S":"b'Regent Releasing'"},
+					"Genre": {"S":"b'Foreign'"},
+					"ReleaseDate": {"S":"b'April 3, 2009'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$116,372'"},
+					"Worldwide": {"S":"b'$220,360'"},
+					"Foreign": {"S":"b'$103,988'"},
+					"WidestRelease": {"S":"b'5 theaters'"},
+					"OpeningWeekend": {"S":"b'$7,863'"},
+					"CloseDate": {"S":"b'December 10, 2009'"},
+					"InRelease": {"S":"b'231 days / 33 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1094'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 2009': '243', 'Yearly (Limited) 2009': '155', 'Yearly 2009': '307', 'Worldwide Yearly 2009': '309', 'All Time Domestic': '10,145', 'Yearly Opening Weekends 2009': '382', 'Yearly PG Rated 2009': '47'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Sons of Katie Elder'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=sonsofkatieelder.htm"},
+					"Runtime": {"S":"b'2 hrs. 2 min.'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"Genre": {"S":"b'Western'"},
+					"ReleaseDate": {"S":"b'July 1, 1965'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Producer": {"S":"b'Hal B. Wallis'"},
+					"Composer": {"S":"b'Elmer Bernstein'"},
+					"Actor": {"S":"b'John Wayne, Dean Martin, Martha Hyer, Earl Holliman, Jeremy Slate, James Gregory, Paul Fix, George Kennedy, Dennis Hopper, Sheldon Allman*, John Litel*, John Doucette*, James Westerfield*, Rhys Williams*, John Qualen*, Rodolfo Acosta*, Strother Martin*'"},
+					"Writer": {"S":"b'William H. Wright, Allan Weiss, Harry Essex, Talbot Jennings'"},
+					"Cinematographer": {"S":"b'Lucien Ballard'"},
+					"Director": {"S":"b'Henry Hathaway'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Sons of Tennessee Williams'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=sonsoftennesseewilliams.htm"},
+					"DomesticTotalGross": {"S":"b'$3,242'"},
+					"Runtime": {"S":"b'1 hrs. 22 min.'"},
+					"Distributor": {"S":"b'First Run'"},
+					"Genre": {"S":"b'Documentary'"},
+					"ReleaseDate": {"S":"b'October 7, 2011'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$3,242'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"OpeningWeekend": {"S":"b'$1,492'"},
+					"CloseDate": {"S":"b'October 20, 2011'"},
+					"InRelease": {"S":"b'14 days / 2 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '1377'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '14,230'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Sorcerer and the White Snake'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=sorcererandthewhitesnake.htm"},
+					"DomesticTotalGross": {"S":"b'$18,759'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"Distributor": {"S":"b'Magnolia'"},
+					"Genre": {"S":"b'Foreign / Action'"},
+					"ReleaseDate": {"S":"b'February 8, 2013'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$18,759'"},
+					"Worldwide": {"S":"b'$2,118,759'"},
+					"Foreign": {"S":"b'$2,100,000'"},
+					"WidestRelease": {"S":"b'4 theaters'"},
+					"OpeningWeekend": {"S":"b'$5,530'"},
+					"CloseDate": {"S":"b'March 14, 2013'"},
+					"InRelease": {"S":"b'35 days / 5 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Fantasy - Live Action': '127', 'Sword and Sorcery': '33', 'Foreign Language': '1613'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '12,614'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bThe Sorcerer's Apprentice"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=sorcerersapprentice.htm"},
+					"DomesticTotalGross": {"S":"b'$63,150,991'"},
+					"Runtime": {"S":"b'1 hrs. 51 min.'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"Genre": {"S":"b'Fantasy'"},
+					"ReleaseDate": {"S":"b'July 14, 2010'"},
+					"ProductionBudget": {"S":"b'$150 million'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'Carlo Bernard, Doug Miro'"},
+					"Producer": {"S":"b'Jerry Bruckheimer, Nicolas Cage, Todd Garner'"},
+					"Composer": {"S":"b'Trevor Rabin'"},
+					"Actor": {"S":"b'Nicolas Cage, Jay Baruchel, Alfred Molina, Teresa Palmer, Monica Bellucci'"},
+					"Director": {"S":"b'Jon Turteltaub'"},
+					"Domestic": {"S":"b'$63,150,991'"},
+					"Worldwide": {"S":"b'$215,283,742'"},
+					"Foreign": {"S":"b'$152,132,751'"},
+					"WidestRelease": {"S":"b'3,504 theaters'"},
+					"OpeningWeekend": {"S":"b'$17,619,622'"},
+					"CloseDate": {"S":"b'October 28, 2010'"},
+					"InRelease": {"S":"b'107 days / 15.3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Fantasy - Live Action': '48', 'Sword and Sorcery': '7'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Worldwide': '623', 'Smallest Drops, All Wide Releases': '2,437', 'Widest Opening Releases': '328', 'Widest PG Rated Releases': '118', 'Opening Weeks': '932', 'Opening Weekends - July': '130', 'Smallest Drops, 2,500+ theaters (Saturation)': '728', 'Widest Releases': '348', 'Non-Friday Opening Weekends': '135', 'Opening Weekends Adjusted': '1,418', 'Widest PG Rated Openings': '115', 'Non-Friday Opening Weekends Adjusted': '165', 'Opening Weeks Adjusted': '1,321', 'Opening Weekends Adjusted - July': '181', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,047', 'All Time Domestic': '1,211', 'Opening Weekends': '1,022', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '364'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Sound of Music'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=soundofmusic.htm"},
+					"DomesticTotalGross": {"S":"b'$158,671,368'"},
+					"Runtime": {"S":"b'2 hrs. 54 min.'"},
+					"Distributor": {"S":"b'Fox'"},
+					"Genre": {"S":"b'Musical'"},
+					"ReleaseDate": {"S":"b'March 2, 1965'"},
+					"ProductionBudget": {"S":"b'$8.2 million'"},
+					"MPAARating": {"S":"b'G'"},
+					"Producer": {"S":"b'Robert Wise, Saul Chaplin'"},
+					"Composer": {"S":"b'Richard Rodgers , Oscar Hammerstein II'"},
+					"Actor": {"S":"b'Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn, Peggy Wood, Charmian Carr, Heather Menzies, Nicholas Hammond, Duane Chase, Angela Cartwright, Debbie Turner, Kym Karath, Anna Lee, Portia Nelson, Ben Wright, Daniel Truhitte, Norma Varden, Gil Stuart, Marni Nixon, Evadne Baker, Doris Lloyd'"},
+					"Writer": {"S":"b'Ernest Lehman , Howard Lindsay , Russel Crouse'"},
+					"Cinematographer": {"S":"b'Ted McCord'"},
+					"Director": {"S":"b'Robert Wise'"},
+					"Domestic": {"S":"b'$158,671,368'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Rated G Adjusted': '2', BOM Users' Grades: '73', 'Rated G': '19', 'Rated G and PG': '102', 'All Time Adjusted': '3', 'All Time Domestic': '285', 'Highest All Time Rank (on January 1, 1982)': '7', 'Rated G and PG Adjusted': '3'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Source'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=source.htm"},
+					"DomesticTotalGross": {"S":"b'$362,649'"},
+					"Runtime": {"S":"b'1 hrs. 28 min.'"},
+					"Distributor": {"S":"b'Wellspring'"},
+					"Genre": {"S":"b'Documentary'"},
+					"ReleaseDate": {"S":"b'August 25, 1999'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Composer": {"S":"b'Philip Glass'"},
+					"Domestic": {"S":"b'$362,649'"},
+					"CloseDate": {"S":"b'June 29, 2000'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '297'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1999': '242', 'All Time Domestic': '8,611'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Space Between Us'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=thespacebetweenus.htm"},
+					"DomesticTotalGross": {"S":"b'$7,885,294'"},
+					"Runtime": {"S":"b'2 hrs. 1 min.'"},
+					"Distributor": {"S":"b'STX Entertainment'"},
+					"Genre": {"S":"b'Sci-Fi Adventure'"},
+					"ReleaseDate": {"S":"b'February 3, 2017'"},
+					"ProductionBudget": {"S":"b'$30 million'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Asa Butterfield, Britt Robertson, Carla Gugino, Gary Oldman'"},
+					"Director": {"S":"b'Peter Chelsom'"},
+					"Domestic": {"S":"b'$7,885,294'"},
+					"Worldwide": {"S":"b'$7,885,294'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'2,812 theaters'"},
+					"OpeningWeekend": {"S":"b'$3,775,596'"},
+					"CloseDate": {"S":"b'March 2, 2017'"},
+					"InRelease": {"S":"b'28 days / 4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sci-Fi - Adventure': '84'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Worst Openings - Very Wide Adjusted': '35', 'Biggest Theater Drops': '7', 'Smallest Drops, All Wide Releases': '3,519', 'Top Movies in the Past 365 Days': '137', 'Worst Opening Weekend Per-Theater Averages Adjusted': '101', 'Opening Weeks': '3,585', 'Worst Openings - Saturated Adjusted': '6', 'Opening Weekends Adjusted': '4,264', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,236', 'Worst Openings - Saturated': '11', 'Widest Independent Releases': '74', 'Saturday Share of Opening Weekends': '74', 'Opening Weeks Adjusted': '4,249', 'Super Bowl Opening Weekends': '47', 'Widest Opening Independent Releases': '70', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,731', 'All Time Domestic': '4,778', 'Opening Weekends': '3,511', 'Worst Openings - Very Wide': '70'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Spanish Prisoner'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=spanishprisoner.htm"},
+					"DomesticTotalGross": {"S":"b'$9,584,314'"},
+					"Runtime": {"S":"b'1 hrs. 50 min.'"},
+					"Distributor": {"S":"b'Sony Classics'"},
+					"Genre": {"S":"b'Drama / Thriller'"},
+					"ReleaseDate": {"S":"b'April 3, 1998'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'David Mamet'"},
+					"Composer": {"S":"b'Carter Burwell'"},
+					"Cinematographer": {"S":"b'Gabriel Beristain'"},
+					"Actor": {"S":"b'Campbell Scott, Steve Martin, Clark Gregg*'"},
+					"Director": {"S":"b'David Mamet'"},
+					"Domestic": {"S":"b'$9,584,314'"},
+					"WidestRelease": {"S":"b'296 theaters'"},
+					"OpeningWeekend": {"S":"b'$124,011'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Con Artist / Hustler': '29'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on May 22, 1998)': '1942', 'Yearly (Limited) 1998': '7', 'Yearly Opening Weekends 1998': '177', 'Yearly PG Rated 1998': '19', 'Movies That Never Hit the Top 10 Adjusted': '150', 'Yearly 1998': '131', 'All Time Domestic': '4,524', 'Yearly Opening Weekends (Limited) 1998': '49', BOM Users' Grades (1998 Releases): '17'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Specialist'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=specialist.htm"},
+					"DomesticTotalGross": {"S":"b'$57,362,582'"},
+					"Runtime": {"S":"b'1 hrs. 50 min.'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Genre": {"S":"b'Action'"},
+					"ReleaseDate": {"S":"b'October 7, 1994'"},
+					"ProductionBudget": {"S":"b'$45 million'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Sylvester Stallone, Sharon Stone'"},
+					"Domestic": {"S":"b'$57,362,582'"},
+					"Worldwide": {"S":"b'$170,362,582'"},
+					"Foreign": {"S":"b'$113,000,000'"},
+					"WidestRelease": {"S":"b'2,522 theaters'"},
+					"OpeningWeekend": {"S":"b'$14,317,765'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1994': '20', 'Yearly Opening Weekends (Wide) 1994': '16', 'Smallest Drops, All Wide Releases': '1,647', BOM Users' Grades (1994 Releases): '39', 'Opening Weeks': '1,293', 'Yearly Opening Weekends 1994': '15', 'Yearly (Wide) 1994': '21', 'Yearly R Rated 1994': '8', 'Smallest Drops, 2,500+ theaters (Saturation)': '403', 'Opening Weekends - October': '84', 'Opening Weekends Adjusted - October': '36', 'Opening Weekends - Fall': '155', 'Opening Weekends Adjusted - Fall': '65', 'Opening Weeks Adjusted': '795', 'Worldwide Yearly 1994': '16', 'Highest All Time Rank (on December 2, 1994)': '280', 'Smallest Drops, 2,000+ theaters (Very Wide)': '606', 'All Time Domestic': '1,346', 'Opening Weekends': '1,293', 'Opening Weekends Adjusted': '802'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Specials'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=specials.htm"},
+					"DomesticTotalGross": {"S":"b'$13,276'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"Distributor": {"S":"b'Regent Releasing'"},
+					"Genre": {"S":"b'Unknown'"},
+					"ReleaseDate": {"S":"b'September 22, 2000'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'James Gunn'"},
+					"Producer": {"S":"b'Craig Mazin'"},
+					"Actor": {"S":"b'Thomas Haden Church, Judy Greer, Jamie Kennedy, Rob Lowe, Jenna Fischer*'"},
+					"Director": {"S":"b'Craig Mazin'"},
+					"Domestic": {"S":"b'$13,276'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Superhero': '116', 'Superhero - Comedy': '18', 'Comedy - Spoof': '68'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 2000': '162', 'Yearly 2000': '358', 'Yearly (Limited) 2000': '207', 'All Time Domestic': '13,026', 'Highest All Time Rank (on August 28, 2002)': '4701'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Spectacular Now'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=spectacularnow.htm"},
+					"DomesticTotalGross": {"S":"b'$6,854,611'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"Distributor": {"S":"b'A24'"},
+					"Genre": {"S":"b'Comedy / Drama'"},
+					"ReleaseDate": {"S":"b'August 2, 2013'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Scott Neustadter, Michael H. Weber'"},
+					"Producer": {"S":"b'Scott Neustadter, Michael H. Weber'"},
+					"Actor": {"S":"b'Shailene Woodley, Miles Teller, Mary Elizabeth Winstead'"},
+					"Director": {"S":"b'James Ponsoldt'"},
+					"Domestic": {"S":"b'$6,854,611'"},
+					"Worldwide": {"S":"b'$6,854,611'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WideOpeningWeekend": {"S":"b'$704,950'"},
+					"WidestRelease": {"S":"b'770 theaters'"},
+					"CloseDate": {"S":"b'December 12, 2013'"},
+					"LimitedOpeningWeekend": {"S":"b'<b> $197,415</b>'"},
+					"InRelease": {"S":"b'133 days / 19 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Teen Romance': '50', 'Sundance 2013': '6'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Smallest Drops, All Wide Releases': '2,505', 'Theater Averages - All Time Adjusted': '139', 'Opening Weeks': '4,667', 'Opening Weekends Adjusted': '4,745', 'Theater Averages - Opening Weekends': '113', 'Opening Weekends': '4,727', 'Worst Openings - Wide Releases': '58', 'Worst Openings - Wide Releases Adjusted': '40', 'Worst Opening Weekend Per-Theater Averages': '90', 'All Time Domestic': '4,982', 'Opening Weeks Adjusted': '4,687', 'Worst Opening Weekend Per-Theater Averages Adjusted': '63'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Spiderwick Chronicles'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=spiderwickchronicles.htm"},
+					"DomesticTotalGross": {"S":"b'$71,195,053'"},
+					"Runtime": {"S":"b'1 hrs. 37 min.'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"Genre": {"S":"b'Fantasy'"},
+					"ReleaseDate": {"S":"b'February 14, 2008'"},
+					"ProductionBudget": {"S":"b'$90 million'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Producer": {"S":"b'Mark Canton, Larry J. Franco, Kathleen Kennedy, Frank Marshall'"},
+					"Composer": {"S":"b'James Horner'"},
+					"Actor": {"S":"b'Freddie Highmore, Nick Nolte, David Strathairn, Seth Rogen*, Martin Short*'"},
+					"Director": {"S":"b'Mark S. Waters'"},
+					"Domestic": {"S":"b'$71,195,053'"},
+					"Worldwide": {"S":"b'$162,839,667'"},
+					"Foreign": {"S":"b'$91,644,614'"},
+					"WidestRelease": {"S":"b'3,847 theaters'"},
+					"OpeningWeekend": {"S":"b'$19,004,058'"},
+					"CloseDate": {"S":"b'May 8, 2008'"},
+					"InRelease": {"S":"b'85 days / 12.1 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Fantasy - Live Action': '43', 'Young-Adult Book Adaptations': '32', Family - Children's Book Adaptation: '42', 'IMAX (Feature-length)': '140'}"},
+					"Franchise": {"S":"{'Showdown: Mid-Range Fantasy': '5', 'Brand: Nickelodeon': '15'}"},
+					"Chart": {"S":"{'Opening Weekends Adjusted - February': '81', 'Worldwide Yearly 2008': '41', 'Yearly Opening Weekends (Wide) 2008': '52', 'Opening Weekends - Winter': '114', BOM Users' Grades (2008 Releases): '55', 'Opening Weekends': '936', 'Widest PG Rated Releases': '57', 'Yearly 2008': '44', 'Rated PG, Opening Weekends': '185', President's Day 4-Day Holiday Weekend Openers: '20', 'Opening Weekends Adjusted - Winter': '135', 'Widest Releases': '150', 'Widest PG Rated Openings': '51', 'Opening Weekends - February': '69', 'All Time Domestic': '1,033', 'Opening Thursdays': '38', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '102', 'Smallest Drops, All Wide Releases': '1,153', 'Widest Opening Releases': '137', 'Yearly (Wide) 2008': '44', 'Yearly PG Rated 2008': '9', 'Opening Weeks': '810', 'Sunday Share of Opening Weekends': '82', President's Day 4-Day Holiday Weekends: '33', 'Smallest Drops, 2,500+ theaters (Saturation)': '228', 'Non-Friday Opening Weekends Adjusted': '150', 'Non-Friday Opening Weekends': '128', 'Opening Weekends Adjusted': '1,179', 'Yearly Opening Weekends 2008': '51', 'Smallest Drops, 2,000+ theaters (Very Wide)': '363', 'Opening Weeks Adjusted': '1,024'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Spirit'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=spirit09.htm"},
+					"DomesticTotalGross": {"S":"b'$19,806,188'"},
+					"Runtime": {"S":"b'1 hrs. 48 min.'"},
+					"Distributor": {"S":"b'Lionsgate'"},
+					"Genre": {"S":"b'Action Fantasy'"},
+					"ReleaseDate": {"S":"b'December 25, 2008'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Frank Miller'"},
+					"Producer": {"S":"b'Gigi Pritzker'"},
+					"Actor": {"S":"b'Gabriel Macht, Samuel L. Jackson, Scarlett Johansson, Eva Mendes'"},
+					"Director": {"S":"b'Frank Miller'"},
+					"Domestic": {"S":"b'$19,806,188'"},
+					"Worldwide": {"S":"b'$39,031,337'"},
+					"Foreign": {"S":"b'$19,225,149'"},
+					"WidestRelease": {"S":"b'2,509 theaters'"},
+					"OpeningWeekend": {"S":"b'$6,463,278'"},
+					"CloseDate": {"S":"b'January 22, 2008'"},
+					"InRelease": {"S":"b'29 days / 4.1 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Superhero': '91', 'Comic Book Adaptation': '116'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Worldwide Yearly 2008': '116', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,366', 'Smallest Drops, All Wide Releases': '2,936', BOM Users' Grades (2008 Releases): '177', 'Yearly PG-13 Rated 2008': '65', 'Yearly (Wide) 2008': '114', 'Opening Weeks': '2,314', 'Worst Openings - Saturated Adjusted': '92', 'Friday to Saturday Drops on Opening Weekends': '179', 'Smallest Drops, 2,500+ theaters (Saturation)': '963', 'Worst Openings - Saturated': '94', 'Yearly Opening Weekends (Wide) 2008': '112', 'Yearly Opening Weekends 2008': '110', 'Opening Thursdays': '27', 'Yearly 2008': '117', 'Opening Weeks Adjusted': '2,913', 'Biggest Theater Drops': '166', 'All Time Domestic': '3,259', 'Opening Weekends': '2,581', 'Opening Weekends Adjusted': '3,227'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bThe Spirit of '76"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=spiritof76.htm"},
+					"DomesticTotalGross": {"S":"b'$52,310'"},
+					"Runtime": {"S":"b'1 hrs. 21 min.'"},
+					"Distributor": {"S":"b'Columbia'"},
+					"Genre": {"S":"b'Unknown'"},
+					"ReleaseDate": {"S":"b'October 12, 1990'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Roman Coppola'"},
+					"Producer": {"S":"b'Roman Coppola'"},
+					"Domestic": {"S":"b'$52,310'"},
+					"WidestRelease": {"S":"b'12 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Time Travel': '58', That '70s Movie: '64'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1990': '219', 'Yearly PG-13 Rated 1990': '55', 'All Time Domestic': '11,246', 'Yearly (Limited) 1990': '82', 'Highest All Time Rank (on November 2, 1990)': '2227'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Spirit of St. Louis'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=spiritofstlouis.htm"},
+					"Runtime": {"S":"b'2 hrs. 15 min.'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Genre": {"S":"b'Historical Drama'"},
+					"ReleaseDate": {"S":"b'April 20, 1957'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Producer": {"S":"b'Leland Hayward, Cinematographers'"},
+					"Composer": {"S":"b'Franz Waxman'"},
+					"Actor": {"S":"b'James Stewart, Murray Hamilton, Patricia Smith, Bartlett Robinson'"},
+					"Writer": {"S":"b'Billy Wilder, Wendell Mayes, Charles Lederer'"},
+					"Cinematographer": {"S":"b'Robert Burks, J. Peverell Marley'"},
+					"Director": {"S":"b'Billy Wilder'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Spitfire Grill'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=spitfiregrill.htm"},
+					"DomesticTotalGross": {"S":"b'$12,658,486'"},
+					"Runtime": {"S":"b'1 hrs. 56 min.'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"Genre": {"S":"b'Drama'"},
+					"ReleaseDate": {"S":"b'August 23, 1996'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Composer": {"S":"b'James Horner'"},
+					"Domestic": {"S":"b'$12,658,486'"},
+					"WideOpeningWeekend": {"S":"b'$3,403,750'"},
+					"WidestRelease": {"S":"b'1,247 theaters'"},
+					"LimitedOpeningWeekend": {"S":"b'<b> $150,049</b>'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Wide) 1996': '110', 'Opening Weeks': '3,681', 'Opening Weekends Adjusted': '3,493', 'Smallest Drops, All Wide Releases': '983', 'Yearly PG-13 Rated 1996': '38', 'Opening Weeks Adjusted': '3,503', 'Yearly 1996': '114', 'Yearly Opening Weekends 1996': '168', 'Highest All Time Rank (on October 11, 1996)': '1509', 'Yearly Opening Weekends (Limited) 1996': '27', 'All Time Domestic': '4,078', 'Opening Weekends': '3,678', 'Yearly (Wide) 1996': '110'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Spoilers'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=spoilers.htm"},
+					"Runtime": {"S":"b'1 hrs. 27 min.'"},
+					"Distributor": {"S":"b'Universal'"},
+					"Genre": {"S":"b'Western'"},
+					"ReleaseDate": {"S":"b'May 8, 1942'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Producer": {"S":"b'Frank Lloyd, Charles K. Feldman'"},
+					"Composer": {"S":"b'Hans J. Salter'"},
+					"Actor": {"S":"b'Marlene Dietrich, Randolph Scott, John Wayne, Margaret Lindsay, Harry Carey, Richard Barthelmess, George Cleveland, Samuel S. Hinds, Russell Simpson'"},
+					"Writer": {"S":"b'Lawrence Hazard, Tom Reed'"},
+					"Cinematographer": {"S":"b'Milton Krasner'"},
+					"Director": {"S":"b'Ray Enright'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The SpongeBob Movie: Sponge Out of Water'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=spongebob2.htm"},
+					"DomesticTotalGross": {"S":"b'$162,994,032'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"Genre": {"S":"b'Animation'"},
+					"ReleaseDate": {"S":"b'February 6, 2015'"},
+					"ProductionBudget": {"S":"b'$74 million'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'Jonathan Aibel, Glenn Berger, Paul Tibbitt'"},
+					"Producer": {"S":"b'Mary Parent, Paul Tibbitt'"},
+					"Composer": {"S":"b'John Debney'"},
+					"Actor": {"S":"b'Antonio Banderas'"},
+					"Director": {"S":"b'Mike Mitchell, Paul Tibbitt'"},
+					"Domestic": {"S":"b'$162,994,032'"},
+					"Worldwide": {"S":"b'$325,186,032'"},
+					"Foreign": {"S":"b'$162,192,000'"},
+					"WidestRelease": {"S":"b'3,680 theaters'"},
+					"OpeningWeekend": {"S":"b'$55,365,012'"},
+					"CloseDate": {"S":"b'May 28, 2015'"},
+					"InRelease": {"S":"b'112 days / 16 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Animation': '55', 'Animation - TV Adaptation': '2', '3D': '77', 'CGI Star': '16'}"},
+					"Franchise": {"S":"{Showdown: 'SpongeBob' Showdown: '1', 'Brand: Nickelodeon': '2'}"},
+					"Chart": {"S":"{'Opening Weekends Adjusted - February': '7', 'Third Weekends': '187', 'Second Weekends': '146', 'Opening Weekends - Winter': '8', 'Top 3-Day Grosses': '157', 'Fourth Weekends': '192', 'Single Day Sunday Gross': '175', 'Rated PG, Opening Weekends': '40', 'Opening Weekends Adjusted - Winter': '9', 'Widest Releases': '233', 'Rated PG': '81', 'Theater Averages - Wide Opening Weekends': '182', 'Fastest to $150 million': '215', 'Widest PG Rated Openings': '93', 'Opening Weekends - February': '7', 'Rated G and PG': '98', 'Single Day Saturday Gross': '140', 'Slowest to $100 million': '443', 'All Time Domestic': '272', 'Opening Weekends': '163', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '312', 'Single Day Saturday Gross Adjusted': '207', 'All Time Worldwide': '355', 'Fastest to $100 million': '192', 'Smallest Drops, All Wide Releases': '2,226', 'Widest Opening Releases': '237', 'Opening Weeks': '244', 'Rated G and PG, Opening Weekends Adjusted': '67', 'Single Day Monday Gross': '142', President's Day 4-Day Holiday Weekends: '11', 'Smallest Drops, 2,500+ theaters (Saturation)': '635', 'Opening Weeks Adjusted': '370', 'Single Day Gross': '360', 'Rated PG Adjusted': '186', 'Rated PG, Opening Weekends Adjusted': '55', 'Opening Weekends Adjusted': '252', 'Highest All Time Rank (on May 24, 2015)': '243', 'Single Day Monday Gross Adjusted': '204', 'Widest PG Rated Releases': '91', 'Smallest Drops, 2,000+ theaters (Very Wide)': '925', 'Rated G and PG, Opening Weekends': '48'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The SpongeBob SquarePants Movie'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=spongebob.htm"},
+					"DomesticTotalGross": {"S":"b'$85,417,988'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"Genre": {"S":"b'Animation'"},
+					"ReleaseDate": {"S":"b'November 19, 2004'"},
+					"ProductionBudget": {"S":"b'$30 million'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Alec Baldwin*, Scarlett Johansson*'"},
+					"Domestic": {"S":"b'$85,417,988'"},
+					"Worldwide": {"S":"b'$140,161,792'"},
+					"Foreign": {"S":"b'$54,743,804'"},
+					"WidestRelease": {"S":"b'3,307 theaters'"},
+					"OpeningWeekend": {"S":"b'$32,018,216'"},
+					"CloseDate": {"S":"b'March 24, 2005'"},
+					"InRelease": {"S":"b'126 days / 18 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Animation': '102', 'Animation - TV Adaptation': '6'}"},
+					"Franchise": {"S":"{'Showdown: Pre-Thanksgiving Family Comparison': '4', Showdown: 'SpongeBob' Showdown: '2', 'Brand: Nickelodeon': '7'}"},
+					"Chart": {"S":"{'Yearly (Wide) 2004': '28', 'Opening Weekends Adjusted - Holiday': '93', 'Opening Weekends Adjusted - November': '66', 'Rated PG, Opening Weekends Adjusted': '94', 'Opening Weekends Not At #1': '62', 'Rated PG, Opening Weekends': '94', BOM Users' Grades (2004 Releases): '71', 'Highest All Time Rank (on March 5, 2005)': '384', 'Widest Releases': '524', 'Post-Thanksgiving Weekend  - Biggest Drops': '109', 'Rated G and PG, Opening Weekends': '114', 'Widest PG Rated Openings': '174', 'Yearly Opening Weekends (Wide) 2004': '19', 'Opening Weekends - November': '57', 'Smallest Drops, All Wide Releases': '2,344', 'Yearly PG Rated 2004': '7', 'All Time Domestic': '798', 'Opening Weekends': '429', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '340', 'Opening Weekends Not At #1 Adjusted': '39', 'Worldwide Yearly 2004': '38', 'Thanksgiving 3-day Weekends': '67', 'Widest Opening Releases': '570', 'Yearly 2004': '29', 'Opening Weeks': '495', 'Rated G and PG, Opening Weekends Adjusted': '114', 'Smallest Drops, 2,500+ theaters (Saturation)': '684', 'Opening Weekends - Holiday': '83', 'Widest PG Rated Releases': '162', 'Thanksgiving 3-day Weekends Adjusted': '76', 'Opening Weekends Adjusted': '406', 'Opening Weeks Adjusted': '486', 'Yearly Opening Weekends 2004': '19', 'Smallest Drops, 2,000+ theaters (Very Wide)': '995', 'Thanksgiving 5-day Weekends Adjusted': '67', 'Thanksgiving 5-day Weekends': '67'}"}
+				}
+			}
+		}
+	]
+}

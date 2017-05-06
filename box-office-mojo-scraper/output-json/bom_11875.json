@@ -1,0 +1,661 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Sunshine Superman'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=sunshinesuperman.htm"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"Distributor": {"S":"b'Magnolia'"},
+					"DomesticTotalasofAug.6,2015": {"S":"b'$88,097'"},
+					"Genre": {"S":"b'Documentary'"},
+					"ReleaseDate": {"S":"b'May 22, 2015'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$88,097'"},
+					"Worldwide": {"S":"b'$88,097'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'21 theaters'"},
+					"OpeningWeekend": {"S":"b'$8,991'"},
+					"InRelease": {"S":"b'77 days / 11 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '620'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '10,531'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Sunshine on Leith'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=sunshineonleith.htm"},
+					"Runtime": {"S":"b'N/A'"},
+					"Distributor": {"S":"b'Unknown'"},
+					"Genre": {"S":"b'Musical'"},
+					"ReleaseDate": {"S":"b'TBD'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Super'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=super2011.htm"},
+					"DomesticTotalGross": {"S":"b'$327,716'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"Distributor": {"S":"b'IFC'"},
+					"Genre": {"S":"b'Comedy'"},
+					"ReleaseDate": {"S":"b'April 1, 2011'"},
+					"ProductionBudget": {"S":"b'$2.5 million'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'James Gunn'"},
+					"Producer": {"S":"b'Ted Hope'"},
+					"Composer": {"S":"b'Tyler Bates'"},
+					"Actor": {"S":"b'Rainn Wilson, Ellen Page, Kevin Bacon, Liv Tyler'"},
+					"Director": {"S":"b'James Gunn'"},
+					"Domestic": {"S":"b'$327,716'"},
+					"Worldwide": {"S":"b'$327,716'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'39 theaters'"},
+					"OpeningWeekend": {"S":"b'$46,549'"},
+					"CloseDate": {"S":"b'May 26, 2011'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Superhero': '114', 'Superhero - Comedy': '16'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '8,739'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Super 8'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=super8.htm"},
+					"DomesticTotalGross": {"S":"b'$127,004,179'"},
+					"Runtime": {"S":"b'1 hrs. 52 min.'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"Genre": {"S":"b'Sci-Fi'"},
+					"ReleaseDate": {"S":"b'June 10, 2011'"},
+					"ProductionBudget": {"S":"b'$50 million'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'J.J. Abrams, Bryan Burk, Steven Spielberg'"},
+					"Composer": {"S":"b'Michael Giacchino'"},
+					"Actor": {"S":"b'Kyle Chandler, Elle Fanning, Noah Emmerich'"},
+					"Writer": {"S":"b'J.J. Abrams'"},
+					"Cinematographer": {"S":"b'Larry Fong'"},
+					"Director": {"S":"b'J.J. Abrams'"},
+					"Domestic": {"S":"b'$127,004,179'"},
+					"Worldwide": {"S":"b'$260,095,986'"},
+					"Foreign": {"S":"b'$133,091,807'"},
+					"WidestRelease": {"S":"b'3,424 theaters'"},
+					"OpeningWeekend": {"S":"b'$35,451,168'"},
+					"CloseDate": {"S":"b'September 29, 2011'"},
+					"InRelease": {"S":"b'112 days / 16 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Creature Feature': '9', That '70s Movie: '8', 'IMAX (Feature-length)': '100'}"},
+					"Franchise": {"S":"{Showdown: 'Prometheus' Vs. 'Super 8': '2', Showdown: 'Super 8' Vs. 'Cowboys &amp; Aliens' Showdown: '1', 'Brand: Bad Robot': '7'}"},
+					"Chart": {"S":"{'All Time Worldwide': '484', 'Slowest to $100 million': '297', 'Opening Weekends - June': '62', 'Smallest Drops, All Wide Releases': '1,843', 'Widest Opening Releases': '424', 'Opening Weeks': '352', 'Opening Weekends Adjusted': '526', 'Smallest Drops, 2,500+ theaters (Saturation)': '479', 'Widest Releases': '424', 'Opening Weeks Adjusted': '519', 'Highest All Time Rank (on September 25, 2011)': '313', 'Independence Day Weekends': '135', 'Opening Weekends Adjusted - June': '100', 'Smallest Drops, 2,000+ theaters (Very Wide)': '710', 'All Time Domestic': '439', 'Opening Weekends': '367', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '238'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Super Babies: Baby Geniuses 2'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=babygeniuses2.htm"},
+					"DomesticTotalGross": {"S":"b'$9,219,388'"},
+					"Runtime": {"S":"b'1 hrs. 28 min.'"},
+					"Distributor": {"S":"b'Triumph'"},
+					"Genre": {"S":"b'Family Comedy'"},
+					"ReleaseDate": {"S":"b'August 27, 2004'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Producer": {"S":"b'Steven Paul'"},
+					"Actor": {"S":"b'Jon Voight'"},
+					"Domestic": {"S":"b'$9,219,388'"},
+					"Worldwide": {"S":"b'$9,448,644'"},
+					"Foreign": {"S":"b'$229,256'"},
+					"WidestRelease": {"S":"b'1,276 theaters'"},
+					"OpeningWeekend": {"S":"b'$3,251,856'"},
+					"CloseDate": {"S":"b'October 3, 2004'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - Sequel (Live Action)': '105'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Wide) 2004': '137', 'Yearly Opening Weekends (Wide) 2004': '137', BOM Users' Grades (2004 Releases): '186', 'Highest All Time Rank (on August 31, 2004)': '3779', 'Yearly 2004': '145', 'Opening Weeks': '3,755', 'Opening Weekends Adjusted': '4,044', 'Opening Weekends': '3,741', 'Opening Weeks Adjusted': '4,045', 'Yearly Opening Weekends 2004': '131', 'Smallest Drops, All Wide Releases': '2,420', 'Yearly PG Rated 2004': '30', 'All Time Domestic': '4,565', 'Worldwide Yearly 2004': '178'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Super Capers'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=supercapers.htm"},
+					"DomesticTotalGross": {"S":"b'$30,955'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"Distributor": {"S":"b'Roadside Attractions'"},
+					"Genre": {"S":"b'Comedy'"},
+					"ReleaseDate": {"S":"b'March 20, 2009'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$30,955'"},
+					"WidestRelease": {"S":"b'80 theaters'"},
+					"OpeningWeekend": {"S":"b'$21,559'"},
+					"CloseDate": {"S":"b'April 23, 2009'"},
+					"InRelease": {"S":"b'35 days / 5 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Superhero': '115', 'Superhero - Comedy': '17'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2009': '242', 'Yearly Opening Weekends (Limited) 2009': '153', 'Yearly 2009': '394', 'All Time Domestic': '11,938', 'Yearly Opening Weekends 2009': '292', 'Yearly PG Rated 2009': '56'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Super Mario Bros.'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=supermariobros.htm"},
+					"DomesticTotalGross": {"S":"b'$20,915,465'"},
+					"Runtime": {"S":"b'1 hrs. 44 min.'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"Genre": {"S":"b'Family Adventure'"},
+					"ReleaseDate": {"S":"b'May 28, 1993'"},
+					"ProductionBudget": {"S":"b'$48 million'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'Ed Solomon'"},
+					"Composer": {"S":"b'Alan Silvestri'"},
+					"Actor": {"S":"b'Bob Hoskins, John Leguizamo, Dennis Hopper, Samantha Mathis, Lance Henriksen*'"},
+					"Director": {"S":"b'Roland Joffe'"},
+					"Domestic": {"S":"b'$20,915,465'"},
+					"WidestRelease": {"S":"b'2,081 theaters'"},
+					"OpeningWeekend": {"S":"b'$8,532,623'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Video Game Adaptation': '25'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly PG Rated 1993': '23', 'Memorial Day 4-Day Holiday Weekend Openers': '64', 'Highest All Time Rank (on June 29, 1993)': '819', 'Yearly (Wide) 1993': '67', 'Memorial Day 4-Day Holiday Weekends': '129', BOM Users' Grades (1993 Releases): '109', 'Yearly Opening Weekends (Wide) 1993': '35', 'All Time Domestic': '3,158', 'Yearly 1993': '74', 'Yearly Opening Weekends 1993': '35'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Super Secret Ghost Project (untitled as of yet)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=supersecretghostproject.htm"},
+					"Runtime": {"S":"b'N/A'"},
+					"Distributor": {"S":"b'Paramount (DreamWorks)'"},
+					"Genre": {"S":"b'Animation'"},
+					"ReleaseDate": {"S":"b'TBD'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Animation': 'n/a', 'Animation - Computer': 'n/a', '3D': 'n/a'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Super Size Me'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=supersizeme.htm"},
+					"DomesticTotalGross": {"S":"b'$11,536,423'"},
+					"Runtime": {"S":"b'1 hrs. 38 min.'"},
+					"Distributor": {"S":"b'IDP'"},
+					"Genre": {"S":"b'Documentary'"},
+					"ReleaseDate": {"S":"b'May 7, 2004'"},
+					"ProductionBudget": {"S":"b'$65,000'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Morgan Spurlock'"},
+					"Producer": {"S":"b'Morgan Spurlock'"},
+					"Director": {"S":"b'Morgan Spurlock'"},
+					"Domestic": {"S":"b'$11,536,423'"},
+					"Worldwide": {"S":"b'$20,641,054'"},
+					"Foreign": {"S":"b'$9,104,631'"},
+					"WidestRelease": {"S":"b'230 theaters'"},
+					"OpeningWeekend": {"S":"b'$516,641'"},
+					"CloseDate": {"S":"b'September 30, 2004'"},
+					"InRelease": {"S":"b'147 days / 21 weeks'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"{'Documentary': '23'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2004': '4', 'Highest All Time Rank (on August 26, 2004)': '2607', 'Yearly Opening Weekends (Limited) 2004': '13', BOM Users' Grades (2004 Releases): '43', 'Yearly 2004': '138', 'Yearly Opening Weekends 2004': '150', 'All Time Domestic': '4,231', 'Worldwide Yearly 2004': '138', 'Yearly PG-13 Rated 2004': '74'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Super Sucker'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=supersucker.htm"},
+					"DomesticTotalGross": {"S":"b'$137,628'"},
+					"Runtime": {"S":"b'2 hrs. 10 min.'"},
+					"Distributor": {"S":"b'Purple'"},
+					"Genre": {"S":"b'Unknown'"},
+					"ReleaseDate": {"S":"b'January 24, 2003'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$137,628'"},
+					"WidestRelease": {"S":"b'115 theaters'"},
+					"OpeningWeekend": {"S":"b'$89,551'"},
+					"CloseDate": {"S":"b'February 2, 2003'"},
+					"InRelease": {"S":"b'10 days / 1.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2003': '182', 'Yearly Opening Weekends 2003': '206', 'Yearly Opening Weekends (Limited) 2003': '77', 'Yearly R Rated 2003': '134', 'Yearly 2003': '328', 'Highest All Time Rank (on February 2, 2003)': '5196', 'All Time Domestic': '9,926'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Super Troopers'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=supertroopers.htm"},
+					"DomesticTotalGross": {"S":"b'$18,492,362'"},
+					"Runtime": {"S":"b'1 hrs. 43 min.'"},
+					"Distributor": {"S":"b'Fox Searchlight'"},
+					"Genre": {"S":"b'Comedy'"},
+					"ReleaseDate": {"S":"b'February 15, 2002'"},
+					"ProductionBudget": {"S":"b'$3 million'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Brian Cox'"},
+					"Director": {"S":"b'Jay Chandrasekhar'"},
+					"Domestic": {"S":"b'$18,492,362'"},
+					"Worldwide": {"S":"b'$23,182,223'"},
+					"Foreign": {"S":"b'$4,689,861'"},
+					"WidestRelease": {"S":"b'1,805 theaters'"},
+					"OpeningWeekend": {"S":"b'$6,203,906'"},
+					"CloseDate": {"S":"b'May 2, 2002'"},
+					"InRelease": {"S":"b'77 days / 11 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"{'Brand: Broken Lizard': '2'}"},
+					"Chart": {"S":"{'Yearly Opening Weekends 2002': '105', 'Worldwide Yearly 2002': '128', 'Smallest Drops, All Wide Releases': '1,627', 'Yearly 2002': '111', President's Day 4-Day Holiday Weekends: '168', 'Opening Weeks': '2,658', 'Opening Weekends Adjusted': '2,918', President's Day 4-Day Holiday Weekend Openers: '78', BOM Users' Grades (2002 Releases): '115', 'Opening Weeks Adjusted': '2,858', 'Yearly (Wide) 2002': '109', 'Yearly R Rated 2002': '36', 'Highest All Time Rank (on August 28, 2002)': '1364', 'All Time Domestic': '3,386', 'Opening Weekends': '2,643', 'Yearly Opening Weekends (Wide) 2002': '110'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Superbad'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=superbad.htm"},
+					"DomesticTotalGross": {"S":"b'$121,463,226'"},
+					"Runtime": {"S":"b'1 hrs. 54 min.'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"Genre": {"S":"b'Comedy'"},
+					"ReleaseDate": {"S":"b'August 17, 2007'"},
+					"ProductionBudget": {"S":"b'$20 million'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Judd Apatow, Shauna Robertson, Seth Rogen, Evan Goldberg'"},
+					"Composer": {"S":"b'Lyle Workman'"},
+					"Actor": {"S":"b'Jonah Hill, Michael Cera, Bill Hader, Seth Rogen, Emma Stone, Clark Duke*'"},
+					"Writer": {"S":"b'Seth Rogen, Evan Goldberg'"},
+					"Cinematographer": {"S":"b'Russ Alsobrook'"},
+					"Director": {"S":"b'Greg Mottola'"},
+					"Domestic": {"S":"b'$121,463,226'"},
+					"Worldwide": {"S":"b'$169,871,719'"},
+					"Foreign": {"S":"b'$48,408,493'"},
+					"WidestRelease": {"S":"b'3,069 theaters'"},
+					"OpeningWeekend": {"S":"b'$33,052,411'"},
+					"CloseDate": {"S":"b'October 21, 2007'"},
+					"InRelease": {"S":"b'70 days / 10 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Slacker / Stoner': '7', 'Comedy - High School': '2', 'Comedy - R-Rated Youth': '13'}"},
+					"Franchise": {"S":"{'Showdown: Apatow Attack': '3', Showdown: 'Superbad' Vs. '21 Jump Street': '2', 'Showdown: Original R-Rated Comedies in August': '2'}"},
+					"Chart": {"S":"{BOM Users' Grades: '156', 'Opening Weekends Adjusted': '450', 'Yearly R Rated 2007': '4', 'Consecutive Weekends At #1': '301', 'Highest All Time Rank (on October 21, 2007)': '252', 'Yearly 2007': '22', BOM Users' Grades (2007 Releases): '37', 'Widest Releases': '837', 'Yearly (Wide) 2007': '22', 'Opening Weekends Adjusted - August': '27', 'Rated R, Opening Weekends Adjusted': '80', 'Widest R Rated Releases': '170', 'All Time Domestic': '477', 'Opening Weekends': '414', 'Slowest to $100 million': '267', 'Rated R Adjusted': '172', 'Smallest Drops, All Wide Releases': '2,457', 'Rated R': '88', 'Yearly Opening Weekends 2007': '24', 'Opening Weeks': '350', 'Smallest Drops, 2,500+ theaters (Saturation)': '738', 'Most Weekends at #1 (non-consecutive)': '302', 'Rated R, Opening Weekends': '71', 'Opening Weeks Adjusted': '413', 'Opening Weekends - August': '25', 'Yearly Opening Weekends (Wide) 2007': '24', 'Labor Day 4-Day Holiday Weekends': '16', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,063', 'Worldwide Yearly 2007': '32'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Supercop'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=supercop.htm"},
+					"DomesticTotalGross": {"S":"b'$16,270,600'"},
+					"Runtime": {"S":"b'1 hrs. 31 min.'"},
+					"Distributor": {"S":"b'Miramax'"},
+					"Genre": {"S":"b'Action'"},
+					"ReleaseDate": {"S":"b'July 26, 1996'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Jackie Chan'"},
+					"Director": {"S":"b'Stanley Tong'"},
+					"Domestic": {"S":"b'$16,270,600'"},
+					"WidestRelease": {"S":"b'1,469 theaters'"},
+					"OpeningWeekend": {"S":"b'$5,503,176'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Action - Martial Arts': '65'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Smallest Drops, All Wide Releases': '3,427', 'Yearly Opening Weekends (Wide) 1996': '87', 'Opening Weeks': '2,873', 'Opening Weekends Adjusted': '2,612', BOM Users' Grades (1996 Releases): '63', 'Opening Weeks Adjusted': '2,587', 'Yearly R Rated 1996': '43', 'Yearly 1996': '98', 'Yearly Opening Weekends 1996': '85', 'Highest All Time Rank (on August 23, 1996)': '1275', 'All Time Domestic': '3,615', 'Opening Weekends': '2,873', 'Yearly (Wide) 1996': '97'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Supercross'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=supercross.htm"},
+					"DomesticTotalGross": {"S":"b'$3,102,550'"},
+					"Runtime": {"S":"b'1 hrs. 32 min.'"},
+					"Distributor": {"S":"b'Fox'"},
+					"Genre": {"S":"b'Sports Action'"},
+					"ReleaseDate": {"S":"b'August 17, 2005'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Channing Tatum, Mike Vogel'"},
+					"Domestic": {"S":"b'$3,102,550'"},
+					"Worldwide": {"S":"b'$3,344,431'"},
+					"Foreign": {"S":"b'$241,881'"},
+					"WidestRelease": {"S":"b'1,621 theaters'"},
+					"OpeningWeekend": {"S":"b'$1,330,520'"},
+					"CloseDate": {"S":"b'September 29, 2005'"},
+					"InRelease": {"S":"b'44 days / 6.3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sports - Extreme': '24'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly PG-13 Rated 2005': '76', 'Yearly Opening Weekends (Wide) 2005': '149', 'Biggest Theater Drops': '145', 'Smallest Drops, All Wide Releases': '4,358', 'Worldwide Yearly 2005': '222', 'Opening Weeks': '4,532', 'Opening Weekends Adjusted': '4,631', BOM Users' Grades (2005 Releases): '192', 'Yearly 2005': '180', 'Biggest 2nd Weekend Drops': '67', 'Opening Weeks Adjusted': '4,583', 'Yearly Opening Weekends 2005': '138', 'Worst Openings - Wide Releases Adjusted': '154', 'Yearly (Wide) 2005': '149', 'Worst Opening Weekend Per-Theater Averages': '67', 'All Time Domestic': '5,971', 'Opening Weekends': '4,579', 'Worst Opening Weekend Per-Theater Averages Adjusted': '76'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Supergirl'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=supergirl.htm"},
+					"DomesticTotalGross": {"S":"b'$14,296,438'"},
+					"Runtime": {"S":"b'2 hrs. 5 min.'"},
+					"Distributor": {"S":"b'TriStar'"},
+					"Genre": {"S":"b'Action / Adventure'"},
+					"ReleaseDate": {"S":"b'November 21, 1984'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Composer": {"S":"b'Jerry Goldsmith'"},
+					"Domestic": {"S":"b'$14,296,438'"},
+					"WidestRelease": {"S":"b'1,620 theaters'"},
+					"OpeningWeekend": {"S":"b'$5,738,249'"},
+					"CloseDate": {"S":"b'January 27, 1985'"},
+					"InRelease": {"S":"b'68 days / 9.7 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Action Heroine': '60', 'Superhero': '98', 'Comic Book Adaptation': '122'}"},
+					"Franchise": {"S":"{'Brand: DC Comics': '25'}"},
+					"Chart": {"S":"{'Smallest Drops, All Wide Releases': '3,533', 'Thanksgiving 5-day Weekends Adjusted': '105', 'Yearly (Wide) 1984': '60', 'Highest All Time Rank (on January 27, 1985)': '476', 'Thanksgiving 3-day Openings Adjusted': '58', 'Opening Weekends Adjusted - November': '200', 'Yearly PG Rated 1984': '33', BOM Users' Grades (1984 Releases): '63', 'Opening Weekends': '2,801', 'Yearly Opening Weekends (Wide) 1984': '25', 'Post-Thanksgiving Weekend  - Biggest Drops': '145', 'Thanksgiving 3-day Weekends Adjusted': '136', 'Opening Weeks Adjusted': '2,361', 'Opening Weeks': '3,131', 'Yearly Opening Weekends 1984': '25', 'Yearly 1984': '66', 'All Time Domestic': '3,863', 'Fewest Theaters to Debut at #1': '155', 'Opening Weekends Adjusted': '1,964', 'Thanksgiving 5-day Openings Adjusted': '59'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Superhero Movie'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=superheromovie.htm"},
+					"DomesticTotalGross": {"S":"b'$25,881,068'"},
+					"Runtime": {"S":"b'1 hrs. 25 min.'"},
+					"Distributor": {"S":"b'MGM (Weinstein)'"},
+					"Genre": {"S":"b'Comedy'"},
+					"ReleaseDate": {"S":"b'March 28, 2008'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Craig Mazin'"},
+					"Producer": {"S":"b'Robert K. Weiss, David Zucker'"},
+					"Actor": {"S":"b'Tracy Morgan, Kevin Hart'"},
+					"Director": {"S":"b'Craig Mazin'"},
+					"Domestic": {"S":"b'$25,881,068'"},
+					"Worldwide": {"S":"b'$71,237,351'"},
+					"Foreign": {"S":"b'$45,356,283'"},
+					"WidestRelease": {"S":"b'2,965 theaters'"},
+					"OpeningWeekend": {"S":"b'$9,510,297'"},
+					"CloseDate": {"S":"b'July 24, 2008'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Superhero': '88', 'Superhero - Comedy': '9', 'Comedy - Spoof': '32'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Worldwide Yearly 2008': '75', 'Yearly Opening Weekends (Wide) 2008': '98', 'Smallest Drops, All Wide Releases': '2,211', 'Yearly PG-13 Rated 2008': '57', 'Yearly (Wide) 2008': '105', 'Opening Weeks': '2,179', 'Opening Weekends Adjusted': '2,474', 'Opening Weekends - March': '170', 'Smallest Drops, 2,500+ theaters (Saturation)': '632', 'Opening Weeks Adjusted': '2,710', 'Yearly Opening Weekends 2008': '97', BOM Users' Grades (2008 Releases): '174', 'Yearly 2008': '107', 'Smallest Drops, 2,000+ theaters (Very Wide)': '920', 'All Time Domestic': '2,765', 'Opening Weekends': '1,972'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Superman'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=superman.htm"},
+					"DomesticTotalGross": {"S":"b'$134,218,018'"},
+					"Runtime": {"S":"b'2 hrs. 23 min.'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Genre": {"S":"b'Action / Adventure'"},
+					"ReleaseDate": {"S":"b'December 15, 1978'"},
+					"ProductionBudget": {"S":"b'$55 million'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'Robert Benton'"},
+					"Composer": {"S":"b'John Williams'"},
+					"Actor": {"S":"b'Marlon Brando, Christopher Reeve'"},
+					"Director": {"S":"b'Richard Donner'"},
+					"Domestic": {"S":"b'$134,218,018'"},
+					"Worldwide": {"S":"b'$300,218,018'"},
+					"Foreign": {"S":"b'$166,000,000'"},
+					"WidestRelease": {"S":"b'817 theaters'"},
+					"\t\tWideOpeningWeekend": {"S":"b'$6,535,784'"},
+					"LimitedOpeningWeekend": {"S":"b'<b> $7,465,343</b>'"},
+					"Awards": {"S":"Nominated for Three Oscars."},
+					"GenreRank": {"S":"{'Superhero': '48', 'Comic Book Adaptation': '48', 'Superhero - Origin': '23'}"},
+					"Franchise": {"S":"{'Brand: DC Comics': '12', 'Series: Superman': '4'}"},
+					"Chart": {"S":"{'All Time Worldwide': '399', BOM Users' Grades: '103', 'Highest All Time Rank (on January 1, 1982)': '10', 'Opening Weekends (Limited Release)': '5', 'Opening Weeks': '1,406', 'All Time Adjusted': '69', 'Opening Weekends Adjusted - December': '84', 'Second Weekends Adjusted': '176', 'Rated G and PG Adjusted': '36', 'Opening Weekends': '2,566', 'Rated PG': '107', 'Rated PG Adjusted': '18', 'Rated G and PG': '134', 'All Time Domestic': '392', 'Opening Weeks Adjusted': '357', 'Opening Weekends Adjusted': '1,086'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Superman II'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=superman2.htm"},
+					"DomesticTotalGross": {"S":"b'$108,185,706'"},
+					"Runtime": {"S":"b'2 hrs. 8 min.'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Genre": {"S":"b'Action / Adventure'"},
+					"ReleaseDate": {"S":"b'June 19, 1981'"},
+					"ProductionBudget": {"S":"b'$54 million'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Christopher Reeve'"},
+					"Domestic": {"S":"b'$108,185,706'"},
+					"WidestRelease": {"S":"b'1,878 theaters'"},
+					"\t\tOpeningWeekend": {"S":"b'$14,100,523'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Superhero': '54', 'Comic Book Adaptation': '57'}"},
+					"Franchise": {"S":"{'Brand: DC Comics': '14', 'Series: Superman': '5'}"},
+					"Chart": {"S":"{'Opening Weekends - June': '162', 'Rated PG Adjusted': '60', 'Rated PG, Opening Weekends Adjusted': '95', 'Opening Weeks': '1,029', 'All Time Adjusted': '190', 'Rated G and PG, Opening Weekends Adjusted': '116', BOM Users' Grades: '210', 'Rated G and PG Adjusted': '90', 'Opening Weekends': '1,317', 'Rated PG': '155', 'Opening Weekends Adjusted - June': '75', 'Yearly (Wide) 1981': '2', 'Opening Weeks Adjusted': '308', 'Rated G and PG': '188', 'Third Weekends Adjusted': '58', 'All Time Domestic': '575', 'Highest All Time Rank (on January 1, 1982)': '21', 'Opening Weekends Adjusted': '419', 'Yearly 1981': '3'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Superman III'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=superman3.htm"},
+					"DomesticTotalGross": {"S":"b'$59,950,623'"},
+					"Runtime": {"S":"b'2 hrs. 5 min.'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Genre": {"S":"b'Action / Adventure'"},
+					"ReleaseDate": {"S":"b'June 17, 1983'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Christopher Reeve'"},
+					"Domestic": {"S":"b'$59,950,623'"},
+					"WidestRelease": {"S":"b'1,763 theaters'"},
+					"OpeningWeekend": {"S":"b'$13,352,357'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Superhero': '68', 'Comic Book Adaptation': '81'}"},
+					"Franchise": {"S":"{'Brand: DC Comics': '20', 'Series: Superman': '6'}"},
+					"Chart": {"S":"{'Opening Weekends - June': '170', 'Yearly PG Rated 1983': '7', 'Smallest Drops, All Wide Releases': '1,235', 'Rated G and PG, Opening Weekends Adjusted': '166', 'Yearly (Wide) 1983': '12', 'Opening Weeks': '1,232', 'Opening Weekends Adjusted': '561', 'Yearly Opening Weekends (Wide) 1983': '3', 'Yearly Opening Weekends 1983': '3', 'Opening Weekends': '1,401', BOM Users' Grades (1983 Releases): '47', 'Opening Weeks Adjusted': '492', 'Yearly 1983': '12', 'Opening Weekends Adjusted - June': '106', 'Rated PG, Opening Weekends Adjusted': '135', 'All Time Domestic': '1,280', 'Fewest Theaters to Debut at #1': '188', 'Highest All Time Rank (on August 5, 1983)': '83'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Superman IV: The Quest for Peace'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=superman4.htm"},
+					"DomesticTotalGross": {"S":"b'$15,681,020'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Genre": {"S":"b'Action / Adventure'"},
+					"ReleaseDate": {"S":"b'July 24, 1987'"},
+					"ProductionBudget": {"S":"b'$17 million'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Jim Broadbent*, Christopher Reeve'"},
+					"Domestic": {"S":"b'$15,681,020'"},
+					"WidestRelease": {"S":"b'1,511 theaters'"},
+					"OpeningWeekend": {"S":"b'$5,683,122'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Superhero': '96', 'Comic Book Adaptation': '121'}"},
+					"Franchise": {"S":"{'Brand: DC Comics': '24', 'Series: Superman': '7'}"},
+					"Chart": {"S":"{'Yearly 1987': '69', 'Smallest Drops, All Wide Releases': '2,880', 'Yearly Opening Weekends (Wide) 1987': '32', 'Highest All Time Rank (on July 5, 1988)': '368', 'Opening Weeks': '2,698', 'Yearly Opening Weekends 1987': '30', BOM Users' Grades (1987 Releases): '73', 'Opening Weeks Adjusted': '2,136', 'Yearly PG Rated 1987': '19', 'All Time Domestic': '3,683', 'Opening Weekends': '2,822', 'Opening Weekends Adjusted': '2,287', 'Yearly (Wide) 1987': '70'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Superman Returns'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=superman06.htm"},
+					"DomesticTotalGross": {"S":"b'$200,081,192'"},
+					"Runtime": {"S":"b'2 hrs. 34 min.'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Genre": {"S":"b'Action / Adventure'"},
+					"ReleaseDate": {"S":"b'June 28, 2006'"},
+					"ProductionBudget": {"S":"b'$270 million'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Gilbert Adler, Scott Mednick, Jon Peters, Bryan Singer, Thomas Tull'"},
+					"Composer": {"S":"b'John Ottman, John Williams*'"},
+					"Actor": {"S":"b'Brandon Routh, Kate Bosworth, Kevin Spacey, James Marsden, Parker Posey, Frank Langella, Kal Penn'"},
+					"Writer": {"S":"b'Michael Dougherty, Dan Harris'"},
+					"Cinematographer": {"S":"b'Newton Thomas Sigel'"},
+					"Director": {"S":"b'Bryan Singer'"},
+					"Domestic": {"S":"b'$200,081,192'"},
+					"Worldwide": {"S":"b'$391,081,192'"},
+					"Foreign": {"S":"b'$191,000,000'"},
+					"WidestRelease": {"S":"b'4,065 theaters'"},
+					"OpeningWeekend": {"S":"b'$52,535,096'"},
+					"CloseDate": {"S":"b'November 2, 2006'"},
+					"InRelease": {"S":"b'128 days / 18.3 weeks'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"{'Superhero': '30', 'IMAX (Feature-length)': '73', 'Comic Book Adaptation': '30'}"},
+					"Franchise": {"S":"{'Series: Superman': '3', 'Showdown: Franchise Reboot Battle': '4', 'Showdown: Superman Vs. Other Wednesday Openers': '5', 'Brand: Legendary Pictures': '11', 'Showdown: Independence Day Openings': '5', 'Brand: DC Comics': '8', 'Showdown: Superman Vs. Himself': '2'}"},
+					"Chart": {"S":"{BOM Users' Grades: '339', 'Single Day Monday Gross': '55', 'Top 3-Day Grosses': '231', 'Single Day Sunday Gross': '147', 'Opening Weekends Adjusted': '175', BOM Users' Grades (2006 Releases): '62', 'Rated PG-13, Opening Weekends': '117', 'Top 6-Day Grosses': '99', 'Fastest to $100 million': '87', 'Non-Opening Friday Gross': '75', 'Single Day Tuesday Gross': '59', 'Rated PG-13, Opening Weekends Adjusted': '118', 'Yearly Opening Weekends 2006': '6', 'Yearly (Wide) 2006': '6', 'Opening Wednesdays': '19', 'Single Day Sunday Gross Adjusted': '124', 'All Time Domestic': '177', 'Single Day Friday Gross': '276', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '724', 'Non-Opening Thursday Gross Adjusted': '55', 'All Time Worldwide': '246', 'Slowest to $100 million': '548', 'Opening Weekends - June': '29', 'Single Day Monday Gross Adjusted': '52', 'Smallest Drops, All Wide Releases': '3,798', 'Widest Opening Releases': '61', 'Worldwide Yearly 2006': '9', 'Opening Weeks': '127', 'Single Day Wednesday Gross Adjusted': '24', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,371', 'Yearly 2006': '6', 'Slowest to $200 million': '10', 'Opening Weekends - Summer': '115', 'Yearly PG-13 Rated 2006': '4', 'Independence Day Weekends': '9', 'Opening Weeks Adjusted': '113', 'Top 5-Day Grosses for movies opening on a Wednesday': '18', 'Single Day Thursday Gross': '70', 'Rated PG-13': '100', 'Widest PG-13 Rated Releases': '45', 'Single Day Wednesday Gross': '28', 'Highest All Time Rank (on October 1, 2006)': '71', 'Opening Weekends Adjusted - Summer': '112', 'Single Day Saturday Gross': '262', 'Opening Day Gross': '194', 'Widest PG-13 Rated Openings': '42', 'Non-Opening Tuesday Gross Adjusted': '40', 'Worldwide Openings': '120', 'Non-Opening Tuesday Gross': '53', 'Opening Weekends Adjusted - June': '28', 'Top 9-Day Grosses': '116', 'Widest Releases': '69', 'Top 8-Day Grosses': '95', 'Single Day Thursday Gross Adjusted': '67', 'Opening Weekends': '185', 'Non-Opening Thursday Gross': '54', 'Rated PG-13 Adjusted': '107', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,918', 'Yearly Opening Weekends (Wide) 2006': '6', 'Top 7-Day Grosses': '86', 'Sunday Share of Opening Weekends': '95', 'Non-Friday Opening Weekends Adjusted': '33', 'Non-Friday Opening Weekends': '28', 'Single Day Gross': '669', 'Independence Day Opening Weekends': '9', 'Fastest to $150 million': '123', 'Single Day Tuesday Gross Adjusted': '47', 'Single Day Saturday Gross Adjusted': '238', 'Top 10-Day Grosses': '120', 'Top 5-Day Grosses': '117'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Supermensch: The Legend of Shep Gordon'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=supermensch.htm"},
+					"DomesticTotalGross": {"S":"b'$213,064'"},
+					"Runtime": {"S":"b'1 hrs. 24 min.'"},
+					"Distributor": {"S":"b'Radius-TWC'"},
+					"Genre": {"S":"b'Documentary'"},
+					"ReleaseDate": {"S":"b'June 6, 2014'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Director": {"S":"b'Mike Myers'"},
+					"Domestic": {"S":"b'$213,064'"},
+					"WidestRelease": {"S":"b'46 theaters'"},
+					"OpeningWeekend": {"S":"b'$23,017'"},
+					"CloseDate": {"S":"b'August 21, 2014'"},
+					"InRelease": {"S":"b'77 days / 11 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Hollywood / Movies': '101', 'Documentary': '407'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '9,344'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Supernova'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=supernova.htm"},
+					"DomesticTotalGross": {"S":"b'$14,230,455'"},
+					"Runtime": {"S":"b'1 hrs. 31 min.'"},
+					"Distributor": {"S":"b'MGM'"},
+					"Genre": {"S":"b'Sci-Fi Thriller'"},
+					"ReleaseDate": {"S":"b'January 14, 2000'"},
+					"ProductionBudget": {"S":"b'$90 million'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Angela Bassett'"},
+					"Director": {"S":"b'Walter Hill'"},
+					"Domestic": {"S":"b'$14,230,455'"},
+					"Worldwide": {"S":"b'$14,828,081'"},
+					"Foreign": {"S":"b'$597,626'"},
+					"WidestRelease": {"S":"b'2,280 theaters'"},
+					"OpeningWeekend": {"S":"b'$5,778,639'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weekends Adjusted - January': '200', 'Smallest Drops, All Wide Releases': '223', 'Yearly PG-13 Rated 2000': '53', 'Yearly Opening Weekends (Wide) 2000': '101', 'Yearly (Wide) 2000': '113', 'Opening Weeks': '2,840', 'Opening Weekends Adjusted': '2,912', 'Martin Lurther King 4-Day Holiday Weekend Openers': '82', 'Opening Weekends': '2,790', 'Yearly 2000': '120', 'Highest All Time Rank (on August 28, 2002)': '1642', 'Yearly Opening Weekends 2000': '97', 'Opening Weeks Adjusted': '2,922', 'Martin Lurther King 4-Day Holiday Weekends': '195', 'Smallest Drops, 2,000+ theaters (Very Wide)': '47', 'All Time Domestic': '3,872', 'Worldwide Yearly 2000': '128', BOM Users' Grades (2000 Releases): '137'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Superstar'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=superstar.htm"},
+					"DomesticTotalGross": {"S":"b'$30,636,478'"},
+					"Runtime": {"S":"b'1 hrs. 22 min.'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"Genre": {"S":"b'Comedy'"},
+					"ReleaseDate": {"S":"b'October 8, 1999'"},
+					"ProductionBudget": {"S":"b'$34 million'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Steve Koren'"},
+					"Producer": {"S":"b'Lorne Michaels, Robert K. Weiss'"},
+					"Actor": {"S":"b'Will Ferrell'"},
+					"Domestic": {"S":"b'$30,636,478'"},
+					"WidestRelease": {"S":"b'2,016 theaters'"},
+					"OpeningWeekend": {"S":"b'$8,912,743'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"{'Brand: Saturday Night Live': '4'}"},
+					"Chart": {"S":"{'Yearly (Wide) 1999': '69', 'Smallest Drops, All Wide Releases': '1,625', 'Opening Weeks': '2,273', 'Opening Weekends': '2,075', 'Opening Weekends - October': '163', 'Opening Weekends Adjusted - October': '135', BOM Users' Grades (1999 Releases): '100', 'Yearly Opening Weekends 1999': '56', 'Opening Weekends Adjusted': '1,910', 'Opening Weeks Adjusted': '2,128', 'Highest All Time Rank (on August 28, 2002)': '945', 'Yearly 1999': '67', 'All Time Domestic': '2,485', 'Yearly PG-13 Rated 1999': '21', 'Yearly Opening Weekends (Wide) 1999': '60'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Superstar in a Housedress'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=superstarinahousedress.htm"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"Distributor": {"S":"b'Abramorama'"},
+					"Genre": {"S":"b'Unknown'"},
+					"ReleaseDate": {"S":"b'May 5, 2004'"},
+					"DomesticTotalasofAug.8,2004": {"S":"b'$28,032'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$28,032'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"OpeningWeekend": {"S":"b'$4,760'"},
+					"InRelease": {"S":"b'33 days / 4.7 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Unrated Movies 2004': '123', 'Yearly Opening Weekends (Limited) 2004': '315', 'Yearly 2004': '444', 'Highest All Time Rank (on May 20, 2004)': '6238', 'Yearly Opening Weekends 2004': '453', 'All Time Domestic': '12,091', 'Yearly (Limited) 2004': '291'}"}
+				}
+			}
+		}
+	]
+}

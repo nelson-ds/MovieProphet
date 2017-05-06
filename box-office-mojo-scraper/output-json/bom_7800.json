@@ -1,0 +1,640 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bMadagascar 3: Europe's Most Wanted"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=madagascar3.htm"},
+					"ReleaseDate": {"S":"b'June 8, 2012'"},
+					"Genre": {"S":"b'Animation'"},
+					"Distributor": {"S":"b'Paramount (DreamWorks)'"},
+					"ProductionBudget": {"S":"b'$145 million'"},
+					"DomesticTotalGross": {"S":"b'$216,391,482'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'Noah Baumbach, Eric Darnell'"},
+					"Producer": {"S":"b'Mireille Soria, Mark Swift'"},
+					"Actor": {"S":"b'Ben Stiller, Chris Rock, David Schwimmer, Sacha Baron Cohen, Cedric the Entertainer, Andy Richter , Jessica Chastain, Frances McDormand, Bryan Cranston, Martin Short'"},
+					"Composer": {"S":"b'Hans Zimmer'"},
+					"Director": {"S":"b'Eric Darnell, Tom McGrath, Conrad Vernon'"},
+					"Domestic": {"S":"b'$216,391,482'"},
+					"Worldwide": {"S":"b'$746,921,274'"},
+					"Foreign": {"S":"b'$530,529,792'"},
+					"WidestRelease": {"S":"b'4,263 theaters'"},
+					"CloseDate": {"S":"b'October 18, 2012'"},
+					"OpeningWeekend": {"S":"b'$60,316,738'"},
+					"InRelease": {"S":"b'133 days / 19 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': '51', 'Animation - Computer': '28', 'Animation': '31'}"},
+					"Franchise": {"S":"{Showdown: 'Madagascar' Melee: '1', 'Showdown: June Animation (2012-2014)': '3', 'Showdown: Animation 2012': '2', Showdown: DreamWorks Animation Vs. DreamWorks Animation ('Shrek'-Free): '2', 'Series: Madagascar': '1', 'Brand: DreamWorks Animation': '6'}"},
+					"Chart": {"S":"{'Top 3-Day Grosses': '129', 'Slowest to $200 million': '53', 'Opening Weeks Adjusted': '214', 'Fifth Weekends': '195', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '318', 'Top 5-Day Grosses': '148', 'Opening Weekends - Summer': '81', 'Highest All Time Rank (on September 16, 2012)': '105', 'Fastest to $150 million': '125', 'Single Day Saturday Gross': '163', 'Independence Day Weekends': '137', 'Smallest Drops, 2,000+ theaters (Very Wide)': '942', 'Single Day Gross': '422', 'Opening Day Gross': '150', 'All Time Worldwide': '76', 'Widest Opening Releases': '19', 'Rated PG Adjusted': '114', 'Single Day Friday Gross': '166', 'Rated PG, Opening Weekends Adjusted': '44', 'Second Weekends': '113', 'Opening Weekends Adjusted': '208', 'Fastest to $200 million': '120', 'Single Day Sunday Gross': '159', 'Fourth Weekends': '148', 'Smallest Drops, 2,500+ theaters (Saturation)': '646', 'Rated G and PG, Opening Weekends Adjusted': '54', 'Opening Weekends': '136', 'Consecutive Weekends At #1': '241', 'Widest Releases': '22', 'Third Weekends': '121', 'Rated PG, Opening Weekends': '31', 'Rated G and PG, Opening Weekends': '37', 'Worldwide Openings': '88', 'Rated PG': '47', 'All Time Domestic': '151', 'Smallest Drops, All Wide Releases': '2,258', 'Opening Weekends Adjusted - June': '34', 'Single Day Saturday Gross Adjusted': '246', 'Rated G and PG Adjusted': '157', 'Opening Weeks': '134', 'Slowest to $100 million': '494', 'Fastest to $100 million': '141', 'Opening Weekends Adjusted - Summer': '134', 'Most Weekends at #1 (non-consecutive)': '245', 'Single Day Friday Gross Adjusted': '235', 'Twelfth Weekends': '176', 'Widest PG Rated Releases': '7', 'Opening Weekends - June': '15', 'Foreign Opening Weekends': '70', 'Rated G and PG': '57', 'Widest PG Rated Openings': '6', 'Top 7-Day Grosses': '143'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Madagascar 4'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=madagascar4.htm"},
+					"ReleaseDate": {"S":"b'TBD'"},
+					"Genre": {"S":"b'Animation'"},
+					"Distributor": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Writer": {"S":"b'Noah Baumbach'"},
+					"Director": {"S":"b'Mireille Soria'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': 'n/a', 'Animation - Computer': 'n/a', 'Animation': 'n/a'}"},
+					"Franchise": {"S":"{'Series: Madagascar': 'n/a', 'Brand: DreamWorks Animation': 'n/a'}"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Madagascar: Escape 2 Africa'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=madagascar2.htm"},
+					"ReleaseDate": {"S":"b'November 7, 2008'"},
+					"Genre": {"S":"b'Animation'"},
+					"Distributor": {"S":"b'Paramount (DreamWorks)'"},
+					"ProductionBudget": {"S":"b'$150 million'"},
+					"DomesticTotalGross": {"S":"b'$180,010,950'"},
+					"Runtime": {"S":"b'1 hrs. 29 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'Etan Cohen, Eric Darnell, Tom McGrath'"},
+					"Producer": {"S":"b'Mireille Soria, Mark Swift'"},
+					"Actor": {"S":"b'Ben Stiller, Chris Rock, David Schwimmer, Sacha Baron Cohen, Cedric the Entertainer, Andy Richter , Bernie Mac, Alec Baldwin, Tom McGrath*, Zachary Gordon*'"},
+					"Composer": {"S":"b'Hans Zimmer'"},
+					"Director": {"S":"b'Eric Darnell, Tom McGrath'"},
+					"Domestic": {"S":"b'$180,010,950'"},
+					"Worldwide": {"S":"b'$603,900,354'"},
+					"Foreign": {"S":"b'$423,889,404'"},
+					"WidestRelease": {"S":"b'4,065 theaters'"},
+					"CloseDate": {"S":"b'February 26, 2009'"},
+					"OpeningWeekend": {"S":"b'$63,106,589'"},
+					"InRelease": {"S":"b'112 days / 16 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Animation - Computer': '43', 'IMAX (Feature-length)': '85', 'Animation': '47'}"},
+					"Franchise": {"S":"{Showdown: 'Madagascar' Melee: '3', Showdown: 'Kung Fu Panda 2' Versus Comps: '5', 'Showdown: Animated Films vs. 007': '3', Showdown: DreamWorks Animation Vs. DreamWorks Animation ('Shrek'-Free): '6', 'Series: Madagascar': '3', 'Brand: DreamWorks Animation': '11', 'Showdown: Fall DreamWorks Animation': '1'}"},
+					"Chart": {"S":"{'Top 3-Day Grosses': '121', 'Opening Weeks Adjusted': '169', 'Thanksgiving 5-day Weekends': '79', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '342', 'Yearly 2008': '8', 'Top 5-Day Grosses': '133', 'Opening Weekends Adjusted - November': '21', 'Opening Weekends - November': '21', 'Thanksgiving 5-day Weekends Adjusted': '94', 'Single Day Saturday Gross': '98', 'Yearly Opening Weekends (Wide) 2008': '6', 'Post-Thanksgiving Weekend  - Biggest Drops': '31', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,000', 'Single Day Gross': '251', 'All Time Domestic': '221', 'All Time Worldwide': '119', 'Widest Opening Releases': '65', 'Single Day Friday Gross': '232', 'Non-Opening Tuesday Gross': '65', 'Yearly Opening Weekends 2008': '6', 'Second Weekends': '103', 'Opening Weekends Adjusted': '134', 'Second Weekends Adjusted': '140', 'Thanksgiving 3-day Weekends Adjusted': '114', 'Single Day Sunday Gross': '140', BOM Users' Grades (2008 Releases): '65', 'Smallest Drops, 2,500+ theaters (Saturation)': '687', 'Yearly (Wide) 2008': '8', 'Rated PG, Opening Weekends Adjusted': '26', 'Fourth Weekends': '93', 'Widest Releases': '70', 'Opening Weekends': '125', 'Rated PG, Opening Weekends': '30', 'Rated G and PG, Opening Weekends': '34', 'Rated G and PG, Opening Weekends Adjusted': '33', 'Fastest to $150 million': '167', 'Rated PG': '62', 'Opening Day Gross': '199', 'Single Day Sunday Gross Adjusted': '156', 'Smallest Drops, All Wide Releases': '2,357', 'Theater Averages - Wide Opening Weekends': '176', 'Opening Weekends Adjusted - Holiday': '30', 'Single Day Saturday Gross Adjusted': '103', 'Worldwide Yearly 2008': '6', 'Opening Weeks': '147', 'Slowest to $100 million': '489', 'Fastest to $100 million': '146', 'Rated PG Adjusted': '135', 'Thanksgiving 3-day Weekends': '83', 'Rated G and PG Adjusted': '181', 'Highest All Time Rank (on February 19, 2009)': '116', 'Widest PG Rated Releases': '23', 'Non-Opening Tuesday Gross Adjusted': '74', 'Single Day Tuesday Gross': '72', 'Single Day Tuesday Gross Adjusted': '83', 'Opening Weekends - Holiday': '29', 'Fourth Weekends Adjusted': '165', 'Rated G and PG': '78', 'Theater Averages (Wide Releases) - All Time': '199', 'Widest PG Rated Openings': '20', 'Yearly PG Rated 2008': '2', 'Top 7-Day Grosses': '157'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Madame Bovary'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=madamebovary15.htm"},
+					"ReleaseDate": {"S":"b'June 12, 2015'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Alchemy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$44,235'"},
+					"Runtime": {"S":"b'1 hrs. 58 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Paul Giamatti, Rhys Ifans, Ezra Miller, Mia Wasikowska'"},
+					"Director": {"S":"b'Sophie Barthes'"},
+					"Domestic": {"S":"b'$44,235'"},
+					"Worldwide": {"S":"b'$44,235'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'15 theaters'"},
+					"CloseDate": {"S":"b'June 21, 2015'"},
+					"OpeningWeekend": {"S":"b'$20,841'"},
+					"InRelease": {"S":"b'10 days / 1.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '11,502'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Madame Bovary (1949)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=madamebovary49.htm"},
+					"ReleaseDate": {"S":"b'August 25, 1949'"},
+					"Genre": {"S":"b'Romance'"},
+					"Distributor": {"S":"b'MGM'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 54 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Producer": {"S":"b'Pandro S. Berman'"},
+					"Actor": {"S":"b'Jennifer Jones, Van Heflin, Louis Jourdan, Christopher Kent, Gene Lockhart, Frank Allenby, Gladys Cooper, James Mason'"},
+					"Cinematographer": {"S":"b'Robert H. Planck'"},
+					"Writer": {"S":"b'Robert Ardrey'"},
+					"Composer": {"S":"b'Miklos Rozsa'"},
+					"Director": {"S":"b'Vincente Minnelli'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Madame Bovary (1991)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=madamebovary.htm"},
+					"ReleaseDate": {"S":"b'December 27, 1991'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Samuel Goldwyn'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$1,942,423'"},
+					"Runtime": {"S":"b'2 hrs. 23 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$1,942,423'"},
+					"WidestRelease": {"S":"b'53 theaters'"},
+					"OpeningWeekend": {"S":"b'$236,113'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"{'Foreign Language': '232'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1991': '147', 'Yearly (Limited) 1991': '24', 'Yearly Opening Weekends 1991': '138', 'All Time Domestic': '6,540', 'Yearly PG-13 Rated 1991': '38', 'Yearly Opening Weekends (Limited) 1991': '27', 'Highest All Time Rank (on January 21, 1992)': '1927'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Madame Butterfly'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=madamebutterfly.htm"},
+					"ReleaseDate": {"S":"b'May 3, 1996'"},
+					"Genre": {"S":"b'Musical'"},
+					"Distributor": {"S":"b'Arrow Releasing'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$65,196'"},
+					"Runtime": {"S":"b'2 hrs. 9 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$65,196'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"CloseDate": {"S":"b'December 5, 1996'"},
+					"OpeningWeekend": {"S":"b'$6,027'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Musical': '77'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 1996': '87', 'All Time Domestic': '10,918', 'Yearly Opening Weekends (Limited) 1996': '107', 'Highest All Time Rank (on May 17, 1996)': '3450', 'Yearly Opening Weekends 1996': '248', 'Yearly 1996': '274'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Madame Curie'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=madamecurie.htm"},
+					"ReleaseDate": {"S":"b'December 15, 1943'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'MGM'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'2 hrs. 4 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Producer": {"S":"b'Sidney Franklin'"},
+					"Actor": {"S":"b'Greer Garson, Walter Pidgeon, Robert Walker, Van Johnson, Margaret OBrien, Henry Travers'"},
+					"Cinematographer": {"S":"b'Joseph Ruttenberg'"},
+					"Writer": {"S":"b'Paul Osborn, Paul Rameau'"},
+					"Composer": {"S":"b'Herbert Stothart'"},
+					"Director": {"S":"b'Mervyn LeRoy'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Madame Sata'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=madamesata.htm"},
+					"ReleaseDate": {"S":"b'July 9, 2003'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Wellspring'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$198,309'"},
+					"Runtime": {"S":"b'1 hrs. 45 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$198,309'"},
+					"Worldwide": {"S":"b'$198,309'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'9 theaters'"},
+					"CloseDate": {"S":"b'December 18, 2003'"},
+					"OpeningWeekend": {"S":"b'$23,654'"},
+					"InRelease": {"S":"b'163 days / 23.3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Gay / Lesbian': '180'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on October 16, 2003)': '5333', 'Worldwide Yearly 2003': '270', 'All Time Domestic': '9,450', 'Yearly 2003': '300', 'Yearly (Limited) 2003': '154', 'Yearly Opening Weekends 2003': '300', 'Yearly Opening Weekends (Limited) 2003': '171', 'Yearly Unrated Movies 2003': '47'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Madame Sousatzka'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=madamesousatzka.htm"},
+					"ReleaseDate": {"S":"b'October 14, 1988'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$3,548,238'"},
+					"Runtime": {"S":"b'2 hrs. 2 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Ruth Prawer Jhabvala'"},
+					"Domestic": {"S":"b'$3,548,238'"},
+					"WidestRelease": {"S":"b'123 theaters'"},
+					"OpeningWeekend": {"S":"b'$172,740'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Teacher - Inspirational': '20'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on November 22, 1988)': '1292', 'Yearly (Limited) 1988': '21', 'Yearly Opening Weekends 1988': '152', 'Yearly PG-13 Rated 1988': '25', 'All Time Domestic': '5,820', 'Yearly 1988': '137', 'Yearly Opening Weekends (Limited) 1988': '46'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Made'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=made.htm"},
+					"ReleaseDate": {"S":"b'July 13, 2001'"},
+					"Genre": {"S":"b'Crime Comedy'"},
+					"Distributor": {"S":"b'Artisan'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$5,313,300'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Jon Favreau, Vince Vaughn'"},
+					"Actor": {"S":"b'Jon Favreau, Vince Vaughn, Famke Janssen, Sean P. Diddy Combs, Jamie Harris*'"},
+					"Cinematographer": {"S":"b'Christopher Doyle'"},
+					"Writer": {"S":"b'Jon Favreau'"},
+					"Composer": {"S":"b'Lyle Workman'"},
+					"Director": {"S":"b'Jon Favreau'"},
+					"Domestic": {"S":"b'$5,313,300'"},
+					"Worldwide": {"S":"b'$5,480,653'"},
+					"Foreign": {"S":"b'$167,353'"},
+					"WidestRelease": {"S":"b'182 theaters'"},
+					"OpeningWeekend": {"S":"b'$118,003'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2001': '17', 'Yearly R Rated 2001': '66', 'Theater Averages - Opening Weekends': '189', 'All Time Domestic': '5,322', 'Highest All Time Rank (on August 28, 2002)': '2461', 'Yearly 2001': '148', 'Yearly Opening Weekends 2001': '163', 'Worldwide Yearly 2001': '164', BOM Users' Grades (2001 Releases): '56', 'Yearly Opening Weekends (Limited) 2001': '35'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Made in America'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=madeinamerica.htm"},
+					"ReleaseDate": {"S":"b'May 28, 1993'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$44,942,695'"},
+					"Runtime": {"S":"b'1 hrs. 53 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Michael Douglas, Arnon Milchan'"},
+					"Actor": {"S":"b'Will Smith, Nia Long'"},
+					"Composer": {"S":"b'Mark Isham'"},
+					"Domestic": {"S":"b'$44,942,695'"},
+					"Worldwide": {"S":"b'$104,942,695'"},
+					"Foreign": {"S":"b'$60,000,000'"},
+					"WidestRelease": {"S":"b'2,048 theaters'"},
+					"OpeningWeekend": {"S":"b'$11,821,326'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{BOM Users' Grades (1993 Releases): '97', 'Yearly Opening Weekends 1993': '19', 'All Time Domestic': '1,743', 'Yearly (Wide) 1993': '31', 'Yearly PG-13 Rated 1993': '12', 'Memorial Day 4-Day Holiday Weekend Openers': '56', 'Yearly 1993': '31', 'Memorial Day 4-Day Holiday Weekends': '106', 'Yearly Opening Weekends (Wide) 1993': '19', 'Worldwide Yearly 1993': '22', 'Highest All Time Rank (on July 20, 1993)': '358'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Made in Cleveland'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=madeincleveland.htm"},
+					"ReleaseDate": {"S":"b'June 21, 2013'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Striped Entertainment'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$10,681'"},
+					"Runtime": {"S":"b'1 hrs. 53 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$10,681'"},
+					"WidestRelease": {"S":"b'5 theaters'"},
+					"CloseDate": {"S":"b'July 11, 2013'"},
+					"OpeningWeekend": {"S":"b'$3,411'"},
+					"InRelease": {"S":"b'21 days / 3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '13,274'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Made in Dagenham'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=madeindagenham.htm"},
+					"ReleaseDate": {"S":"b'November 19, 2010'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Sony Classics'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$1,095,369'"},
+					"Runtime": {"S":"b'1 hrs. 53 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Sally Hawkins, Bob Hoskins, Miranda Richardson, Rosamund Pike'"},
+					"Domestic": {"S":"b'$1,095,369'"},
+					"Worldwide": {"S":"b'$12,395,087'"},
+					"Foreign": {"S":"b'$11,299,718'"},
+					"WidestRelease": {"S":"b'89 theaters'"},
+					"CloseDate": {"S":"b'April 14, 2011'"},
+					"OpeningWeekend": {"S":"b'$37,563'"},
+					"InRelease": {"S":"b'147 days / 21 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '7,231'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Made in France'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=madeinfrance.htm"},
+					"ReleaseDate": {"S":"b'September 23, 2016'"},
+					"Genre": {"S":"b'Thriller'"},
+					"Distributor": {"S":"b'Under the Milky Way'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalasofJan.22,2017": {"S":"b'$9,956'"},
+					"Runtime": {"S":"b'1 hrs. 29 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$9,956'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"OpeningWeekend": {"S":"b'$3,688'"},
+					"InRelease": {"S":"b'115 days / 16.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1760'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Top Movies in the Past 365 Days': '611', 'All Time Domestic': '13,355'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Made in Heaven'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=madeinheaven.htm"},
+					"ReleaseDate": {"S":"b'November 6, 1987'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Lorimar'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$4,572,845'"},
+					"Runtime": {"S":"b'1 hrs. 43 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'Bruce A. Evans, Raynold Gideon'"},
+					"Producer": {"S":"b'Bruce A. Evans, Raynold Gideon'"},
+					"Composer": {"S":"b'Mark Isham'"},
+					"Domestic": {"S":"b'$4,572,845'"},
+					"WidestRelease": {"S":"b'898 theaters'"},
+					"OpeningWeekend": {"S":"b'$1,678,154'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Romantic Fantasy': '42'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Wide) 1987': '103', 'Opening Weeks Adjusted': '4,240', 'All Time Domestic': '5,497', 'Yearly PG Rated 1987': '31', 'Highest All Time Rank (on July 5, 1988)': '752', 'Opening Weekends Adjusted': '4,279', 'Smallest Drops, All Wide Releases': '1,023', 'Yearly Opening Weekends 1987': '94', 'Opening Weekends': '4,431', 'Yearly Opening Weekends (Wide) 1987': '102', 'Opening Weeks': '4,416', 'Yearly 1987': '114'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Made in U.S.A. (re-issue)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=madeinusa09.htm"},
+					"ReleaseDate": {"S":"b'January 9, 2009'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Rialto'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$95,209'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Director": {"S":"b''"},
+					"Domestic": {"S":"b'$95,209'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"CloseDate": {"S":"b'August 20, 2009'"},
+					"OpeningWeekend": {"S":"b'$11,147'"},
+					"InRelease": {"S":"b'224 days / 32 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 2009': '107', 'All Time Domestic': '10,443', 'Yearly Opening Weekends 2009': '343', 'Yearly (Limited) 2009': '177', 'Yearly Opening Weekends (Limited) 2009': '204', 'Yearly 2009': '329'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Made in USA'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=madeinusa.htm"},
+					"ReleaseDate": {"S":"b'March 11, 1988'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Hemdale'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 22 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Charles Roven'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Made of Honor'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=madeofhonor.htm"},
+					"ReleaseDate": {"S":"b'May 2, 2008'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"ProductionBudget": {"S":"b'$40 million'"},
+					"DomesticTotalGross": {"S":"b'$46,012,734'"},
+					"Runtime": {"S":"b'1 hrs. 41 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Ryan Kavanaugh, Neal H. Moritz'"},
+					"Actor": {"S":"b'Patrick Dempsey, Michelle Monaghan, Chris Messina, Sydney Pollack, Kadeem Hardison'"},
+					"Domestic": {"S":"b'$46,012,734'"},
+					"Worldwide": {"S":"b'$105,962,760'"},
+					"Foreign": {"S":"b'$59,950,026'"},
+					"WidestRelease": {"S":"b'2,816 theaters'"},
+					"CloseDate": {"S":"b'June 29, 2008'"},
+					"OpeningWeekend": {"S":"b'$14,756,850'"},
+					"InRelease": {"S":"b'63 days / 9 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Romantic Comedy': '91', 'Wedding': '19'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Smallest Drops, All Wide Releases': '2,413', 'Opening Weeks Adjusted': '1,757', 'Yearly Opening Weekends (Wide) 2008': '70', 'Opening Weekends - May': '123', 'Yearly (Wide) 2008': '62', 'Yearly 2008': '61', 'Opening Weekends Adjusted': '1,616', 'Yearly PG-13 Rated 2008': '33', 'Opening Weekends Adjusted - May': '148', BOM Users' Grades (2008 Releases): '141', 'Smallest Drops, 2,500+ theaters (Saturation)': '715', 'Worldwide Yearly 2008': '57', 'Memorial Day 4-Day Holiday Weekends': '189', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,032', 'Opening Weeks': '1,391', 'Yearly Opening Weekends 2008': '69', 'Opening Weekends': '1,251', 'All Time Domestic': '1,710'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Made-Up'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=madeup.htm"},
+					"ReleaseDate": {"S":"b'May 30, 2003'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Sister Films'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalasofApr.25,2004": {"S":"b'$79,766'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Gary Sinise*'"},
+					"Domestic": {"S":"b'$79,766'"},
+					"WidestRelease": {"S":"b'5 theaters'"},
+					"InRelease": {"S":"b'332 days / 47.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2003': '210', 'Yearly PG-13 Rated 2003': '96', 'Highest All Time Rank (on March 25, 2004)': '5795', 'All Time Domestic': '10,664', 'Yearly 2003': '356'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Madeline'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=madeline.htm"},
+					"ReleaseDate": {"S":"b'July 10, 1998'"},
+					"Genre": {"S":"b'Family Comedy'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$29,967,750'"},
+					"Runtime": {"S":"b'1 hrs. 28 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Frances McDormand'"},
+					"Domestic": {"S":"b'$29,967,750'"},
+					"WidestRelease": {"S":"b'1,863 theaters'"},
+					"OpeningWeekend": {"S":"b'$6,414,668'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'School - Prep / Boarding / Catholic': '13', Family - Children's Book Adaptation: '61', 'Travelogue - Paris': '21'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly PG Rated 1998': '9', 'Highest All Time Rank (on August 14, 1998)': '878', 'Yearly 1998': '66', 'Opening Weekends Adjusted': '2,407', 'Smallest Drops, All Wide Releases': '1,194', 'Opening Weeks Adjusted': '1,971', 'Opening Weekends': '2,590', 'Movies That Never Hit the Top 5 Adjusted': '77', 'Yearly Opening Weekends 1998': '79', 'Movies That Never Hit the Top 5': '132', 'Opening Weeks': '2,265', 'Yearly (Wide) 1998': '60', 'Yearly Opening Weekends (Wide) 1998': '83', 'All Time Domestic': '2,533'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mademoiselle C'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mademoisellec.htm"},
+					"ReleaseDate": {"S":"b'September 11, 2013'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'Cohen Media Group'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$48,668'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$48,668'"},
+					"WidestRelease": {"S":"b'7 theaters'"},
+					"CloseDate": {"S":"b'September 29, 2013'"},
+					"OpeningWeekend": {"S":"b'$14,284'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1366', 'Documentary': '787'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '11,367'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mademoiselle Chambon'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mademoisellechambon.htm"},
+					"ReleaseDate": {"S":"b'May 28, 2010'"},
+					"Genre": {"S":"b'Romance'"},
+					"Distributor": {"S":"b'Lorber Films'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$531,685'"},
+					"Runtime": {"S":"b'1 hrs. 41 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$531,685'"},
+					"Worldwide": {"S":"b'$5,277,124'"},
+					"Foreign": {"S":"b'$4,745,439'"},
+					"WidestRelease": {"S":"b'16 theaters'"},
+					"CloseDate": {"S":"b'January 13, 2011'"},
+					"OpeningWeekend": {"S":"b'$19,446'"},
+					"InRelease": {"S":"b'231 days / 33 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '8,161'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Madhouse'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=madhouse.htm"},
+					"ReleaseDate": {"S":"b'February 16, 1990'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Orion Pictures'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$21,036,771'"},
+					"Runtime": {"S":"b'1 hrs. 31 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Leslie Dixon'"},
+					"Actor": {"S":"b'Lance Henriksen, Jordan Ladd, Joshua Leonard, Natasha Lyonne'"},
+					"Director": {"S":"b'William Butler'"},
+					"Domestic": {"S":"b'$21,036,771'"},
+					"WidestRelease": {"S":"b'1,555 theaters'"},
+					"OpeningWeekend": {"S":"b'$5,240,816'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Wide) 1990': '53', 'Highest All Time Rank (on April 3, 1990)': '611', 'All Time Domestic': '3,142', 'Yearly Opening Weekends 1990': '50', President's Day 4-Day Holiday Weekend Openers: '93', 'Yearly 1990': '60', 'Yearly PG-13 Rated 1990': '18', 'Yearly (Wide) 1990': '60'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bMadigan's Millions"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=madigansmillions.htm"},
+					"ReleaseDate": {"S":"b'December 1969'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'American International Pictures'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'G'"},
+					"Actor": {"S":"b'Dustin Hoffman'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,646 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Dirt the Movie'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dirt.htm"},
+					"Genre": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'April 1, 2004'"},
+					"Distributor": {"S":"b'MAC Releasing'"},
+					"Runtime": {"S":"b'1 hrs. 50 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Dirty'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dirty.htm"},
+					"Genre": {"S":"b'Crime Thriller'"},
+					"ProductionBudget": {"S":"b'$3 million'"},
+					"ReleaseDate": {"S":"b'January 20, 2006'"},
+					"Distributor": {"S":"b'Silver Nitrate'"},
+					"DomesticTotalGross": {"S":"b'$274,245'"},
+					"Runtime": {"S":"b'1 hrs. 37 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b''"},
+					"Domestic": {"S":"b'$274,245'"},
+					"InRelease": {"S":"b'49 days / 7 weeks'"},
+					"OpeningWeekend": {"S":"b'$95,521'"},
+					"CloseDate": {"S":"b'March 9, 2006'"},
+					"WidestRelease": {"S":"b'35 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Cop - Dirty': '32'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 2006': '117', 'All Time Domestic': '8,999', 'Yearly Opening Weekends (Limited) 2006': '79', 'Yearly 2006': '303', 'Yearly (Limited) 2006': '128', 'Yearly Opening Weekends 2006': '237'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Dirty Dancing'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dirtydancing.htm"},
+					"Genre": {"S":"b'Romance'"},
+					"ProductionBudget": {"S":"b'$6 million'"},
+					"DomesticLifetimeGross": {"S":"b''"},
+					"ReleaseDate": {"S":"b'August 21, 1987'"},
+					"Distributor": {"S":"b'Vestron'"},
+					"DomesticTotalGross": {"S":"b'$63,446,382'"},
+					"Runtime": {"S":"b'1 hrs. 45 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Patrick Swayze, Jennifer Grey'"},
+					"Foreign": {"S":"b'$150,000,000'"},
+					"Domestic": {"S":"b'$63,954,274'"},
+					"Worldwide": {"S":"b'$213,954,274'"},
+					"OpeningWeekend": {"S":"b'$3,900,000'"},
+					"WidestRelease": {"S":"b'1,012 theaters'"},
+					"Awards": {"S":"Nominated for One Oscar, Including One Win."},
+					"GenreRank": {"S":"{'Romantic Drama': '24', 'Dance': '10'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '2,669', 'Opening Weekends': '3,459', BOM Users' Grades (1987 Releases): '39', 'Eleventh Weekends Adjusted': '117', 'Twelfth Weekends Adjusted': '62', 'Yearly Opening Weekends 1987': '55', 'Yearly PG-13 Rated 1987': '2', 'Post-Thanksgiving Weekend - Best Holds': '11', 'All Time Domestic': '1,183', 'Yearly (Wide) 1987': '10', 'Smallest Drops, All Wide Releases': '282', 'All Time Worldwide': '629', 'Consecutive Weekends In Top 10': '114', 'Movies That Never #1 Adjusted': '145', 'Highest All Time Rank (on January 26, 1988)': '125', 'Ninth Weekends Adjusted': '166', 'Opening Weekends Adjusted': '3,037', 'Most Weekends in Top 10 (non-consecutive)': '50', 'Yearly 1987': '11', 'Yearly Opening Weekends (Wide) 1987': '59', 'Tenth Weekends': '153', 'Opening Weeks': '3,155', 'Eleventh Weekends': '154', 'Twelfth Weekends': '80', 'Tenth Weekends Adjusted': '111'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Dirty Dancing (2013)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dirtydancing13.htm"},
+					"Genre": {"S":"b'Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'TBD'"},
+					"Distributor": {"S":"b'Lionsgate'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Producer": {"S":"b'Kenny Ortega'"},
+					"Director": {"S":"b'Kenny Ortega'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Dance': 'n/a'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Dirty Dancing (Re-issue)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dirtydancing98.htm"},
+					"Genre": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticLifetimeGross": {"S":"b''"},
+					"ReleaseDate": {"S":"b'August 22, 1997'"},
+					"Distributor": {"S":"b'Live'"},
+					"DomesticTotalGross": {"S":"b'$507,892'"},
+					"Runtime": {"S":"b'1 hrs. 45 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$63,954,274'"},
+					"OpeningWeekend": {"S":"b'$162,378'"},
+					"WidestRelease": {"S":"b'54 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 1997': '158', 'Yearly Opening Weekends (Limited) 1997': '20', 'Yearly PG-13 Rated 1997': '49', 'Yearly (Limited) 1997': '52', 'Yearly 1997': '215', 'Highest All Time Rank (on September 5, 1997)': '3493'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Dirty Dancing (Secret Cinema)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dirtydancingsecretcinema.htm"},
+					"Genre": {"S":"b'Romance'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'TBD'"},
+					"Distributor": {"S":"b'Unknown'"},
+					"Runtime": {"S":"b'1 hrs. 45 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Foreign": {"S":"b'n/a'"},
+					"Domestic": {"S":"b'$63,954,274'"},
+					"Worldwide": {"S":"b'$63,954,274'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Dirty Dancing: Havana Nights'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dirtydancing2.htm"},
+					"Genre": {"S":"b'Romance'"},
+					"ProductionBudget": {"S":"b'$25 million'"},
+					"ReleaseDate": {"S":"b'February 27, 2004'"},
+					"Distributor": {"S":"b'Lions Gate'"},
+					"DomesticTotalGross": {"S":"b'$14,161,590'"},
+					"Runtime": {"S":"b'1 hrs. 26 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Composer": {"S":"b'Heitor Pereira'"},
+					"Writer": {"S":"b'Boaz Yakin'"},
+					"Actor": {"S":"b'Diego Luna, Romola Garai, Sela Ward, John Slattery, January Jones, Patrick Swayze*'"},
+					"Producer": {"S":"b'Lawrence Bender'"},
+					"Foreign": {"S":"b'$13,523,426'"},
+					"Domestic": {"S":"b'$14,161,590'"},
+					"Worldwide": {"S":"b'$27,685,016'"},
+					"OpeningWeekend": {"S":"b'$5,811,325'"},
+					"CloseDate": {"S":"b'April 22, 2004'"},
+					"WidestRelease": {"S":"b'2,042 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Romantic Drama': '86', 'Dance': '37', 'Teen Romance': '41'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 2004': '113', 'Opening Weeks Adjusted': '3,316', 'Yearly 2004': '126', 'Highest All Time Rank (on April 18, 2004)': '2289', BOM Users' Grades (2004 Releases): '178', 'Yearly Opening Weekends (Wide) 2004': '115', 'Opening Weekends': '2,776', 'Widest Independent Releases': '181', 'Worldwide Yearly 2004': '123', 'Widest Opening Independent Releases': '170', 'Yearly (Wide) 2004': '123', 'All Time Domestic': '3,882', 'Yearly PG-13 Rated 2004': '66', 'Smallest Drops, All Wide Releases': '2,870', 'Opening Weeks': '2,966', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,331', 'Opening Weekends Adjusted': '3,152'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Dirty Deeds'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dirtydeeds.htm"},
+					"Genre": {"S":"b'Comedy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'August 26, 2005'"},
+					"Distributor": {"S":"b'Freestyle Releasing'"},
+					"DomesticTotalGross": {"S":"b'$146,490'"},
+					"Runtime": {"S":"b'1 hrs. 25 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Zoe Saldana'"},
+					"Foreign": {"S":"b'n/a'"},
+					"Domestic": {"S":"b'$146,490'"},
+					"Worldwide": {"S":"b'$146,490'"},
+					"InRelease": {"S":"b'56 days / 8 weeks'"},
+					"OpeningWeekend": {"S":"b'$66,219'"},
+					"CloseDate": {"S":"b'October 20, 2005'"},
+					"WidestRelease": {"S":"b'64 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - High School': '63'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Worldwide Yearly 2005': '324', 'All Time Domestic': '9,840', 'Yearly 2005': '330', 'Yearly PG-13 Rated 2005': '109', 'Yearly Opening Weekends 2005': '230', 'Yearly (Limited) 2005': '170', 'Yearly Opening Weekends (Limited) 2005': '91'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Dirty Girl'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dirtygirl.htm"},
+					"Genre": {"S":"b'Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'October 7, 2011'"},
+					"Distributor": {"S":"b'Weinstein Company'"},
+					"DomesticTotalGross": {"S":"b'$55,125'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Abe Sylvia'"},
+					"Actor": {"S":"b'Juno Temple, Jeremy Dozier, Milla Jovovich, William H. Macy, Mary Steenburgen, Dwight Yoakam, Tim McGraw'"},
+					"Director": {"S":"b'Abe Sylvia'"},
+					"Foreign": {"S":"b'n/a'"},
+					"Domestic": {"S":"b'$55,125'"},
+					"Worldwide": {"S":"b'$55,125'"},
+					"InRelease": {"S":"b'35 days / 5 weeks'"},
+					"OpeningWeekend": {"S":"b'$17,859'"},
+					"CloseDate": {"S":"b'November 10, 2011'"},
+					"WidestRelease": {"S":"b'10 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '11,153'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Dirty Grandpa'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dirtygrandpa.htm"},
+					"Genre": {"S":"b'Comedy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'January 22, 2016'"},
+					"Distributor": {"S":"b'Lionsgate'"},
+					"DomesticTotalGross": {"S":"b'$35,593,113'"},
+					"Runtime": {"S":"b'1 hrs. 42 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Robert DeNiro, Zac Efron, Zoey Deutch, Aubrey Plaza, Dermot Mulroney, Julianne Hough'"},
+					"Foreign": {"S":"b'$58,479,915'"},
+					"Domestic": {"S":"b'$35,593,113'"},
+					"Worldwide": {"S":"b'$94,073,028'"},
+					"InRelease": {"S":"b'56 days / 8 weeks'"},
+					"OpeningWeekend": {"S":"b'$11,111,875'"},
+					"CloseDate": {"S":"b'March 17, 2016'"},
+					"WidestRelease": {"S":"b'2,912 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '2,502', 'Opening Weekends': '1,701', 'All Time Domestic': '2,186', 'Smallest Drops, All Wide Releases': '1,193', 'Opening Weekends - January': '115', 'Opening Weeks': '1,718', 'Smallest Drops, 2,000+ theaters (Very Wide)': '384', 'Opening Weekends Adjusted': '2,523', 'Smallest Drops, 2,500+ theaters (Saturation)': '246', 'Opening Weekends Adjusted - January': '163'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Dirty Harry'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dirtyharry.htm"},
+					"Genre": {"S":"b'Action'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'December 22, 1971'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"DomesticTotalGross": {"S":"b'$35,976,000'"},
+					"Runtime": {"S":"b'1 hrs. 42 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Clint Eastwood'"},
+					"Domestic": {"S":"b'$35,976,000'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"{'Series: Dirty Harry': '5'}"},
+					"Chart": {"S":"{'Highest All Time Rank (on January 1, 1982)': '144', 'Rated R Adjusted': '107', 'All Time Domestic': '2,162'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Dirty Laundry'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dirtylaundry.htm"},
+					"Genre": {"S":"b'Comedy / Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'December 7, 2007'"},
+					"Distributor": {"S":"b'Codeblack Entertainment'"},
+					"DomesticTotalGross": {"S":"b'$20,138'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Loretta Devine'"},
+					"Domestic": {"S":"b'$20,138'"},
+					"InRelease": {"S":"b'14 days / 2 weeks'"},
+					"OpeningWeekend": {"S":"b'$15,841'"},
+					"CloseDate": {"S":"b'December 16, 2007'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 2007': '196', 'Yearly PG-13 Rated 2007': '124', 'All Time Domestic': '12,526', 'Yearly (Limited) 2007': '310', 'Yearly Opening Weekends 2007': '363', 'Yearly 2007': '496'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Dirty Love'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dirtylove.htm"},
+					"Genre": {"S":"b'Comedy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'September 23, 2005'"},
+					"Distributor": {"S":"b'First Look'"},
+					"DomesticTotalGross": {"S":"b'$36,099'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$36,099'"},
+					"InRelease": {"S":"b'14 days / 2 weeks'"},
+					"OpeningWeekend": {"S":"b'$23,281'"},
+					"CloseDate": {"S":"b'October 6, 2005'"},
+					"WidestRelease": {"S":"b'44 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - Dark/Black': '78', 'Romantic Comedy': '428', 'Cinderella Complex': '20'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 2005': '141', 'All Time Domestic': '11,740', 'Yearly 2005': '412', 'Yearly Opening Weekends 2005': '298', 'Yearly (Limited) 2005': '252', 'Yearly Opening Weekends (Limited) 2005': '159'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Dirty Pretty Things'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dirtyprettythings.htm"},
+					"Genre": {"S":"b'Drama / Thriller'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'July 18, 2003'"},
+					"Distributor": {"S":"b'Miramax'"},
+					"DomesticTotalGross": {"S":"b'$8,112,414'"},
+					"Runtime": {"S":"b'1 hrs. 37 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Steven Knight'"},
+					"Actor": {"S":"b'Audrey Tautou, Sophie Okonedo'"},
+					"Director": {"S":"b'Stephen Frears'"},
+					"Foreign": {"S":"b'$5,792,352'"},
+					"Domestic": {"S":"b'$8,112,414'"},
+					"Worldwide": {"S":"b'$13,904,766'"},
+					"InRelease": {"S":"b'217 days / 31 weeks'"},
+					"OpeningWeekend": {"S":"b'$100,512'"},
+					"CloseDate": {"S":"b'February 19, 2004'"},
+					"WidestRelease": {"S":"b'493 theaters'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 2003': '196', 'Yearly (Limited) 2003': '12', 'Highest All Time Rank (on November 9, 2003)': '2853', 'All Time Domestic': '4,734', 'Worldwide Yearly 2003': '148', 'Yearly Opening Weekends (Limited) 2003': '67', BOM Users' Grades (2003 Releases): '75', 'Yearly R Rated 2003': '47', 'Yearly 2003': '141'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Dirty Rotten Scoundrels'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dirtyrottenscoundrels.htm"},
+					"Genre": {"S":"b'Comedy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'December 16, 1988'"},
+					"Distributor": {"S":"b'Orion Pictures'"},
+					"DomesticTotalGross": {"S":"b'$42,039,085'"},
+					"Runtime": {"S":"b'1 hrs. 50 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Cinematographer": {"S":"b'Michael Ballhaus'"},
+					"Actor": {"S":"b'Steve Martin, Michael Caine'"},
+					"Director": {"S":"b'Frank Oz'"},
+					"Domestic": {"S":"b'$42,039,085'"},
+					"OpeningWeekend": {"S":"b'$3,840,498'"},
+					"WidestRelease": {"S":"b'1,515 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Con Artist / Hustler': '11', 'Comedy Remake': '26'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '2,516', BOM Users' Grades (1988 Releases): '21', 'Yearly Opening Weekends 1988': '57', 'Yearly (Wide) 1988': '26', 'Opening Weekends': '3,480', 'All Time Domestic': '1,860', 'Yearly 1988': '24', 'Yearly PG Rated 1988': '7', 'Opening Weeks': '2,952', 'Opening Weekends Adjusted': '3,155', 'Yearly Opening Weekends (Wide) 1988': '63', 'Highest All Time Rank (on February 21, 1989)': '256'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Dirty Wars'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dirtywars.htm"},
+					"Genre": {"S":"b'Documentary'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'June 7, 2013'"},
+					"Distributor": {"S":"b'IFC'"},
+					"DomesticTotalGross": {"S":"b'$384,473'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Producer": {"S":"b'Randall Wallace'"},
+					"Domestic": {"S":"b'$384,473'"},
+					"OpeningWeekend": {"S":"b'$63,504'"},
+					"CloseDate": {"S":"b'August 8, 2013'"},
+					"WidestRelease": {"S":"b'31 theaters'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"{'Documentary - Political': '34', 'Documentary': '285'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '8,527'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Dirty Work'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dirtywork.htm"},
+					"Genre": {"S":"b'Comedy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'June 12, 1998'"},
+					"Distributor": {"S":"b'MGM'"},
+					"DomesticTotalGross": {"S":"b'$10,023,282'"},
+					"Runtime": {"S":"b'1 hrs. 22 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Fred Wolf'"},
+					"Actor": {"S":"b'Norm MacDonald, Jack Warden, Chevy Chase, Adam Sandler*, Chris Farley*, Rebecca Romijn*'"},
+					"Producer": {"S":"b'Brad Grey, Robert Simonds'"},
+					"Director": {"S":"b'Bob Saget'"},
+					"Domestic": {"S":"b'$10,023,282'"},
+					"OpeningWeekend": {"S":"b'$3,634,236'"},
+					"WidestRelease": {"S":"b'1,776 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"{'Brand: Saturday Night Live - Alumni Debuts': '25'}"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '3,277', 'Opening Weekends': '3,571', 'Highest All Time Rank (on July 3, 1998)': '1919', 'Yearly PG-13 Rated 1998': '41', 'Opening Weekends Adjusted': '3,485', 'Yearly 1998': '127', 'Yearly Opening Weekends (Wide) 1998': '112', 'All Time Domestic': '4,465', BOM Users' Grades (1998 Releases): '95', 'Yearly (Wide) 1998': '117', 'Smallest Drops, All Wide Releases': '3,295', 'Opening Weeks': '3,372', 'Yearly Opening Weekends 1998': '107'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Disappearances'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=disappearances.htm"},
+					"Genre": {"S":"b'Period Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'May 4, 2007'"},
+					"Distributor": {"S":"b'Truly Indie'"},
+					"DomesticTotalGross": {"S":"b'$7,506'"},
+					"Runtime": {"S":"b'1 hrs. 43 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Kris Kristofferson, Genevieve Bujold'"},
+					"Domestic": {"S":"b'$7,506'"},
+					"InRelease": {"S":"b'35 days / 5 weeks'"},
+					"OpeningWeekend": {"S":"b'$1,629'"},
+					"CloseDate": {"S":"b'June 14, 2007'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 2007': '411', 'Yearly PG-13 Rated 2007': '129', 'All Time Domestic': '13,631', 'Yearly (Limited) 2007': '379', 'Yearly Opening Weekends 2007': '578', 'Yearly 2007': '565'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Disaster Movie'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=disastermovie.htm"},
+					"Genre": {"S":"b'Comedy'"},
+					"ProductionBudget": {"S":"b'$20 million'"},
+					"ReleaseDate": {"S":"b'August 29, 2008'"},
+					"Distributor": {"S":"b'Lionsgate'"},
+					"DomesticTotalGross": {"S":"b'$14,190,901'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Composer": {"S":"b'Christopher Lennertz'"},
+					"Writer": {"S":"b'Jason Friedberg, Aaron Seltzer'"},
+					"Actor": {"S":"b'Tony Cox, Carmen Electra, Kim Kardashian, Vanessa Minnillo'"},
+					"Producer": {"S":"b'Jason Friedberg, Peter Safran, Aaron Seltzer'"},
+					"Director": {"S":"b'Jason Friedberg, Aaron Seltzer'"},
+					"Foreign": {"S":"b'$20,625,923'"},
+					"Domestic": {"S":"b'$14,190,901'"},
+					"Worldwide": {"S":"b'$34,816,824'"},
+					"InRelease": {"S":"b'56 days / 8 weeks'"},
+					"OpeningWeekend": {"S":"b'$5,836,973'"},
+					"CloseDate": {"S":"b'October 23, 2008'"},
+					"WidestRelease": {"S":"b'2,642 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - Spoof': '45'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{BOM Users' Grades (2008 Releases): '195', 'Labor Day 4-Day Holiday Weekend Openers': '33', 'Labor Day 4-Day Holiday Weekends': '138', 'Worst Openings - Very Wide Adjusted': '194', 'Yearly Opening Weekends (Wide) 2008': '116', 'Opening Weekends': '2,765', 'Yearly (Wide) 2008': '124', 'Opening Weeks Adjusted': '3,461', 'Smallest Drops, 2,500+ theaters (Saturation)': '880', 'Worst Openings - Saturated Adjusted': '69', 'Worst Openings - Saturated': '67', 'All Time Domestic': '3,879', 'Worldwide Yearly 2008': '121', 'Yearly Opening Weekends 2008': '114', 'Yearly PG-13 Rated 2008': '68', 'Opening Weeks': '2,861', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,256', 'Opening Weekends Adjusted': '3,413', 'Smallest Drops, All Wide Releases': '2,751', 'Yearly 2008': '128'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Dischord'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dischord.htm"},
+					"Genre": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'February 28, 2003'"},
+					"Distributor": {"S":"b'Artistic License'"},
+					"DomesticTotalGross": {"S":"b'$2,199'"},
+					"Runtime": {"S":"b'1 hrs. 42 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$2,199'"},
+					"InRelease": {"S":"b'3 days / 0.4 weeks'"},
+					"OpeningWeekend": {"S":"b'$2,199'"},
+					"CloseDate": {"S":"b'March 2, 2003'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 2003': '471', 'Yearly (Limited) 2003': '350', 'All Time Domestic': '14,416', 'Yearly Opening Weekends (Limited) 2003': '342', 'Yearly Unrated Movies 2003': '164', 'Yearly 2003': '496', 'Highest All Time Rank (on March 2, 2003)': '5918'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Disclosure'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=disclosure.htm"},
+					"Genre": {"S":"b'Drama / Thriller'"},
+					"ProductionBudget": {"S":"b'$55 million'"},
+					"ReleaseDate": {"S":"b'December 9, 1994'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"DomesticTotalGross": {"S":"b'$83,015,089'"},
+					"Runtime": {"S":"b'2 hrs. 9 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Composer": {"S":"b'Ennio Morricone'"},
+					"Actor": {"S":"b'Michael Douglas, Demi Moore'"},
+					"Producer": {"S":"b'Barry Levinson'"},
+					"Director": {"S":"b'Barry Levinson'"},
+					"Foreign": {"S":"b'$131,000,000'"},
+					"Domestic": {"S":"b'$83,015,089'"},
+					"Worldwide": {"S":"b'$214,015,089'"},
+					"OpeningWeekend": {"S":"b'$10,068,126'"},
+					"WidestRelease": {"S":"b'2,168 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Thriller - Psycho / Stalker / Blank from Hell': '4', 'Thriller - Erotic': '3'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Rated R Adjusted': '148', 'Opening Weeks Adjusted': '1,371', 'Opening Weekends Adjusted': '1,347', 'Highest All Time Rank (on February 21, 1995)': '156', 'Fifth Weekends Adjusted': '105', 'Yearly Opening Weekends 1994': '30', 'Opening Weekends': '1,856', 'Yearly 1994': '14', 'Fewest Theaters to Debut at #1': '166', 'Yearly R Rated 1994': '5', 'Yearly Opening Weekends (Wide) 1994': '32', 'Worldwide Yearly 1994': '11', 'All Time Domestic': '835', 'Opening Weekends Adjusted - December': '102', 'All Time Worldwide': '628', 'Smallest Drops, All Wide Releases': '912', 'Opening Weeks': '1,904', 'Yearly (Wide) 1994': '15', BOM Users' Grades (1994 Releases): '54', 'Opening Weekends - December': '145'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Disconnect'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=disconnect.htm"},
+					"Genre": {"S":"b'Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'April 12, 2013'"},
+					"Distributor": {"S":"b'LD Entertainment'"},
+					"DomesticTotalGross": {"S":"b'$1,436,900'"},
+					"Runtime": {"S":"b'1 hrs. 55 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Frank Grillo, Jason Bateman, Alexander Skarsg, Paula Patton'"},
+					"Foreign": {"S":"b'n/a'"},
+					"Domestic": {"S":"b'$1,436,900'"},
+					"Worldwide": {"S":"b'$1,436,900'"},
+					"InRelease": {"S":"b'42 days / 6 weeks'"},
+					"OpeningWeekend": {"S":"b'$124,000'"},
+					"CloseDate": {"S":"b'May 23, 2013'"},
+					"WidestRelease": {"S":"b'180 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '6,865'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Disfigured'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=disfigured.htm"},
+					"Genre": {"S":"b'Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'July 18, 2008'"},
+					"Distributor": {"S":"b'Cinema Libre Studio'"},
+					"DomesticTotalGross": {"S":"b'$829'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$829'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"OpeningWeekend": {"S":"b'$585'"},
+					"CloseDate": {"S":"b'July 24, 2008'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '14,626', 'Yearly (Limited) 2008': '427', 'Yearly Unrated Movies 2008': '204', 'Yearly Opening Weekends 2008': '586', 'Yearly Opening Weekends (Limited) 2008': '434', 'Yearly 2008': '601'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Disgrace'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=disgrace.htm"},
+					"Genre": {"S":"b'Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'September 18, 2009'"},
+					"Distributor": {"S":"b'Paladin'"},
+					"DomesticTotalGross": {"S":"b'$69,705'"},
+					"Runtime": {"S":"b'1 hrs. 54 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Actor": {"S":"b'John Malkovich'"},
+					"Foreign": {"S":"b'$2,052,869'"},
+					"Domestic": {"S":"b'$69,705'"},
+					"Worldwide": {"S":"b'$2,122,574'"},
+					"InRelease": {"S":"b'21 days / 3 weeks'"},
+					"OpeningWeekend": {"S":"b'$12,615'"},
+					"CloseDate": {"S":"b'October 8, 2009'"},
+					"WidestRelease": {"S":"b'9 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2009': '339', 'Yearly Opening Weekends 2009': '327', 'All Time Domestic': '10,839', 'Yearly Opening Weekends (Limited) 2009': '188', 'Worldwide Yearly 2009': '239', 'Yearly (Limited) 2009': '187', 'Yearly Unrated Movies 2009': '71'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Dishkiyaoon'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dishkiyaoon.htm"},
+					"Genre": {"S":"b'Foreign'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'March 28, 2014'"},
+					"Distributor": {"S":"b'Eros'"},
+					"DomesticTotalGross": {"S":"b'$11,288'"},
+					"Runtime": {"S":"b'1 hrs. 50 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$11,288'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"OpeningWeekend": {"S":"b'$8,173'"},
+					"CloseDate": {"S":"b'April 3, 2014'"},
+					"WidestRelease": {"S":"b'11 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1724'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '13,221'}"}
+				}
+			}
+		}
+	]
+}

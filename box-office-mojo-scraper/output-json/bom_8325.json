@@ -1,0 +1,643 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mission: Impossible II'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mi2.htm"},
+					"ReleaseDate": {"S":"b'May 24, 2000'"},
+					"Genre": {"S":"b'Action'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'$125 million'"},
+					"DomesticTotalGross": {"S":"b'$215,409,889'"},
+					"Runtime": {"S":"b'2 hrs. 3 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Tom Cruise, Paula Wagner'"},
+					"Actor": {"S":"b'Tom Cruise, Dougray Scott, Thandie Newton, Ving Rhames, Richard Roxburgh, Brendan Gleeson, Anthony Hopkins'"},
+					"Composer": {"S":"b'Klaus Badelt*, Hans Zimmer'"},
+					"Director": {"S":"b'John Woo'"},
+					"Domestic": {"S":"b'$215,409,889'"},
+					"Worldwide": {"S":"b'$546,388,105'"},
+					"Foreign": {"S":"b'$330,978,216'"},
+					"WidestRelease": {"S":"b'3,669 theaters'"},
+					"CloseDate": {"S":"b'October 19, 2000'"},
+					"OpeningWeekend": {"S":"b'$57,845,297'"},
+					"InRelease": {"S":"b'149 days / 21.3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Action - Wire-Fu': '2', 'Spy': '4', 'TV Adaptation (Live Action)': '3'}"},
+					"Franchise": {"S":"{'Series: Mission: Impossible': '1', 'Showdown: Mission: In Competition': '1'}"},
+					"Chart": {"S":"{'Slowest to $200 million': '35', 'Opening Weeks Adjusted': '84', 'Opening Weekends - May': '41', 'Non-Opening Friday Gross Adjusted': '39', 'Fifth Weekends': '189', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '594', 'Single Day Wednesday Gross Adjusted': '32', 'Top 8-Day Grosses': '126', 'Opening Weekends - Summer': '90', 'Non-Friday Opening Weekends Adjusted': '16', 'All Time Adjusted': '177', 'Yearly Opening Weekends (Wide) 2000': '1', 'Fastest to $150 million': '140', 'Non-Opening Friday Gross': '73', 'Single Day Saturday Gross': '169', 'Independence Day Weekends': '195', 'Single Day Wednesday Gross': '52', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,615', 'Single Day Gross': '434', 'All Time Worldwide': '141', 'Single Day Sunday Gross': '119', 'Highest All Time Rank (on July 30, 2000)': '26', 'Non-Opening Thursday Gross Adjusted': '61', 'Opening Wednesdays': '28', 'Single Day Friday Gross': '269', 'Fourth Weekends Adjusted': '135', 'Non-Friday Opening Weekends': '24', 'Second Weekends': '197', 'Single Day Sunday Gross Adjusted': '56', 'Opening Weekends Adjusted': '88', 'Fastest to $200 million': '138', 'Second Weekends Adjusted': '123', 'Top 5-Day Grosses for movies opening on a Wednesday': '23', 'Fourth Weekends': '170', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,154', 'Rated PG-13': '85', 'Widest PG-13 Rated Releases': '130', 'Consecutive Weekends At #1': '192', 'Most Weekends at #1 (non-consecutive)': '202', 'Rated PG-13 Adjusted': '56', 'Worldwide Yearly 2000': '1', 'Opening Weekends': '147', 'Top 6-Day Grosses': '105', 'Single Day Monday Gross Adjusted': '23', 'Fastest to $100 million': '126', 'Rated PG-13, Opening Weekends': '96', 'All Time Domestic': '153', 'Widest Opening Releases': '224', 'Smallest Drops, All Wide Releases': '3,339', 'Theater Averages - Wide Opening Weekends': '167', 'Opening Weekends Adjusted - May': '31', 'Single Day Saturday Gross Adjusted': '83', 'Top 5-Day Grosses': '131', 'Yearly (Wide) 2000': '3', 'Memorial Day 4-Day Holiday Weekend Openers': '12', 'Opening Weeks': '142', 'Non-Opening Thursday Gross': '101', 'Widest PG-13 Rated Openings': '119', 'Third Weekends Adjusted': '113', 'Opening Weekends Adjusted - Summer': '60', 'Widest Releases': '243', 'Top 5-Day Grosses for movies opening on a Wednesday Adjusted': '17', 'Single Day Friday Gross Adjusted': '159', BOM Users' Grades: '555', 'Memorial Day 4-Day Holiday Weekends': '13', 'Single Day Thursday Gross Adjusted': '74', 'Theater Averages - Wide Opening Weekends Adjusted': '122', 'Single Day Thursday Gross': '121', 'Single Day Monday Gross': '56', 'Third Weekends': '173', 'Theater Averages (Wide Releases) - All Time Adjusted': '144', 'Slowest to $100 million': '509', 'Rated PG-13, Opening Weekends Adjusted': '65', 'Theater Averages (Wide Releases) - All Time': '188', 'Fifth Weekends Adjusted': '169', 'Yearly Opening Weekends 2000': '1', BOM Users' Grades (2000 Releases): '80', 'Yearly PG-13 Rated 2000': '2', 'Sunday Share of Opening Weekends': '115', 'Yearly 2000': '3', 'Top 7-Day Grosses': '109'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mission: Impossible III'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mi3.htm"},
+					"ReleaseDate": {"S":"b'May 5, 2006'"},
+					"Genre": {"S":"b'Action'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'$150 million'"},
+					"DomesticTotalGross": {"S":"b'$134,029,801'"},
+					"Runtime": {"S":"b'2 hrs. 6 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'J.J. Abrams, Alex Kurtzman, Roberto Orci'"},
+					"Producer": {"S":"b'Tom Cruise, Paula Wagner'"},
+					"Actor": {"S":"b'Tom Cruise, Philip Seymour Hoffman, Ving Rhames, Billy Crudup, Michelle Monaghan, Jonathan Rhys Meyers, Keri Russell, Maggie Q, Simon Pegg, Eddie Marsan, Laurence Fishburne'"},
+					"Composer": {"S":"b'Michael Giacchino'"},
+					"Director": {"S":"b'J.J. Abrams'"},
+					"Domestic": {"S":"b'$134,029,801'"},
+					"Worldwide": {"S":"b'$397,850,012'"},
+					"Foreign": {"S":"b'$263,820,211'"},
+					"WidestRelease": {"S":"b'4,059 theaters'"},
+					"CloseDate": {"S":"b'July 20, 2006'"},
+					"OpeningWeekend": {"S":"b'$47,743,273'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Spy': '19', 'TV Adaptation (Live Action)': '12'}"},
+					"Franchise": {"S":"{'Series: Mission: Impossible': '5', 'Showdown: Bond Vs. Bond Vs. Other Spies': '6', Showdown: 'G.I. Joe' Vs. Similar Summer Action Movies: '5', 'Showdown: Mission: In Competition': '5'}"},
+					"Chart": {"S":"{'Top 3-Day Grosses': '207', 'Yearly Opening Weekends 2006': '7', 'Opening Weekends - May': '50', 'Yearly PG-13 Rated 2006': '9', 'Opening Weekends - Summer': '134', BOM Users' Grades: '410', 'Worldwide Openings': '103', 'Single Day Saturday Gross': '263', 'Memorial Day 4-Day Holiday Weekends': '127', 'Opening Weeks Adjusted': '271', BOM Users' Grades (2006 Releases): '86', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,216', 'Single Day Gross': '670', 'All Time Domestic': '394', 'Yearly 2006': '14', 'Widest Opening Releases': '67', 'Yearly Opening Weekends (Wide) 2006': '7', 'Single Day Friday Gross': '263', 'Summer Starts': '15', 'Opening Weekends Adjusted': '221', 'Rated PG-13, Opening Weekends Adjusted': '138', 'Opening Weekends': '216', 'Rated PG-13': '194', 'Rated PG-13, Opening Weekends': '136', 'Consecutive Weekends At #1': '274', 'Widest Releases': '73', 'Smallest Drops, 2,500+ theaters (Saturation)': '845', 'All Time Worldwide': '241', 'Fastest to $100 million': '279', 'Worldwide Yearly 2006': '8', 'Opening Day Gross': '226', 'Smallest Drops, All Wide Releases': '2,698', 'Opening Weekends Adjusted - May': '58', 'Single Day Saturday Gross Adjusted': '240', 'Widest PG-13 Rated Releases': '46', 'Opening Weeks': '267', 'Slowest to $100 million': '356', 'Widest PG-13 Rated Openings': '44', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '414', 'Opening Weekends Adjusted - Summer': '144', 'Most Weekends at #1 (non-consecutive)': '275', 'Highest All Time Rank (on July 2, 2006)': '185', 'Single Day Friday Gross Adjusted': '237', 'Foreign Opening Weekends': '78', 'Yearly (Wide) 2006': '14'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Missionary'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=missionary.htm"},
+					"ReleaseDate": {"S":"b'November 5, 1982'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Columbia'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$7,241,180'"},
+					"Runtime": {"S":"b'1 hrs. 27 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Michael Palin, Maggie Smith'"},
+					"Director": {"S":"b'Richard Loncraine'"},
+					"Domestic": {"S":"b'$7,241,180'"},
+					"WidestRelease": {"S":"b'532 theaters'"},
+					"OpeningWeekend": {"S":"b'$1,864,852'"},
+					"InRelease": {"S":"b'35 days / 5 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on December 5, 1982)': '467', 'Yearly (Limited) 1982': '17', 'All Time Domestic': '4,895', 'Top Ranking Limited Release Debuts': '26', 'Opening Weekends (Limited Release)': '151', 'Yearly R Rated 1982': '39', 'Yearly Opening Weekends (Limited) 1982': '14', 'Yearly Opening Weekends 1982': '63', 'Yearly 1982': '78'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mississippi Burning'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mississippiburning.htm"},
+					"ReleaseDate": {"S":"b'December 9, 1988'"},
+					"Genre": {"S":"b'Drama / Thriller'"},
+					"Distributor": {"S":"b'Orion Pictures'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$34,603,943'"},
+					"Runtime": {"S":"b'2 hrs. 7 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Gene Hackman, Willem Dafoe, Frances McDormand'"},
+					"Composer": {"S":"b'Trevor Jones'"},
+					"Domestic": {"S":"b'$34,603,943'"},
+					"WidestRelease": {"S":"b'1,134 theaters'"},
+					"CloseDate": {"S":"b'June 15, 1989'"},
+					"LimitedOpeningWeekend": {"S":"b'<b> $225,034</b>'"},
+					"WideOpeningWeekend": {"S":"b'$3,545,305'"},
+					"Awards": {"S":"Nominated for Seven Oscars, Including One Win."},
+					"GenreRank": {"S":"{'True Crime': '13'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Wide) 1989': '67', 'Yearly Opening Weekends 1988': '144', 'All Time Domestic': '2,242', 'Yearly 1988': '33', 'Yearly Opening Weekends (Limited) 1988': '38', 'Smallest Drops, All Wide Releases': '1,082', 'Yearly R Rated 1988': '17', 'Opening Weeks Adjusted': '3,315', 'Opening Weekends': '3,613', 'Best Picture Nomination Effect': '30', 'Opening Weekends Adjusted': '3,239', 'Opening Weeks': '3,651', BOM Users' Grades (1988 Releases): '9', 'Yearly (Wide) 1989': '37', 'Highest All Time Rank (on March 21, 1989)': '343'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mississippi Grind'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mississippigrind.htm"},
+					"ReleaseDate": {"S":"b'September 25, 2015'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'A24'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$130,541'"},
+					"Runtime": {"S":"b'1 hrs. 48 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Ben Mendelsohn, Sienna Miller, Ryan Reynolds'"},
+					"Director": {"S":"b'Anna Boden, Ryan Fleck'"},
+					"Domestic": {"S":"b'$130,541'"},
+					"Worldwide": {"S":"b'$130,541'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'46 theaters'"},
+					"CloseDate": {"S":"b'November 1, 2015'"},
+					"OpeningWeekend": {"S":"b'$12,434'"},
+					"InRelease": {"S":"b'35 days / 5 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sundance 2015': '21'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '9,992'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mississippi Masala'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mississippimasala.htm"},
+					"ReleaseDate": {"S":"b'February 5, 1992'"},
+					"Genre": {"S":"b'Romance'"},
+					"Distributor": {"S":"b'Samuel Goldwyn'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$7,308,786'"},
+					"Runtime": {"S":"b'1 hrs. 58 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Cinematographer": {"S":"b'Edward Lachman'"},
+					"Actor": {"S":"b'Denzel Washington'"},
+					"Director": {"S":"b'Mira Nair'"},
+					"Domestic": {"S":"b'$7,308,786'"},
+					"WidestRelease": {"S":"b'335 theaters'"},
+					"CloseDate": {"S":"b'May 21, 1992'"},
+					"OpeningWeekend": {"S":"b'$45,831'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Romantic Drama': '104'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 1992': '50', 'Yearly Opening Weekends (Limited) 1992': '53', 'Yearly (Limited) 1992': '6', 'All Time Domestic': '4,876', 'Highest All Time Rank (on March 24, 1992)': '1374', 'Yearly 1992': '104', 'Yearly Opening Weekends 1992': '165'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mississippi Mermaid (re-issue)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mississippimermaid09.htm"},
+					"ReleaseDate": {"S":"b'July 10, 2009'"},
+					"DomesticTotalasofApr.10,2014": {"S":"b'$33,216'"},
+					"Distributor": {"S":"b'The Film Desk'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$33,216'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"InRelease": {"S":"b'427 days / 61 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2009': '389', 'Yearly (Limited) 2009': '237', 'All Time Domestic': '11,848', 'Yearly PG Rated 2009': '55'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mistaken for Strangers'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mistakenforstrangers.htm"},
+					"ReleaseDate": {"S":"b'March 28, 2014'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'Abramorama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$138,991'"},
+					"Runtime": {"S":"b'1 hrs. 15 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$138,991'"},
+					"WidestRelease": {"S":"b'9 theaters'"},
+					"CloseDate": {"S":"b'May 15, 2014'"},
+					"OpeningWeekend": {"S":"b'$87,743'"},
+					"InRelease": {"S":"b'49 days / 7 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '503'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '9,912'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mister Foe'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=misterfoe.htm"},
+					"ReleaseDate": {"S":"b'September 5, 2008'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Magnolia'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$60,641'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Jamie Bell, Sophia Myles, Ciaran Hinds'"},
+					"Domestic": {"S":"b'$60,641'"},
+					"WidestRelease": {"S":"b'6 theaters'"},
+					"CloseDate": {"S":"b'October 23, 2008'"},
+					"OpeningWeekend": {"S":"b'$13,490'"},
+					"InRelease": {"S":"b'49 days / 7 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '11,022', 'Yearly (Limited) 2008': '239', 'Yearly R Rated 2008': '135', 'Yearly Opening Weekends 2008': '366', 'Yearly 2008': '412', 'Yearly Opening Weekends (Limited) 2008': '214'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mister Johnson'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=misterjohnson.htm"},
+					"ReleaseDate": {"S":"b'March 22, 1991'"},
+					"Genre": {"S":"b'Period Drama'"},
+					"Distributor": {"S":"b'Avenue Pict.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$1,464,242'"},
+					"Runtime": {"S":"b'1 hrs. 37 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Pierce Brosnan'"},
+					"Domestic": {"S":"b'$1,464,242'"},
+					"WidestRelease": {"S":"b'43 theaters'"},
+					"CloseDate": {"S":"b'July 25, 1991'"},
+					"OpeningWeekend": {"S":"b'$11,051'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1991': '158', 'Yearly (Limited) 1991': '32', 'Yearly Opening Weekends (Limited) 1991': '88', 'Yearly Opening Weekends 1991': '199', 'All Time Domestic': '6,849', 'Yearly PG-13 Rated 1991': '42', 'Highest All Time Rank (on May 20, 1982)': '600'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mister Lonely'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=misterlonely.htm"},
+					"ReleaseDate": {"S":"b'May 2, 2008'"},
+					"Genre": {"S":"b'Comedy / Drama'"},
+					"Distributor": {"S":"b'IFC'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$167,396'"},
+					"Runtime": {"S":"b'1 hrs. 48 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Actor": {"S":"b'Diego Luna, Samantha Morton, Werner Herzog, David Blaine'"},
+					"Director": {"S":"b'Harmony Korine'"},
+					"Domestic": {"S":"b'$167,396'"},
+					"Worldwide": {"S":"b'$393,813'"},
+					"Foreign": {"S":"b'$226,417'"},
+					"WidestRelease": {"S":"b'8 theaters'"},
+					"CloseDate": {"S":"b'August 7, 2008'"},
+					"OpeningWeekend": {"S":"b'$16,769'"},
+					"InRelease": {"S":"b'98 days / 14 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2008': '150', 'All Time Domestic': '9,638', 'Worldwide Yearly 2008': '358', 'Yearly Opening Weekends 2008': '344', 'Yearly Unrated Movies 2008': '51', 'Yearly 2008': '322', 'Yearly Opening Weekends (Limited) 2008': '192'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mister Roberts'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=misterroberts.htm"},
+					"ReleaseDate": {"S":"b'July 30, 1955'"},
+					"Genre": {"S":"b'Comedy / Drama'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'2 hrs. 3 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Producer": {"S":"b'Leland Hayward'"},
+					"Actor": {"S":"b'Henry Fonda, James Cagney, William Powell, Jack Lemmon, Betsy Palmer, Ward Bond, Philip Carey, Nick Adams, Ken Curtis*, Harry Carey Jr.*, Patrick Wayne*'"},
+					"Cinematographer": {"S":"b'Winton C. Hoch'"},
+					"Writer": {"S":"b'Joshua Logan, Frank Nugent, Thomas Heggen'"},
+					"Composer": {"S":"b'Franz Waxman'"},
+					"Director": {"S":"b'John Ford, Mervyn LeRoy'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mistress'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mistress.htm"},
+					"ReleaseDate": {"S":"b'August 7, 1992'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Rainbow Releasing'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$1,102,469'"},
+					"Runtime": {"S":"b'1 hrs. 50 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'J.F. Lawton'"},
+					"Actor": {"S":"b'Robert DeNiro, Christopher Walken*'"},
+					"Domestic": {"S":"b'$1,102,469'"},
+					"WidestRelease": {"S":"b'33 theaters'"},
+					"OpeningWeekend": {"S":"b'$34,146'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Hollywood / Movies': '85'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 1992': '86', 'Yearly Opening Weekends (Limited) 1992': '62', 'Yearly (Limited) 1992': '45', 'All Time Domestic': '7,221', 'Highest All Time Rank (on September 22, 1992)': '2243', 'Yearly 1992': '172', 'Yearly Opening Weekends 1992': '174'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mistress America'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mistressamerica.htm"},
+					"ReleaseDate": {"S":"b'August 14, 2015'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Fox Searchlight'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$2,500,431'"},
+					"Runtime": {"S":"b'1 hrs. 26 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Noah Baumbach, Greta Gerwig'"},
+					"Actor": {"S":"b'Greta Gerwig'"},
+					"Director": {"S":"b'Noah Baumbach'"},
+					"Domestic": {"S":"b'$2,500,431'"},
+					"Worldwide": {"S":"b'$2,500,431'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'512 theaters'"},
+					"CloseDate": {"S":"b'November 12, 2015'"},
+					"OpeningWeekend": {"S":"b'$93,206'"},
+					"InRelease": {"S":"b'91 days / 13 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sundance 2015': '8'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '6,209'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Misty'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=misty.htm"},
+					"ReleaseDate": {"S":"b'June 4, 1961'"},
+					"Genre": {"S":"b'Family'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 31 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Producer": {"S":"b'Robert B. Radnitz, Cinematographers'"},
+					"Actor": {"S":"b'David Ladd, Arthur OConnell, Pam Smith, Anne Seymour, Duke Farley'"},
+					"Cinematographer": {"S":"b'Lee Garmes, Leo Tover'"},
+					"Writer": {"S":"b'Ted Sherdeman'"},
+					"Composer": {"S":"b'Paul Sawtell, Bert Shefter'"},
+					"Director": {"S":"b'James B. Clark'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Misunderstood'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=misunderstood.htm"},
+					"ReleaseDate": {"S":"b'March 30, 1984'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'MGM'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$1,525,532'"},
+					"Runtime": {"S":"b'1 hrs. 31 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$1,525,532'"},
+					"WidestRelease": {"S":"b'741 theaters'"},
+					"OpeningWeekend": {"S":"b'$916,967'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 1984': '116', 'Opening Weeks Adjusted': '4,518', 'Yearly PG Rated 1984': '61', 'All Time Domestic': '6,809', 'Worst Openings - Wide Releases': '94', 'Highest All Time Rank (on December 14, 1985)': '591', 'Yearly (Wide) 1984': '105', 'Opening Weekends Adjusted': '4,535', 'Yearly 1984': '144', 'Yearly Opening Weekends (Wide) 1984': '104', 'Opening Weekends': '4,691', 'Opening Weeks': '4,645'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mixed Nuts'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mixednuts.htm"},
+					"ReleaseDate": {"S":"b'December 21, 1994'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$6,821,850'"},
+					"Runtime": {"S":"b'1 hrs. 37 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Delia Ephron, Nora Ephron'"},
+					"Actor": {"S":"b'Steve Martin, Adam Sandler, Liev Schreiber*, Parker Posey*'"},
+					"Composer": {"S":"b'George Fenton'"},
+					"Director": {"S":"b'Nora Ephron'"},
+					"Domestic": {"S":"b'$6,821,850'"},
+					"WidestRelease": {"S":"b'1,318 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,307,850'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Christmas - Setting Only': '39'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Wide) 1994': '123', 'Yearly 1994': '131', 'Yearly Opening Weekends (Wide) 1994': '120', 'All Time Domestic': '4,989', 'Highest All Time Rank (on January 17, 1995)': '1760', BOM Users' Grades (1994 Releases): '98', 'Yearly PG-13 Rated 1994': '39', 'Yearly Opening Weekends 1994': '114', 'Smallest Drops, All Wide Releases': '225'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bMo' Better Blues"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mobetterblues.htm"},
+					"ReleaseDate": {"S":"b'August 3, 1990'"},
+					"Genre": {"S":"b'Music Drama'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$16,153,593'"},
+					"Runtime": {"S":"b'2 hrs. 10 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Denzel Washington, Wesley Snipes, Samuel L. Jackson*'"},
+					"Director": {"S":"b'Spike Lee'"},
+					"Domestic": {"S":"b'$16,153,593'"},
+					"WidestRelease": {"S":"b'572 theaters'"},
+					"OpeningWeekend": {"S":"b'$4,387,360'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Drama - Summer': '99'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on September 4, 1990)': '788', 'Yearly Opening Weekends (Limited) 1990': '3', 'All Time Domestic': '3,626', 'Yearly Opening Weekends 1990': '64', 'Opening Weekends (Limited Release)': '22', 'Top Ranking Limited Release Debuts': '67', 'Yearly 1990': '75', 'Yearly (Limited) 1990': '2', BOM Users' Grades (1990 Releases): '44', 'Yearly R Rated 1990': '36'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bMo' Money"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=momoney.htm"},
+					"ReleaseDate": {"S":"b'July 24, 1992'"},
+					"Genre": {"S":"b'Crime Comedy'"},
+					"Distributor": {"S":"b'Columbia'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$40,227,006'"},
+					"Runtime": {"S":"b'1 hrs. 31 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Damon Wayans, Marlon Wayans, Bernie Mac*'"},
+					"Cinematographer": {"S":"b'Don Burgess'"},
+					"Domestic": {"S":"b'$40,227,006'"},
+					"WidestRelease": {"S":"b'1,705 theaters'"},
+					"OpeningWeekend": {"S":"b'$12,385,415'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Con Artist / Hustler': '13'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks': '1,510', 'Opening Weeks Adjusted': '960', 'All Time Domestic': '1,936', 'Highest All Time Rank (on September 8, 1992)': '395', 'Yearly 1992': '39', 'Opening Weekends - July': '171', 'Smallest Drops, All Wide Releases': '3,013', 'Yearly R Rated 1992': '21', 'Fewest Theaters to Debut at #1': '170', 'Yearly (Wide) 1992': '38', 'Opening Weekends': '1,522', 'Opening Weekends Adjusted - July': '136', 'Opening Weekends Adjusted': '999', BOM Users' Grades (1992 Releases): '78', 'Yearly Opening Weekends (Wide) 1992': '17', 'Yearly Opening Weekends 1992': '16'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Moana'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=disney1116.htm"},
+					"ReleaseDate": {"S":"b'November 23, 2016'"},
+					"Genre": {"S":"b'Animation'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalasofMar.22,2017": {"S":"b'$248,129,104'"},
+					"Runtime": {"S":"b'1 hrs. 43 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Dwayne Johnson, Jemaine Clement'"},
+					"Director": {"S":"b'Ron Clements, John Musker'"},
+					"Domestic": {"S":"b'$248,129,104'"},
+					"Worldwide": {"S":"b'$606,827,405'"},
+					"Foreign": {"S":"b'$358,698,301'"},
+					"WidestRelease": {"S":"b'3,875 theaters'"},
+					"OpeningWeekend": {"S":"b'$56,631,401'"},
+					"InRelease": {"S":"b'120 days / 17.1 weeks'"},
+					"Awards": {"S":"Nominated for Two Oscars."},
+					"GenreRank": {"S":"{'3D': '36', 'Animation - Fantasy': '5', 'Animation - Computer': '20', 'Travelogue - Hawaii': '1', 'Animation': '21'}"},
+					"Franchise": {"S":"{'Brand: Walt Disney Animation Studios': '3', 'Showdown: Thanksgiving Animated Hits': '2'}"},
+					"Chart": {"S":"{'Top 3-Day Grosses': '212', 'Thanksgiving 3-day Openings': '3', 'Opening Weeks Adjusted': '392', 'Fastest to $150 million': '173', 'Seventh Weekends': '73', 'Thanksgiving 5-day Openings Adjusted': '6', 'Fifth Weekends': '183', 'Thanksgiving 5-day Weekends': '5', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '494', 'Single Day Wednesday Gross Adjusted': '63', 'Top 5-Day Grosses': '115', 'Highest All Time Rank (on February 26, 2017)': '107', 'Non-Friday Opening Weekends Adjusted': '53', 'Fastest to $100 million': '189', 'Opening Weekends - November': '24', 'Thanksgiving 5-day Weekends Adjusted': '12', 'Non-Opening Friday Gross': '34', 'Single Day Saturday Gross': '183', 'Single Day Wednesday Gross': '33', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,390', 'Thanksgiving 3-day Weekends': '6', 'Single Day Gross': '452', 'Rated PG Adjusted': '105', 'All Time Worldwide': '118', 'Sixth Weekends': '21', 'Opening Wednesdays': '22', 'Single Day Friday Gross': '144', 'Slowest to $200 million': '45', 'Rated PG, Opening Weekends Adjusted': '59', 'Non-Friday Opening Weekends': '26', 'Second Weekends': '177', 'Thanksgiving 3-day Openings Adjusted': '7', 'Opening Weekends Adjusted': '274', 'Fastest to $200 million': '128', 'Rated G and PG, Opening Weekends': '43', 'Thanksgiving 3-day Weekends Adjusted': '13', 'Top 5-Day Grosses for movies opening on a Wednesday': '21', 'Fourth Weekends': '119', 'Smallest Drops, 2,500+ theaters (Saturation)': '980', 'Rated G and PG, Opening Weekends Adjusted': '74', 'Single Day Thursday Gross Adjusted': '149', 'Consecutive Weekends At #1': '112', 'Most Weekends at #1 (non-consecutive)': '128', 'Third Weekends': '141', 'Rated PG, Opening Weekends': '35', 'Opening Weekends': '152', 'Top 6-Day Grosses': '131', 'Thanksgiving 5-day Openings': '2', 'Top Movies in the Past 365 Days': '9', 'Rated PG': '34', 'All Time Domestic': '107', 'Widest Opening Releases': '129', 'Smallest Drops, All Wide Releases': '2,984', 'Ninth Weekends': '128', 'Opening Weekends Adjusted - Holiday': '59', 'Lowest Grossing #1 Movies Adjusted': '87', 'Rated G and PG Adjusted': '148', 'Opening Weeks': '227', 'Slowest to $100 million': '446', 'Eleventh Weekends': '148', 'Tenth Weekends': '92', 'Eighth Weekends': '90', 'Non-Opening Thursday Gross Adjusted': '129', 'Twelfth Weekends': '112', 'Widest PG Rated Releases': '52', 'Sixth Weekends Adjusted': '110', 'Single Day Thursday Gross': '84', 'Post-Thanksgiving Weekend - Best Holds': '161', 'Opening Weekends - Holiday': '34', 'Widest Releases': '139', 'Rated G and PG': '39', 'Opening Weekends Adjusted - November': '42', 'Non-Opening Thursday Gross': '66', 'Widest PG Rated Openings': '48', 'Top 7-Day Grosses': '136'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Moana With Sound (2015 re-issue)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=moanawithsound2015.htm"},
+					"ReleaseDate": {"S":"b'November 13, 2015'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'Kino Lorber'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$2,993'"},
+					"Runtime": {"S":"b'1 hrs. 25 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$2,993'"},
+					"WidestRelease": {"S":"b'4 theaters'"},
+					"CloseDate": {"S":"b'February 25, 2016'"},
+					"OpeningWeekend": {"S":"b'$2,274'"},
+					"InRelease": {"S":"b'28 days / 4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '14,282'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mobsters'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mobsters.htm"},
+					"ReleaseDate": {"S":"b'July 26, 1991'"},
+					"Genre": {"S":"b'Action / Crime'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$20,246,790'"},
+					"Runtime": {"S":"b'1 hrs. 44 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Patrick Dempsey, Richard Grieco, Costas Mandylor, Christian Slater'"},
+					"Director": {"S":"b'Michael Karbelnikoff'"},
+					"Domestic": {"S":"b'$20,246,790'"},
+					"WidestRelease": {"S":"b'1,449 theaters'"},
+					"OpeningWeekend": {"S":"b'$6,030,585'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Crime Time': '47'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '2,152', 'All Time Domestic': '3,218', 'Opening Weeks': '2,587', 'Yearly R Rated 1991': '30', 'Opening Weekends Adjusted': '2,317', 'Smallest Drops, All Wide Releases': '2,905', 'Yearly 1991': '64', 'Yearly Opening Weekends 1991': '41', 'Yearly (Wide) 1991': '65', 'Highest All Time Rank (on September 3, 1991)': '731', 'Yearly Opening Weekends (Wide) 1991': '45', 'Opening Weekends': '2,713'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mobsters and Mormons'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mobstersandmormons.htm"},
+					"ReleaseDate": {"S":"b'September 9, 2005'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Halestorm'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$409,604'"},
+					"Runtime": {"S":"b'1 hrs. 37 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$409,604'"},
+					"WidestRelease": {"S":"b'32 theaters'"},
+					"CloseDate": {"S":"b'December 15, 2005'"},
+					"OpeningWeekend": {"S":"b'$67,945'"},
+					"InRelease": {"S":"b'98 days / 14 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Christian': '102'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2005': '102', 'All Time Domestic': '8,454', 'Yearly 2005': '262', 'Yearly Opening Weekends (Limited) 2005': '88', 'Yearly Opening Weekends 2005': '227', 'Yearly PG Rated 2005': '38'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Modern Girls'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=moderngirls.htm"},
+					"ReleaseDate": {"S":"b'November 7, 1986'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Atlantic'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$604,849'"},
+					"Runtime": {"S":"b'1 hrs. 24 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Gary Goetzman'"},
+					"Actor": {"S":"b'Virginia Madsen'"},
+					"Domestic": {"S":"b'$604,849'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1986': '178', 'All Time Domestic': '7,982', 'Yearly PG-13 Rated 1986': '40'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Modern Problems'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=modernproblems.htm"},
+					"ReleaseDate": {"S":"b'December 25, 1981'"},
+					"Genre": {"S":"b'Fantasy Comedy'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$26,154,211'"},
+					"Runtime": {"S":"b'1 hrs. 29 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Producer": {"S":"b'Michael Shamberg'"},
+					"Domestic": {"S":"b'$26,154,211'"},
+					"WidestRelease": {"S":"b'1,119 theaters'"},
+					"\t\tOpeningWeekend": {"S":"b'n/a'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1981': '29', 'Opening Weeks': '3,059', 'Opening Weeks Adjusted': '1,873', 'All Time Domestic': '2,743', 'Highest All Time Rank (on February 16, 1982)': '205'}"}
+				}
+			}
+		}
+	]
+}

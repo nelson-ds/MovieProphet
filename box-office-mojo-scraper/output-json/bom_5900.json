@@ -1,0 +1,662 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Hot Moves'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=hotmoves.htm"},
+					"ReleaseDate": {"S":"b'May 17, 1985'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Cardinal Entertainment'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$2,732,684'"},
+					"Runtime": {"S":"b'1 hrs. 25 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$2,732,684'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - R-Rated Youth': '100'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 1985': '53', 'Yearly 1985': '132', 'All Time Domestic': '6,117'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Hot Pursuit'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=witherspoonvergara.htm"},
+					"ReleaseDate": {"S":"b'May 8, 2015'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Warner Bros. (New Line)'"},
+					"ProductionBudget": {"S":"b'$35 million'"},
+					"DomesticTotalGross": {"S":"b'$34,580,201'"},
+					"Runtime": {"S":"b'1 hrs. 27 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'David Feeney, John Quaintance'"},
+					"Producer": {"S":"b'Bruna Papandrea, Sofia Vergara , Reese Witherspoon'"},
+					"Actor": {"S":"b'Sofia Vergara, Reese Witherspoon'"},
+					"Composer": {"S":"b'Christophe Beck'"},
+					"Director": {"S":"b'Anne Fletcher'"},
+					"Domestic": {"S":"b'$34,580,201'"},
+					"Worldwide": {"S":"b'$51,680,201'"},
+					"Foreign": {"S":"b'$17,100,000'"},
+					"WidestRelease": {"S":"b'3,037 theaters'"},
+					"CloseDate": {"S":"b'July 30, 2015'"},
+					"OpeningWeekend": {"S":"b'$13,942,258'"},
+					"InRelease": {"S":"b'84 days / 12 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Widest Opening Releases': '900', 'Widest Releases': '879', 'Opening Weekends - May': '129', 'Worst Openings - Super Saturated': '137', 'Opening Weekends Adjusted - May': '169', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '736', 'Opening Weekends Adjusted': '2,066', 'Smallest Drops, All Wide Releases': '3,836', 'Worst Openings - Super Saturated Adjusted': '98', 'Opening Weeks Adjusted': '2,210', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,387', 'Memorial Day 4-Day Holiday Weekends': '181', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,942', 'Opening Weeks': '1,472', 'Sunday Share of Opening Weekends': '73', 'Opening Weekends': '1,341', 'All Time Domestic': '2,244'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Hot Rod'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=hotrod.htm"},
+					"ReleaseDate": {"S":"b'August 3, 2007'"},
+					"Genre": {"S":"b'Action Comedy'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$13,938,332'"},
+					"Runtime": {"S":"b'1 hrs. 28 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Lorne Michaels'"},
+					"Actor": {"S":"b'Andy Samberg, Jorma Taccone, Bill Hader, Danny McBride, Isla Fisher, Sissy Spacek, Ian McShane, Will Arnett'"},
+					"Cinematographer": {"S":"b'Andrew Dunn'"},
+					"Writer": {"S":"b'Pam Brady'"},
+					"Composer": {"S":"b'Trevor Rabin'"},
+					"Director": {"S":"b'Akiva Schaffer'"},
+					"Domestic": {"S":"b'$13,938,332'"},
+					"Worldwide": {"S":"b'$14,334,401'"},
+					"Foreign": {"S":"b'$396,069'"},
+					"WidestRelease": {"S":"b'2,607 theaters'"},
+					"CloseDate": {"S":"b'September 27, 2007'"},
+					"OpeningWeekend": {"S":"b'$5,310,711'"},
+					"InRelease": {"S":"b'56 days / 8 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"{'Brand: Saturday Night Live - Alumni Debuts': '21'}"},
+					"Chart": {"S":"{'Worst Openings - Saturated Adjusted': '59', 'Worst Openings - Saturated': '48', 'All Time Domestic': '3,916', 'Worst Openings - Very Wide Adjusted': '172', 'Yearly Opening Weekends (Wide) 2007': '122', 'Biggest Theater Drops': '61', 'Opening Weekends Adjusted': '3,490', 'Smallest Drops, All Wide Releases': '3,770', 'Worldwide Yearly 2007': '178', BOM Users' Grades (2007 Releases): '142', 'Opening Weeks Adjusted': '3,139', 'Opening Weekends': '2,934', 'Yearly PG-13 Rated 2007': '50', 'Yearly (Wide) 2007': '128', 'Worst Openings - Very Wide': '189', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,355', 'Opening Weeks': '2,615', 'Yearly 2007': '130', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,897', 'Yearly Opening Weekends 2007': '118'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Hot Rods to Hell'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=hotrodstohell.htm"},
+					"ReleaseDate": {"S":"b'January 27, 1967'"},
+					"Genre": {"S":"b'Thriller'"},
+					"Distributor": {"S":"b'MGM'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 32 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Producer": {"S":"b'Sam Katzman'"},
+					"Actor": {"S":"b'Dana Andrews, Jeanne Crain, Mimsy Farmer'"},
+					"Cinematographer": {"S":"b'Lloyd Ahern'"},
+					"Writer": {"S":"b'Robert E. Kent, Alex Gaby'"},
+					"Composer": {"S":"b'Fred Karger'"},
+					"Director": {"S":"b'John Brahm, James Curtis Havens'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Hot Shots!'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=hotshots.htm"},
+					"ReleaseDate": {"S":"b'July 31, 1991'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'$26 million'"},
+					"DomesticTotalGross": {"S":"b'$69,467,617'"},
+					"Runtime": {"S":"b'1 hrs. 24 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Jim Abrahams'"},
+					"Producer": {"S":"b'Bill Badalato'"},
+					"Actor": {"S":"b'Charlie Sheen, Cary Elwes'"},
+					"Director": {"S":"b'Jim Abrahams'"},
+					"Domestic": {"S":"b'$69,467,617'"},
+					"Worldwide": {"S":"b'$181,096,164'"},
+					"Foreign": {"S":"b'$111,628,547'"},
+					"WidestRelease": {"S":"b'1,999 theaters'"},
+					"OpeningWeekend": {"S":"b'$10,848,182'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - Spoof': '11', 'Pilot / Aircraft': '13'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Most Weekends in Top 5 (non-consecutive)': '154', 'Non-Friday Opening Weekends Adjusted': '156', 'Opening Weeks': '1,203', 'Opening Weeks Adjusted': '734', 'All Time Domestic': '1,075', 'Opening Weekends - August': '141', BOM Users' Grades (1991 Releases): '40', 'Worldwide Yearly 1991': '9', 'Opening Weekends Adjusted': '1,213', 'Smallest Drops, All Wide Releases': '854', 'Yearly 1991': '18', 'Yearly (Wide) 1991': '17', 'Yearly Opening Weekends 1991': '14', 'Opening Weekends': '1,738', 'Yearly PG-13 Rated 1991': '6', 'Consecutive Weekends At #1': '54', 'Most Weekends at #1 (non-consecutive)': '72', 'Consecutive Weekends In Top 5': '154', 'Opening Weekends Adjusted - August': '83', 'Yearly Opening Weekends (Wide) 1991': '14', 'Highest All Time Rank (on October 8, 1991)': '164'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Hot Shots! Part Deux'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=hotshots2.htm"},
+					"ReleaseDate": {"S":"b'May 21, 1993'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$38,922,972'"},
+					"Runtime": {"S":"b'1 hrs. 26 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Cinematographer": {"S":"b'John R. Leonetti'"},
+					"Writer": {"S":"b'Jim Abrahams'"},
+					"Producer": {"S":"b'Bill Badalato'"},
+					"Actor": {"S":"b'Charlie Sheen'"},
+					"Director": {"S":"b'Jim Abrahams'"},
+					"Domestic": {"S":"b'$38,922,972'"},
+					"Worldwide": {"S":"b'$133,752,825'"},
+					"Foreign": {"S":"b'$94,829,853'"},
+					"WidestRelease": {"S":"b'2,140 theaters'"},
+					"OpeningWeekend": {"S":"b'$10,250,661'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - Spoof': '18', 'Comedy - Sequel (Live Action)': '69'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '1,422', 'Yearly Opening Weekends 1993': '22', 'Opening Weekends - May': '151', 'Yearly PG-13 Rated 1993': '13', 'Opening Weekends Adjusted - May': '130', BOM Users' Grades (1993 Releases): '71', 'Opening Weekends Adjusted': '1,288', 'Worldwide Yearly 1993': '17', 'Yearly (Wide) 1993': '40', 'Opening Weekends': '1,827', 'Highest All Time Rank (on July 6, 1993)': '442', 'Memorial Day 4-Day Holiday Weekends': '132', 'Opening Weeks': '1,972', 'Yearly Opening Weekends (Wide) 1993': '22', 'Yearly 1993': '41', 'All Time Domestic': '2,001'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bHot Sugar's Cold World"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=hotsugarscoldworld.htm"},
+					"ReleaseDate": {"S":"b'November 13, 2015'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'Amplify'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 25 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Producer": {"S":"b'David Gordon Green, Jody Hill, Danny McBride'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Hot Tomorrows'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=hottomorrows.htm"},
+					"ReleaseDate": {"S":"b'April 1, 1977'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Director": {"S":"b'Martin Brest'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Hot Tub Time Machine'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=hottubtimemachine.htm"},
+					"ReleaseDate": {"S":"b'March 26, 2010'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'MGM'"},
+					"ProductionBudget": {"S":"b'$36 million'"},
+					"DomesticTotalGross": {"S":"b'$50,287,556'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Sean Anders, Josh Heald'"},
+					"Actor": {"S":"b'John Cusack, Rob Corddry, Clark Duke, Chevy Chase'"},
+					"Composer": {"S":"b'Christophe Beck'"},
+					"Director": {"S":"b'Steve Pink'"},
+					"Domestic": {"S":"b'$50,287,556'"},
+					"Worldwide": {"S":"b'$64,572,262'"},
+					"Foreign": {"S":"b'$14,284,706'"},
+					"WidestRelease": {"S":"b'2,771 theaters'"},
+					"CloseDate": {"S":"b'June 10, 2010'"},
+					"OpeningWeekend": {"S":"b'$14,020,502'"},
+					"InRelease": {"S":"b'77 days / 11 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sci-Fi Comedy': '14', 'Time Travel': '25'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weekends Adjusted - March': '170', 'Smallest Drops, All Wide Releases': '2,151', 'Opening Weeks Adjusted': '1,826', 'Opening Weekends - March': '114', 'Opening Weekends - Spring': '198', 'Opening Weekends Adjusted': '1,902', 'Smallest Drops, 2,500+ theaters (Saturation)': '606', 'Opening Weeks': '1,286', 'Opening Weekends': '1,333', 'Smallest Drops, 2,000+ theaters (Very Wide)': '885', 'All Time Domestic': '1,572'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Hot Tub Time Machine 2'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=hottub2.htm"},
+					"ReleaseDate": {"S":"b'February 20, 2015'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'$14 million'"},
+					"DomesticTotalGross": {"S":"b'$12,314,651'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Josh Heald'"},
+					"Producer": {"S":"b'Andrew Panay'"},
+					"Actor": {"S":"b'Adam Scott, Clark Duke, Rob Corddry, Craig Robinson, Chevy Chase, Gillian Jacobs'"},
+					"Composer": {"S":"b'Christophe Beck'"},
+					"Director": {"S":"b'Steve Pink'"},
+					"Domestic": {"S":"b'$12,314,651'"},
+					"Worldwide": {"S":"b'$13,081,651'"},
+					"Foreign": {"S":"b'$767,000'"},
+					"WidestRelease": {"S":"b'2,901 theaters'"},
+					"CloseDate": {"S":"b'March 26, 2015'"},
+					"OpeningWeekend": {"S":"b'$5,963,324'"},
+					"InRelease": {"S":"b'35 days / 5 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sci-Fi Comedy': '40', 'Time Travel': '42', 'Comedy - Sequel (Live Action)': '103'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '3,574', 'All Time Domestic': '4,127', 'Worst Openings - Saturated Adjusted': '52', 'Biggest Theater Drops': '35', 'Opening Weekends Adjusted': '3,570', 'Smallest Drops, All Wide Releases': '3,838', 'Worst Openings - Saturated': '70', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,389', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,944', 'Opening Weeks': '2,795', 'Worst Openings - Very Wide Adjusted': '152', 'Opening Weekends': '2,736'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Hot Water'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=hotwater.htm"},
+					"ReleaseDate": {"S":"b'March 11, 2016'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'Indican'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$12,101'"},
+					"Runtime": {"S":"b'1 hrs. 20 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$12,101'"},
+					"WidestRelease": {"S":"b'5 theaters'"},
+					"CloseDate": {"S":"b'December 1, 2016'"},
+					"OpeningWeekend": {"S":"b'$1,512'"},
+					"InRelease": {"S":"b'154 days / 22 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '13,124'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Hot to Trot'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=hottotrot.htm"},
+					"ReleaseDate": {"S":"b'August 26, 1988'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$6,436,211'"},
+					"Runtime": {"S":"b'1 hrs. 23 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Producer": {"S":"b'Steve Tisch'"},
+					"Actor": {"S":"b'Virginia Madsen'"},
+					"Composer": {"S":"b'Danny Elfman'"},
+					"Domestic": {"S":"b'$6,436,211'"},
+					"WidestRelease": {"S":"b'1,157 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,206,218'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Family - Talking Animal (Live action)': '33', 'Horse': '17'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 1988': '88', 'Yearly PG Rated 1988': '29', 'All Time Domestic': '5,062', 'Opening Weeks': '4,093', 'Yearly Opening Weekends (Wide) 1988': '96', 'Opening Weeks Adjusted': '3,887', 'Opening Weekends Adjusted': '4,015', 'Yearly 1988': '109', 'Yearly (Wide) 1988': '96', 'Highest All Time Rank (on September 20, 1988)': '1058', 'Opening Weekends': '4,191'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Hote Hote Pyar Ho Gaya'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=hotehotepyarhogaya.htm"},
+					"ReleaseDate": {"S":"b'July 2, 1999'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Eros'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalasofJul.11,1999": {"S":"b'$214,574'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$214,574'"},
+					"WidestRelease": {"S":"b'16 theaters'"},
+					"OpeningWeekend": {"S":"b'$55,738'"},
+					"InRelease": {"S":"b'10 days / 1.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 1999': '73', 'All Time Domestic': '9,336', 'Yearly (Limited) 1999': '118', 'Highest All Time Rank (on August 28, 2002)': '3960', 'Yearly Opening Weekends 1999': '205', 'Yearly 1999': '265'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Hotel'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=hotel.htm"},
+					"ReleaseDate": {"S":"b'July 25, 2003'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Innovation Film Group'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$29,813'"},
+					"Runtime": {"S":"b'1 hrs. 59 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Saffron Burrows, Salma Hayek, Danny Huston, Rhys Ifans, Jason Isaacs, Lucy Liu, John Malkovich, Burt Reynolds, David Schwimmer, Mark Strong'"},
+					"Domestic": {"S":"b'$29,813'"},
+					"Worldwide": {"S":"b'$29,813'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"CloseDate": {"S":"b'August 14, 2003'"},
+					"OpeningWeekend": {"S":"b'$12,840'"},
+					"InRelease": {"S":"b'21 days / 3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 2003': '166', 'Worldwide Yearly 2003': '317', 'Highest All Time Rank (on August 14, 2003)': '5798', 'All Time Domestic': '12,006', 'Yearly (Limited) 2003': '273', 'Yearly Opening Weekends 2003': '348', 'Yearly Opening Weekends (Limited) 2003': '219', 'Yearly 2003': '419'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Hotel Colonial'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=hotelcolonial.htm"},
+					"ReleaseDate": {"S":"b'September 18, 1987'"},
+					"Genre": {"S":"b'Action / Adventure'"},
+					"Distributor": {"S":"b'Orion Pictures'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$9,526'"},
+					"Runtime": {"S":"b'1 hrs. 44 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Robert Duvall'"},
+					"Domestic": {"S":"b'$9,526'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 1987': '123', 'All Time Domestic': '13,396', 'Yearly 1987': '236'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Hotel Normandy'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=hotelnormandy.htm"},
+					"ReleaseDate": {"S":"b'September 27, 2013'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Rialto'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$4,640'"},
+					"Runtime": {"S":"b'1 hrs. 24 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$4,640'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"CloseDate": {"S":"b'November 3, 2013'"},
+					"OpeningWeekend": {"S":"b'$2,552'"},
+					"InRelease": {"S":"b'31 days / 4.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1878'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '14,002'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Hotel Rwanda'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=hotelrwanda.htm"},
+					"ReleaseDate": {"S":"b'December 22, 2004'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'United Artists'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$23,530,892'"},
+					"Runtime": {"S":"b'1 hrs. 50 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Don Cheadle, Sophie Okonedo, Nick Nolte, Joaquin Phoenix*'"},
+					"Composer": {"S":"b''"},
+					"Domestic": {"S":"b'$23,530,892'"},
+					"Worldwide": {"S":"b'$33,882,243'"},
+					"Foreign": {"S":"b'$10,351,351'"},
+					"InRelease": {"S":"b'128 days / 18.3 weeks'"},
+					"WidestRelease": {"S":"b'824 theaters'"},
+					"CloseDate": {"S":"b'April 28, 2005'"},
+					"LimitedOpeningWeekend": {"S":"b'<b> $100,091</b>'"},
+					"WideOpeningWeekend": {"S":"b'$2,316,416'"},
+					"Awards": {"S":"Nominated for Three Oscars."},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2004': '99', 'All Time Domestic': '2,933', 'Opening Weeks Adjusted': '4,322', 'Yearly (Wide) 2005': '104', 'Yearly PG-13 Rated 2004': '50', 'Saturday Share of Opening Weekends': '10', 'Worldwide Yearly 2004': '111', 'Movies That Never Hit the Top 10': '27', 'Opening Weekends Adjusted': '4,394', 'Smallest Drops, All Wide Releases': '384', 'Movies That Never Hit the Top 10 Adjusted': '37', BOM Users' Grades (2004 Releases): '3', 'Yearly Opening Weekends (Limited) 2004': '71', 'Yearly Opening Weekends 2004': '209', 'Yearly Opening Weekends (Wide) 2005': '142', 'Super Bowl Opening Weekends': '66', 'Opening Weeks': '4,088', 'Opening Weekends': '4,141'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Hotel Transylvania'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=hoteltransylvania.htm"},
+					"ReleaseDate": {"S":"b'September 28, 2012'"},
+					"Genre": {"S":"b'Animation'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"ProductionBudget": {"S":"b'$85 million'"},
+					"DomesticTotalGross": {"S":"b'$148,313,048'"},
+					"Runtime": {"S":"b'1 hrs. 31 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'Peter Baynham, Robert Smigel'"},
+					"Producer": {"S":"b'Michelle Murdocca, Adam Sandler, Robert Smigel'"},
+					"Actor": {"S":"b'Adam Sandler, Andy Samberg, Selena Gomez, Kevin James, Fran Drescher , Steve Buscemi , Molly Shannon* , David Spade*, Jon Lovitz*'"},
+					"Composer": {"S":"b'Mark Mothersbaugh'"},
+					"Director": {"S":"b'Genndy Tartakovsky'"},
+					"Domestic": {"S":"b'$148,313,048'"},
+					"Worldwide": {"S":"b'$358,375,603'"},
+					"Foreign": {"S":"b'$210,062,555'"},
+					"WidestRelease": {"S":"b'3,375 theaters'"},
+					"CloseDate": {"S":"b'February 28, 2013'"},
+					"OpeningWeekend": {"S":"b'$42,522,194'"},
+					"InRelease": {"S":"b'144 days / 20.6 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': '86', 'Animation - Fantasy': '14', 'Animation - Computer': '58', 'Zombie': '2', 'Animation': '65', 'Vampire': '7'}"},
+					"Franchise": {"S":"{'Series: Hotel Transylvania': '2', 'Showdown: Drac Pack Showdown': '2', 'Showdown: Sony Animation Showdown': '1', 'Brand: Sony Pictures Animation': '2'}"},
+					"Chart": {"S":"{'Top 3-Day Grosses': '252', 'Opening Weekends - Fall': '9', 'Fastest to $100 million': '291', 'Rated PG': '93', 'All Time Domestic': '325', 'Opening Weekends - September': '2', 'Fifth Weekends': '97', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '181', 'Highest All Time Rank (on February 17, 2013)': '243', 'Smallest Drops, All Wide Releases': '1,567', 'Opening Weeks Adjusted': '530', 'Widest Opening Releases': '453', 'Single Day Saturday Gross': '247', 'Smallest Drops, 2,000+ theaters (Very Wide)': '569', 'Opening Weeks': '364', 'Single Day Gross': '633', 'Slowest to $100 million': '344', 'All Time Worldwide': '295', 'Saturday Share of Opening Weekends': '167', 'Opening Weekends Adjusted - September': '4', 'Opening Weekends Adjusted - Fall': '14', 'Rated PG, Opening Weekends Adjusted': '89', 'Widest PG Rated Releases': '147', 'Second Weekends': '196', 'Opening Weekends Adjusted': '373', 'Rated G and PG, Opening Weekends': '75', 'Fourth Weekends': '112', 'Opening Weekends': '263', 'Rated G and PG, Opening Weekends Adjusted': '109', 'Rated G and PG': '113', 'Widest PG Rated Openings': '147', 'Widest Releases': '467', 'Third Weekends': '172', 'Rated PG, Opening Weekends': '64', 'Smallest Drops, 2,500+ theaters (Saturation)': '375'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Hotel Transylvania 2'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=hoteltransylvania2.htm"},
+					"ReleaseDate": {"S":"b'September 25, 2015'"},
+					"Genre": {"S":"b'Animation'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"ProductionBudget": {"S":"b'$80 million'"},
+					"DomesticTotalGross": {"S":"b'$169,700,110'"},
+					"Runtime": {"S":"b'1 hrs. 29 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'Adam Sandler, Robert Smigel'"},
+					"Producer": {"S":"b'Allen Covert, Michelle Murdocca, Adam Sandler, Robert Smigel'"},
+					"Actor": {"S":"b'Adam Sandler, Andy Samberg, Selena Gomez, Kevin James, Steve Buscemi , David Spade, Fran Drescher , Molly Shannon , Megan Mullally , Nick Offerman , Rob Riggle, Mel Brooks , Chris Kattan* , Jon Lovitz* , Robert Smigel*, Nick Swardson*, Dana Carvey*'"},
+					"Composer": {"S":"b'Mark Mothersbaugh'"},
+					"Director": {"S":"b'Genndy Tartakovsky'"},
+					"Domestic": {"S":"b'$169,700,110'"},
+					"Worldwide": {"S":"b'$473,226,958'"},
+					"Foreign": {"S":"b'$303,526,848'"},
+					"WidestRelease": {"S":"b'3,768 theaters'"},
+					"CloseDate": {"S":"b'March 3, 2016'"},
+					"OpeningWeekend": {"S":"b'$48,464,322'"},
+					"InRelease": {"S":"b'161 days / 23 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': '73', 'Animation - Fantasy': '13', 'Animation - Computer': '47', 'Vampire': '6', 'Animation': '52'}"},
+					"Franchise": {"S":"{'Series: Hotel Transylvania': '1', 'Showdown: Drac Pack Showdown': '1', 'Brand: Sony Pictures Animation': '1'}"},
+					"Chart": {"S":"{'Top 3-Day Grosses': '204', 'Opening Weekends - Fall': '6', 'Fastest to $100 million': '250', 'Rated PG': '76', 'All Time Domestic': '252', 'Sixth Weekends': '165', 'Fifth Weekends': '118', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '107', 'Smallest Drops, All Wide Releases': '1,181', 'Fastest to $150 million': '218', 'Single Day Saturday Gross Adjusted': '316', 'Widest Opening Releases': '173', 'Single Day Saturday Gross': '195', 'Opening Weeks Adjusted': '482', 'Smallest Drops, 2,000+ theaters (Very Wide)': '378', 'Opening Weeks': '284', 'Single Day Gross': '511', 'Slowest to $100 million': '385', 'Rated PG Adjusted': '195', 'All Time Worldwide': '183', 'Opening Weekends - September': '1', 'Opening Weekends Adjusted - September': '3', 'Opening Weekends Adjusted - Fall': '12', 'Highest All Time Rank (on January 17, 2016)': '236', 'Widest PG Rated Releases': '70', 'Second Weekends': '123', 'Opening Weekends Adjusted': '330', 'Rated G and PG, Opening Weekends': '59', 'Fourth Weekends': '123', 'Opening Weekends': '213', 'Rated G and PG, Opening Weekends Adjusted': '92', 'Rated PG, Opening Weekends Adjusted': '74', 'Rated G and PG': '93', 'Widest PG Rated Openings': '67', 'Widest Releases': '184', 'Third Weekends': '107', 'Rated PG, Opening Weekends': '51', 'Smallest Drops, 2,500+ theaters (Saturation)': '240'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Hotel Transylvania 3'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=hoteltransylvania3.htm"},
+					"ReleaseDate": {"S":"b'July 13, 2018'"},
+					"Genre": {"S":"b'Animation'"},
+					"Distributor": {"S":"b'Columbia'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unknown'"},
+					"Actor": {"S":"b'Selena Gomez, Andy Samberg, Adam Sandler'"},
+					"Director": {"S":"b'Genndy Tartakovsky'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': 'n/a', 'Animation - Computer': 'n/a', 'Animation': 'n/a'}"},
+					"Franchise": {"S":"{'Series: Hotel Transylvania': 'n/a', 'Brand: Sony Pictures Animation': 'n/a'}"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Hotel de Love'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=hoteldelove.htm"},
+					"ReleaseDate": {"S":"b'February 7, 1997'"},
+					"Genre": {"S":"b'Romantic Comedy'"},
+					"Distributor": {"S":"b'Live'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$165,845'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$165,845'"},
+					"WidestRelease": {"S":"b'42 theaters'"},
+					"OpeningWeekend": {"S":"b'$50,947'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Romantic Comedy': '386', 'Twins': '25'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 1997': '55', 'Yearly Opening Weekends 1997': '193', 'All Time Domestic': '9,656', 'Yearly R Rated 1997': '134', 'Highest All Time Rank (on March 11, 1997)': '3565', 'Yearly (Limited) 1997': '78', 'Yearly 1997': '246'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Hotel for Dogs'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=hotelfordogs.htm"},
+					"ReleaseDate": {"S":"b'January 16, 2009'"},
+					"Genre": {"S":"b'Family'"},
+					"Distributor": {"S":"b'Paramount (DreamWorks)'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$73,034,460'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Producer": {"S":"b'Jason Clark'"},
+					"Actor": {"S":"b'Emma Roberts, Don Cheadle, Lisa Kudrow'"},
+					"Composer": {"S":"b'John Debney'"},
+					"Director": {"S":"b'Thor Freudenthal'"},
+					"Domestic": {"S":"b'$73,034,460'"},
+					"Worldwide": {"S":"b'$117,000,198'"},
+					"Foreign": {"S":"b'$43,965,738'"},
+					"WidestRelease": {"S":"b'3,271 theaters'"},
+					"CloseDate": {"S":"b'May 28, 2009'"},
+					"OpeningWeekend": {"S":"b'$17,012,212'"},
+					"InRelease": {"S":"b'133 days / 19 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{Family - Children's Book Adaptation: '41', 'Family - Animal (Live action)': '6', 'Dog': '9'}"},
+					"Franchise": {"S":"{'Brand: Nickelodeon': '13', 'Showdown: MLK Family Face-off': '2'}"},
+					"Chart": {"S":"{'Worldwide Yearly 2009': '50', 'All Time Domestic': '995', 'Yearly Opening Weekends 2009': '61', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '54', 'Smallest Drops, All Wide Releases': '765', President's Day 4-Day Holiday Weekends: '190', 'Opening Weeks Adjusted': '1,353', 'Smallest Drops, 2,000+ theaters (Very Wide)': '193', 'Yearly PG Rated 2009': '13', 'Opening Weekends - Winter': '144', 'Yearly 2009': '45', 'Opening Weekends Adjusted - January': '74', 'Widest Opening Releases': '509', 'Opening Weeks': '1,003', 'Widest PG Rated Releases': '166', 'Opening Weekends Adjusted': '1,422', 'Martin Lurther King 4-Day Holiday Weekend Openers': '22', 'Yearly (Wide) 2009': '46', 'Opening Weekends - January': '64', 'Martin Lurther King 4-Day Holiday Weekends': '29', 'Opening Weekends': '1,070', 'Opening Weekends Adjusted - Winter': '168', BOM Users' Grades (2009 Releases): '101', 'Widest PG Rated Openings': '160', 'Widest Releases': '554', 'Yearly Opening Weekends (Wide) 2009': '64', 'Smallest Drops, 2,500+ theaters (Saturation)': '120'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Hounddog'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=hounddog.htm"},
+					"ReleaseDate": {"S":"b'September 19, 2008'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Empire'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$131,961'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Dakota Fanning, Robin Wright Penn, David Morse, Piper Laurie'"},
+					"Domestic": {"S":"b'$131,961'"},
+					"WidestRelease": {"S":"b'11 theaters'"},
+					"CloseDate": {"S":"b'December 17, 2008'"},
+					"OpeningWeekend": {"S":"b'$13,744'"},
+					"InRelease": {"S":"b'91 days / 13 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Controversy': '43'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '9,981', 'Yearly (Limited) 2008': '166', 'Yearly R Rated 2008': '121', 'Yearly Opening Weekends 2008': '363', 'Yearly 2008': '338', 'Yearly Opening Weekends (Limited) 2008': '211'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'House'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=house.htm"},
+					"ReleaseDate": {"S":"b'February 28, 1986'"},
+					"Genre": {"S":"b'Horror Comedy'"},
+					"Distributor": {"S":"b'New World'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$19,444,631'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$19,444,631'"},
+					"WidestRelease": {"S":"b'1,440 theaters'"},
+					"OpeningWeekend": {"S":"b'$5,923,972'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Horror Comedy': '29'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1986': '47', 'Yearly Opening Weekends 1986': '24', BOM Users' Grades (1986 Releases): '49', 'Opening Weeks': '2,858', 'All Time Domestic': '3,293', 'Yearly (Wide) 1986': '45', 'Opening Weekends Adjusted': '2,094', 'Smallest Drops, All Wide Releases': '1,729', 'Yearly Opening Weekends (Wide) 1986': '24', 'Opening Weeks Adjusted': '2,225', 'Opening Weekends': '2,747', 'Opening Weekends Adjusted - February': '150', 'Yearly R Rated 1986': '19', 'Highest All Time Rank (on April 8, 1986)': '448'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'House (2008)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=house08.htm"},
+					"ReleaseDate": {"S":"b'November 7, 2008'"},
+					"Genre": {"S":"b'Horror'"},
+					"Distributor": {"S":"b'Roadside Attractions'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$575,048'"},
+					"Runtime": {"S":"b'1 hrs. 28 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$575,048'"},
+					"WidestRelease": {"S":"b'363 theaters'"},
+					"CloseDate": {"S":"b'December 24, 2008'"},
+					"OpeningWeekend": {"S":"b'$327,445'"},
+					"InRelease": {"S":"b'49 days / 7 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '8,044', 'Yearly (Limited) 2008': '79', 'Yearly R Rated 2008': '84', 'Yearly Opening Weekends 2008': '179', 'Yearly 2008': '249', 'Yearly Opening Weekends (Limited) 2008': '28'}"}
+				}
+			}
+		}
+	]
+}

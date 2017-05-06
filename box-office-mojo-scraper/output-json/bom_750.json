@@ -1,0 +1,672 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bAlice Doesn't Live Here Anymore"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=alicedoesntlivehereanymore.htm"},
+					"Genre": {"S":"b'Comedy / Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'December 9, 1974'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"DomesticTotalGross": {"S":"b'$18,600,000'"},
+					"Runtime": {"S":"b'1 hrs. 52 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Jodie Foster*'"},
+					"Director": {"S":"b'Martin Scorsese'"},
+					"Domestic": {"S":"b'$18,600,000'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '3,376'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Alice Neel'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=aliceneel.htm"},
+					"Genre": {"S":"b'Documentary'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'April 20, 2007'"},
+					"Distributor": {"S":"b'SeeThink Productions'"},
+					"DomesticTotalGross": {"S":"b'$48,969'"},
+					"Runtime": {"S":"b'1 hrs. 21 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$48,969'"},
+					"InRelease": {"S":"b'119 days / 17 weeks'"},
+					"OpeningWeekend": {"S":"b'$6,207'"},
+					"CloseDate": {"S":"b'August 26, 2007'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '782'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 2007': '299', 'All Time Domestic': '11,355', 'Yearly (Limited) 2007': '242', 'Yearly Unrated Movies 2007': '87', 'Yearly 2007': '428', 'Yearly Opening Weekends 2007': '466'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Alice Through the Looking Glass'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=alice2.htm"},
+					"Genre": {"S":"b'Family Adventure'"},
+					"ProductionBudget": {"S":"b'$170 million'"},
+					"ReleaseDate": {"S":"b'May 27, 2016'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"DomesticTotalGross": {"S":"b'$77,041,381'"},
+					"Runtime": {"S":"b'1 hrs. 52 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Composer": {"S":"b'Danny Elfman'"},
+					"Writer": {"S":"b'Linda Woolverton'"},
+					"Actor": {"S":"b'Johnny Depp, Anne Hathaway, Mia Wasikowska, Helena Bonham Carter, Rhys Ifans, Alan Rickman, Sacha Baron Cohen'"},
+					"Producer": {"S":"b'Tim Burton, Joe Roth'"},
+					"Director": {"S":"b'James Bobin'"},
+					"Foreign": {"S":"b'$222,415,643'"},
+					"Domestic": {"S":"b'$77,041,381'"},
+					"Worldwide": {"S":"b'$299,457,024'"},
+					"InRelease": {"S":"b'98 days / 14 weeks'"},
+					"OpeningWeekend": {"S":"b'$26,858,726'"},
+					"CloseDate": {"S":"b'September 1, 2016'"},
+					"WidestRelease": {"S":"b'3,763 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': '138', 'Fantasy - Live Action': '39', 'IMAX (Feature-length)': '134'}"},
+					"Franchise": {"S":"{'Showdown: Alice in Wonderland vs. Looking Glass': '2'}"},
+					"Chart": {"S":"{'Opening Weekends - May': '82', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '711', 'Opening Weeks Adjusted': '830', 'Widest PG Rated Releases': '71', 'Opening Weekends': '568', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,349', 'Top Movies in the Past 365 Days': '43', 'All Time Domestic': '927', 'All Time Worldwide': '402', 'Opening Weekends Not At #1': '116', 'Widest Opening Releases': '168', 'Rated PG, Opening Weekends': '121', 'Rated PG, Opening Weekends Adjusted': '199', 'Opening Weekends Adjusted - May': '108', 'Memorial Day 4-Day Holiday Weekends': '46', 'Opening Weekends Adjusted': '952', 'Memorial Day 4-Day Holiday Weekend Openers': '29', 'Widest Releases': '186', 'Widest PG Rated Openings': '65', 'Smallest Drops, All Wide Releases': '3,750', 'Opening Weeks': '513', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,886', 'Rated G and PG, Opening Weekends': '149', 'Foreign Opening Weekends': '85'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Alice et Martin'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=aliceetmartin.htm"},
+					"Genre": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'July 21, 2000'"},
+					"Distributor": {"S":"b'USA Films'"},
+					"DomesticTotalGross": {"S":"b'$500,896'"},
+					"Runtime": {"S":"b'2 hrs. 3 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$500,896'"},
+					"WidestRelease": {"S":"b'20 theaters'"},
+					"CloseDate": {"S":"b'October 26, 2000'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '627'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on August 28, 2002)': '3659', 'Yearly R Rated 2000': '107', 'All Time Domestic': '8,232', 'Yearly 2000': '232', 'Yearly (Limited) 2000': '85'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Alice in Wonderland (1951)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=aliceinwonderland.htm"},
+					"Genre": {"S":"b'Animation'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'July 28, 1951'"},
+					"Distributor": {"S":"b'RKO'"},
+					"Runtime": {"S":"b'1 hrs. 15 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Composer": {"S":"b'Oliver Wallace'"},
+					"Actor": {"S":"b'Kathryn Beaumont* , Ed Wynn* , Richard Haydn* , Sterling Holloway*'"},
+					"Producer": {"S":"b'Walt Disney'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Alice in Wonderland (2010)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=aliceinwonderland10.htm"},
+					"Genre": {"S":"b'Family Adventure'"},
+					"ProductionBudget": {"S":"b'$200 million'"},
+					"ReleaseDate": {"S":"b'March 5, 2010'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"DomesticTotalGross": {"S":"b'$334,191,110'"},
+					"Runtime": {"S":"b'1 hrs. 49 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Cinematographer": {"S":"b'Dariusz Wolski'"},
+					"Composer": {"S":"b'Danny Elfman'"},
+					"Producer": {"S":"b'Joe Roth'"},
+					"Writer": {"S":"b'Linda Woolverton'"},
+					"Actor": {"S":"b'Mia Wasikowska, Johnny Depp, Helena Bonham Carter, Anne Hathaway, Crispin Glover, Michael Sheen, Alan Rickman, Timothy Spall'"},
+					"Director": {"S":"b'Tim Burton'"},
+					"Foreign": {"S":"b'$691,276,000'"},
+					"Domestic": {"S":"b'$334,191,110'"},
+					"Worldwide": {"S":"b'$1,025,467,110'"},
+					"InRelease": {"S":"b'126 days / 18 weeks'"},
+					"OpeningWeekend": {"S":"b'$116,101,023'"},
+					"CloseDate": {"S":"b'July 8, 2010'"},
+					"WidestRelease": {"S":"b'3,739 theaters'"},
+					"Awards": {"S":"Nominated for Three Oscars, Including Two Wins."},
+					"GenreRank": {"S":"{'3D': '20', 'Mouse/Rat - Featured': '1', 'IMAX (Feature-length)': '24', 'Fantasy - Live Action': '4', Family - Children's Book Adaptation: '2'}"},
+					"Franchise": {"S":"{'Showdown: Beauty v. Alice v. Jungle': '2', 'Showdown: Alice in Wonderland vs. Looking Glass': '1', 'Showdown: Jungle Book v Oz v Alice v Maleficent v Cinderella': '2', 'Brand: Tim Burton-Johnny Depp': '1', 'Showdown: Sparrow Vs. Wonka Vs. Mad Hatter': '2'}"},
+					"Chart": {"S":"{'Smallest Drops, 3,000+ theaters (Super-Saturation)': '382', 'Consecutive Weekends At #1': '81', 'Top 3-Day Grosses': '32', 'Theater Averages (Wide Releases) - All Time Adjusted': '51', 'All Time Adjusted': '158', 'Top 9-Day Grosses': '35', 'Highest All Time Rank (on May 6, 2010)': '19', 'Third Weekends Adjusted': '36', 'Fastest to $200 million': '38', 'Non-Opening Friday Gross': '63', 'Top 8-Day Grosses': '44', 'Smallest Drops, 2,500+ theaters (Saturation)': '772', 'Single Day Saturday Gross Adjusted': '25', 'Fastest to $100 million': '33', 'Non-Opening Tuesday Gross Adjusted': '155', 'Single Day Monday Gross Adjusted': '176', 'Second Weekends': '15', 'All Time Domestic': '45', 'Theater Averages - Wide Opening Weekends': '27', 'Theater Averages - Wide Opening Weekends Adjusted': '49', 'Worldwide Openings': '44', 'Opening Weekends Adjusted': '40', 'Rated PG, Opening Weekends': '4', 'Most Weekends at #1 (non-consecutive)': '94', 'Third Weekends': '17', 'Rated G and PG': '16', 'Sixth Weekends': '200', 'Rated PG, Opening Weekends Adjusted': '8', 'Opening Weekends - March': '4', 'Fourth Weekends Adjusted': '111', 'Opening Weekends Adjusted - March': '4', BOM Users' Grades: '433', 'Widest Releases': '200', 'Single Day Monday Gross': '124', 'Rated PG': '13', 'Single Day Saturday Gross': '22', 'Slowest to $200 million': '135', 'Second Weekends Adjusted': '31', 'Smallest Drops, All Wide Releases': '2,533', 'Fourth Weekends': '43', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,109', 'Rated PG Adjusted': '46', 'Foreign Opening Weekends': '53', 'Rated G and PG Adjusted': '75', 'Opening Day Gross': '39', 'Widest PG Rated Openings': '75', 'Opening Weekends': '29', 'Non-Holiday Monday Gross': '70', 'Fastest to $150 million': '48', 'Top 6-Day Grosses': '47', 'Fastest to $250 million': '29', 'Rated G and PG, Opening Weekends Adjusted': '8', 'Single Day Friday Gross Adjusted': '43', 'Fastest to $300 million': '31', 'All Time Worldwide': '25', 'Top 7-Day Grosses': '47', 'Single Day Sunday Gross Adjusted': '41', 'Single Day Tuesday Gross Adjusted': '165', 'Single Day Sunday Gross': '32', 'Top 10-Day Grosses': '35', 'Slowest to $100 million': '602', 'Theater Averages (Wide Releases) - All Time': '28', 'Top 4-Day Grosses': '41', 'Top 5-Day Grosses': '44', 'Opening Weeks Adjusted': '50', 'Opening Weekends Adjusted - Spring': '5', 'Twelfth Weekends': '188', 'Opening Weekends - Spring': '5', 'Single Day Friday Gross': '35', 'Single Day Gross': '62', 'Widest Opening Releases': '189', 'Fifth Weekends': '150', 'Opening Weeks': '37', 'Rated G and PG, Opening Weekends': '4', 'Widest PG Rated Releases': '77'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bAlice's House (A Casa de Alice)"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=aliceshouse.htm"},
+					"Genre": {"S":"b'Foreign'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'January 25, 2008'"},
+					"Distributor": {"S":"b'Vitagraph'"},
+					"DomesticTotalGross": {"S":"b'$61,822'"},
+					"Runtime": {"S":"b'1 hrs. 32 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Foreign": {"S":"b'$131,709'"},
+					"Domestic": {"S":"b'$61,822'"},
+					"Worldwide": {"S":"b'$193,531'"},
+					"InRelease": {"S":"b'98 days / 14 weeks'"},
+					"OpeningWeekend": {"S":"b'$19,083'"},
+					"CloseDate": {"S":"b'May 1, 2008'"},
+					"WidestRelease": {"S":"b'6 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1283'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '10,992', 'Worldwide Yearly 2008': '386', 'Yearly Unrated Movies 2008': '102', 'Yearly Opening Weekends 2008': '338', 'Yearly (Limited) 2008': '236', 'Yearly Opening Weekends (Limited) 2008': '186', 'Yearly 2008': '409'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Alien'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=alien.htm"},
+					"Genre": {"S":"b'Sci-Fi Horror'"},
+					"ProductionBudget": {"S":"b'$11 million'"},
+					"DomesticLifetimeGross": {"S":"b''"},
+					"ReleaseDate": {"S":"b'May 25, 1979'"},
+					"Distributor": {"S":"b'Fox'"},
+					"DomesticTotalGross": {"S":"b'$78,944,891'"},
+					"Runtime": {"S":"b'1 hrs. 57 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Composer": {"S":"b'Jerry Goldsmith'"},
+					"Actor": {"S":"b'Ian Holm, Sigourney Weaver'"},
+					"Producer": {"S":"b'Gordon Carroll, David Giler, Walter Hill'"},
+					"Director": {"S":"b'Ridley Scott'"},
+					"Foreign": {"S":"b'$24,000,000'"},
+					"Domestic": {"S":"b'$80,931,801'"},
+					"Worldwide": {"S":"b'$104,931,801'"},
+					"\t\tWideOpeningWeekend": {"S":"b'$5,312,945'"},
+					"WidestRelease": {"S":"b'757 theaters'"},
+					"LimitedOpeningWeekend": {"S":"b'<b> $3,527,881</b>'"},
+					"Awards": {"S":"Nominated for Two Oscars, Including One Win."},
+					"GenreRank": {"S":"{'Action Heroine': '19', 'Sci-Fi Horror': '6'}"},
+					"Franchise": {"S":"{'Series: Alien': '4'}"},
+					"Chart": {"S":"{'Highest All Time Rank (on January 1, 1982)': '43', 'Opening Weeks Adjusted': '1,346', 'Opening Weekends': '2,931', 'All Time Domestic': '871', BOM Users' Grades: '65', 'Rated R Adjusted': '40', 'Twelfth Weekends Adjusted': '122', 'Opening Weeks': '2,703', 'Opening Weekends Adjusted': '1,560', 'Tenth Weekends Adjusted': '147'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Alien 3'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=alien3.htm"},
+					"Genre": {"S":"b'Sci-Fi Horror'"},
+					"ProductionBudget": {"S":"b'$50 million'"},
+					"ReleaseDate": {"S":"b'May 22, 1992'"},
+					"Distributor": {"S":"b'Fox'"},
+					"DomesticTotalGross": {"S":"b'$55,473,545'"},
+					"Runtime": {"S":"b'1 hrs. 54 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Composer": {"S":"b'Elliot Goldenthal'"},
+					"Actor": {"S":"b'Sigourney Weaver, Lance Henriksen'"},
+					"Producer": {"S":"b'Gordon Carroll, David Giler, Walter Hill'"},
+					"Director": {"S":"b'David Fincher'"},
+					"Foreign": {"S":"b'$104,340,953'"},
+					"Domestic": {"S":"b'$55,473,545'"},
+					"Worldwide": {"S":"b'$159,814,498'"},
+					"OpeningWeekend": {"S":"b'$19,449,867'"},
+					"WidestRelease": {"S":"b'2,227 theaters'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"{'Action Heroine': '29', 'Sci-Fi Horror': '11', 'Creature Feature': '20'}"},
+					"Franchise": {"S":"{'Series: Alien': '5'}"},
+					"Chart": {"S":"{'Opening Weekends - May': '101', 'Yearly Opening Weekends (Wide) 1992': '5', 'Opening Weeks Adjusted': '498', BOM Users' Grades: '618', 'Yearly Opening Weekends 1992': '5', 'Highest All Time Rank (on July 14, 1992)': '241', BOM Users' Grades (1992 Releases): '60', 'Opening Weekends': '907', 'Rated R, Opening Weekends Adjusted': '82', 'Memorial Day 4-Day Holiday Weekends': '66', 'Opening Weekends Adjusted': '470', 'Memorial Day 4-Day Holiday Weekend Openers': '39', 'Worldwide Yearly 1992': '12', 'Opening Weekends Adjusted - May': '77', 'All Time Domestic': '1,403', 'Yearly 1992': '28', 'Smallest Drops, All Wide Releases': '3,654', 'Opening Weeks': '886', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,821', 'Yearly (Wide) 1992': '27', 'Yearly R Rated 1992': '16'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Alien Abduction'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=alienabduction.htm"},
+					"Genre": {"S":"b'Sci-Fi Horror'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'April 4, 2014'"},
+					"Distributor": {"S":"b'IFC'"},
+					"DomesticTotalGross": {"S":"b'$12,897'"},
+					"Runtime": {"S":"b'1 hrs. 25 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$12,897'"},
+					"OpeningWeekend": {"S":"b'$10,514'"},
+					"CloseDate": {"S":"b'April 10, 2014'"},
+					"WidestRelease": {"S":"b'13 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sci-Fi Horror': '56'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '13,058'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Alien Adventure (IMAX)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=alienadventureimax.htm"},
+					"Genre": {"S":"b'IMAX'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'August 20, 1999'"},
+					"Distributor": {"S":"b'N Wave'"},
+					"DomesticTotalGross": {"S":"b'$8,959,784'"},
+					"Runtime": {"S":"b'0 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Foreign": {"S":"b'$15,114,896'"},
+					"Domestic": {"S":"b'$8,959,784'"},
+					"Worldwide": {"S":"b'$24,074,680'"},
+					"InRelease": {"S":"b'2,688 days / 384 weeks'"},
+					"WidestRelease": {"S":"b'10 theaters'"},
+					"CloseDate": {"S":"b'November 15, 2007'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1999': '131', 'IMAX Format': '35', 'All Time Domestic': '4,606', 'Highest All Time Rank (on August 28, 2002)': '2647', 'Worldwide Yearly 1999': '84', 'Yearly (Limited) 1999': '8', 'IMAX Format Adjusted': '34'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Alien Love Triangle'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=alienlovetriangle.htm"},
+					"Genre": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'TBD'"},
+					"Distributor": {"S":"b'Unknown'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Alien Nation'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=aliennation.htm"},
+					"Genre": {"S":"b'Sci-Fi Action'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'October 7, 1988'"},
+					"Distributor": {"S":"b'Fox'"},
+					"DomesticTotalGross": {"S":"b'$25,216,243'"},
+					"Runtime": {"S":"b'1 hrs. 31 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Gale Anne Hurd'"},
+					"Foreign": {"S":"b'$6,938,804'"},
+					"Domestic": {"S":"b'$25,216,243'"},
+					"Worldwide": {"S":"b'$32,155,047'"},
+					"OpeningWeekend": {"S":"b'$8,421,429'"},
+					"WidestRelease": {"S":"b'1,436 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Future - Near': '47', 'Sci-Fi - Alien Invasion': '36'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 1988': '22', 'Highest All Time Rank (on November 22, 1988)': '452', BOM Users' Grades (1988 Releases): '44', 'All Time Domestic': '2,819', 'Yearly 1988': '41', 'Yearly Opening Weekends 1988': '11', 'Yearly (Wide) 1988': '40', 'Yearly Opening Weekends (Wide) 1988': '12', 'Fewest Theaters to Debut at #1': '116'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Alien Resurrection'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=alienresurrection.htm"},
+					"Genre": {"S":"b'Sci-Fi Horror'"},
+					"ProductionBudget": {"S":"b'$75 million'"},
+					"ReleaseDate": {"S":"b'November 26, 1997'"},
+					"Distributor": {"S":"b'Fox'"},
+					"DomesticTotalGross": {"S":"b'$47,795,658'"},
+					"Runtime": {"S":"b'1 hrs. 49 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Cinematographer": {"S":"b'Darius Khondji'"},
+					"Composer": {"S":"b'John Frizzell'"},
+					"Producer": {"S":"b'Bill Badalato, Gordon Carroll, David Giler, Walter Hill'"},
+					"Writer": {"S":"b'Joss Whedon'"},
+					"Actor": {"S":"b'Sigourney Weaver, Winona Ryder, Ron Perlman'"},
+					"Director": {"S":"b''"},
+					"Foreign": {"S":"b'$113,580,410'"},
+					"Domestic": {"S":"b'$47,795,658'"},
+					"Worldwide": {"S":"b'$161,376,068'"},
+					"OpeningWeekend": {"S":"b'$16,474,092'"},
+					"WidestRelease": {"S":"b'2,449 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Action Heroine': '38', 'Sci-Fi Horror': '14', 'Creature Feature': '25'}"},
+					"Franchise": {"S":"{'Series: Alien': '6'}"},
+					"Chart": {"S":"{'Yearly R Rated 1997': '17', 'Opening Weeks Adjusted': '883', 'Biggest 2nd Weekend Drops': '519', 'Non-Friday Opening Weekends': '145', 'Opening Weekends': '1,107', 'Opening Weekends Adjusted - November': '101', 'Opening Weekends Not At #1 Adjusted': '166', 'Worldwide Yearly 1997': '24', 'Opening Weekends Adjusted - Holiday': '158', 'Thanksgiving 3-day Openings': '33', 'Thanksgiving 3-day Weekends': '77', 'All Time Domestic': '1,649', 'Yearly Opening Weekends 1997': '24', 'Yearly 1997': '43', BOM Users' Grades (1997 Releases): '89', 'Highest All Time Rank (on January 2, 1998)': '481', 'Thanksgiving 5-day Openings Adjusted': '21', 'Thanksgiving 5-day Openings': '28', 'Thanksgiving 3-day Weekends Adjusted': '58', BOM Users' Grades: '636', 'Non-Friday Opening Weekends Adjusted': '107', 'Thanksgiving 3-day Openings Adjusted': '24', 'Rated R, Opening Weekends Adjusted': '190', 'Opening Weekends - November': '128', 'Post-Thanksgiving Weekend  - Biggest Drops': '81', 'Thanksgiving 5-day Weekends': '59', 'Yearly (Wide) 1997': '43', 'Yearly Opening Weekends (Wide) 1997': '25', 'Smallest Drops, All Wide Releases': '3,897', 'Thanksgiving 5-day Weekends Adjusted': '41', 'Opening Weeks': '1,248', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,990', 'Opening Weekends Adjusted': '755'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Alien Trespass'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=alientrespass.htm"},
+					"Genre": {"S":"b'Sci-Fi Comedy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'April 3, 2009'"},
+					"Distributor": {"S":"b'Roadside Attractions'"},
+					"DomesticTotalGross": {"S":"b'$104,526'"},
+					"Runtime": {"S":"b'1 hrs. 28 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Eric McCormack'"},
+					"Domestic": {"S":"b'$104,526'"},
+					"InRelease": {"S":"b'161 days / 23 weeks'"},
+					"OpeningWeekend": {"S":"b'$43,437'"},
+					"CloseDate": {"S":"b'September 7, 2009'"},
+					"WidestRelease": {"S":"b'40 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sci-Fi Comedy': '65', 'Sci-Fi - Alien Invasion': '48'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2009': '317', 'Yearly PG Rated 2009': '48', 'All Time Domestic': '10,298', 'Yearly Opening Weekends (Limited) 2009': '119', 'Yearly (Limited) 2009': '165', 'Yearly Opening Weekends 2009': '258'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Alien Vs. Predator'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=avp.htm"},
+					"Genre": {"S":"b'Sci-Fi Horror'"},
+					"ProductionBudget": {"S":"b'$60 million'"},
+					"ReleaseDate": {"S":"b'August 13, 2004'"},
+					"Distributor": {"S":"b'Fox'"},
+					"DomesticTotalGross": {"S":"b'$80,282,231'"},
+					"Runtime": {"S":"b'1 hrs. 27 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Cinematographer": {"S":"b'David Johnson'"},
+					"Composer": {"S":"b'Harald Kloser'"},
+					"Producer": {"S":"b'Gordon Carroll, John Davis, David Giler, Wyck Godfrey, Thomas M. Hammel, Walter Hill'"},
+					"Writer": {"S":"b'Paul W.S. Anderson'"},
+					"Actor": {"S":"b'Ewen Bremner, Sanaa Lathan, Lance Henriksen'"},
+					"Director": {"S":"b'Paul W.S. Anderson'"},
+					"Foreign": {"S":"b'$92,262,423'"},
+					"Domestic": {"S":"b'$80,282,231'"},
+					"Worldwide": {"S":"b'$172,544,654'"},
+					"InRelease": {"S":"b'112 days / 16 weeks'"},
+					"OpeningWeekend": {"S":"b'$38,291,056'"},
+					"CloseDate": {"S":"b'December 2, 2004'"},
+					"WidestRelease": {"S":"b'3,401 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Prequel': '25', 'Sci-Fi Horror': '7', 'Creature Feature': '14'}"},
+					"Franchise": {"S":"{'Showdown: Alien vs. Predator Versus Freddy vs. Jason': '2', 'Brand: Dark Horse Comics': '4', 'Series: Predator': '1', 'Series: Alien': '3'}"},
+					"Chart": {"S":"{'Yearly Opening Weekends 2004': '17', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '870', 'Opening Weeks Adjusted': '336', 'Opening Weekends': '325', 'Opening Day Gross': '232', 'Opening Weekends Adjusted - August': '14', BOM Users' Grades (2004 Releases): '143', 'Yearly (Wide) 2004': '32', 'Yearly 2004': '33', 'Highest All Time Rank (on October 24, 2004)': '419', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,595', 'Opening Weekends - Summer': '188', 'Rated PG-13, Opening Weekends': '194', 'Single Day Friday Gross Adjusted': '214', 'Friday to Saturday Drops on Opening Weekends': '109', 'All Time Domestic': '877', 'Yearly PG-13 Rated 2004': '19', 'Biggest 2nd Weekend Drops': '153', 'Widest Opening Releases': '415', 'Worldwide Yearly 2004': '30', 'Rated PG-13, Opening Weekends Adjusted': '182', BOM Users' Grades: '637', 'Yearly Opening Weekends (Wide) 2004': '17', 'Friday Share of Opening Weekends': '120', 'Single Day Friday Gross': '274', 'Opening Weekends Adjusted - Summer': '183', 'Widest Releases': '447', 'Single Day Gross': '897', 'Smallest Drops, All Wide Releases': '4,272', 'Opening Weekends - August': '15', 'Opening Weeks': '351', 'Smallest Drops, 2,000+ theaters (Very Wide)': '2,227', 'Opening Weekends Adjusted': '304'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Alien: Covenant'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=alienparadiselost.htm"},
+					"Genre": {"S":"b'Sci-Fi'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'May 19, 2017'"},
+					"Distributor": {"S":"b'Fox'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unknown'"},
+					"Cinematographer": {"S":"b'Dariusz Wolski'"},
+					"Writer": {"S":"b'Michael Green, John Logan, Jack Paglen'"},
+					"Actor": {"S":"b'Michael Fassbender, Katherine Waterston, Demian Bichir, Danny McBride'"},
+					"Director": {"S":"b'Ridley Scott'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Prequel': 'n/a', 'Sci-Fi Horror': 'n/a', 'Creature Feature': 'n/a'}"},
+					"Franchise": {"S":"{'Series: Alien': 'n/a'}"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bAlien: The Director's Cut"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=alien03.htm"},
+					"Genre": {"S":"b'Sci-Fi Horror'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticLifetimeGross": {"S":"b''"},
+					"ReleaseDate": {"S":"b'October 29, 2003'"},
+					"Distributor": {"S":"b'Fox'"},
+					"DomesticTotalGross": {"S":"b'$1,986,910'"},
+					"Runtime": {"S":"b'1 hrs. 56 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Foreign": {"S":"b'$3,012,202'"},
+					"Domestic": {"S":"b'$80,931,801'"},
+					"Worldwide": {"S":"b'$83,944,003'"},
+					"InRelease": {"S":"b'37 days / 5.3 weeks'"},
+					"OpeningWeekend": {"S":"b'$1,023,665'"},
+					"CloseDate": {"S":"b'December 4, 2003'"},
+					"WidestRelease": {"S":"b'347 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 2003': '135', 'Yearly (Limited) 2003': '52', 'Highest All Time Rank (on November 22, 2003)': '4037', 'Worldwide Yearly 2003': '202', 'Yearly Opening Weekends (Limited) 2003': '7', BOM Users' Grades (2003 Releases): '2', 'Yearly R Rated 2003': '75', 'Yearly 2003': '194'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Aliens'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=aliens.htm"},
+					"Genre": {"S":"b'Sci-Fi Horror'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'July 18, 1986'"},
+					"Distributor": {"S":"b'Fox'"},
+					"DomesticTotalGross": {"S":"b'$85,160,248'"},
+					"Runtime": {"S":"b'2 hrs. 17 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Composer": {"S":"b'James Horner'"},
+					"Writer": {"S":"b'James Cameron'"},
+					"Actor": {"S":"b'Sigourney Weaver, Michael Biehn, Lance Henriksen, Bill Paxton'"},
+					"Producer": {"S":"b'Gordon Carroll*, David Giler*, Walter Hill*, Gale Anne Hurd'"},
+					"Director": {"S":"b'James Cameron'"},
+					"Foreign": {"S":"b'$45,900,000'"},
+					"Domestic": {"S":"b'$85,160,248'"},
+					"Worldwide": {"S":"b'$131,060,248'"},
+					"OpeningWeekend": {"S":"b'$10,052,042'"},
+					"WidestRelease": {"S":"b'1,454 theaters'"},
+					"Awards": {"S":"Nominated for Seven Oscars, Including Two Wins."},
+					"GenreRank": {"S":"{'Action Heroine': '18', 'Sci-Fi Horror': '5', 'Creature Feature': '12'}"},
+					"Franchise": {"S":"{'Showdown: Cameron Clash': '5', 'Series: Alien': '2'}"},
+					"Chart": {"S":"{'Yearly Opening Weekends 1986': '6', 'Consecutive Weekends At #1': '47', 'Opening Weeks Adjusted': '879', 'Eleventh Weekends Adjusted': '147', 'Most Weekends in Top 5 (non-consecutive)': '62', 'Rated R Adjusted': '97', 'Twelfth Weekends Adjusted': '165', 'Opening Weekends': '1,864', 'Opening Weekends Adjusted - July': '152', 'Yearly (Wide) 1986': '7', 'Fewest Theaters to Debut at #1': '118', 'Most Weekends at #1 (non-consecutive)': '64', 'Consecutive Weekends In Top 10': '102', 'Eighth Weekends Adjusted': '200', 'Yearly R Rated 1986': '2', BOM Users' Grades: '52', BOM Users' Grades (1986 Releases): '1', 'Ninth Weekends Adjusted': '183', 'Consecutive Weekends In Top 5': '52', 'Highest All Time Rank (on October 21, 1986)': '63', 'Most Weekends in Top 10 (non-consecutive)': '125', 'Yearly Opening Weekends (Wide) 1986': '6', 'Rated R': '194', 'Smallest Drops, All Wide Releases': '425', 'Yearly 1986': '7', 'Opening Weeks': '1,587', 'Opening Weekends Adjusted': '1,135', 'Tenth Weekends Adjusted': '141', 'All Time Domestic': '804'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Aliens Vs. Predator - Requiem'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=avp2.htm"},
+					"Genre": {"S":"b'Sci-Fi Horror'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'December 25, 2007'"},
+					"Distributor": {"S":"b'Fox'"},
+					"DomesticTotalGross": {"S":"b'$41,797,066'"},
+					"Runtime": {"S":"b'1 hrs. 26 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Cinematographer": {"S":"b'Daniel Pearl'"},
+					"Writer": {"S":"b'Shane Salerno'"},
+					"Producer": {"S":"b'John Davis'"},
+					"Composer": {"S":"b'Brian Tyler'"},
+					"Director": {"S":"b'Colin Strause, Greg Strause'"},
+					"Foreign": {"S":"b'$87,087,428'"},
+					"Domestic": {"S":"b'$41,797,066'"},
+					"Worldwide": {"S":"b'$128,884,494'"},
+					"InRelease": {"S":"b'94 days / 13.4 weeks'"},
+					"OpeningWeekend": {"S":"b'$10,059,425'"},
+					"CloseDate": {"S":"b'March 23, 2008'"},
+					"WidestRelease": {"S":"b'2,617 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sci-Fi Horror': '16', 'Creature Feature': '28'}"},
+					"Franchise": {"S":"{'Brand: Dark Horse Comics': '9', 'Series: Predator': '4', 'Series: Alien': '7'}"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '2,092', 'Opening Tuesdays': '7', 'Opening Weekends': '1,862', 'Yearly Opening Weekends (Wide) 2007': '78', 'Single Day Tuesday Gross': '79', BOM Users' Grades (2007 Releases): '179', 'All Time Domestic': '1,872', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,237', 'Yearly Opening Weekends 2007': '75', 'Worldwide Yearly 2007': '47', 'Single Day Tuesday Gross Adjusted': '80', 'Yearly (Wide) 2007': '62', 'Yearly 2007': '64', 'Movies That Never Hit the Top 5': '52', 'Opening Weekends Adjusted': '2,271', 'Christmas Day Openers': '12', 'Yearly R Rated 2007': '16', 'Opening Weekends Adjusted - December': '194', 'Smallest Drops, All Wide Releases': '3,524', 'Opening Weeks': '1,654', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,733', 'Movies That Never Hit the Top 5 Adjusted': '93', 'Opening Weekends - December': '146'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Aliens in the Attic'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=aliensintheattic.htm"},
+					"Genre": {"S":"b'Family Adventure'"},
+					"ProductionBudget": {"S":"b'$45 million'"},
+					"ReleaseDate": {"S":"b'July 31, 2009'"},
+					"Distributor": {"S":"b'Fox'"},
+					"DomesticTotalGross": {"S":"b'$25,200,412'"},
+					"Runtime": {"S":"b'1 hrs. 26 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Composer": {"S":"b'John Debney'"},
+					"Producer": {"S":"b'Arnon Milchan'"},
+					"Director": {"S":"b'John Schultz'"},
+					"Foreign": {"S":"b'$32,680,644'"},
+					"Domestic": {"S":"b'$25,200,412'"},
+					"Worldwide": {"S":"b'$57,881,056'"},
+					"InRelease": {"S":"b'119 days / 17 weeks'"},
+					"OpeningWeekend": {"S":"b'$8,008,423'"},
+					"CloseDate": {"S":"b'November 22, 2009'"},
+					"WidestRelease": {"S":"b'3,108 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Smallest Drops, 3,000+ theaters (Super-Saturation)': '487', 'Yearly 2009': '102', 'Yearly PG Rated 2009': '21', 'Worst Openings - Super Saturated Adjusted': '29', 'Worldwide Yearly 2009': '90', 'Opening Weekends': '2,254', 'Yearly (Wide) 2009': '104', 'Opening Weeks Adjusted': '2,643', 'Smallest Drops, 2,500+ theaters (Saturation)': '968', 'Yearly Opening Weekends 2009': '99', 'Widest Opening Releases': '714', BOM Users' Grades (2009 Releases): '144', 'Worst Openings - Saturated Adjusted': '144', 'Worst Openings - Saturated': '164', 'Widest Releases': '783', 'Yearly Opening Weekends (Wide) 2009': '105', 'Biggest Theater Drops': '121', 'Smallest Drops, All Wide Releases': '2,955', 'Worst Openings - Super Saturated': '28', 'Opening Weeks': '2,071', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,373', 'Opening Weekends Adjusted': '2,909', 'All Time Domestic': '2,821'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Aliens of the Deep (IMAX)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=aliensofthedeep.htm"},
+					"Genre": {"S":"b'IMAX'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'January 28, 2005'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"DomesticTotalGross": {"S":"b'$8,968,684'"},
+					"Runtime": {"S":"b'0 hrs. 47 min.'"},
+					"MPAARating": {"S":"b'G'"},
+					"Producer": {"S":"b'James Cameron'"},
+					"Director": {"S":"b'James Cameron, Steven Quale'"},
+					"Foreign": {"S":"b'$3,801,953'"},
+					"Domestic": {"S":"b'$8,968,684'"},
+					"Worldwide": {"S":"b'$12,770,637'"},
+					"InRelease": {"S":"b'1,057 days / 151 weeks'"},
+					"OpeningWeekend": {"S":"b'$479,368'"},
+					"CloseDate": {"S":"b'December 20, 2007'"},
+					"WidestRelease": {"S":"b'27 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': '248'}"},
+					"Franchise": {"S":"{'Brand: Walden Media': '25'}"},
+					"Chart": {"S":"{'IMAX Format Adjusted': '35', 'Worldwide Yearly 2005': '166', BOM Users' Grades (2005 Releases): '45', 'IMAX Format': '34', 'All Time Domestic': '4,605', 'Yearly G Rated 2005': '9', 'Yearly Opening Weekends 2005': '155', 'Yearly (Limited) 2005': '8', 'Yearly 2005': '150', 'Yearly Opening Weekends (Limited) 2005': '18'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Alila'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=alila.htm"},
+					"Genre": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalasofJun.17,2004": {"S":"b'$50,961'"},
+					"ReleaseDate": {"S":"b'February 27, 2004'"},
+					"Distributor": {"S":"b'Kino'"},
+					"Runtime": {"S":"b'2 hrs. 2 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Foreign": {"S":"b'n/a'"},
+					"Domestic": {"S":"b'$50,961'"},
+					"Worldwide": {"S":"b'$50,961'"},
+					"InRelease": {"S":"b'112 days / 16 weeks'"},
+					"OpeningWeekend": {"S":"b'$3,063'"},
+					"WidestRelease": {"S":"b'4 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 2004': '481', 'Yearly Unrated Movies 2004': '99', 'Yearly (Limited) 2004': '253', 'All Time Domestic': '11,284', 'Yearly Opening Weekends (Limited) 2004': '343', 'Highest All Time Rank (on June 17, 2004)': '6016', 'Yearly 2004': '406', 'Worldwide Yearly 2004': '318'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Alita: Battle Angel'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=alita.htm"},
+					"Genre": {"S":"b'Action / Adventure'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'July 20, 2018'"},
+					"Distributor": {"S":"b'Fox'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unknown'"},
+					"Producer": {"S":"b'James Cameron, Jon Landau'"},
+					"Director": {"S":"b'Robert Rodriguez'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Cyborg / Android / Robot': 'n/a'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Alive'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=alive.htm"},
+					"Genre": {"S":"b'Action Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'January 15, 1993'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"DomesticTotalGross": {"S":"b'$36,733,909'"},
+					"Runtime": {"S":"b'2 hrs. 6 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Composer": {"S":"b'James Newton Howard'"},
+					"Actor": {"S":"b'Ethan Hawke, Josh Lucas*, John Malkovich*'"},
+					"Producer": {"S":"b'Kathleen Kennedy'"},
+					"Director": {"S":"b'Frank Marshall'"},
+					"Domestic": {"S":"b'$36,733,909'"},
+					"OpeningWeekend": {"S":"b'$8,624,292'"},
+					"WidestRelease": {"S":"b'1,337 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Disaster': '27'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1993': '43', BOM Users' Grades (1993 Releases): '55', 'All Time Domestic': '2,124', 'Martin Lurther King 4-Day Holiday Weekend Openers': '65', 'Yearly Opening Weekends 1993': '34', 'Highest All Time Rank (on March 9, 1993)': '457', 'Martin Lurther King 4-Day Holiday Weekends': '142', 'Yearly Opening Weekends (Wide) 1993': '34', 'Yearly (Wide) 1993': '42', 'Yearly R Rated 1993': '15'}"}
+				}
+			}
+		}
+	]
+}

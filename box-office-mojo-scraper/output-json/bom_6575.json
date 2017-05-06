@@ -1,0 +1,650 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jean de Florette'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jeandeflorette.htm"},
+					"ReleaseDate": {"S":"b'June 26, 1987'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Orion Classics'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$4,940,939'"},
+					"Runtime": {"S":"b'2 hrs. 1 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$4,940,939'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '81'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly PG Rated 1987': '29', 'All Time Domestic': '5,405', 'Yearly 1987': '110'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jean-Michel Basquiat: The Radiant Child'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=radiantchild.htm"},
+					"ReleaseDate": {"S":"b'July 21, 2010'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'Arthouse Films'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$256,242'"},
+					"Runtime": {"S":"b'1 hrs. 28 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$256,242'"},
+					"WidestRelease": {"S":"b'7 theaters'"},
+					"CloseDate": {"S":"b'December 19, 2010'"},
+					"OpeningWeekend": {"S":"b'$17,466'"},
+					"InRelease": {"S":"b'89 days / 12.7 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '363'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '9,094'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jeanne and the Perfect Guy'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jeanneandtheperfectguy.htm"},
+					"ReleaseDate": {"S":"b'April 16, 1999'"},
+					"DomesticTotalasofApr.18,1999": {"S":"b'$4,417'"},
+					"Distributor": {"S":"b'Strand'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Runtime": {"S":"b'1 hrs. 38 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$4,417'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"OpeningWeekend": {"S":"b'$4,417'"},
+					"InRelease": {"S":"b'3 days / 0.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 1999': '204', 'All Time Domestic': '14,038', 'Yearly (Limited) 1999': '211', 'Highest All Time Rank (on April 18, 1999)': '4420', 'Yearly Opening Weekends 1999': '336', 'Yearly 1999': '363'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jee Aayun Nu'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jeeaayunnu.htm"},
+					"ReleaseDate": {"S":"b'November 8, 2002'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Musicwave'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$393,117'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$393,117'"},
+					"WidestRelease": {"S":"b'9 theaters'"},
+					"CloseDate": {"S":"b'December 8, 2002'"},
+					"OpeningWeekend": {"S":"b'$68,336'"},
+					"InRelease": {"S":"b'31 days / 4.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '695'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2002': '268', 'Yearly (Limited) 2002': '109', 'All Time Domestic': '8,503', 'Yearly Unrated Movies 2002': '22', 'Yearly Opening Weekends 2002': '216', 'Yearly Opening Weekends (Limited) 2002': '76', 'Highest All Time Rank (on December 8, 2002)': '4783'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jeepers Creepers'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jeeperscreepers.htm"},
+					"ReleaseDate": {"S":"b'August 31, 2001'"},
+					"Genre": {"S":"b'Horror'"},
+					"Distributor": {"S":"b'United Artists'"},
+					"ProductionBudget": {"S":"b'$10 million'"},
+					"DomesticTotalGross": {"S":"b'$37,904,175'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Justin Long'"},
+					"Director": {"S":"b'Victor Salva'"},
+					"Domestic": {"S":"b'$37,904,175'"},
+					"Worldwide": {"S":"b'$59,217,789'"},
+					"Foreign": {"S":"b'$21,313,614'"},
+					"WidestRelease": {"S":"b'2,944 theaters'"},
+					"OpeningWeekend": {"S":"b'$13,106,108'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Creature Feature': '33'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '1,393', 'All Time Domestic': '2,057', 'Labor Day 4-Day Holiday Weekends': '17', BOM Users' Grades (2001 Releases): '114', 'Highest All Time Rank (on August 28, 2002)': '760', 'Yearly Opening Weekends 2001': '51', 'Labor Day 4-Day Holiday Weekend Openers': '7', 'Smallest Drops, All Wide Releases': '3,247', 'Opening Weekends Adjusted': '1,394', BOM Users' Grades: '646', 'Opening Weekends - August': '111', 'Yearly R Rated 2001': '22', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,110', 'Yearly Opening Weekends (Wide) 2001': '54', 'Yearly 2001': '65', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,554', 'Opening Weeks': '1,441', 'Worldwide Yearly 2001': '70', 'Opening Weekends Adjusted - August': '105', 'Yearly (Wide) 2001': '65', 'Opening Weekends': '1,431'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jeepers Creepers 2'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jeeperscreepers2.htm"},
+					"ReleaseDate": {"S":"b'August 29, 2003'"},
+					"Genre": {"S":"b'Horror'"},
+					"Distributor": {"S":"b'United Artists'"},
+					"ProductionBudget": {"S":"b'$17 million'"},
+					"DomesticTotalGross": {"S":"b'$35,667,218'"},
+					"Runtime": {"S":"b'1 hrs. 46 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Justin Long*'"},
+					"Director": {"S":"b'Victor Salva'"},
+					"Domestic": {"S":"b'$35,667,218'"},
+					"Worldwide": {"S":"b'$63,102,666'"},
+					"Foreign": {"S":"b'$27,435,448'"},
+					"WidestRelease": {"S":"b'3,124 theaters'"},
+					"CloseDate": {"S":"b'January 2, 2004'"},
+					"OpeningWeekend": {"S":"b'$15,269,324'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Creature Feature': '34'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '1,285', 'All Time Domestic': '2,178', 'Opening Weekends - August': '88', 'Highest All Time Rank (on November 2, 2003)': '1098', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '680', 'Smallest Drops, All Wide Releases': '3,656', 'Yearly R Rated 2003': '25', 'Worldwide Yearly 2003': '78', 'Widest R Rated Releases': '134', 'Opening Weekends Adjusted': '1,246', 'Yearly Opening Weekends 2003': '55', 'Opening Weeks': '1,222', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,823', BOM Users' Grades (2003 Releases): '160', 'Yearly 2003': '80', 'Widest Opening Releases': '677', 'Worst Openings - Super Saturated': '177', 'Labor Day 4-Day Holiday Weekends': '10', 'Labor Day 4-Day Holiday Weekend Openers': '5', 'Opening Weekends Adjusted - August': '85', 'Widest R Rated Openings': '111', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,305', 'Yearly Opening Weekends (Wide) 2003': '56', 'Widest Releases': '745', 'Yearly (Wide) 2003': '82', 'Opening Weekends': '1,199'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jeff, Who Lives at Home'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jeffwholivesathome.htm"},
+					"ReleaseDate": {"S":"b'March 16, 2012'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Paramount Vantage'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$4,269,426'"},
+					"Runtime": {"S":"b'1 hrs. 23 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Jay Duplass, Mark Duplass'"},
+					"Producer": {"S":"b'Steven M. Rales, Jason Reitman'"},
+					"Actor": {"S":"b'Jason Segel, Ed Helms, Susan Sarandon, Judy Greer'"},
+					"Director": {"S":"b'Jay Duplass, Mark Duplass'"},
+					"Domestic": {"S":"b'$4,269,426'"},
+					"Worldwide": {"S":"b'$4,417,580'"},
+					"Foreign": {"S":"b'$148,154'"},
+					"WidestRelease": {"S":"b'513 theaters'"},
+					"CloseDate": {"S":"b'May 17, 2012'"},
+					"OpeningWeekend": {"S":"b'$855,709'"},
+					"InRelease": {"S":"b'63 days / 9 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Slacker / Stoner': '49', 'Comedy - Arrested Development': '23'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '5,584'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jefferson in Paris'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jeffersoninparis.htm"},
+					"ReleaseDate": {"S":"b'March 31, 1995'"},
+					"Genre": {"S":"b'Historical Drama'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$2,473,668'"},
+					"Runtime": {"S":"b'2 hrs. 19 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Ruth Prawer Jhabvala'"},
+					"Actor": {"S":"b'Thandie Newton, Gwyneth Paltrow'"},
+					"Director": {"S":"b'James Ivory'"},
+					"Domestic": {"S":"b'$2,473,668'"},
+					"WidestRelease": {"S":"b'351 theaters'"},
+					"CloseDate": {"S":"b'July 6, 1995'"},
+					"OpeningWeekend": {"S":"b'$61,349'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Travelogue - Paris': '36'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1995': '178', 'Yearly PG-13 Rated 1995': '43', 'Yearly Opening Weekends 1995': '187', 'All Time Domestic': '6,222', 'Yearly Opening Weekends (Limited) 1995': '49', 'Highest All Time Rank (on May 9, 1995)': '2344', 'Yearly (Limited) 1995': '29'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jeffrey'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jeffrey.htm"},
+					"ReleaseDate": {"S":"b'August 4, 1995'"},
+					"Genre": {"S":"b'Comedy / Drama'"},
+					"Distributor": {"S":"b'Orion Classics'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$3,487,767'"},
+					"Runtime": {"S":"b'1 hrs. 32 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Paul Rudnick'"},
+					"Actor": {"S":"b'Patrick Stewart, Sigourney Weaver'"},
+					"Domestic": {"S":"b'$3,487,767'"},
+					"WidestRelease": {"S":"b'63 theaters'"},
+					"OpeningWeekend": {"S":"b'$185,909'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Gay / Lesbian': '67'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1995': '164', 'Yearly Opening Weekends 1995': '161', 'Highest All Time Rank (on October 3, 1995)': '2252', 'All Time Domestic': '5,839', 'Yearly Opening Weekends (Limited) 1995': '23', 'Yearly (Limited) 1995': '20', 'Yearly R Rated 1995': '80'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jekyll and Hyde Together Again'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jekyllandhydetogetheragain.htm"},
+					"ReleaseDate": {"S":"b'October 1, 1982'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$3,792,188'"},
+					"Runtime": {"S":"b'1 hrs. 27 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Lawrence Gordon, Joel Silver'"},
+					"Director": {"S":"b'Jerry Belson'"},
+					"Domestic": {"S":"b'$3,792,188'"},
+					"WidestRelease": {"S":"b'300 theaters'"},
+					"OpeningWeekend": {"S":"b'$819,476'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 1982': '23', 'All Time Domestic': '5,732', 'Top Ranking Limited Release Debuts': '74', 'Yearly R Rated 1982': '51', 'Yearly Opening Weekends (Limited) 1982': '26', 'Highest All Time Rank (on December 14, 1985)': '501', 'Yearly Opening Weekends 1982': '88', 'Yearly 1982': '101'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jellyfish'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jellyfish.htm"},
+					"ReleaseDate": {"S":"b'April 4, 2008'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Zeitgeist'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$341,221'"},
+					"Runtime": {"S":"b'1 hrs. 18 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$341,221'"},
+					"Worldwide": {"S":"b'$910,314'"},
+					"Foreign": {"S":"b'$569,093'"},
+					"WidestRelease": {"S":"b'14 theaters'"},
+					"CloseDate": {"S":"b'September 25, 2008'"},
+					"OpeningWeekend": {"S":"b'$25,352'"},
+					"InRelease": {"S":"b'175 days / 25 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '738'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2008': '108', 'All Time Domestic': '8,689', 'Worldwide Yearly 2008': '324', 'Yearly Opening Weekends 2008': '321', 'Yearly Unrated Movies 2008': '36', 'Yearly 2008': '280', 'Yearly Opening Weekends (Limited) 2008': '169'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jellyfish Eyes'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jellyfisheyes.htm"},
+					"ReleaseDate": {"S":"b'July 15, 2015'"},
+					"Genre": {"S":"b'Fantasy'"},
+					"Distributor": {"S":"b'Janus Films'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$8,176'"},
+					"Runtime": {"S":"b'1 hrs. 41 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Director": {"S":"b'Takashi Murakami'"},
+					"Domestic": {"S":"b'$8,176'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"CloseDate": {"S":"b'July 30, 2015'"},
+					"OpeningWeekend": {"S":"b'$1,927'"},
+					"InRelease": {"S":"b'16 days / 2.3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '13,550'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jem and the Holograms'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jemandtheholograms.htm"},
+					"ReleaseDate": {"S":"b'October 23, 2015'"},
+					"Genre": {"S":"b'Musical'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'$5 million'"},
+					"DomesticTotalGross": {"S":"b'$2,184,640'"},
+					"Runtime": {"S":"b'1 hrs. 58 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Producer": {"S":"b'Jason Blum, Scooter Braun, Jon Chu'"},
+					"Director": {"S":"b'Jon Chu'"},
+					"Domestic": {"S":"b'$2,184,640'"},
+					"Worldwide": {"S":"b'$2,333,684'"},
+					"Foreign": {"S":"b'$149,044'"},
+					"WidestRelease": {"S":"b'2,417 theaters'"},
+					"CloseDate": {"S":"b'November 5, 2015'"},
+					"OpeningWeekend": {"S":"b'$1,375,320'"},
+					"InRelease": {"S":"b'14 days / 2 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Toy Adaptation': '24'}"},
+					"Franchise": {"S":"{'Brand: Blumhouse Productions': '29', 'Brand: Hasbro': '13'}"},
+					"Chart": {"S":"{'Worst Opening Weekend Per-Theater Averages': '29', 'Biggest 2nd Weekend Drops': '62', 'All Time Domestic': '6,382', 'Opening Weekends Adjusted': '4,693', 'Smallest Drops, All Wide Releases': '4,363', 'Worst Opening Weekend Per-Theater Averages Adjusted': '18', 'Opening Weeks Adjusted': '4,652', 'Opening Weekends': '4,558', 'Worst Openings - Very Wide': '4', 'Smallest Drops, 2,000+ theaters (Very Wide)': '2,282', 'Opening Weeks': '4,561', 'Worst Openings - Wide Releases Adjusted': '92', 'Worst Openings - Very Wide Adjusted': '4'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jennifer 8'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jennifereight.htm"},
+					"ReleaseDate": {"S":"b'November 6, 1992'"},
+					"Genre": {"S":"b'Thriller'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$11,390,479'"},
+					"Runtime": {"S":"b'2 hrs. 5 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Scott Rudin'"},
+					"Actor": {"S":"b'Lance Henriksen, Uma Thurman'"},
+					"Composer": {"S":"b'Christopher Young'"},
+					"Domestic": {"S":"b'$11,390,479'"},
+					"WidestRelease": {"S":"b'1,002 theaters'"},
+					"OpeningWeekend": {"S":"b'$3,619,666'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Christmas - Setting Only': '34', 'Thriller - Erotic': '24'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Wide) 1992': '87', 'All Time Domestic': '4,251', 'Opening Weeks': '3,576', 'Yearly 1992': '91', 'Highest All Time Rank (on December 15, 1992)': '1194', 'Opening Weekends Adjusted': '3,285', 'Smallest Drops, All Wide Releases': '2,241', 'Yearly R Rated 1992': '42', 'Opening Weeks Adjusted': '3,290', 'Opening Weekends': '3,576', BOM Users' Grades (1992 Releases): '54', 'Yearly Opening Weekends (Wide) 1992': '75', 'Yearly Opening Weekends 1992': '71'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bJennifer's Body"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jennifersbody.htm"},
+					"ReleaseDate": {"S":"b'September 18, 2009'"},
+					"Genre": {"S":"b'Horror Comedy'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'$16 million'"},
+					"DomesticTotalGross": {"S":"b'$16,204,793'"},
+					"Runtime": {"S":"b'1 hrs. 42 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Diablo Cody'"},
+					"Producer": {"S":"b'Diablo Cody, Daniel Dubiecki, Mason Novick, Jason Reitman'"},
+					"Actor": {"S":"b'Kyle Gallner, Chris Pratt, Megan Fox, Amanda Seyfried'"},
+					"Composer": {"S":"b'Theodore Shapiro'"},
+					"Director": {"S":"b'Karyn Kusama'"},
+					"Domestic": {"S":"b'$16,204,793'"},
+					"Worldwide": {"S":"b'$31,556,061'"},
+					"Foreign": {"S":"b'$15,351,268'"},
+					"WidestRelease": {"S":"b'2,738 theaters'"},
+					"CloseDate": {"S":"b'November 22, 2009'"},
+					"OpeningWeekend": {"S":"b'$6,868,397'"},
+					"InRelease": {"S":"b'70 days / 10 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Horror Comedy': '37'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weekends - September': '183', 'Worst Openings - Saturated': '109', 'All Time Domestic': '3,620', 'Yearly Opening Weekends 2009': '104', 'Worst Openings - Saturated Adjusted': '98', 'Worldwide Yearly 2009': '121', 'Opening Weekends Adjusted': '3,187', 'Smallest Drops, All Wide Releases': '2,595', 'Yearly (Wide) 2009': '121', 'Opening Weeks Adjusted': '3,273', 'Yearly R Rated 2009': '35', 'Smallest Drops, 2,500+ theaters (Saturation)': '798', 'Yearly Opening Weekends (Wide) 2009': '111', BOM Users' Grades (2009 Releases): '149', 'Yearly 2009': '118', 'Opening Weeks': '2,612', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,151', 'Opening Weekends': '2,495'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bJenny's Wedding"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jennyswedding.htm"},
+					"ReleaseDate": {"S":"b'July 31, 2015'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'IFC'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$4,704'"},
+					"Runtime": {"S":"b'1 hrs. 34 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Alexis Bledel, Linda Emond, Grace Gummer, Katherine Heigl, Tom Wilkinson'"},
+					"Domestic": {"S":"b'$4,704'"},
+					"Worldwide": {"S":"b'$4,704'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"CloseDate": {"S":"b'August 20, 2015'"},
+					"OpeningWeekend": {"S":"b'$2,254'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Gay / Lesbian': '320', 'Wedding': '55'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '13,991'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jeremiah Johnson'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jeremiahjohnson.htm"},
+					"ReleaseDate": {"S":"b'December 21, 1972'"},
+					"Genre": {"S":"b'Western'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 48 min.'"},
+					"MPAARating": {"S":"b'GP'"},
+					"Producer": {"S":"b'Joe Wizan'"},
+					"Actor": {"S":"b'Robert Redford, Will Geer, Stefan Gierasch, Delle Bolton, Josh Albee, Joaquin Martinez'"},
+					"Cinematographer": {"S":"b'Duke Callaghan'"},
+					"Writer": {"S":"b'John Milius, Edward Anhalt'"},
+					"Composer": {"S":"b'Tim McIntire, John Rubinstein'"},
+					"Director": {"S":"b'Sydney Pollack'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jeremiah Tower'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jeremiahtower.htm"},
+					"ReleaseDate": {"S":"b'April 14, 2017'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'The Orchard'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 42 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': 'n/a'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bJeremy Scott The People's Designer"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jeremyscott.htm"},
+					"ReleaseDate": {"S":"b'September 18, 2015'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'Vladar Company'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 50 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jerichow'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jerichow.htm"},
+					"ReleaseDate": {"S":"b'May 15, 2009'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Cinema Guild'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$60,379'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$60,379'"},
+					"Worldwide": {"S":"b'$905,600'"},
+					"Foreign": {"S":"b'$845,221'"},
+					"WidestRelease": {"S":"b'3 theaters'"},
+					"CloseDate": {"S":"b'October 29, 2009'"},
+					"OpeningWeekend": {"S":"b'$8,042'"},
+					"InRelease": {"S":"b'161 days / 23 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1290'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Unrated Movies 2009': '73', 'All Time Domestic': '11,028', 'Yearly Opening Weekends 2009': '380', 'Yearly (Limited) 2009': '193', 'Yearly Opening Weekends (Limited) 2009': '241', 'Yearly 2009': '345', 'Worldwide Yearly 2009': '274'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jerry Maguire'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jerrymaguire.htm"},
+					"ReleaseDate": {"S":"b'December 13, 1996'"},
+					"Genre": {"S":"b'Comedy / Drama'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"ProductionBudget": {"S":"b'$50 million'"},
+					"DomesticTotalGross": {"S":"b'$153,952,592'"},
+					"Runtime": {"S":"b'2 hrs. 18 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Cameron Crowe'"},
+					"Producer": {"S":"b'Laurence Mark, Richard Sakai'"},
+					"Actor": {"S":"b'Tom Cruise, Renee Zellweger, Kelly Preston, Jerry OConnell*, Jay Mohr, Bonnie Hunt, Regina King, Lucy Liu*'"},
+					"Director": {"S":"b'Cameron Crowe'"},
+					"Domestic": {"S":"b'$153,952,592'"},
+					"Worldwide": {"S":"b'$273,552,592'"},
+					"Foreign": {"S":"b'$119,600,000'"},
+					"WidestRelease": {"S":"b'2,531 theaters'"},
+					"OpeningWeekend": {"S":"b'$17,084,296'"},
+					"Awards": {"S":"Nominated for Six Oscars, Including One Win."},
+					"GenreRank": {"S":"{'Romantic Drama': '5', 'Sports - Football (Featured)': '2'}"},
+					"Franchise": {"S":"{Showdown: 'Pursuit' of 'Jerry Maguire': '3', 'Showdown: Tom Cruise December Showdown': '1'}"},
+					"Chart": {"S":"{'Seventh Weekends': '96', 'Opening Weeks Adjusted': '687', 'Seventh Weekends Adjusted': '70', 'Consecutive Weekends In Top 10': '98', 'Opening Weekends Adjusted - December': '50', 'Yearly Opening Weekends (Wide) 1996': '17', 'Opening Weekends - December': '70', 'Lowest Grossing #1 Movies Adjusted': '19', BOM Users' Grades: '270', 'Eleventh Weekends Adjusted': '40', 'Smallest Drops, 2,000+ theaters (Very Wide)': '178', 'Martin Lurther King 4-Day Holiday Weekends': '164', 'Tenth Weekends Adjusted': '27', 'All Time Worldwide': '451', 'Sixth Weekends': '129', 'Eighth Weekends Adjusted': '47', 'Rated R, Opening Weekends Adjusted': '154', 'Sixth Weekends Adjusted': '78', 'Yearly 1996': '4', 'Worldwide Yearly 1996': '9', 'Opening Weekends Adjusted': '656', 'Yearly Opening Weekends 1996': '17', 'Lowest Grossing #1 Movies': '1', 'Fourth Weekends': '146', 'Opening Weekends': '1,061', 'Twelfth Weekends Adjusted': '42', 'Consecutive Weekends At #1': '212', 'Most Weekends at #1 (non-consecutive)': '113', 'Smallest Drops, 2,500+ theaters (Saturation)': '111', 'Most Weekends in Top 5 (non-consecutive)': '54', 'Yearly (Wide) 1996': '4', 'All Time Domestic': '303', BOM Users' Grades (1996 Releases): '13', 'Smallest Drops, All Wide Releases': '713', 'Ninth Weekends Adjusted': '66', 'Ninth Weekends': '75', 'Opening Weekends Adjusted - Holiday': '141', 'Most Weekends in Top 10 (non-consecutive)': '120', 'Opening Weeks': '1,079', 'Consecutive Weekends In Top 5': '45', 'Slowest to $100 million': '162', 'Rated R Adjusted': '36', 'Eleventh Weekends': '43', 'Third Weekends Adjusted': '120', 'Tenth Weekends': '26', 'Eighth Weekends': '51', 'Fifth Weekends Adjusted': '136', 'Twelfth Weekends': '40', 'Yearly R Rated 1996': '1', 'Opening Weekends - Holiday': '190', 'Fourth Weekends Adjusted': '65', 'Best Picture Nomination Effect': '128', 'Rated R': '34', 'Highest All Time Rank (on May 20, 1997)': '48'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jersey Boys'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jerseyboys.htm"},
+					"ReleaseDate": {"S":"b'June 20, 2014'"},
+					"Genre": {"S":"b'Musical'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'$40 million'"},
+					"DomesticTotalGross": {"S":"b'$47,047,013'"},
+					"Runtime": {"S":"b'2 hrs. 14 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Clint Eastwood, Tim Headington, Graham King, Robert Lorenz, Tim Moore, Brett Ratner'"},
+					"Actor": {"S":"b'Christopher Walken'"},
+					"Director": {"S":"b'Clint Eastwood'"},
+					"Domestic": {"S":"b'$47,047,013'"},
+					"Worldwide": {"S":"b'$67,669,013'"},
+					"Foreign": {"S":"b'$20,622,000'"},
+					"WidestRelease": {"S":"b'2,905 theaters'"},
+					"CloseDate": {"S":"b'September 25, 2014'"},
+					"OpeningWeekend": {"S":"b'$13,319,371'"},
+					"InRelease": {"S":"b'98 days / 14 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Biopic - Music': '7', 'Musical': '24'}"},
+					"Franchise": {"S":"{Showdown: 'Mamma Mia!' Vs. 'Hairspray': '3'}"},
+					"Chart": {"S":"{'Smallest Drops, All Wide Releases': '2,125', 'Opening Weeks Adjusted': '1,944', 'All Time Domestic': '1,675', 'Independence Day Weekends': '187', 'Opening Weekends Adjusted': '2,093', 'Smallest Drops, 2,500+ theaters (Saturation)': '592', 'Opening Weeks': '1,294', 'Opening Weekends - June': '171', 'Smallest Drops, 2,000+ theaters (Very Wide)': '867', 'Opening Weekends': '1,407'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jersey Girl'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jerseygirl.htm"},
+					"ReleaseDate": {"S":"b'March 26, 2004'"},
+					"Genre": {"S":"b'Comedy / Drama'"},
+					"Distributor": {"S":"b'Miramax'"},
+					"ProductionBudget": {"S":"b'$35 million'"},
+					"DomesticTotalGross": {"S":"b'$25,268,157'"},
+					"Runtime": {"S":"b'1 hrs. 43 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Kevin Smith'"},
+					"Actor": {"S":"b'Will Smith*, Ben Affleck, Liv Tyler, Jennifer Lopez, Matt Damon*'"},
+					"Composer": {"S":"b'James L. Venable'"},
+					"Director": {"S":"b'Kevin Smith'"},
+					"Domestic": {"S":"b'$25,268,157'"},
+					"Worldwide": {"S":"b'$36,098,382'"},
+					"Foreign": {"S":"b'$10,830,225'"},
+					"WidestRelease": {"S":"b'1,821 theaters'"},
+					"CloseDate": {"S":"b'July 1, 2004'"},
+					"OpeningWeekend": {"S":"b'$8,319,171'"},
+					"InRelease": {"S":"b'98 days / 14 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Travelogue - New Jersey': '6', 'Comedy - Fish-Out-of-Water Father': '30'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2004': '94', 'All Time Domestic': '2,815', 'Opening Weeks Adjusted': '2,554', 'Yearly PG-13 Rated 2004': '49', 'Worldwide Yearly 2004': '105', 'Highest All Time Rank (on June 20, 2004)': '1554', 'Opening Weekends Adjusted': '2,455', 'Smallest Drops, All Wide Releases': '1,758', BOM Users' Grades (2004 Releases): '116', 'Yearly Opening Weekends 2004': '89', 'Opening Weeks': '2,301', 'Yearly (Wide) 2004': '94', 'Opening Weekends': '2,171', 'Yearly Opening Weekends (Wide) 2004': '92', 'Opening Weekends - March': '183'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jersey Guy'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jerseyguy.htm"},
+					"DomesticTotalasofMay.8,2003": {"S":"b'$4,268'"},
+					"ReleaseDate": {"S":"b'April 25, 2003'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Castle Hill'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$4,268'"},
+					"WidestRelease": {"S":"b'3 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,324'"},
+					"InRelease": {"S":"b'14 days / 2 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Travelogue - New Jersey': '25'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 2003': '180', 'All Time Domestic': '14,064', 'Highest All Time Rank (on May 8, 2003)': '5960', 'Yearly (Limited) 2003': '337', 'Yearly Opening Weekends 2003': '465', 'Yearly Opening Weekends (Limited) 2003': '336', 'Yearly 2003': '483'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Jerusalem'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=jerusalem.htm"},
+					"ReleaseDate": {"S":"b'September 13, 2013'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'National Geographic Entertainment'"},
+					"DomesticTotalasofMay.14,2015": {"S":"b'$8,020,721'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'0 hrs. 45 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$8,020,721'"},
+					"Worldwide": {"S":"b'$9,279,456'"},
+					"Foreign": {"S":"b'$1,258,735'"},
+					"WidestRelease": {"S":"b'33 theaters'"},
+					"InRelease": {"S":"b'588 days / 84 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': '251', 'Documentary': '27'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '4,754'}"}
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,627 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Godzilla (2014)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=godzilla2012.htm"},
+					"ReleaseDate": {"S":"b'May 16, 2014'"},
+					"Genre": {"S":"b'Sci-Fi Action'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'$160 million'"},
+					"DomesticTotalGross": {"S":"b'$200,676,069'"},
+					"Runtime": {"S":"b'2 hrs. 3 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Max Borenstein'"},
+					"Producer": {"S":"b'Jon Jashni, Mary Parent, Brian Rogers, Thomas Tull'"},
+					"Actor": {"S":"b'Aaron Johnson, Ken Watanabe, Elizabeth Olsen, Juliette Binoche, Sally Hawkins, David Strathairn, Bryan Cranston'"},
+					"Composer": {"S":"b'Alexandre Desplat'"},
+					"Director": {"S":"b'Gareth Edwards'"},
+					"Domestic": {"S":"b'$200,676,069'"},
+					"Worldwide": {"S":"b'$529,076,069'"},
+					"Foreign": {"S":"b'$328,400,000'"},
+					"WidestRelease": {"S":"b'3,952 theaters'"},
+					"CloseDate": {"S":"b'August 28, 2014'"},
+					"OpeningWeekend": {"S":"b'$93,188,384'"},
+					"InRelease": {"S":"b'105 days / 15 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': '58', 'Remake - Foreign Thrills': '1', 'Sci-Fi Remake': '3', 'CGI Star': '13', 'Disaster': '8', 'Creature Feature': '5', 'Remake - Asian': '1', 'IMAX (Feature-length)': '72'}"},
+					"Franchise": {"S":"{'Series: Godzilla and Kong Universe': '1', 'Series: Godzilla': '1', 'Showdown: Biggest 2014 Openers': '6', Showdown: 'Godzilla' Vs. 'World War Z' Vs. 'Dawn/Apes': '3', Showdown: 'Kong: Skull Island' v. 'Godzilla' (2014): '1', 'Brand: Legendary Pictures': '10'}"},
+					"Chart": {"S":"{'Top 3-Day Grosses': '51', 'Slowest to $200 million': '15', 'Biggest 2nd Weekend Drops': '178', 'Opening Weekends - May': '16', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '863', 'Top 8-Day Grosses': '72', 'Opening Weekends - Summer': '32', 'Fastest to $150 million': '77', 'Single Day Saturday Gross': '61', 'Memorial Day 4-Day Holiday Weekends': '37', 'Opening Weeks Adjusted': '101', 'Smallest Drops, 2,000+ theaters (Very Wide)': '2,213', 'Single Day Gross': '96', 'All Time Domestic': '176', 'All Time Worldwide': '154', 'Widest Opening Releases': '98', 'Rated PG-13, Opening Weekends Adjusted': '55', 'Single Day Friday Gross': '41', 'Second Weekends': '154', 'Opening Weekends Adjusted': '75', 'Single Day Sunday Gross': '79', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,585', 'Rated PG-13': '99', 'Top 5-Day Grosses': '66', 'Widest PG-13 Rated Releases': '61', 'Widest Releases': '106', 'Rated PG-13 Adjusted': '163', 'Opening Weekends': '50', 'Top 6-Day Grosses': '70', 'Worldwide Openings': '52', 'Rated PG-13, Opening Weekends': '39', 'Opening Day Gross': '46', 'Single Day Sunday Gross Adjusted': '125', 'Top 9-Day Grosses': '74', 'Smallest Drops, All Wide Releases': '4,246', 'Theater Averages - Wide Opening Weekends': '62', 'Opening Weekends Adjusted - May': '26', 'Single Day Saturday Gross Adjusted': '100', 'Top 10-Day Grosses': '76', 'Opening Weeks': '62', 'Slowest to $100 million': '574', 'Widest PG-13 Rated Openings': '58', 'Fastest to $100 million': '61', 'Opening Weekends Adjusted - Summer': '50', 'Friday to Saturday Drops on Opening Weekends': '190', 'Single Day Friday Gross Adjusted': '54', 'Theater Averages - Wide Opening Weekends Adjusted': '142', 'Top 4-Day Grosses': '60', 'Foreign Opening Weekends': '45', 'Theater Averages (Wide Releases) - All Time': '65', 'Theater Averages (Wide Releases) - All Time Adjusted': '169', 'Highest All Time Rank (on August 3, 2014)': '147', 'Top 7-Day Grosses': '71'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Godzilla (Original Japanese Version)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=godzilla04.htm"},
+					"ReleaseDate": {"S":"b'May 7, 2004'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Rialto'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$412,520'"},
+					"Runtime": {"S":"b'1 hrs. 38 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$412,520'"},
+					"WidestRelease": {"S":"b'6 theaters'"},
+					"CloseDate": {"S":"b'December 19, 2004'"},
+					"OpeningWeekend": {"S":"b'$38,030'"},
+					"InRelease": {"S":"b'217 days / 31 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"{'Series: Godzilla': '6'}"},
+					"Chart": {"S":"{'Highest All Time Rank (on August 19, 2004)': '5272', 'Yearly 2004': '263', 'Yearly (Limited) 2004': '110', 'Yearly Opening Weekends 2004': '265', 'All Time Domestic': '8,442', BOM Users' Grades (2004 Releases): '44', 'Yearly Opening Weekends (Limited) 2004': '127', 'Yearly Unrated Movies 2004': '31'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Godzilla 1985'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=godzilla1985.htm"},
+					"ReleaseDate": {"S":"b'August 23, 1985'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'New World'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$4,116,395'"},
+					"Runtime": {"S":"b'1 hrs. 27 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Composer": {"S":"b'Christopher Young'"},
+					"Domestic": {"S":"b'$4,116,395'"},
+					"WidestRelease": {"S":"b'235 theaters'"},
+					"OpeningWeekend": {"S":"b'$509,502'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Creature Feature': '67'}"},
+					"Franchise": {"S":"{'Series: Godzilla': '4'}"},
+					"Chart": {"S":"{'Yearly PG Rated 1985': '34', 'All Time Domestic': '5,632', 'Yearly Opening Weekends 1985': '121', BOM Users' Grades (1985 Releases): '69', 'Highest All Time Rank (on December 14, 1985)': '627', 'Yearly (Limited) 1985': '16', 'Yearly Opening Weekends (Limited) 1985': '17', 'Yearly 1985': '122'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Godzilla 2'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=godzilla2.htm"},
+					"ReleaseDate": {"S":"b'March 22, 2019'"},
+					"Genre": {"S":"b'Sci-Fi Action'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'CGI Star': 'n/a', 'IMAX (Feature-length)': 'n/a', 'Creature Feature': 'n/a'}"},
+					"Franchise": {"S":"{'Series: Godzilla': 'n/a', 'Brand: Legendary Pictures': 'n/a', 'Series: Godzilla and Kong Universe': 'n/a'}"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Godzilla 2000'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=godzilla2000.htm"},
+					"ReleaseDate": {"S":"b'August 18, 2000'"},
+					"Genre": {"S":"b'Sci-Fi Horror'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"ProductionBudget": {"S":"b'$13 million'"},
+					"DomesticTotalGross": {"S":"b'$10,037,390'"},
+					"Runtime": {"S":"b'1 hrs. 39 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$10,037,390'"},
+					"Worldwide": {"S":"b'$12,924,063'"},
+					"Foreign": {"S":"b'$2,886,673'"},
+					"WidestRelease": {"S":"b'2,111 theaters'"},
+					"OpeningWeekend": {"S":"b'$4,407,720'"},
+					"InRelease": {"S":"b'66 days / 9.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Creature Feature': '61'}"},
+					"Franchise": {"S":"{'Series: Godzilla': '3'}"},
+					"Chart": {"S":"{'Biggest 2nd Weekend Drops': '466', 'All Time Domestic': '4,462', 'Highest All Time Rank (on August 28, 2002)': '1963', 'Worldwide Yearly 2000': '136', 'Yearly (Wide) 2000': '126', 'Opening Weekends Adjusted': '3,400', 'Smallest Drops, All Wide Releases': '3,951', 'Yearly Opening Weekends (Wide) 2000': '115', 'Opening Weeks Adjusted': '3,413', 'Opening Weekends': '3,252', BOM Users' Grades (2000 Releases): '102', 'Yearly Opening Weekends 2000': '110', 'Worst Openings - Very Wide': '107', 'Smallest Drops, 2,000+ theaters (Very Wide)': '2,026', 'Opening Weeks': '3,292', 'Yearly 2000': '134', 'Yearly PG Rated 2000': '15', 'Worst Openings - Very Wide Adjusted': '197'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Godzilla vs. Kong'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=godzillavskong.htm"},
+					"ReleaseDate": {"S":"b'May 29, 2020'"},
+					"Genre": {"S":"b'Fantasy'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unknown'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"{'Series: Godzilla': 'n/a', 'Series: King Kong': 'n/a', 'Brand: Legendary Pictures': 'n/a', 'Series: Godzilla and Kong Universe': 'n/a'}"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Godzilla: The Japanese Original'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=godzillaoriginal.htm"},
+					"ReleaseDate": {"S":"b'April 18, 2014'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Rialto'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$150,191'"},
+					"Runtime": {"S":"b'1 hrs. 38 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$150,191'"},
+					"WidestRelease": {"S":"b'21 theaters'"},
+					"CloseDate": {"S":"b'August 14, 2014'"},
+					"OpeningWeekend": {"S":"b'$10,903'"},
+					"InRelease": {"S":"b'119 days / 17 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '9,804'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Gogol Bordello Non-Stop'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=gogolbordellononstop.htm"},
+					"ReleaseDate": {"S":"b'September 11, 2009'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'Lorber Films'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$5,532'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$5,532'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"CloseDate": {"S":"b'October 4, 2009'"},
+					"OpeningWeekend": {"S":"b'$2,793'"},
+					"InRelease": {"S":"b'28 days / 4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '1316'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Unrated Movies 2009': '160', 'All Time Domestic': '13,883', 'Yearly Opening Weekends 2009': '468', 'Yearly (Limited) 2009': '341', 'Yearly Opening Weekends (Limited) 2009': '329', 'Yearly 2009': '493'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bGoin' South"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=goinsouth.htm"},
+					"ReleaseDate": {"S":"b'October 6, 1978'"},
+					"Genre": {"S":"b'Western'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$7,435,671'"},
+					"Runtime": {"S":"b'1 hrs. 45 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'Charles Shyer'"},
+					"Actor": {"S":"b'Jack Nicholson, Danny DeVito'"},
+					"Domestic": {"S":"b'$7,435,671'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Western': '44'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '4,855'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Going All the Way'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=goingalltheway.htm"},
+					"ReleaseDate": {"S":"b'September 19, 1997'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Gramercy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$113,069'"},
+					"Runtime": {"S":"b'1 hrs. 43 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Tom Rosenberg'"},
+					"Actor": {"S":"b'Jeremy Davies, Ben Affleck, Rose McGowan, Rachel Weisz'"},
+					"Composer": {"S":"b'tomandandy'"},
+					"Director": {"S":"b'Mark Pellington'"},
+					"Domestic": {"S":"b'$113,069'"},
+					"WidestRelease": {"S":"b'17 theaters'"},
+					"CloseDate": {"S":"b'October 30, 1997'"},
+					"OpeningWeekend": {"S":"b'$20,796'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - R-Rated Youth': '112'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 1997': '82', 'Yearly Opening Weekends 1997': '220', 'All Time Domestic': '10,182', 'Yearly R Rated 1997': '138', 'Yearly (Limited) 1997': '86', 'Yearly 1997': '255', 'Highest All Time Rank (on October 28, 1997)': '3760'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Going Ape!'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=goingape.htm"},
+					"ReleaseDate": {"S":"b'April 10, 1981'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$5,504,218'"},
+					"Runtime": {"S":"b'1 hrs. 27 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Danny DeVito'"},
+					"Composer": {"S":"b'Elmer Bernstein'"},
+					"Domestic": {"S":"b'$5,504,218'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1981': '79', 'All Time Domestic': '5,288'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Going Attractions: The Definitive Story of the American Drive-in Movie'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=goingattractions.htm"},
+					"ReleaseDate": {"S":"b'June 7, 2013'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'Drive-in Doc LLC'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$52,458'"},
+					"Runtime": {"S":"b'1 hrs. 25 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$52,458'"},
+					"WidestRelease": {"S":"b'4 theaters'"},
+					"CloseDate": {"S":"b'August 7, 2014'"},
+					"InRelease": {"S":"b'140 days / 20 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Hollywood / Movies': '111', 'Documentary': '762'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '11,240'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Going Away'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=goingaway.htm"},
+					"ReleaseDate": {"S":"b'October 2, 2015'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Cohen Media Group'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$19,501'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Actor": {"S":"b'Louise Bourgoin, Dominique Sanda'"},
+					"Domestic": {"S":"b'$19,501'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"CloseDate": {"S":"b'October 15, 2015'"},
+					"OpeningWeekend": {"S":"b'$7,714'"},
+					"InRelease": {"S":"b'14 days / 2 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '12,568'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Going My Way'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=goingmyway.htm"},
+					"ReleaseDate": {"S":"b'May 3, 1944'"},
+					"Genre": {"S":"b'Comedy / Drama'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'2 hrs. 6 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Cinematographer": {"S":"b'Lionel Lindon'"},
+					"Writer": {"S":"b'Frank Butler , Frank Cavett , Leo McCarey'"},
+					"Producer": {"S":"b'Leo McCarey'"},
+					"Actor": {"S":"b'Bing Crosby, Barry Fitzgerald, Frank McHugh, James Brown, Gene Lockhart, Jean Heather, Rise Stevens'"},
+					"Director": {"S":"b'Leo McCarey'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Going Shopping'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=goingshopping.htm"},
+					"ReleaseDate": {"S":"b'September 30, 2005'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Rainbow Releasing'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$31,908'"},
+					"Runtime": {"S":"b'1 hrs. 46 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Director": {"S":"b'Henry Jaglom'"},
+					"Domestic": {"S":"b'$31,908'"},
+					"WidestRelease": {"S":"b'6 theaters'"},
+					"CloseDate": {"S":"b'December 15, 2005'"},
+					"OpeningWeekend": {"S":"b'$6,691'"},
+					"InRelease": {"S":"b'77 days / 11 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2005': '262', 'Yearly PG-13 Rated 2005': '115', 'Yearly 2005': '422', 'Yearly Opening Weekends (Limited) 2005': '262', 'Yearly Opening Weekends 2005': '401', 'All Time Domestic': '11,898'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Going Under'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=goingunder.htm"},
+					"ReleaseDate": {"S":"b'June 15, 2006'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Argot Pictures'"},
+					"ProductionBudget": {"S":"b'$50,000'"},
+					"DomesticTotalGross": {"S":"b'$3,917'"},
+					"Runtime": {"S":"b'1 hrs. 38 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$3,917'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"CloseDate": {"S":"b'June 22, 2006'"},
+					"OpeningWeekend": {"S":"b'$2,311'"},
+					"InRelease": {"S":"b'8 days / 1.1 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2006': '574', 'Yearly Unrated Movies 2006': '189', 'Yearly Opening Weekends 2006': '537', 'All Time Domestic': '14,117', 'Yearly (Limited) 2006': '399', 'Yearly Opening Weekends (Limited) 2006': '379'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Going Upriver: The Long War of John Kerry'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=goingupriver.htm"},
+					"ReleaseDate": {"S":"b'October 1, 2004'"},
+					"DomesticTotalasofNov.4,2004": {"S":"b'$614,138'"},
+					"Distributor": {"S":"b'ThinkFilm'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Runtime": {"S":"b'2 hrs. 10 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Composer": {"S":"b'Philip Glass'"},
+					"Domestic": {"S":"b'$614,138'"},
+					"WidestRelease": {"S":"b'163 theaters'"},
+					"OpeningWeekend": {"S":"b'$279,219'"},
+					"InRelease": {"S":"b'35 days / 5 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary - Political': '26', 'Documentary': '221'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2004': '242', 'Yearly (Limited) 2004': '90', 'Yearly PG-13 Rated 2004': '91', 'Yearly Opening Weekends 2004': '171', 'Yearly Opening Weekends (Limited) 2004': '33', 'All Time Domestic': '7,963'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Going in Style'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=goinginsty.htm"},
+					"ReleaseDate": {"S":"b'December 25, 1979'"},
+					"Genre": {"S":"b'Crime Comedy'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$26,869,286'"},
+					"Runtime": {"S":"b'2 hrs. 17 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Director": {"S":"b'Martin Brest'"},
+					"Domestic": {"S":"b'$26,869,286'"},
+					"WidestRelease": {"S":"b'731 theaters'"},
+					"\t\tOpeningWeekend": {"S":"b'$1,781,164'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Heist / Caper': '43'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weekends Adjusted': '3,630', 'All Time Domestic': '2,695', 'Highest All Time Rank (on January 1, 1982)': '191', 'Opening Weekends': '4,398'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Going in Style (2017)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=goinginsty2017.htm"},
+					"ReleaseDate": {"S":"b'April 7, 2017'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Warner Bros. (New Line)'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Theodore Melfi'"},
+					"Actor": {"S":"b'Alan Arkin, Michael Caine, Matt Dillon, Morgan Freeman, Joey King'"},
+					"Director": {"S":"b'Zach Braff'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Going the Distance'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=goingthedistance10.htm"},
+					"ReleaseDate": {"S":"b'September 3, 2010'"},
+					"Genre": {"S":"b'Romantic Comedy'"},
+					"Distributor": {"S":"b'Warner Bros. (New Line)'"},
+					"ProductionBudget": {"S":"b'$32 million'"},
+					"DomesticTotalGross": {"S":"b'$17,804,299'"},
+					"Runtime": {"S":"b'1 hrs. 37 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Geoff LaTulippe'"},
+					"Producer": {"S":"b'Jennifer Gibgot, Adam Shankman'"},
+					"Actor": {"S":"b'Drew Barrymore, Justin Long, Christina Applegate, Kristen Schaal, Ron Livingston, Charlie Day, Rob Riggle, Jason Sudeikis, Natalie Morales, Kelli Garner, Jim Gaffigan'"},
+					"Composer": {"S":"b'Mychael Danna'"},
+					"Director": {"S":"b'Nanette Burstein'"},
+					"Domestic": {"S":"b'$17,804,299'"},
+					"Worldwide": {"S":"b'$42,052,757'"},
+					"Foreign": {"S":"b'$24,248,458'"},
+					"WidestRelease": {"S":"b'3,030 theaters'"},
+					"CloseDate": {"S":"b'October 21, 2010'"},
+					"OpeningWeekend": {"S":"b'$6,884,964'"},
+					"InRelease": {"S":"b'49 days / 7 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Romantic Comedy': '205', 'Off-Screen Couples On-Screen': '29'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weekends - September': '182', 'Worst Openings - Super Saturated Adjusted': '18', 'Worst Openings - Saturated': '112', 'All Time Domestic': '3,439', 'Labor Day 4-Day Holiday Weekends': '97', 'Widest Opening Releases': '826', 'Sunday Share of Opening Weekends': '133', 'Worst Openings - Saturated Adjusted': '91', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '358', 'Labor Day 4-Day Holiday Weekend Openers': '26', 'Smallest Drops, All Wide Releases': '2,415', 'Widest Releases': '888', 'Opening Weeks Adjusted': '3,073', 'Widest R Rated Openings': '167', 'Smallest Drops, 2,500+ theaters (Saturation)': '717', 'Widest R Rated Releases': '186', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,034', 'Opening Weeks': '2,387', 'Worst Openings - Super Saturated': '18', 'Opening Weekends Adjusted': '3,240', 'Opening Weekends': '2,491'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Going the Distance (2004)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=goingthedistance.htm"},
+					"ReleaseDate": {"S":"b'August 20, 2004'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Odeon'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$1,230,897'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$1,230,897'"},
+					"Worldwide": {"S":"b'$1,230,897'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'153 theaters'"},
+					"OpeningWeekend": {"S":"b'$333,126'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2004': '208', 'Yearly (Limited) 2004': '57', 'Yearly Opening Weekends (Limited) 2004': '26', 'All Time Domestic': '7,071', 'Worldwide Yearly 2004': '251', 'Highest All Time Rank (on August 22, 2004)': '5327', 'Yearly R Rated 2004': '62', 'Yearly Opening Weekends 2004': '164'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Gold'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=gold.htm"},
+					"ReleaseDate": {"S":"b'January 27, 2017'"},
+					"Genre": {"S":"b'Adventure'"},
+					"Distributor": {"S":"b'Weinstein Company'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$7,227,038'"},
+					"Runtime": {"S":"b'2 hrs. 1 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Stephen Gaghan'"},
+					"Actor": {"S":"b'Matthew McConaughey, Edgar Ramirez, Bryce Dallas Howard, Toby Kebbell, Corey Stoll'"},
+					"Director": {"S":"b'Stephen Gaghan'"},
+					"Domestic": {"S":"b'$7,227,038'"},
+					"Worldwide": {"S":"b'$7,227,038'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'2,166 theaters'"},
+					"CloseDate": {"S":"b'March 9, 2017'"},
+					"OpeningWeekend": {"S":"b'$3,471,316'"},
+					"InRelease": {"S":"b'42 days / 6 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Biggest 2nd Weekend Drops': '469', 'All Time Domestic': '4,899', 'Biggest Theater Drops': '39', 'Opening Weekends Adjusted': '4,333', 'Smallest Drops, All Wide Releases': '3,948', 'Widest Opening Independent Releases': '154', 'Worst Opening Weekend Per-Theater Averages Adjusted': '151', 'Opening Weeks Adjusted': '4,260', 'Widest Independent Releases': '163', 'Worst Openings - Very Wide': '53', 'Smallest Drops, 2,000+ theaters (Very Wide)': '2,025', 'Opening Weeks': '3,596', 'Top Movies in the Past 365 Days': '139', 'Worst Openings - Very Wide Adjusted': '28', 'Opening Weekends': '3,647'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Gold Diggers in Paris'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=golddiggersinparis.htm"},
+					"ReleaseDate": {"S":"b'June 1, 1938'"},
+					"Genre": {"S":"b'Musical'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 37 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Writer": {"S":"b'Earl W. Baldwin, Warren Duff, Jerry Wald , Richard Macaulay , Maurice Leo , Jerry Horwin'"},
+					"Cinematographer": {"S":"b'Sol Polito'"},
+					"Actor": {"S":"b'Rudy Vallee, Rosemary Lane, Hugh Herbert, Allen Jenkins, Gloria Dickson, Melville Cooper, Mabel Todd, Fritz Feld, Curt Bois, Edward Brophy'"},
+					"Composer": {"S":"b'Harry Warren'"},
+					"Director": {"S":"b'Ray Enright'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Gold Diggers of 1933'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=golddiggers33.htm"},
+					"ReleaseDate": {"S":"b'May 27, 1933'"},
+					"Genre": {"S":"b'Musical'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 38 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Cinematographer": {"S":"b'Sol Polito'"},
+					"Writer": {"S":"b'Erwin S. Gelsey, James Seymour, David Boehm , Ben Markson , Avery Hopwood*'"},
+					"Producer": {"S":"b'Robert Lord, Jack L. Warner'"},
+					"Actor": {"S":"b'Warren William, Joan Blondell, Aline MacMahon, Ruby Keeler, Dick Powell, Guy Kibbee, Ned Sparks, Ginger Rogers'"},
+					"Director": {"S":"b'Mervyn LeRoy'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Gold Diggers of 1935'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=golddiggers35.htm"},
+					"ReleaseDate": {"S":"b'March 15, 1935'"},
+					"Genre": {"S":"b'Musical'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Writer": {"S":"b'Peter Milne, Manuel Seff, Robert Lord'"},
+					"Cinematographer": {"S":"b'George Barnes'"},
+					"Actor": {"S":"b'Dick Powell, Adolphe Menjou, Gloria Stuart, Alice Brady, Hugh Herbert, Glenda Farrell, Frank McHugh, Joseph Cawthorn, Grant Mitchell, Dorothy Dare'"},
+					"Director": {"S":"b'Busby Berkeley'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		}
+	]
+}

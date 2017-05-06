@@ -1,0 +1,632 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fat City'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fatcity.htm"},
+					"ReleaseDate": {"S":"b'July 27, 1972'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Columbia'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Jeff Bridges'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fat Girl'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fatgirl.htm"},
+					"ReleaseDate": {"S":"b'October 12, 2001'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Cowboy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$725,854'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$725,854'"},
+					"Worldwide": {"S":"b'$725,854'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'17 theaters'"},
+					"CloseDate": {"S":"b'March 27, 2003'"},
+					"OpeningWeekend": {"S":"b'$31,237'"},
+					"InRelease": {"S":"b'196 days / 28 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '509'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2001': '77', 'All Time Domestic': '7,754', 'Highest All Time Rank (on August 28, 2002)': '3526', 'Yearly 2001': '215', 'Yearly Opening Weekends 2001': '235', 'Worldwide Yearly 2001': '197', 'Yearly Opening Weekends (Limited) 2001': '107'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fat Girls'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fatgirls.htm"},
+					"ReleaseDate": {"S":"b'October 12, 2007'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Regent Releasing'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$11,204'"},
+					"Runtime": {"S":"b'1 hrs. 22 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$11,204'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"CloseDate": {"S":"b'January 31, 2008'"},
+					"InRelease": {"S":"b'98 days / 14 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Gay / Lesbian': '296'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 2007': '189', 'All Time Domestic': '13,228', 'Yearly (Limited) 2007': '348', 'Yearly 2007': '534'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fat Kid Rules the World'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fatkidrulestheworld.htm"},
+					"ReleaseDate": {"S":"b'October 5, 2012'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Outsider Films'"},
+					"ProductionBudget": {"S":"b'$750,000'"},
+					"DomesticTotalGross": {"S":"b'$41,457'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Director": {"S":"b'Matthew Lillard'"},
+					"Domestic": {"S":"b'$41,457'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"CloseDate": {"S":"b'October 11, 2012'"},
+					"OpeningWeekend": {"S":"b'$1,450'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '11,572'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fat Man and Little Boy'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fatmanandlittleboy.htm"},
+					"ReleaseDate": {"S":"b'October 20, 1989'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$3,563,162'"},
+					"Runtime": {"S":"b'2 hrs. 6 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Paul Newman, Bonnie Bedelia, John Cusack, Laura Dern, John C. McGinley, Natasha Richardson, Clark Gregg*'"},
+					"Composer": {"S":"b'Ennio Morricone'"},
+					"Domestic": {"S":"b'$3,563,162'"},
+					"WidestRelease": {"S":"b'843 theaters'"},
+					"OpeningWeekend": {"S":"b'$1,476,994'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'War - World War 2': '39'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '4,345', 'Yearly Opening Weekends 1989': '102', 'All Time Domestic': '5,814', 'Yearly 1989': '125', 'Yearly PG-13 Rated 1989': '35', 'Opening Weekends Adjusted': '4,374', 'Smallest Drops, All Wide Releases': '3,056', 'Yearly Opening Weekends (Wide) 1989': '106', 'Opening Weeks': '4,493', 'Highest All Time Rank (on November 10, 1989)': '1406', 'Yearly (Wide) 1989': '105', 'Opening Weekends': '4,514'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fatal Assistance'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fatalassistance.htm"},
+					"ReleaseDate": {"S":"b'February 28, 2014'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'Velvet Films'"},
+					"DomesticTotalasofMar.2,2014": {"S":"b'$3,000'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 39 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$3,000'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"OpeningWeekend": {"S":"b'$3,000'"},
+					"InRelease": {"S":"b'3 days / 0.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '1389'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '14,279'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fatal Attraction'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fatalattraction.htm"},
+					"ReleaseDate": {"S":"b'September 18, 1987'"},
+					"Genre": {"S":"b'Thriller'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$156,645,693'"},
+					"Runtime": {"S":"b'2 hrs. 3 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Sherry Lansing'"},
+					"Actor": {"S":"b'Michael Douglas, Glenn Close'"},
+					"Domestic": {"S":"b'$156,645,693'"},
+					"Worldwide": {"S":"b'$320,145,693'"},
+					"Foreign": {"S":"b'$163,500,000'"},
+					"WidestRelease": {"S":"b'1,401 theaters'"},
+					"CloseDate": {"S":"b'June 16, 1988'"},
+					"OpeningWeekend": {"S":"b'$7,602,740'"},
+					"Awards": {"S":"Nominated for Six Oscars."},
+					"GenreRank": {"S":"{'Thriller - Erotic': '1', 'Thriller - Psycho / Stalker / Blank from Hell': '1'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Wide) 1987': '2', 'Opening Weeks Adjusted': '1,621', 'Seventh Weekends': '70', 'Consecutive Weekends In Top 10': '24', 'Fifth Weekends': '185', 'Eleventh Weekends Adjusted': '12', 'Yearly Opening Weekends (Wide) 1987': '16', 'Opening Weekends - September': '168', 'Seventh Weekends Adjusted': '35', 'Yearly 1987': '2', 'All Time Worldwide': '363', 'Sixth Weekends': '66', 'Eighth Weekends Adjusted': '13', 'Sixth Weekends Adjusted': '28', 'Tenth Weekends Adjusted': '15', 'Opening Weekends Adjusted': '1,719', 'Slowest to $100 million': '73', 'Thanksgiving 3-day Weekends Adjusted': '160', 'Opening Weekends': '2,327', 'Twelfth Weekends Adjusted': '26', 'Consecutive Weekends At #1': '8', 'Most Weekends at #1 (non-consecutive)': '10', 'Most Weekends in Top 5 (non-consecutive)': '22', 'All Time Domestic': '290', 'Highest All Time Rank (on March 15, 1988)': '18', 'Best Picture Nomination Effect': '156', 'Smallest Drops, All Wide Releases': '182', 'Ninth Weekends Adjusted': '12', 'Ninth Weekends': '19', 'Fewest Theaters to Debut at #1': '3', 'Most Weekends in Top 10 (non-consecutive)': '19', 'All Time Adjusted': '181', 'Yearly R Rated 1987': '1', 'Opening Weeks': '2,252', 'Consecutive Weekends In Top 5': '16', 'Rated R': '32', 'Rated R Adjusted': '20', 'Eleventh Weekends': '12', BOM Users' Grades (1987 Releases): '21', 'Eighth Weekends': '23', 'Theater Averages - Wide Opening Weekends Adjusted': '200', 'Twelfth Weekends': '32', 'Post-Thanksgiving Weekend - Best Holds': '89', 'Tenth Weekends': '24', 'Fifth Weekends Adjusted': '69', 'Yearly Opening Weekends 1987': '15', 'Opening Weekends Adjusted - September': '97'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fatal Beauty'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fatalbeauty.htm"},
+					"ReleaseDate": {"S":"b'October 30, 1987'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'MGM'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$12,046,526'"},
+					"Runtime": {"S":"b'1 hrs. 44 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Whoopi Goldberg, Sam Elliott'"},
+					"Domestic": {"S":"b'$12,046,526'"},
+					"WidestRelease": {"S":"b'1,117 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,693,714'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Wide) 1987': '83', 'Opening Weeks Adjusted': '3,572', 'All Time Domestic': '4,164', 'Highest All Time Rank (on July 5, 1988)': '502', 'Opening Weekends Adjusted': '3,670', 'Smallest Drops, All Wide Releases': '418', 'Yearly Opening Weekends 1987': '76', 'Opening Weekends': '3,984', 'Yearly Opening Weekends (Wide) 1987': '84', 'Yearly R Rated 1987': '39', 'Opening Weeks': '3,908', 'Yearly 1987': '83'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fatal Instinct'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fatalinstinct.htm"},
+					"ReleaseDate": {"S":"b'October 29, 1993'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'MGM'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$7,839,327'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Pieter Jan Brugge'"},
+					"Cinematographer": {"S":"b'Gabriel Beristain'"},
+					"Domestic": {"S":"b'$7,839,327'"},
+					"WidestRelease": {"S":"b'1,886 theaters'"},
+					"OpeningWeekend": {"S":"b'$3,502,569'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - Spoof': '55'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on November 23, 1993)': '1527', 'Opening Weeks Adjusted': '3,340', 'Yearly Opening Weekends 1993': '94', 'All Time Domestic': '4,782', 'Yearly PG-13 Rated 1993': '35', 'Yearly 1993': '122', 'Opening Weekends Adjusted': '3,353', 'Smallest Drops, All Wide Releases': '1,646', 'Yearly (Wide) 1993': '112', 'Opening Weekends': '3,637', 'Yearly Opening Weekends (Wide) 1993': '103', 'Opening Weeks': '3,622', BOM Users' Grades (1993 Releases): '89'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fateless'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fateless.htm"},
+					"ReleaseDate": {"S":"b'January 6, 2006'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'ThinkFilm'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$196,857'"},
+					"Runtime": {"S":"b'2 hrs. 6 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Daniel Craig'"},
+					"Domestic": {"S":"b'$196,857'"},
+					"Worldwide": {"S":"b'$2,512,009'"},
+					"Foreign": {"S":"b'$2,315,152'"},
+					"WidestRelease": {"S":"b'9 theaters'"},
+					"CloseDate": {"S":"b'May 4, 2006'"},
+					"OpeningWeekend": {"S":"b'$12,680'"},
+					"InRelease": {"S":"b'119 days / 17 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '917'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2006': '331', 'Yearly R Rated 2006': '126', 'Yearly Opening Weekends 2006': '371', 'Worldwide Yearly 2006': '268', 'All Time Domestic': '9,454', 'Yearly (Limited) 2006': '156', 'Yearly Opening Weekends (Limited) 2006': '213'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Father Hood'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fatherhood.htm"},
+					"ReleaseDate": {"S":"b'August 27, 1993'"},
+					"Genre": {"S":"b'Crime Comedy'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$3,418,141'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Jeffrey Chernov'"},
+					"Actor": {"S":"b'Patrick Swayze, Halle Berry, Josh Lucas*'"},
+					"Domestic": {"S":"b'$3,418,141'"},
+					"WidestRelease": {"S":"b'643 theaters'"},
+					"OpeningWeekend": {"S":"b'$1,286,806'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '4,424', 'Yearly Opening Weekends 1993': '127', 'All Time Domestic': '5,856', 'Yearly PG-13 Rated 1993': '43', 'Yearly 1993': '152', 'Worst Openings - Wide Releases': '192', 'Opening Weekends Adjusted': '4,476', 'Yearly (Wide) 1993': '130', 'Opening Weekends': '4,592', 'Yearly Opening Weekends (Wide) 1993': '134', 'Highest All Time Rank (on September 14, 1993)': '1941', 'Opening Weeks': '4,534'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Father and Son'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fatherandson.htm"},
+					"ReleaseDate": {"S":"b'June 18, 2004'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Wellspring'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalasofSep.30,2004": {"S":"b'$39,291'"},
+					"Runtime": {"S":"b'1 hrs. 23 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$39,291'"},
+					"Worldwide": {"S":"b'$39,291'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'3 theaters'"},
+					"OpeningWeekend": {"S":"b'$4,541'"},
+					"InRelease": {"S":"b'105 days / 15 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1425'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2004': '422', 'Yearly (Limited) 2004': '269', 'Highest All Time Rank (on August 26, 2004)': '6215', 'Yearly Opening Weekends 2004': '456', 'All Time Domestic': '11,644', 'Worldwide Yearly 2004': '322', 'Yearly Opening Weekends (Limited) 2004': '318', 'Yearly Unrated Movies 2004': '108'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Father of My Children'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fatherofmychildren.htm"},
+					"ReleaseDate": {"S":"b'May 21, 2010'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'IFC'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$144,022'"},
+					"Runtime": {"S":"b'2 hrs. 0 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$144,022'"},
+					"Worldwide": {"S":"b'$479,282'"},
+					"Foreign": {"S":"b'$335,260'"},
+					"WidestRelease": {"S":"b'7 theaters'"},
+					"CloseDate": {"S":"b'July 1, 2010'"},
+					"OpeningWeekend": {"S":"b'$10,414'"},
+					"InRelease": {"S":"b'42 days / 6 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '9,864'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Father of the Bride'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fatherofthebride.htm"},
+					"ReleaseDate": {"S":"b'December 20, 1991'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$89,325,780'"},
+					"Runtime": {"S":"b'1 hrs. 45 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Producer": {"S":"b'Nancy Meyers'"},
+					"Actor": {"S":"b'Steve Martin, Diane Keaton, Kieran Culkin, Martin Short'"},
+					"Cinematographer": {"S":"b'John Lindley'"},
+					"Writer": {"S":"b'Nancy Meyers, Charles Shyer'"},
+					"Composer": {"S":"b'Alan Silvestri'"},
+					"Director": {"S":"b'Charles Shyer'"},
+					"Domestic": {"S":"b'$89,325,780'"},
+					"WidestRelease": {"S":"b'1,712 theaters'"},
+					"OpeningWeekend": {"S":"b'$7,031,146'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy Remake': '12', 'Wedding': '9'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Most Weekends in Top 5 (non-consecutive)': '142', 'Opening Weeks Adjusted': '1,291', 'Rated PG': '195', 'All Time Domestic': '758', 'Movies That Never #1 Adjusted': '62', 'Seventh Weekends Adjusted': '136', 'Tenth Weekends Adjusted': '146', 'Smallest Drops, All Wide Releases': '27', 'Yearly 1991': '9', BOM Users' Grades: '311', 'Yearly Opening Weekends 1991': '33', 'Eleventh Weekends Adjusted': '135', 'Opening Weeks': '1,795', 'Consecutive Weekends In Top 5': '141', 'Yearly Opening Weekends (Wide) 1991': '36', 'Rated PG Adjusted': '166', 'Eleventh Weekends': '169', BOM Users' Grades (1991 Releases): '8', 'Eighth Weekends Adjusted': '145', 'Highest All Time Rank (on March 17, 1992)': '102', 'Opening Weekends Adjusted - December': '166', 'Opening Weekends Adjusted': '2,009', 'Yearly PG Rated 1991': '2', 'Opening Weekends': '2,449', 'Tenth Weekends': '175', 'Yearly (Wide) 1991': '9'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Father of the Bride Part II'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fatherofthebridepart2.htm"},
+					"ReleaseDate": {"S":"b'December 8, 1995'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$76,594,107'"},
+					"Runtime": {"S":"b'1 hrs. 46 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Producer": {"S":"b'Nancy Meyers'"},
+					"Actor": {"S":"b'Steve Martin, Diane Keaton, Martin Short, Kieran Culkin'"},
+					"Cinematographer": {"S":"b'Elliot Davis'"},
+					"Writer": {"S":"b'Nancy Meyers, Charles Shyer'"},
+					"Composer": {"S":"b'Alan Silvestri'"},
+					"Director": {"S":"b'Charles Shyer'"},
+					"Domestic": {"S":"b'$76,594,107'"},
+					"WidestRelease": {"S":"b'2,148 theaters'"},
+					"OpeningWeekend": {"S":"b'$11,134,978'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Remake - Sequel to a Remake': '9', 'Pregnancy': '4', 'Comedy Remake': '14', 'Comedy - Sequel (Live Action)': '36'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Wide) 1995': '27', 'Opening Weeks Adjusted': '1,402', 'All Time Domestic': '931', 'Movies That Never #1 Adjusted': '110', 'Sixth Weekends Adjusted': '187', 'Yearly PG Rated 1995': '6', 'Opening Weekends Adjusted - December': '92', 'Opening Weekends - December': '130', 'Yearly (Wide) 1995': '16', 'Smallest Drops, All Wide Releases': '1,427', 'Yearly 1995': '17', 'Yearly Opening Weekends 1995': '25', 'Highest All Time Rank (on February 9, 1996)': '201', 'Opening Weekends Adjusted': '1,228', 'Opening Weeks': '1,872', 'Opening Weekends': '1,696', BOM Users' Grades (1995 Releases): '48'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bFather's Day"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fathersday.htm"},
+					"ReleaseDate": {"S":"b'May 9, 1997'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$28,598,376'"},
+					"Runtime": {"S":"b'1 hrs. 39 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Joe Medjuck, Ivan Reitman, Joel Silver'"},
+					"Actor": {"S":"b'Robin Williams, Billy Crystal, Jared Harris*, Mel Gibson*'"},
+					"Composer": {"S":"b'James Newton Howard'"},
+					"Director": {"S":"b'Ivan Reitman'"},
+					"Domestic": {"S":"b'$28,598,376'"},
+					"WidestRelease": {"S":"b'2,507 theaters'"},
+					"OpeningWeekend": {"S":"b'$8,776,159'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Remake - French': '16', 'Comedy - Fish-Out-of-Water Father': '29'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{BOM Users' Grades (1997 Releases): '113', 'Highest All Time Rank (on June 13, 1997)': '834', 'Opening Weeks Adjusted': '1,905', 'Opening Weekends - May': '164', 'Yearly 1997': '73', 'Yearly (Wide) 1997': '73', 'Opening Weekends Adjusted - May': '153', 'Yearly Opening Weekends (Wide) 1997': '63', 'Yearly PG-13 Rated 1997': '27', 'Opening Weekends Adjusted': '1,749', 'Smallest Drops, All Wide Releases': '1,097', 'Yearly Opening Weekends 1997': '60', 'Opening Weekends': '2,098', 'Memorial Day 4-Day Holiday Weekends': '178', 'Smallest Drops, 2,000+ theaters (Very Wide)': '337', 'Opening Weeks': '2,238', 'All Time Domestic': '2,598'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fathers &amp; Sons'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fathersandsons.htm"},
+					"ReleaseDate": {"S":"b'November 6, 1992'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Pacific Films'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$6,960'"},
+					"Runtime": {"S":"b'1 hrs. 39 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Jon Kilik'"},
+					"Actor": {"S":"b'Jeff Goldblum, Famke Janssen, Samuel L. Jackson*'"},
+					"Domestic": {"S":"b'$6,960'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly PG-13 Rated 1992': '58', 'Yearly 1992': '231', 'All Time Domestic': '13,697'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fathers and Daughters'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fathersanddaughters.htm"},
+					"ReleaseDate": {"S":"b'July 8, 2016'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Independent'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 56 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Russell Crowe, Jane Fonda, Bruce Greenwood, Diane Kruger, Aaron Paul, Amanda Seyfried, Octavia Spencer, Quvenzhane Wallis'"},
+					"Director": {"S":"b'Gabriele Muccino'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fatima'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fatima.htm"},
+					"ReleaseDate": {"S":"b'August 26, 2016'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Kino Lorber'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$50,105'"},
+					"Runtime": {"S":"b'1 hrs. 19 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$50,105'"},
+					"WidestRelease": {"S":"b'4 theaters'"},
+					"CloseDate": {"S":"b'November 17, 2016'"},
+					"OpeningWeekend": {"S":"b'$6,221'"},
+					"InRelease": {"S":"b'84 days / 12 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1357'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Top Movies in the Past 365 Days': '440', 'All Time Domestic': '11,316'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fatso'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fatso.htm"},
+					"ReleaseDate": {"S":"b'February 1, 1980'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$7,653,061'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Anne Bancroft'"},
+					"Domestic": {"S":"b'$7,653,061'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1980': '70', 'All Time Domestic': '4,818'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Faust'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=faust.htm"},
+					"ReleaseDate": {"S":"b'November 15, 2013'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Leisure Time'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$58,132'"},
+					"Runtime": {"S":"b'2 hrs. 14 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$58,132'"},
+					"WidestRelease": {"S":"b'6 theaters'"},
+					"CloseDate": {"S":"b'May 1, 2014'"},
+					"OpeningWeekend": {"S":"b'$10,030'"},
+					"InRelease": {"S":"b'133 days / 19 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1304'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '11,086'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Favela Rising'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=favelarising.htm"},
+					"ReleaseDate": {"S":"b'June 2, 2006'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'Mochary Films'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$19,781'"},
+					"Runtime": {"S":"b'1 hrs. 22 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$19,781'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"CloseDate": {"S":"b'August 24, 2006'"},
+					"OpeningWeekend": {"S":"b'$7,768'"},
+					"InRelease": {"S":"b'77 days / 11 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '1037'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2006': '495', 'Yearly Unrated Movies 2006': '136', 'Yearly Opening Weekends 2006': '426', 'All Time Domestic': '12,550', 'Yearly (Limited) 2006': '320', 'Yearly Opening Weekends (Limited) 2006': '268'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fay Grim'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=faygrim.htm"},
+					"ReleaseDate": {"S":"b'May 18, 2007'"},
+					"Genre": {"S":"b'Drama / Thriller'"},
+					"Distributor": {"S":"b'Magnolia'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$126,714'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Ted Hope'"},
+					"Actor": {"S":"b'Parker Posey, Jeff Goldblum'"},
+					"Director": {"S":"b'Hal Hartley'"},
+					"Domestic": {"S":"b'$126,714'"},
+					"Worldwide": {"S":"b'$191,498'"},
+					"Foreign": {"S":"b'$64,784'"},
+					"WidestRelease": {"S":"b'28 theaters'"},
+					"CloseDate": {"S":"b'June 14, 2007'"},
+					"OpeningWeekend": {"S":"b'$61,817'"},
+					"InRelease": {"S":"b'28 days / 4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Worldwide Yearly 2007': '389', 'Yearly Opening Weekends (Limited) 2007': '99', 'Yearly R Rated 2007': '137', 'Yearly Opening Weekends 2007': '266', 'Yearly 2007': '356', 'Yearly (Limited) 2007': '170', 'All Time Domestic': '10,039'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fear'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fear.htm"},
+					"ReleaseDate": {"S":"b'April 12, 1996'"},
+					"Genre": {"S":"b'Thriller'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$20,831,000'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Cinematographer": {"S":"b'Thomas Kloss'"},
+					"Producer": {"S":"b'Brian Grazer'"},
+					"Actor": {"S":"b'Mark Wahlberg, Reese Witherspoon'"},
+					"Composer": {"S":"b'Carter Burwell'"},
+					"Director": {"S":"b'James Foley'"},
+					"Domestic": {"S":"b'$20,831,000'"},
+					"WidestRelease": {"S":"b'1,615 theaters'"},
+					"OpeningWeekend": {"S":"b'$6,312,240'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Pop Star Debuts': '28', 'Thriller - Psycho / Stalker / Blank from Hell': '21'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 1996': '70', 'Opening Weekends Adjusted - April': '167', 'Yearly (Wide) 1996': '82', 'All Time Domestic': '3,161', BOM Users' Grades (1996 Releases): '69', 'Yearly Opening Weekends (Wide) 1996': '72', 'Highest All Time Rank (on May 17, 1996)': '1035', 'Opening Weekends - April': '198', 'Yearly R Rated 1996': '30', 'Smallest Drops, All Wide Releases': '1,701', 'Opening Weeks Adjusted': '2,403', 'Opening Weekends': '2,614', 'Opening Weeks': '2,712', 'Yearly 1996': '80', 'Opening Weekends Adjusted': '2,326'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fear and Loathing in Las Vegas'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fearandloathinginlasvegas.htm"},
+					"ReleaseDate": {"S":"b'May 22, 1998'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'$18.5 million'"},
+					"DomesticTotalGross": {"S":"b'$10,680,275'"},
+					"Runtime": {"S":"b'1 hrs. 58 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Terry Gilliam'"},
+					"Actor": {"S":"b'Johnny Depp, Benicio Del Toro, Christina Ricci, Tobey Maguire*, Cameron Diaz*'"},
+					"Composer": {"S":"b'Michael Kamen'"},
+					"Director": {"S":"b'Terry Gilliam'"},
+					"Domestic": {"S":"b'$10,680,275'"},
+					"WidestRelease": {"S":"b'1,130 theaters'"},
+					"OpeningWeekend": {"S":"b'$3,338,590'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Travelogue - Las Vegas': '20'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on June 12, 1998)': '1852', BOM Users' Grades (1998 Releases): '39', 'Yearly R Rated 1998': '54', 'All Time Domestic': '4,345', 'Yearly 1998': '121', 'Yearly Opening Weekends (Wide) 1998': '117', 'Opening Weekends Adjusted': '3,625', 'Smallest Drops, All Wide Releases': '2,664', 'Opening Weeks Adjusted': '3,289', 'Opening Weekends': '3,706', 'Memorial Day 4-Day Holiday Weekends': '186', 'Memorial Day 4-Day Holiday Weekend Openers': '76', 'Opening Weeks': '3,376', 'Yearly (Wide) 1998': '111', 'Yearly Opening Weekends 1998': '112'}"}
+				}
+			}
+		}
+	]
+}

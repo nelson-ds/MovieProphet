@@ -1,0 +1,634 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kicking It'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kickingit.htm"},
+					"ReleaseDate": {"S":"b'June 13, 2008'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'Liberation Entertainment'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$13,266'"},
+					"Runtime": {"S":"b'1 hrs. 38 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$13,266'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"CloseDate": {"S":"b'July 6, 2008'"},
+					"OpeningWeekend": {"S":"b'$2,219'"},
+					"InRelease": {"S":"b'28 days / 4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sports - Soccer': '24', 'Documentary': '1128'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '13,027', 'Yearly (Limited) 2008': '337', 'Yearly Opening Weekends 2008': '549', 'Yearly Unrated Movies 2008': '152', 'Yearly 2008': '510', 'Yearly Opening Weekends (Limited) 2008': '397'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kicking and Screaming'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kickingandscreaming95.htm"},
+					"ReleaseDate": {"S":"b'October 6, 1995'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Trimark'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$718,490'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Noah Baumbach'"},
+					"Actor": {"S":"b'Parker Posey'"},
+					"Director": {"S":"b'Noah Baumbach'"},
+					"Domestic": {"S":"b'$718,490'"},
+					"WidestRelease": {"S":"b'26 theaters'"},
+					"CloseDate": {"S":"b'April 11, 1996'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Twentysomething': '21', 'Slacker / Stoner': '55', 'Comedy - College': '47'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1995': '211', 'Highest All Time Rank (on December 5, 1995)': '3009', 'Yearly Opening Weekends 1995': '217', 'All Time Domestic': '7,767', 'Yearly Opening Weekends (Limited) 1995': '79', 'Yearly (Limited) 1995': '44', 'Yearly R Rated 1995': '114'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kicks'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kicks.htm"},
+					"ReleaseDate": {"S":"b'September 9, 2016'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Focus World'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$150,191'"},
+					"Runtime": {"S":"b'1 hrs. 20 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$150,191'"},
+					"WidestRelease": {"S":"b'65 theaters'"},
+					"CloseDate": {"S":"b'September 29, 2016'"},
+					"OpeningWeekend": {"S":"b'$32,111'"},
+					"InRelease": {"S":"b'21 days / 3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Top Movies in the Past 365 Days': '348', 'All Time Domestic': '9,805'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kid Cannabis'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kidcannabis.htm"},
+					"ReleaseDate": {"S":"b'April 18, 2014'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Well Go USA'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$5,565'"},
+					"Runtime": {"S":"b'1 hrs. 45 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Actor": {"S":"b'Kenny Wormald, Ron Perlman, John C. McGinley'"},
+					"Domestic": {"S":"b'$5,565'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"CloseDate": {"S":"b'April 20, 2014'"},
+					"OpeningWeekend": {"S":"b'$5,565'"},
+					"InRelease": {"S":"b'3 days / 0.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '13,880'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kid Galahad'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kidgalahad.htm"},
+					"ReleaseDate": {"S":"b'August 29, 1962'"},
+					"Genre": {"S":"b'Sports Drama'"},
+					"Distributor": {"S":"b'United Artists'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Producer": {"S":"b'David Weisbart'"},
+					"Actor": {"S":"b'Elvis Presley, Gig Young, Lola Albright, Joan Blackman, Charles Bronson'"},
+					"Cinematographer": {"S":"b'Burnett Guffey'"},
+					"Writer": {"S":"b'William Fay, Francis Wallace'"},
+					"Composer": {"S":"b'Jeff Alexander'"},
+					"Director": {"S":"b'Phil Karlson'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kid Monk Baroni'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kidmonkbaroni.htm"},
+					"ReleaseDate": {"S":"b'May 1, 1952'"},
+					"Genre": {"S":"b'Sports Drama'"},
+					"Distributor": {"S":"b'Realart Pictures Inc.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 19 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Producer": {"S":"b'Jack Broder'"},
+					"Actor": {"S":"b'Richard Rober, Bruce Cabot, Allene Roberts, Mona Knox, Leonard Nimoy'"},
+					"Cinematographer": {"S":"b'Charles Van Enger'"},
+					"Writer": {"S":"b'Aben Kandel'"},
+					"Composer": {"S":"b'Herschel Burke Gilbert'"},
+					"Director": {"S":"b'Harold D. Schuster'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kid With a Bike'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kidwithabike.htm"},
+					"ReleaseDate": {"S":"b'March 16, 2012'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'IFC'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$1,470,000'"},
+					"Runtime": {"S":"b'1 hrs. 27 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$1,470,000'"},
+					"Worldwide": {"S":"b'$2,504,775'"},
+					"Foreign": {"S":"b'$1,034,775'"},
+					"WidestRelease": {"S":"b'86 theaters'"},
+					"CloseDate": {"S":"b'June 14, 2012'"},
+					"OpeningWeekend": {"S":"b'$45,933'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '292'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '6,847'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kidnap'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kidnap08.htm"},
+					"ReleaseDate": {"S":"b'October 2, 2008'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Studio 18'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'n/a'"},
+					"Worldwide": {"S":"b'$7,601,003'"},
+					"Foreign": {"S":"b'$7,601,003'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '2024'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Worldwide Yearly 2008': '218'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kidnap (2016)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kidnap2015.htm"},
+					"ReleaseDate": {"S":"b'TBD'"},
+					"Genre": {"S":"b'Thriller'"},
+					"Distributor": {"S":"b'Relativity'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Producer": {"S":"b'Halle Berry, Lorenzo di Bonaventura'"},
+					"Actor": {"S":"b'Halle Berry'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Drama - Kidnapping': 'n/a'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kidnapping of Michel Houellebecq'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kidnappingofmichelhouellebecq.htm"},
+					"ReleaseDate": {"S":"b'March 25, 2015'"},
+					"Genre": {"S":"b'Comedy Thriller'"},
+					"Distributor": {"S":"b'Kino Lorber'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$11,546'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$11,546'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"CloseDate": {"S":"b'June 28, 2015'"},
+					"InRelease": {"S":"b'89 days / 12.7 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '13,188'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kids'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kids.htm"},
+					"ReleaseDate": {"S":"b'July 21, 1995'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Miramax'"},
+					"ProductionBudget": {"S":"b'$1.5 million'"},
+					"DomesticTotalGross": {"S":"b'$7,412,216'"},
+					"Runtime": {"S":"b'1 hrs. 31 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Producer": {"S":"b'Cathy Konrad, Gus Van Sant'"},
+					"Actor": {"S":"b'Rosario Dawson, Chloe Sevigny'"},
+					"Domestic": {"S":"b'$7,412,216'"},
+					"WidestRelease": {"S":"b'187 theaters'"},
+					"OpeningWeekend": {"S":"b'$85,709'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Controversy': '34'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1995': '133', 'Theater Averages - All Time Adjusted': '114', 'Yearly Opening Weekends 1995': '178', 'Theater Averages - Opening Weekends': '158', 'All Time Domestic': '4,859', 'Theater Averages - Opening Weekends Adjusted': '86', 'Yearly Opening Weekends (Limited) 1995': '40', 'Highest All Time Rank (on September 12, 1995)': '1780', 'Yearly (Limited) 1995': '8', BOM Users' Grades (1995 Releases): '82'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kids For Cash'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kidsforcash.htm"},
+					"ReleaseDate": {"S":"b'February 7, 2014'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'Paladin'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$143,178'"},
+					"Runtime": {"S":"b'1 hrs. 42 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$143,178'"},
+					"WidestRelease": {"S":"b'12 theaters'"},
+					"CloseDate": {"S":"b'July 17, 2014'"},
+					"OpeningWeekend": {"S":"b'$36,639'"},
+					"InRelease": {"S":"b'112 days / 16 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '497'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '9,874'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kids in America'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kidsinamerica.htm"},
+					"ReleaseDate": {"S":"b'October 21, 2005'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Slowhand Cinema'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$537,667'"},
+					"Runtime": {"S":"b'1 hrs. 31 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$537,667'"},
+					"WidestRelease": {"S":"b'701 theaters'"},
+					"CloseDate": {"S":"b'October 27, 2005'"},
+					"OpeningWeekend": {"S":"b'$440,228'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Worst Opening Weekend Per-Theater Averages': '33', 'Opening Weeks Adjusted': '4,707', 'Yearly Opening Weekends (Wide) 2005': '154', 'Worst Opening Weekend Per-Theater Averages Adjusted': '43', 'Worst Openings - Wide Releases': '17', 'All Time Domestic': '8,139', 'Yearly Opening Weekends 2005': '157', 'Yearly (Wide) 2005': '154', 'Yearly PG-13 Rated 2005': '97', 'Yearly 2005': '250', 'Opening Weekends Adjusted': '4,761', 'Opening Weeks': '4,712', 'Worst Openings - Wide Releases Adjusted': '24', 'Opening Weekends': '4,768'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kids in the Hall: Brain Candy'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kidsinthehallbraincandy.htm"},
+					"ReleaseDate": {"S":"b'April 12, 1996'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$2,654,308'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Lorne Michaels, Tom Rosenberg'"},
+					"Actor": {"S":"b'Brendan Fraser*'"},
+					"Domestic": {"S":"b'$2,654,308'"},
+					"WidestRelease": {"S":"b'413 theaters'"},
+					"OpeningWeekend": {"S":"b'$770,280'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'TV Adaptation (Live Action)': '85'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 1996': '21', 'All Time Domestic': '6,145', 'Yearly Opening Weekends (Limited) 1996': '6', BOM Users' Grades (1996 Releases): '85', 'Highest All Time Rank (on May 3, 1996)': '2487', 'Yearly Opening Weekends 1996': '146', 'Yearly 1996': '173', 'Yearly R Rated 1996': '82'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kika'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kika.htm"},
+					"ReleaseDate": {"S":"b'May 6, 1994'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'October'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$2,019,581'"},
+					"Runtime": {"S":"b'1 hrs. 54 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Writer": {"S":"b'Pedro Almodovar'"},
+					"Director": {"S":"b'Pedro Almodovar'"},
+					"Domestic": {"S":"b'$2,019,581'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '219'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '6,491', 'Yearly 1994': '173'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kiki, Love to Love'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kiki,lovetolove.htm"},
+					"ReleaseDate": {"S":"b'November 11, 2016'"},
+					"DomesticTotalasofDec.22,2016": {"S":"b'$12,450'"},
+					"Distributor": {"S":"b'Strand'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Runtime": {"S":"b'1 hrs. 42 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Actor": {"S":"b'Keanu Reeves*'"},
+					"Domestic": {"S":"b'$12,450'"},
+					"Worldwide": {"S":"b'$12,450'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'3 theaters'"},
+					"OpeningWeekend": {"S":"b'$3,954'"},
+					"InRelease": {"S":"b'42 days / 6 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1702'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Top Movies in the Past 365 Days': '588', 'All Time Domestic': '13,095'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kikujiro'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kikujiro.htm"},
+					"ReleaseDate": {"S":"b'May 26, 2000'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Sony Classics'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$200,920'"},
+					"Runtime": {"S":"b'2 hrs. 1 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$200,920'"},
+					"WidestRelease": {"S":"b'4 theaters'"},
+					"CloseDate": {"S":"b'August 17, 2000'"},
+					"OpeningWeekend": {"S":"b'$28,079'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '911'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '9,426', 'Yearly (Limited) 2000': '134', 'Yearly Opening Weekends 2000': '270', 'Yearly Opening Weekends (Limited) 2000': '137', 'Yearly 2000': '282', 'Yearly PG-13 Rated 2000': '73'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kill Bill Vol. 1'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=killbill.htm"},
+					"ReleaseDate": {"S":"b'October 10, 2003'"},
+					"Genre": {"S":"b'Action'"},
+					"Distributor": {"S":"b'Miramax'"},
+					"ProductionBudget": {"S":"b'$30 million'"},
+					"DomesticTotalGross": {"S":"b'$70,099,045'"},
+					"Runtime": {"S":"b'1 hrs. 50 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Quentin Tarantino'"},
+					"Producer": {"S":"b'Lawrence Bender'"},
+					"Actor": {"S":"b'Uma Thurman, Lucy Liu, Vivica A. Fox, Daryl Hannah'"},
+					"Director": {"S":"b'Quentin Tarantino'"},
+					"Domestic": {"S":"b'$70,099,045'"},
+					"Worldwide": {"S":"b'$180,949,045'"},
+					"Foreign": {"S":"b'$110,850,000'"},
+					"WidestRelease": {"S":"b'3,102 theaters'"},
+					"CloseDate": {"S":"b'May 27, 2004'"},
+					"OpeningWeekend": {"S":"b'$22,089,322'"},
+					"InRelease": {"S":"b'231 days / 33 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Hitman / Assassin': '12', 'Action - Wire-Fu': '8', 'Action - Martial Arts': '12', 'Revenge': '20', 'Travelogue - Japan': '5', 'Action Heroine': '20'}"},
+					"Franchise": {"S":"{'Showdown: Kill Bill Showdown': '1', Showdown: Murder to the 'Max: '2', Showdown: 'Inglourious' Face-Off: '6'}"},
+					"Chart": {"S":"{'Opening Weekends - Fall': '74', 'Opening Weekends - October': '42', 'Opening Weeks Adjusted': '712', 'All Time Domestic': '1,062', 'Rated R, Opening Weekends': '182', 'Opening Weekends Adjusted - October': '30', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '325', 'Smallest Drops, All Wide Releases': '2,282', 'Yearly R Rated 2003': '12', BOM Users' Grades: '164', 'Worldwide Yearly 2003': '26', 'Widest R Rated Releases': '158', 'Opening Weekends Adjusted - Fall': '53', 'Yearly Opening Weekends 2003': '34', 'Opening Weeks': '743', 'Smallest Drops, 2,000+ theaters (Very Wide)': '960', BOM Users' Grades (2003 Releases): '10', 'Yearly 2003': '40', 'Widest Opening Releases': '728', 'Rated R, Opening Weekends Adjusted': '177', 'Yearly (Wide) 2003': '41', 'Opening Weekends Adjusted': '721', 'Widest R Rated Openings': '133', 'Highest All Time Rank (on January 23, 2004)': '486', 'Yearly Opening Weekends (Wide) 2003': '34', 'Widest Releases': '798', 'Opening Weekends': '757', 'Smallest Drops, 2,500+ theaters (Saturation)': '658'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kill Bill Vol. 2'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=killbill2.htm"},
+					"ReleaseDate": {"S":"b'April 16, 2004'"},
+					"Genre": {"S":"b'Action'"},
+					"Distributor": {"S":"b'Miramax'"},
+					"ProductionBudget": {"S":"b'$30 million'"},
+					"DomesticTotalGross": {"S":"b'$66,208,183'"},
+					"Runtime": {"S":"b'2 hrs. 0 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Quentin Tarantino'"},
+					"Producer": {"S":"b'Lawrence Bender'"},
+					"Actor": {"S":"b'Samuel L. Jackson*, Uma Thurman'"},
+					"Director": {"S":"b'Quentin Tarantino'"},
+					"Domestic": {"S":"b'$66,208,183'"},
+					"Worldwide": {"S":"b'$152,159,461'"},
+					"Foreign": {"S":"b'$85,951,278'"},
+					"WidestRelease": {"S":"b'3,073 theaters'"},
+					"CloseDate": {"S":"b'August 26, 2004'"},
+					"OpeningWeekend": {"S":"b'$25,104,949'"},
+					"InRelease": {"S":"b'133 days / 19 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Revenge': '21', 'Hitman / Assassin': '14', 'Action Heroine': '21', 'Action - Wire-Fu': '9', 'Action - Martial Arts': '13'}"},
+					"Franchise": {"S":"{'Showdown: Kill Bill Showdown': '2', Showdown: Murder to the 'Max: '3'}"},
+					"Chart": {"S":"{'Highest All Time Rank (on July 5, 2004)': '540', 'Yearly 2004': '44', 'Opening Weekends Adjusted - April': '21', 'Opening Weeks Adjusted': '686', 'All Time Domestic': '1,131', 'Rated R, Opening Weekends': '142', 'Worldwide Yearly 2004': '37', 'Friday Share of Opening Weekends': '122', 'Smallest Drops, All Wide Releases': '3,801', BOM Users' Grades: '212', 'Opening Weekends Adjusted - Spring': '72', 'Widest R Rated Releases': '165', 'Yearly Opening Weekends 2004': '27', 'Opening Weekends - Spring': '77', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,921', 'Opening Weeks': '680', 'Yearly Opening Weekends (Wide) 2004': '27', 'Rated R, Opening Weekends Adjusted': '133', 'Friday to Saturday Drops on Opening Weekends': '112', 'Opening Weekends - April': '24', 'Opening Weekends Adjusted': '606', BOM Users' Grades (2004 Releases): '24', 'Opening Weekends': '623', 'Widest Releases': '830', 'Yearly (Wide) 2004': '43', 'Yearly R Rated 2004': '7', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,373'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kill Command'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=killcommand.htm"},
+					"ReleaseDate": {"S":"b'November 25, 2016'"},
+					"Genre": {"S":"b'Sci-Fi Action'"},
+					"Distributor": {"S":"b'Independent'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 39 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kill List'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=killlist.htm"},
+					"ReleaseDate": {"S":"b'February 3, 2012'"},
+					"Genre": {"S":"b'Horror'"},
+					"Distributor": {"S":"b'IFC'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$29,063'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$29,063'"},
+					"Worldwide": {"S":"b'$171,760'"},
+					"Foreign": {"S":"b'$142,697'"},
+					"WidestRelease": {"S":"b'10 theaters'"},
+					"CloseDate": {"S":"b'March 8, 2012'"},
+					"OpeningWeekend": {"S":"b'$9,838'"},
+					"InRelease": {"S":"b'35 days / 5 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Hitman / Assassin': '73'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '12,042'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kill Me Again'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=killmeagain.htm"},
+					"ReleaseDate": {"S":"b'October 27, 1989'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Interstar'"},
+					"ProductionBudget": {"S":"b'$4 million'"},
+					"DomesticTotalGross": {"S":"b'$283,694'"},
+					"Runtime": {"S":"b'1 hrs. 34 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Steve Golin'"},
+					"Actor": {"S":"b'Val Kilmer'"},
+					"Director": {"S":"b'John Dahl'"},
+					"Domestic": {"S":"b'$283,694'"},
+					"WidestRelease": {"S":"b'221 theaters'"},
+					"OpeningWeekend": {"S":"b'$66,013'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Off-Screen Couples On-Screen': '50', 'Neo Noir': '56'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 1989': '67', 'Yearly Opening Weekends (Limited) 1989': '54', 'All Time Domestic': '8,950', 'Yearly 1989': '201', 'Yearly Opening Weekends 1989': '157', 'Highest All Time Rank (on November 10, 1989)': '1968', 'Yearly R Rated 1989': '101'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kill Me Three Times'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=killmethreetimes.htm"},
+					"ReleaseDate": {"S":"b'April 10, 2015'"},
+					"Genre": {"S":"b'Action Thriller'"},
+					"Distributor": {"S":"b'Magnolia'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$24,296'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Simon Pegg, Teresa Palmer, Alice Braga'"},
+					"Domestic": {"S":"b'$24,296'"},
+					"Worldwide": {"S":"b'$24,296'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'16 theaters'"},
+					"CloseDate": {"S":"b'May 14, 2015'"},
+					"OpeningWeekend": {"S":"b'$15,477'"},
+					"InRelease": {"S":"b'35 days / 5 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '12,271'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kill Me, Deadly'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=killmedeadly.htm"},
+					"ReleaseDate": {"S":"b'April 1, 2016'"},
+					"DomesticTotalasofMar.19,2017": {"S":"b'$35,225'"},
+					"Distributor": {"S":"b'Indican'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$35,225'"},
+					"WidestRelease": {"S":"b'3 theaters'"},
+					"OpeningWeekend": {"S":"b'$11,600'"},
+					"InRelease": {"S":"b'164 days / 23.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Top Movies in the Past 365 Days': '469', 'All Time Domestic': '11,769'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kill Your Darlings'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=killyourdarlings.htm"},
+					"ReleaseDate": {"S":"b'October 16, 2013'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Sony Classics'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$1,030,064'"},
+					"Runtime": {"S":"b'1 hrs. 44 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'David Cross, Dane DeHaan, Ben Foster, Michael C. Hall, Jennifer Jason Leigh, Elizabeth Olsen, Daniel Radcliffe, Kyra Sedgwick'"},
+					"Cinematographer": {"S":"b'Reed Morano'"},
+					"Domestic": {"S":"b'$1,030,064'"},
+					"Worldwide": {"S":"b'$1,030,064'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'78 theaters'"},
+					"CloseDate": {"S":"b'February 27, 2014'"},
+					"OpeningWeekend": {"S":"b'$53,452'"},
+					"InRelease": {"S":"b'135 days / 19.3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sundance 2013': '12'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '7,321'}"}
+				}
+			}
+		}
+	]
+}

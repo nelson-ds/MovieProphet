@@ -1,0 +1,616 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Poison Friends'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=poisonfriends.htm"},
+					"DomesticTotalGross": {"S":"b'$13,665'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"Distributor": {"S":"b'Strand'"},
+					"Genre": {"S":"b'Foreign'"},
+					"ReleaseDate": {"S":"b'April 27, 2007'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$13,665'"},
+					"Worldwide": {"S":"b'$316,184'"},
+					"Foreign": {"S":"b'$302,519'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,980'"},
+					"CloseDate": {"S":"b'May 31, 2007'"},
+					"InRelease": {"S":"b'35 days / 5 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1682'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Unrated Movies 2007': '140', 'Yearly 2007': '523', 'Yearly Opening Weekends 2007': '539', 'Worldwide Yearly 2007': '371', 'Yearly Opening Weekends (Limited) 2007': '372', 'All Time Domestic': '12,998', 'Yearly (Limited) 2007': '337'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Poison Ivy'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=poisonivy.htm"},
+					"DomesticTotalGross": {"S":"b'$1,829,804'"},
+					"Runtime": {"S":"b'2 hrs. 50 min.'"},
+					"Distributor": {"S":"b'New Line'"},
+					"Genre": {"S":"b'Thriller'"},
+					"ReleaseDate": {"S":"b'May 8, 1992'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Drew Barrymore'"},
+					"Domestic": {"S":"b'$1,829,804'"},
+					"WidestRelease": {"S":"b'20 theaters'"},
+					"OpeningWeekend": {"S":"b'$119,840'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Thriller - Erotic': '45'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 1992': '35', 'Highest All Time Rank (on May 26, 1992)': '2003', BOM Users' Grades (1992 Releases): '81', 'Yearly Opening Weekends 1992': '147', 'All Time Domestic': '6,594', 'Yearly 1992': '151', 'Yearly (Limited) 1992': '32', 'Yearly R Rated 1992': '74'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Poisoned by Polonium: The Litvinenko File'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=poisonedbypolonium.htm"},
+					"DomesticTotalGross": {"S":"b'$5,080'"},
+					"Runtime": {"S":"b'1 hrs. 45 min.'"},
+					"Distributor": {"S":"b'Kino'"},
+					"Genre": {"S":"b'Documentary'"},
+					"ReleaseDate": {"S":"b'March 21, 2008'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$5,080'"},
+					"Worldwide": {"S":"b'$29,467'"},
+					"Foreign": {"S":"b'$24,387'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,402'"},
+					"CloseDate": {"S":"b'June 26, 2008'"},
+					"InRelease": {"S":"b'42 days / 6 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '1325'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Unrated Movies 2008': '183', 'Worldwide Yearly 2008': '426', 'Yearly (Limited) 2008': '390', 'Yearly Opening Weekends 2008': '543', 'Yearly 2008': '563', 'All Time Domestic': '13,944', 'Yearly Opening Weekends (Limited) 2008': '391'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Pokemon 3: The Movie'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pokemon3.htm"},
+					"DomesticTotalGross": {"S":"b'$17,052,128'"},
+					"Runtime": {"S":"b'1 hrs. 10 min.'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Genre": {"S":"b'Animation'"},
+					"ReleaseDate": {"S":"b'April 6, 2001'"},
+					"ProductionBudget": {"S":"b'$16 million'"},
+					"MPAARating": {"S":"b'G'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$17,052,128'"},
+					"Worldwide": {"S":"b'$68,411,275'"},
+					"Foreign": {"S":"b'$51,359,147'"},
+					"WidestRelease": {"S":"b'2,675 theaters'"},
+					"OpeningWeekend": {"S":"b'$8,240,752'"},
+					"InRelease": {"S":"b'66 days / 9.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Animation - TV Adaptation': '21', 'Video Game Adaptation': '27', 'Animation': '198', 'Animation - Anime': '5'}"},
+					"Franchise": {"S":"{'Series: Pokemon': '3'}"},
+					"Chart": {"S":"{'Widest G Rated Releases': '57', 'Yearly Opening Weekends (Wide) 2001': '86', 'Worldwide Yearly 2001': '61', 'Opening Weekends - April': '155', 'Yearly 2001': '107', 'Opening Weekends Adjusted - April': '159', 'Rated G': '163', 'Highest All Time Rank (on August 28, 2002)': '1455', 'Yearly Opening Weekends 2001': '80', 'Opening Weekends': '2,189', 'All Time Domestic': '3,535', 'Yearly G Rated 2001': '5', 'Rated G Adjusted': '173', 'Biggest 2nd Weekend Drops': '166', 'Smallest Drops, All Wide Releases': '4,259', 'Rated G, Opening Weekends Adjusted': '79', 'Opening Weeks': '2,373', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,588', 'Worst Openings - Saturated': '173', 'Yearly (Wide) 2001': '105', BOM Users' Grades (2001 Releases): '134', 'Opening Weekends Adjusted': '2,282', 'Rated G, Opening Weekends': '76', 'Widest G Rated Openings': '53', 'Smallest Drops, 2,000+ theaters (Very Wide)': '2,218', 'Opening Weeks Adjusted': '2,466'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Pokemon 4Ever'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pokemon4.htm"},
+					"DomesticTotalGross": {"S":"b'$1,727,447'"},
+					"Runtime": {"S":"b'1 hrs. 19 min.'"},
+					"Distributor": {"S":"b'Dimension Films'"},
+					"Genre": {"S":"b'Animation'"},
+					"ReleaseDate": {"S":"b'October 11, 2002'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'G'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$1,727,447'"},
+					"Worldwide": {"S":"b'$28,023,563'"},
+					"Foreign": {"S":"b'$26,296,116'"},
+					"WidestRelease": {"S":"b'249 theaters'"},
+					"OpeningWeekend": {"S":"b'$717,061'"},
+					"CloseDate": {"S":"b'December 5, 2002'"},
+					"InRelease": {"S":"b'56 days / 8 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Animation - TV Adaptation': '38', 'Video Game Adaptation': '37', 'Animation': '268', 'Animation - Anime': '14'}"},
+					"Franchise": {"S":"{'Series: Pokemon': '4'}"},
+					"Chart": {"S":"{'Yearly Opening Weekends 2002': '150', 'Yearly G Rated 2002': '11', 'Yearly Opening Weekends (Limited) 2002': '10', 'Yearly 2002': '206', 'Yearly (Limited) 2002': '48', 'All Time Domestic': '6,670', BOM Users' Grades (2002 Releases): '157', 'Highest All Time Rank (on November 26, 2002)': '3931', 'Worldwide Yearly 2002': '117'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Pokemon Heroes'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pokemonheroes.htm"},
+					"DomesticTotalGross": {"S":"b'$746,381'"},
+					"Runtime": {"S":"b'1 hrs. 20 min.'"},
+					"Distributor": {"S":"b'Miramax'"},
+					"Genre": {"S":"b'Animation'"},
+					"ReleaseDate": {"S":"b'May 16, 2003'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'G'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$746,381'"},
+					"Worldwide": {"S":"b'$20,867,919'"},
+					"Foreign": {"S":"b'$20,121,538'"},
+					"WidestRelease": {"S":"b'200 theaters'"},
+					"OpeningWeekend": {"S":"b'$260,372'"},
+					"CloseDate": {"S":"b'July 10, 2003'"},
+					"InRelease": {"S":"b'56 days / 8 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Animation - TV Adaptation': '41', 'Video Game Adaptation': '38', 'Animation': '293', 'Animation - Anime': '20'}"},
+					"Franchise": {"S":"{'Series: Pokemon': '5'}"},
+					"Chart": {"S":"{BOM Users' Grades (2003 Releases): '162', 'Yearly Opening Weekends 2003': '161', 'Yearly Opening Weekends (Limited) 2003': '32', 'Yearly (Limited) 2003': '81', 'Highest All Time Rank (on July 3, 2003)': '4618', 'Yearly 2003': '224', 'All Time Domestic': '7,719', 'Worldwide Yearly 2003': '133', 'Yearly G Rated 2003': '10'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Pokemon: The First Movie'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pokemon1.htm"},
+					"DomesticTotalGross": {"S":"b'$85,744,662'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Genre": {"S":"b'Animation'"},
+					"ReleaseDate": {"S":"b'November 10, 1999'"},
+					"ProductionBudget": {"S":"b'$30 million'"},
+					"MPAARating": {"S":"b'G'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$85,744,662'"},
+					"Worldwide": {"S":"b'$163,644,662'"},
+					"Foreign": {"S":"b'$77,900,000'"},
+					"WidestRelease": {"S":"b'3,043 theaters'"},
+					"OpeningWeekend": {"S":"b'$31,036,678'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Animation - TV Adaptation': '5', 'Video Game Adaptation': '4', 'Animation': '101', 'Animation - Anime': '1'}"},
+					"Franchise": {"S":"{'Series: Pokemon': '1'}"},
+					"Chart": {"S":"{'Widest G Rated Releases': '34', 'Single Day Saturday Gross Adjusted': '299', 'Highest All Time Rank (on January 30, 2000)': '237', 'Opening Weekends Adjusted': '312', 'Widest Releases': '868', 'Yearly G Rated 1999': '3', 'Opening Weekends - November': '61', 'Post-Thanksgiving Weekend  - Biggest Drops': '18', 'Opening Wednesdays': '35', 'Yearly 1999': '25', 'All Time Domestic': '796', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '764', 'Non-Opening Thursday Gross Adjusted': '43', 'Rated G Adjusted': '67', 'Rated G': '50', 'Smallest Drops, All Wide Releases': '3,901', 'Widest Opening Releases': '805', 'Rated G, Opening Weekends Adjusted': '18', 'Opening Weeks': '616', 'Single Day Wednesday Gross Adjusted': '45', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,427', 'Opening Weekends - Holiday': '88', 'Yearly Opening Weekends 1999': '9', 'Rated G, Opening Weekends': '22', 'Opening Weekends Adjusted - Holiday': '71', 'Single Day Thursday Gross': '88', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,993', 'Thanksgiving 5-day Weekends Adjusted': '132', 'Opening Weeks Adjusted': '441', 'Yearly Opening Weekends (Wide) 1999': '10', 'Yearly (Wide) 1999': '26', 'Worldwide Yearly 1999': '25', 'Single Day Thursday Gross Adjusted': '51', 'Opening Weekends Adjusted - November': '49', 'Opening Weekends': '449', 'Non-Opening Thursday Gross': '70', 'Biggest 2nd Weekend Drops': '515', 'Rated G and PG, Opening Weekends Adjusted': '84', BOM Users' Grades (1999 Releases): '108', 'Non-Friday Opening Weekends Adjusted': '55', 'Non-Friday Opening Weekends': '63', 'Thanksgiving 3-day Weekends Adjusted': '163', 'Single Day Wednesday Gross': '78', 'Widest G Rated Openings': '33', 'Rated G and PG, Opening Weekends': '124'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Pokemon: The Movie 2000'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pokemon2.htm"},
+					"DomesticTotalGross": {"S":"b'$43,758,684'"},
+					"Runtime": {"S":"b'1 hrs. 42 min.'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Genre": {"S":"b'Animation'"},
+					"ReleaseDate": {"S":"b'July 21, 2000'"},
+					"ProductionBudget": {"S":"b'$30 million'"},
+					"MPAARating": {"S":"b'G'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$43,758,684'"},
+					"Worldwide": {"S":"b'$133,949,270'"},
+					"Foreign": {"S":"b'$90,190,586'"},
+					"WidestRelease": {"S":"b'2,752 theaters'"},
+					"OpeningWeekend": {"S":"b'$19,575,608'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Animation - TV Adaptation': '10', 'Video Game Adaptation': '13', 'Animation': '152', 'Animation - Anime': '2'}"},
+					"Franchise": {"S":"{'Series: Pokemon': '2'}"},
+					"Chart": {"S":"{'Widest G Rated Releases': '52', 'Yearly (Wide) 2000': '55', 'Yearly Opening Weekends (Wide) 2000': '27', 'Opening Weekends': '897', 'Opening Weekends - July': '121', 'Rated G': '95', 'Yearly 2000': '59', 'Highest All Time Rank (on August 28, 2002)': '640', 'All Time Domestic': '1,792', 'Worldwide Yearly 2000': '32', 'Opening Weekends Adjusted': '733', 'Opening Weekends Not At #1 Adjusted': '157', 'Yearly G Rated 2000': '8', 'Rated G Adjusted': '113', 'Biggest 2nd Weekend Drops': '125', 'Smallest Drops, All Wide Releases': '4,300', 'Rated G, Opening Weekends Adjusted': '40', 'Widest G Rated Openings': '47', 'Friday to Saturday Drops on Opening Weekends': '59', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,611', 'Friday Share of Opening Weekends': '44', 'Opening Weekends Adjusted - July': '109', 'Rated G, Opening Weekends': '41', 'Opening Weeks': '885', 'Yearly Opening Weekends 2000': '27', 'Smallest Drops, 2,000+ theaters (Very Wide)': '2,243', 'Opening Weeks Adjusted': '740', BOM Users' Grades (2000 Releases): '108'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Polar Opposites'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=polaropposites.htm"},
+					"DomesticTotalGross": {"S":"b'$2,377'"},
+					"Runtime": {"S":"b'1 hrs. 25 min.'"},
+					"Distributor": {"S":"b'Regent Releasing'"},
+					"Genre": {"S":"b'Drama / Thriller'"},
+					"ReleaseDate": {"S":"b'June 6, 2008'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$2,377'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"OpeningWeekend": {"S":"b'$1,628'"},
+					"CloseDate": {"S":"b'June 29, 2008'"},
+					"InRelease": {"S":"b'28 days / 4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Gay / Lesbian': '329'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2008': '413', 'Yearly Opening Weekends 2008': '560', 'Yearly PG-13 Rated 2008': '140', 'Yearly 2008': '587', 'All Time Domestic': '14,383', 'Yearly Opening Weekends (Limited) 2008': '408'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Polaroid'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=polaroid.htm"},
+					"Runtime": {"S":"b'N/A'"},
+					"Distributor": {"S":"b'Weinstein / Dimension'"},
+					"Genre": {"S":"b'Horror'"},
+					"ReleaseDate": {"S":"b'August 25, 2017'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Horror - Supernatural': 'n/a'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Police Academy'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=policeacademy.htm"},
+					"DomesticTotalGross": {"S":"b'$81,198,894'"},
+					"Runtime": {"S":"b'1 hrs. 37 min.'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Genre": {"S":"b'Comedy'"},
+					"ReleaseDate": {"S":"b'March 23, 1984'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$81,198,894'"},
+					"WidestRelease": {"S":"b'1,587 theaters'"},
+					"OpeningWeekend": {"S":"b'$8,570,007'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - Bumbling': '6'}"},
+					"Franchise": {"S":"{'Series: Police Academy': '1'}"},
+					"Chart": {"S":"{'Consecutive Weekends In Top 10': '65', 'Ninth Weekends Adjusted': '58', 'Sixth Weekends Adjusted': '83', 'Opening Weekends Adjusted - March': '107', 'Yearly (Wide) 1984': '6', 'Most Weekends in Top 5 (non-consecutive)': '97', BOM Users' Grades (1984 Releases): '38', 'Consecutive Weekends At #1': '119', 'Consecutive Weekends In Top 5': '135', 'Opening Weekends Adjusted - Spring': '169', 'Highest All Time Rank (on July 10, 1984)': '58', 'Eleventh Weekends Adjusted': '64', 'Ninth Weekends': '120', 'Yearly 1984': '6', 'Eleventh Weekends': '105', 'Opening Weekends': '2,135', 'All Time Domestic': '864', 'Seventh Weekends Adjusted': '96', 'Yearly R Rated 1984': '2', 'Rated R Adjusted': '83', 'Smallest Drops, All Wide Releases': '280', 'Yearly Opening Weekends (Wide) 1984': '8', 'Eighth Weekends Adjusted': '119', 'Opening Weeks': '2,132', 'Opening Weekends - March': '180', 'Most Weekends at #1 (non-consecutive)': '28', 'Most Weekends in Top 10 (non-consecutive)': '82', 'Opening Weekends Adjusted': '1,233', 'Twelfth Weekends Adjusted': '100', 'Fifth Weekends Adjusted': '83', 'Opening Weeks Adjusted': '1,231', 'Yearly Opening Weekends 1984': '8', 'Fewest Theaters to Debut at #1': '32', 'Twelfth Weekends': '80'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Police Academy 2: Their First Assignment'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=policeacademy2.htm"},
+					"DomesticTotalGross": {"S":"b'$55,600,000'"},
+					"Runtime": {"S":"b'1 hrs. 37 min.'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Genre": {"S":"b'Comedy'"},
+					"ReleaseDate": {"S":"b'March 29, 1985'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$55,600,000'"},
+					"WidestRelease": {"S":"b'1,613 theaters'"},
+					"OpeningWeekend": {"S":"b'$10,675,896'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - Bumbling': '11', 'Comedy - Sequel (Live Action)': '53'}"},
+					"Franchise": {"S":"{'Series: Police Academy': '2'}"},
+					"Chart": {"S":"{'Opening Weekends Adjusted - Spring': '131', 'Yearly 1985': '11', 'Opening Weekends Adjusted - March': '84', 'Most Weekends in Top 5 (non-consecutive)': '74', 'Yearly (Wide) 1985': '10', 'Consecutive Weekends At #1': '55', 'Consecutive Weekends In Top 5': '65', 'Opening Weeks Adjusted': '928', 'Yearly PG-13 Rated 1985': '3', 'All Time Domestic': '1,399', 'Opening Weekends': '1,757', 'Opening Weekends Adjusted': '984', 'Consecutive Weekends In Top 10': '115', 'Smallest Drops, All Wide Releases': '575', 'Highest All Time Rank (on June 25, 1985)': '115', 'Yearly Opening Weekends (Wide) 1985': '6', 'Opening Weeks': '1,727', 'Opening Weekends - March': '151', BOM Users' Grades (1985 Releases): '67', 'Most Weekends at #1 (non-consecutive)': '73', 'Most Weekends in Top 10 (non-consecutive)': '137', 'Yearly Opening Weekends 1985': '6', 'Fewest Theaters to Debut at #1': '158'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Police Academy 3: Back in Training'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=policeacademy3.htm"},
+					"DomesticTotalGross": {"S":"b'$43,579,163'"},
+					"Runtime": {"S":"b'1 hrs. 23 min.'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Genre": {"S":"b'Comedy'"},
+					"ReleaseDate": {"S":"b'March 21, 1986'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$43,579,163'"},
+					"WidestRelease": {"S":"b'1,788 theaters'"},
+					"OpeningWeekend": {"S":"b'$9,049,586'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - Bumbling': '16'}"},
+					"Franchise": {"S":"{'Series: Police Academy': '3'}"},
+					"Chart": {"S":"{'Opening Weekends Adjusted - Spring': '184', 'Fewest Theaters to Debut at #1': '193', 'Smallest Drops, All Wide Releases': '1,586', 'Opening Weekends Adjusted - March': '116', 'Opening Weeks': '2,019', 'Most Weekends in Top 5 (non-consecutive)': '164', 'Opening Weekends - March': '176', 'Yearly Opening Weekends 1986': '7', 'Most Weekends at #1 (non-consecutive)': '162', 'Consecutive Weekends At #1': '147', 'Consecutive Weekends In Top 5': '164', 'Opening Weekends Adjusted': '1,314', 'Opening Weeks Adjusted': '1,299', 'Yearly Opening Weekends (Wide) 1986': '7', 'Yearly (Wide) 1986': '17', 'Highest All Time Rank (on June 17, 1986)': '182', 'Yearly 1986': '17', 'Yearly PG Rated 1986': '5', 'All Time Domestic': '1,799', 'Opening Weekends': '2,059', BOM Users' Grades (1986 Releases): '67'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Police Academy 4: Citizens on Patrol'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=policeacademy4.htm"},
+					"DomesticTotalGross": {"S":"b'$28,061,343'"},
+					"Runtime": {"S":"b'1 hrs. 28 min.'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Genre": {"S":"b'Comedy'"},
+					"ReleaseDate": {"S":"b'April 3, 1987'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Sharon Stone, David Spade*'"},
+					"Director": {"S":"b'Jim Drake'"},
+					"Domestic": {"S":"b'$28,061,343'"},
+					"WidestRelease": {"S":"b'1,750 theaters'"},
+					"OpeningWeekend": {"S":"b'$8,482,487'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - Bumbling': '23'}"},
+					"Franchise": {"S":"{'Series: Police Academy': '4'}"},
+					"Chart": {"S":"{'Opening Weekends Adjusted - April': '85', 'Yearly 1987': '44', 'Smallest Drops, All Wide Releases': '2,594', 'Yearly Opening Weekends (Wide) 1987': '10', 'Opening Weeks': '2,372', 'Yearly Opening Weekends 1987': '10', BOM Users' Grades (1987 Releases): '70', 'Opening Weekends': '2,150', 'Highest All Time Rank (on May 26, 1987)': '346', 'Opening Weeks Adjusted': '1,746', 'Yearly PG Rated 1987': '9', 'Yearly (Wide) 1987': '43', 'All Time Domestic': '2,625', 'Fewest Theaters to Debut at #1': '183', 'Opening Weekends Adjusted': '1,518', 'Opening Weekends - April': '151'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Police Academy 5: Assignment: Miami Beach'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=policeacademy5.htm"},
+					"DomesticTotalGross": {"S":"b'$19,510,371'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Genre": {"S":"b'Comedy'"},
+					"ReleaseDate": {"S":"b'March 18, 1988'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Director": {"S":"b'Alan Myerson'"},
+					"Domestic": {"S":"b'$19,510,371'"},
+					"WidestRelease": {"S":"b'1,700 theaters'"},
+					"OpeningWeekend": {"S":"b'$6,106,661'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - Bumbling': '26'}"},
+					"Franchise": {"S":"{'Series: Police Academy': '5'}"},
+					"Chart": {"S":"{'Yearly Opening Weekends 1988': '27', 'Smallest Drops, All Wide Releases': '1,867', 'Yearly PG Rated 1988': '15', 'Yearly (Wide) 1988': '51', 'Highest All Time Rank (on July 5, 1988)': '318', 'Opening Weeks': '2,894', 'Opening Weekends Adjusted': '2,237', 'Opening Weekends Adjusted - March': '196', 'Yearly 1988': '52', 'Fewest Theaters to Debut at #1': '173', BOM Users' Grades (1988 Releases): '80', 'Yearly Opening Weekends (Wide) 1988': '30', 'Opening Weeks Adjusted': '2,469', 'All Time Domestic': '3,284', 'Opening Weekends': '2,686'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Police Academy 6: City Under Siege'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=policeacademy6.htm"},
+					"DomesticTotalGross": {"S":"b'$11,567,217'"},
+					"Runtime": {"S":"b'1 hrs. 24 min.'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Genre": {"S":"b'Comedy'"},
+					"ReleaseDate": {"S":"b'March 10, 1989'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$11,567,217'"},
+					"WidestRelease": {"S":"b'1,627 theaters'"},
+					"OpeningWeekend": {"S":"b'$4,032,480'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - Bumbling': '30'}"},
+					"Franchise": {"S":"{'Series: Police Academy': '6'}"},
+					"Chart": {"S":"{BOM Users' Grades (1989 Releases): '80', 'Smallest Drops, All Wide Releases': '1,992', 'Opening Weeks': '3,560', 'Opening Weekends Adjusted': '3,002', 'Yearly (Wide) 1989': '75', 'Opening Weeks Adjusted': '3,203', 'Highest All Time Rank (on April 11, 1989)': '862', 'Yearly 1989': '78', 'Yearly Opening Weekends (Wide) 1989': '58', 'Yearly PG Rated 1989': '22', 'All Time Domestic': '4,222', 'Opening Weekends': '3,397', 'Yearly Opening Weekends 1989': '52'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Police Academy 7: Mission to Moscow'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=policeacademy7.htm"},
+					"DomesticTotalGross": {"S":"b'$126,247'"},
+					"Runtime": {"S":"b'1 hrs. 23 min.'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Genre": {"S":"b'Comedy'"},
+					"ReleaseDate": {"S":"b'August 26, 1994'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$126,247'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - Bumbling': '38'}"},
+					"Franchise": {"S":"{'Series: Police Academy': '7'}"},
+					"Chart": {"S":"{'Yearly 1994': '227', 'Yearly PG Rated 1994': '48', 'All Time Domestic': '10,044', BOM Users' Grades (1994 Releases): '115'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Police Story: Lockdown'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=policestory2015.htm"},
+					"Runtime": {"S":"b'1 hrs. 50 min.'"},
+					"Distributor": {"S":"b'Well Go USA'"},
+					"Genre": {"S":"b'Foreign / Action'"},
+					"ReleaseDate": {"S":"b'June 5, 2015'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Action - Martial Arts': '169', 'Foreign Language': '2069'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Police, Adjective'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=policeadjective.htm"},
+					"DomesticTotalGross": {"S":"b'$53,206'"},
+					"Runtime": {"S":"b'1 hrs. 55 min.'"},
+					"Distributor": {"S":"b'IFC'"},
+					"Genre": {"S":"b'Foreign'"},
+					"ReleaseDate": {"S":"b'December 23, 2009'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$53,206'"},
+					"Worldwide": {"S":"b'$121,977'"},
+					"Foreign": {"S":"b'$68,771'"},
+					"WidestRelease": {"S":"b'8 theaters'"},
+					"OpeningWeekend": {"S":"b'$19,452'"},
+					"CloseDate": {"S":"b'January 7, 2010'"},
+					"InRelease": {"S":"b'16 days / 2.3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2009': '205', 'Yearly 2009': '357', 'Worldwide Yearly 2009': '327', 'All Time Domestic': '11,214', 'Yearly Opening Weekends 2009': '294', 'Yearly Opening Weekends (Limited) 2009': '155', 'Yearly Unrated Movies 2009': '80'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Policeman'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=policeman.htm"},
+					"DomesticTotalGross": {"S":"b'$11,263'"},
+					"Runtime": {"S":"b'1 hrs. 45 min.'"},
+					"Distributor": {"S":"b'Corinth Films'"},
+					"Genre": {"S":"b'Foreign'"},
+					"ReleaseDate": {"S":"b'June 13, 2014'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$11,263'"},
+					"Worldwide": {"S":"b'$38,263'"},
+					"Foreign": {"S":"b'$27,000'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"OpeningWeekend": {"S":"b'$7,379'"},
+					"CloseDate": {"S":"b'June 19, 2014'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1725'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '13,225'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Polish Wedding'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=polishwedding.htm"},
+					"DomesticTotalGross": {"S":"b'$692,588'"},
+					"Runtime": {"S":"b'1 hrs. 45 min.'"},
+					"Distributor": {"S":"b'Fox Searchlight'"},
+					"Genre": {"S":"b'Comedy / Drama'"},
+					"ReleaseDate": {"S":"b'July 17, 1998'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Tom Rosenberg, Nick Wechsler'"},
+					"Actor": {"S":"b'Claire Danes'"},
+					"Domestic": {"S":"b'$692,588'"},
+					"WidestRelease": {"S":"b'59 theaters'"},
+					"OpeningWeekend": {"S":"b'$92,055'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Wedding': '40'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly PG-13 Rated 1998': '57', 'Yearly (Limited) 1998': '73', 'Yearly Opening Weekends (Limited) 1998': '60', 'Yearly Opening Weekends 1998': '188', 'Yearly 1998': '218', 'All Time Domestic': '7,819', 'Highest All Time Rank (on July 31, 1998)': '3562'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Polisse'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=polisse.htm"},
+					"DomesticTotalGross": {"S":"b'$211,440'"},
+					"Runtime": {"S":"b'2 hrs. 7 min.'"},
+					"Distributor": {"S":"b'IFC'"},
+					"Genre": {"S":"b'Foreign / Action'"},
+					"ReleaseDate": {"S":"b'May 18, 2012'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$211,440'"},
+					"Worldwide": {"S":"b'$20,374,201'"},
+					"Foreign": {"S":"b'$20,162,761'"},
+					"WidestRelease": {"S":"b'21 theaters'"},
+					"OpeningWeekend": {"S":"b'$16,568'"},
+					"CloseDate": {"S":"b'June 21, 2012'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '890'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '9,353'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Pollock'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pollock.htm"},
+					"DomesticTotalGross": {"S":"b'$8,598,593'"},
+					"Runtime": {"S":"b'1 hrs. 57 min.'"},
+					"Distributor": {"S":"b'Sony Classics'"},
+					"Genre": {"S":"b'Drama'"},
+					"ReleaseDate": {"S":"b'December 15, 2000'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Ed Harris, Jon Kilik'"},
+					"Actor": {"S":"b'Ed Harris, Marcia Gay Harden, Jennifer Connelly, Val Kilmer*'"},
+					"Director": {"S":"b'Ed Harris'"},
+					"Domestic": {"S":"b'$8,598,593'"},
+					"Worldwide": {"S":"b'$10,558,970'"},
+					"Foreign": {"S":"b'$1,960,377'"},
+					"WidestRelease": {"S":"b'280 theaters'"},
+					"OpeningWeekend": {"S":"b'$44,244'"},
+					"Awards": {"S":"Nominated for Two Oscars, Including One Win."},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 2000': '53', 'Yearly (Limited) 2000': '8', 'Yearly 2000': '139', 'Highest All Time Rank (on August 28, 2002)': '2082', 'Yearly Opening Weekends (Limited) 2000': '102', 'Yearly Opening Weekends 2000': '235', 'All Time Domestic': '4,653', 'Worldwide Yearly 2000': '143', BOM Users' Grades (2000 Releases): '40'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Poltergeist'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=poltergeist.htm"},
+					"DomesticTotalGross": {"S":"b'$76,606,280'"},
+					"Runtime": {"S":"b'1 hrs. 54 min.'"},
+					"Distributor": {"S":"b'MGM'"},
+					"Genre": {"S":"b'Horror'"},
+					"ReleaseDate": {"S":"b'June 4, 1982'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Producer": {"S":"b'Kathleen Kennedy, Frank Marshall, Steven Spielberg'"},
+					"Composer": {"S":"b'Jerry Goldsmith'"},
+					"Actor": {"S":"b'Craig T. Nelson'"},
+					"Domestic": {"S":"b'$76,606,280'"},
+					"WidestRelease": {"S":"b'1,060 theaters'"},
+					"OpeningWeekend": {"S":"b'$6,896,612'"},
+					"Awards": {"S":"Nominated for Three Oscars."},
+					"GenreRank": {"S":"{'Horror - Supernatural': '17'}"},
+					"Franchise": {"S":"{'Series: Poltergeist': '1'}"},
+					"Chart": {"S":"{BOM Users' Grades: '180', 'Ninth Weekends Adjusted': '105', 'Sixth Weekends Adjusted': '158', 'Yearly Opening Weekends (Wide) 1982': '11', 'Opening Weekends Adjusted': '1,376', 'Yearly (Wide) 1982': '9', 'Yearly 1982': '8', BOM Users' Grades (1982 Releases): '8', 'Tenth Weekends': '140', 'Rated PG Adjusted': '124', 'Rated G and PG Adjusted': '168', 'Theater Averages - Wide Opening Weekends Adjusted': '182', 'Eleventh Weekends Adjusted': '73', 'Yearly PG Rated 1982': '5', 'Eleventh Weekends': '137', 'Opening Weekends': '2,487', 'All Time Domestic': '930', 'Seventh Weekends Adjusted': '144', 'Consecutive Weekends In Top 10': '138', 'Yearly Opening Weekends 1982': '10', 'Smallest Drops, All Wide Releases': '668', 'Tenth Weekends Adjusted': '68', 'Eighth Weekends Adjusted': '128', 'Opening Weeks': '2,341', 'Highest All Time Rank (on November 30, 1982)': '54', 'Movies That Never #1 Adjusted': '28', 'Most Weekends in Top 10 (non-consecutive)': '99', 'Twelfth Weekends Adjusted': '63', 'Opening Weekends Adjusted - June': '193', 'Opening Weeks Adjusted': '1,214', 'Twelfth Weekends': '125'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Poltergeist (2011)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=poltergeist11.htm"},
+					"Runtime": {"S":"b'N/A'"},
+					"Distributor": {"S":"b'MGM'"},
+					"Genre": {"S":"b'Horror'"},
+					"ReleaseDate": {"S":"b'TBD'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Director": {"S":"b'Vadim Perelman'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,631 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Road to Nowhere'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=roadtonowhere.htm"},
+					"DomesticTotalGross": {"S":"b'$40,294'"},
+					"Runtime": {"S":"b'2 hrs. 1 min.'"},
+					"Distributor": {"S":"b'Monterey Media, Inc.'"},
+					"Genre": {"S":"b'Romantic Thriller'"},
+					"ReleaseDate": {"S":"b'June 10, 2011'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$40,294'"},
+					"Worldwide": {"S":"b'$161,619'"},
+					"Foreign": {"S":"b'$121,325'"},
+					"WidestRelease": {"S":"b'7 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,521'"},
+					"CloseDate": {"S":"b'September 22, 2011'"},
+					"InRelease": {"S":"b'105 days / 15 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '11,617'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Road to Perdition'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=roadtoperdition.htm"},
+					"DomesticTotalGross": {"S":"b'$104,454,762'"},
+					"Runtime": {"S":"b'1 hrs. 59 min.'"},
+					"Distributor": {"S":"b'DreamWorks'"},
+					"Genre": {"S":"b'Crime Drama'"},
+					"ReleaseDate": {"S":"b'July 12, 2002'"},
+					"ProductionBudget": {"S":"b'$80 million'"},
+					"MPAARating": {"S":"b'R'"},
+					"Composer": {"S":"b'Thomas Newman'"},
+					"Actor": {"S":"b'Tom Hanks, Paul Newman, Jude Law, Daniel Craig, Stanley Tucci*'"},
+					"Director": {"S":"b'Sam Mendes'"},
+					"Domestic": {"S":"b'$104,454,762'"},
+					"Worldwide": {"S":"b'$181,001,478'"},
+					"Foreign": {"S":"b'$76,546,716'"},
+					"WidestRelease": {"S":"b'2,332 theaters'"},
+					"OpeningWeekend": {"S":"b'$22,079,481'"},
+					"CloseDate": {"S":"b'November 28, 2002'"},
+					"Awards": {"S":"Nominated for Six Oscars, Including One Win."},
+					"GenreRank": {"S":"{'Drama - Summer': '19', 'Hitman / Assassin': '9', 'Irish': '2', 'Comic Book Adaptation': '61'}"},
+					"Franchise": {"S":"{'Showdown: Summer Drama': '2', 'Showdown: Crime Pay-Off': '3'}"},
+					"Chart": {"S":"{BOM Users' Grades: '218', 'Yearly 2002': '24', 'Opening Weekends Not At #1': '200', 'Opening Weekends - July': '100', BOM Users' Grades (2002 Releases): '18', 'Highest All Time Rank (on October 6, 2002)': '228', 'Opening Weekends Adjusted - July': '96', 'Rated R, Opening Weekends Adjusted': '162', 'Rated R Adjusted': '170', 'All Time Domestic': '604', 'Opening Weekends': '759', 'Opening Weekends Adjusted': '678', 'Opening Weekends Not At #1 Adjusted': '126', 'Yearly Opening Weekends 2002': '27', 'Slowest to $100 million': '90', 'Yearly (Wide) 2002': '25', 'Smallest Drops, All Wide Releases': '1,077', 'Rated R': '129', 'Longest Time To #1': '67', 'Opening Weeks': '705', 'Rated R, Opening Weekends': '183', 'Yearly R Rated 2002': '2', 'Worldwide Yearly 2002': '26', 'Opening Weeks Adjusted': '626', 'Yearly Opening Weekends (Wide) 2002': '28'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Roadie'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=roadie.htm"},
+					"DomesticTotalGross": {"S":"b'$4,226,370'"},
+					"Runtime": {"S":"b'1 hrs. 45 min.'"},
+					"Distributor": {"S":"b'MGM'"},
+					"Genre": {"S":"b'Unknown'"},
+					"ReleaseDate": {"S":"b'June 13, 1980'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$4,226,370'"},
+					"\t\tOpeningWeekend": {"S":"b'$1,002,263'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1980': '87', 'All Time Domestic': '5,597'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Roadie (2012)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=roadie2012.htm"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"Distributor": {"S":"b'Magnolia'"},
+					"DomesticTotalasofJan.26,2012": {"S":"b'$7,825'"},
+					"Genre": {"S":"b'Drama'"},
+					"ReleaseDate": {"S":"b'January 6, 2012'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Michael Cuesta'"},
+					"Actor": {"S":"b'Bobby Cannavale'"},
+					"Director": {"S":"b'Michael Cuesta'"},
+					"Domestic": {"S":"b'$7,825'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,661'"},
+					"InRelease": {"S":"b'21 days / 3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '13,601'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Roadside Prophets'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=roadsideprophets.htm"},
+					"DomesticTotalGross": {"S":"b'$147,724'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"Distributor": {"S":"b'Fine Line'"},
+					"Genre": {"S":"b'Unknown'"},
+					"ReleaseDate": {"S":"b'March 27, 1992'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Don Cheadle*, John Cusack*'"},
+					"Domestic": {"S":"b'$147,724'"},
+					"WidestRelease": {"S":"b'17 theaters'"},
+					"OpeningWeekend": {"S":"b'$11,066'"},
+					"CloseDate": {"S":"b'May 7, 1992'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 1992': '82', 'Highest All Time Rank (on April 21, 1992)': '2475', 'Yearly Opening Weekends 1992': '194', 'All Time Domestic': '9,831', 'Yearly 1992': '212', 'Yearly (Limited) 1992': '75', 'Yearly R Rated 1992': '109'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Roadside Romeo'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=roadsideromeo.htm"},
+					"DomesticTotalGross": {"S":"b'$55,202'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"Distributor": {"S":"b'Yash Raj'"},
+					"Genre": {"S":"b'Foreign'"},
+					"ReleaseDate": {"S":"b'October 24, 2008'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$55,202'"},
+					"Worldwide": {"S":"b'$1,978,021'"},
+					"Foreign": {"S":"b'$1,922,819'"},
+					"WidestRelease": {"S":"b'29 theaters'"},
+					"OpeningWeekend": {"S":"b'$41,770'"},
+					"CloseDate": {"S":"b'November 2, 2008'"},
+					"InRelease": {"S":"b'14 days / 2 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Animation': '370', 'Animation - Computer': '138', 'Foreign Language': '1321'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Worldwide Yearly 2008': '285', 'Yearly (Limited) 2008': '248', 'Yearly Opening Weekends 2008': '283', 'Yearly PG Rated 2008': '39', 'Yearly 2008': '421', 'All Time Domestic': '11,150', 'Yearly Opening Weekends (Limited) 2008': '131'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Roar!'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=roar.htm"},
+					"DomesticTotalGross": {"S":"b'$110,048'"},
+					"Runtime": {"S":"b'1 hrs. 42 min.'"},
+					"Distributor": {"S":"b'Drafthouse'"},
+					"Genre": {"S":"b'Drama'"},
+					"ReleaseDate": {"S":"b'April 15, 2015'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$110,048'"},
+					"WidestRelease": {"S":"b'19 theaters'"},
+					"OpeningWeekend": {"S":"b'$15,064'"},
+					"CloseDate": {"S":"b'August 13, 2015'"},
+					"InRelease": {"S":"b'121 days / 17.3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '10,223'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Rob Roy'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=robroy.htm"},
+					"DomesticTotalGross": {"S":"b'$31,596,911'"},
+					"Runtime": {"S":"b'2 hrs. 19 min.'"},
+					"Distributor": {"S":"b'MGM'"},
+					"Genre": {"S":"b'Period Adventure'"},
+					"ReleaseDate": {"S":"b'April 7, 1995'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Composer": {"S":"b'Carter Burwell'"},
+					"Actor": {"S":"b'Liam Neeson, Jessica Lange, Tim Roth, Brian Cox'"},
+					"Director": {"S":"b''"},
+					"Domestic": {"S":"b'$31,596,911'"},
+					"WideOpeningWeekend": {"S":"b'$7,190,047'"},
+					"WidestRelease": {"S":"b'1,885 theaters'"},
+					"LimitedOpeningWeekend": {"S":"b'<b> $2,023,272</b>'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"{'Swashbuckler': '14', 'Adventure - Period': '51'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1995': '57', 'Opening Weekends Adjusted - April': '127', 'Smallest Drops, All Wide Releases': '1,079', 'Opening Weekends (Limited Release)': '129', 'Opening Weeks': '2,442', 'Top Ranking Limited Release Debuts': '107', BOM Users' Grades (1995 Releases): '25', 'Yearly (Wide) 1995': '54', 'Yearly R Rated 1995': '23', 'Yearly Opening Weekends 1995': '124', 'Yearly Opening Weekends (Limited) 1995': '4', 'Opening Weeks Adjusted': '2,048', 'Easter Opening Weekends': '52', 'Yearly Opening Weekends (Wide) 1995': '58', 'Highest All Time Rank (on May 30, 1995)': '640', 'All Time Domestic': '2,426', 'Opening Weekends': '2,401', 'Opening Weekends Adjusted': '2,025', 'Opening Weekends - April': '180'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bRob Zombie's Tyrannosaurus Rex"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=tyrannosaurusrex.htm"},
+					"Runtime": {"S":"b'N/A'"},
+					"Distributor": {"S":"b'Weinstein / Dimension'"},
+					"Genre": {"S":"b'Horror'"},
+					"ReleaseDate": {"S":"b'TBD'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Director": {"S":"b'Rob Zombie'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Rob the Mob'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=robthemob.htm"},
+					"DomesticTotalGross": {"S":"b'$208,693'"},
+					"Runtime": {"S":"b'1 hrs. 44 min.'"},
+					"Distributor": {"S":"b'Millennium Ent.'"},
+					"Genre": {"S":"b'Crime Thriller'"},
+					"ReleaseDate": {"S":"b'March 21, 2014'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Andy Garcia, Michael Pitt'"},
+					"Domestic": {"S":"b'$208,693'"},
+					"WidestRelease": {"S":"b'30 theaters'"},
+					"OpeningWeekend": {"S":"b'$13,833'"},
+					"CloseDate": {"S":"b'May 22, 2014'"},
+					"InRelease": {"S":"b'63 days / 9 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Crime Time': '103'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '9,367'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Robert Blecker Wants Me Dead'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=robertbleckerwantsmedead.htm"},
+					"DomesticTotalGross": {"S":"b'$9,166'"},
+					"Runtime": {"S":"b'1 hrs. 34 min.'"},
+					"Distributor": {"S":"b'Abramorama'"},
+					"Genre": {"S":"b'Documentary'"},
+					"ReleaseDate": {"S":"b'February 27, 2009'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$9,166'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"OpeningWeekend": {"S":"b'$4,352'"},
+					"CloseDate": {"S":"b'March 19, 2009'"},
+					"InRelease": {"S":"b'21 days / 3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '1222'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2009': '324', 'Yearly 2009': '476', 'All Time Domestic': '13,440', 'Yearly Opening Weekends 2009': '435', 'Yearly Opening Weekends (Limited) 2009': '296', 'Yearly Unrated Movies 2009': '151'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Roberta'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=roberta.htm"},
+					"Runtime": {"S":"b'1 hrs. 46 min.'"},
+					"Distributor": {"S":"b'RKO'"},
+					"Genre": {"S":"b'Musical'"},
+					"ReleaseDate": {"S":"b'March 8, 1935'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Composer": {"S":"b'Jerome Kern , Otto Harbach'"},
+					"Actor": {"S":"b'Amy Ryan, Irene Dunne, Fred Astaire, Ginger Rogers, Randolph Scott, Helen Westley, Victor Varconi, Claire Dodd'"},
+					"Director": {"S":"b'William A. Seiter'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Robin Hood'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=nottingham.htm"},
+					"DomesticTotalGross": {"S":"b'$105,269,730'"},
+					"Runtime": {"S":"b'2 hrs. 28 min.'"},
+					"Distributor": {"S":"b'Universal'"},
+					"Genre": {"S":"b'Period Adventure'"},
+					"ReleaseDate": {"S":"b'May 14, 2010'"},
+					"ProductionBudget": {"S":"b'$200 million'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Brian Helgeland'"},
+					"Producer": {"S":"b'Brian Grazer, Ryan Kavanaugh, Ridley Scott'"},
+					"Composer": {"S":"b'Marc Streitenfeld'"},
+					"Actor": {"S":"b'Russell Crowe, Cate Blanchett, Max von Sydow, William Hurt, Mark Strong, Danny Huston, Mark Addy, Matthew MacFadyen'"},
+					"Director": {"S":"b'Ridley Scott'"},
+					"Domestic": {"S":"b'$105,269,730'"},
+					"Worldwide": {"S":"b'$321,669,741'"},
+					"Foreign": {"S":"b'$216,400,011'"},
+					"WidestRelease": {"S":"b'3,505 theaters'"},
+					"OpeningWeekend": {"S":"b'$36,063,385'"},
+					"CloseDate": {"S":"b'August 5, 2010'"},
+					"InRelease": {"S":"b'84 days / 12 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Medieval Times': '2', 'Adventure - Period': '20'}"},
+					"Franchise": {"S":"{Showdown: 'Robin Hood' vs. 'Noah' vs. 'Exodus': '1', Showdown: 'Robin Hood' Comp Clash: '3'}"},
+					"Chart": {"S":"{'Opening Weekends - May': '68', 'Opening Weekends Not At #1': '45', 'Opening Weekends Adjusted - May': '79', 'Highest All Time Rank (on August 5, 2010)': '411', 'Worldwide Openings': '123', 'Movies That Never Hit #1': '111', 'Widest Releases': '344', 'Foreign Opening Weekends': '83', 'All Time Domestic': '598', 'Opening Weekends': '355', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '427', 'Opening Weekends Not At #1 Adjusted': '62', 'All Time Worldwide': '358', 'Slowest to $100 million': '184', 'Smallest Drops, All Wide Releases': '2,735', 'Widest Opening Releases': '329', 'Opening Weeks': '393', 'Smallest Drops, 2,500+ theaters (Saturation)': '867', 'Opening Weeks Adjusted': '545', 'Widest PG-13 Rated Openings': '183', 'Opening Weekends Adjusted': '491', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,243', 'Memorial Day 4-Day Holiday Weekends': '94', 'Widest PG-13 Rated Releases': '194'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Robin Hood (2018)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=robinhood2018.htm"},
+					"Runtime": {"S":"b'N/A'"},
+					"Distributor": {"S":"b'Lionsgate/Summit'"},
+					"Genre": {"S":"b'Action / Adventure'"},
+					"ReleaseDate": {"S":"b'March 23, 2018'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Writer": {"S":"b'Joby Harold'"},
+					"Producer": {"S":"b'Leonardo DiCaprio, Basil Iwanyk, Joby Harold'"},
+					"Actor": {"S":"b'Taron Egerton, Jamie Foxx, Jamie Dornan, Eve Hewson'"},
+					"Director": {"S":"b'Otto Bathurst'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'IMAX (Feature-length)': 'n/a', 'Medieval Times': 'n/a', 'Adventure - Period': 'n/a'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Robin Hood: Men in Tights'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=robinhoodmenintights.htm"},
+					"DomesticTotalGross": {"S":"b'$35,739,755'"},
+					"Runtime": {"S":"b'1 hrs. 44 min.'"},
+					"Distributor": {"S":"b'Fox'"},
+					"Genre": {"S":"b'Adventure Comedy'"},
+					"ReleaseDate": {"S":"b'July 30, 1993'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Cary Elwes, Dave Chappelle, Tracey Ullman*, Patrick Stewart*'"},
+					"Director": {"S":"b'Mel Brooks'"},
+					"Domestic": {"S":"b'$35,739,755'"},
+					"WidestRelease": {"S":"b'1,407 theaters'"},
+					"OpeningWeekend": {"S":"b'$6,841,830'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Medieval Times': '11', 'Comedy - Spoof': '23'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Movies That Never Hit the Top 5': '84', 'Yearly Opening Weekends (Wide) 1993': '51', 'Smallest Drops, All Wide Releases': '1,443', 'Movies That Never Hit the Top 5 Adjusted': '25', 'Opening Weeks': '1,866', BOM Users' Grades (1993 Releases): '57', 'Yearly 1993': '46', 'Opening Weeks Adjusted': '1,317', 'Yearly PG-13 Rated 1993': '15', 'Highest All Time Rank (on September 21, 1993)': '496', 'Yearly (Wide) 1993': '45', 'All Time Domestic': '2,177', 'Opening Weekends': '2,501', 'Opening Weekends Adjusted': '2,026', 'Yearly Opening Weekends 1993': '49'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Robin Hood: Prince of Thieves'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=robinhoodprinceofthieves.htm"},
+					"DomesticTotalGross": {"S":"b'$165,493,908'"},
+					"Runtime": {"S":"b'2 hrs. 23 min.'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Genre": {"S":"b'Period Adventure'"},
+					"ReleaseDate": {"S":"b'June 14, 1991'"},
+					"ProductionBudget": {"S":"b'$48 million'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Gary Barber, James G. Robinson*'"},
+					"Composer": {"S":"b'Michael Kamen'"},
+					"Actor": {"S":"b'Kevin Costner, Morgan Freeman, Alan Rickman'"},
+					"Director": {"S":"b'Kevin Reynolds'"},
+					"Domestic": {"S":"b'$165,493,908'"},
+					"Worldwide": {"S":"b'$390,493,908'"},
+					"Foreign": {"S":"b'$225,000,000'"},
+					"WidestRelease": {"S":"b'2,369 theaters'"},
+					"OpeningWeekend": {"S":"b'$25,625,602'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"{'Swashbuckler': '5', 'Medieval Times': '1', 'Adventure - Period': '15'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{BOM Users' Grades: '345', 'Eighth Weekends': '159', 'Sixth Weekends Adjusted': '85', 'Third Weekends Adjusted': '134', 'Rated PG-13, Opening Weekends Adjusted': '189', 'Consecutive Weekends At #1': '193', 'Ninth Weekends Adjusted': '116', 'Worldwide Yearly 1991': '2', 'Fourth Weekends Adjusted': '83', 'Ninth Weekends': '152', 'Seventh Weekends': '155', 'Yearly Opening Weekends 1991': '2', 'Consecutive Weekends In Top 10': '35', 'Slowest to $100 million': '226', 'Opening Weekends - June': '89', 'Smallest Drops, All Wide Releases': '985', 'Yearly Opening Weekends (Wide) 1991': '2', 'Eleventh Weekends': '80', 'Eighth Weekends Adjusted': '104', 'All Time Domestic': '264', 'All Time Adjusted': '184', 'Most Weekends at #1 (non-consecutive)': '203', 'Independence Day Weekends': '111', 'Opening Weekends Adjusted - June': '55', 'Rated PG-13': '143', 'Opening Weekends Adjusted': '316', 'Twelfth Weekends': '42', 'All Time Worldwide': '247', 'Yearly PG-13 Rated 1991': '1', 'Seventh Weekends Adjusted': '88', 'Yearly 1991': '2', 'Highest All Time Rank (on October 17, 1991)': '25', 'Tenth Weekends': '95', 'Fifth Weekends Adjusted': '97', 'Theater Averages - Wide Opening Weekends Adjusted': '199', 'Eleventh Weekends Adjusted': '68', 'Opening Weekends': '601', 'Rated PG-13 Adjusted': '59', 'Smallest Drops, 2,000+ theaters (Very Wide)': '283', 'Opening Weekends Adjusted - Summer': '188', 'Second Weekends Adjusted': '189', 'Opening Weeks Adjusted': '269', 'Most Weekends in Top 10 (non-consecutive)': '42', 'Sixth Weekends': '164', 'Opening Weeks': '526', 'Tenth Weekends Adjusted': '78', 'Yearly (Wide) 1991': '2', BOM Users' Grades (1991 Releases): '18'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Robin and Marian'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=robinandmarian.htm"},
+					"Runtime": {"S":"b'1 hrs. 52 min.'"},
+					"Distributor": {"S":"b'Columbia'"},
+					"Genre": {"S":"b'Unknown'"},
+					"ReleaseDate": {"S":"b'March 11, 1976'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Sean Connery'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'RoboCop (2014)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=robocop2013.htm"},
+					"DomesticTotalGross": {"S":"b'$58,607,007'"},
+					"Runtime": {"S":"b'1 hrs. 48 min.'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"Genre": {"S":"b'Sci-Fi Action'"},
+					"ReleaseDate": {"S":"b'February 12, 2014'"},
+					"ProductionBudget": {"S":"b'$100 million'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Joshua Zetumer'"},
+					"Producer": {"S":"b'Marc Abraham, Roger Birnbaum, Brad Fischer, Eric Newman'"},
+					"Actor": {"S":"b'Michael K. Williams, Joel Kinnaman, Gary Oldman, Michael Keaton, Abbie Cornish, Jackie Earle Haley, Jennifer Ehle, Jay Baruchel, Samuel L. Jackson'"},
+					"Director": {"S":"b'Jose Padilha'"},
+					"Domestic": {"S":"b'$58,607,007'"},
+					"Worldwide": {"S":"b'$242,688,965'"},
+					"Foreign": {"S":"b'$184,081,958'"},
+					"WidestRelease": {"S":"b'3,372 theaters'"},
+					"OpeningWeekend": {"S":"b'$21,681,430'"},
+					"CloseDate": {"S":"b'May 18, 2014'"},
+					"InRelease": {"S":"b'96 days / 13.7 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Cyborg / Android / Robot': '22', 'IMAX (Feature-length)': '152', 'Action Remake': '10', 'Future - Near': '26', 'Sci-Fi Remake': '10'}"},
+					"Franchise": {"S":"{'Series: Robocop': '1', Showdown: President's Day Action (2011-2014): '3', Showdown: 'Total Recall' vs. 'RoboCop': '2'}"},
+					"Chart": {"S":"{'All Time Worldwide': '534', 'Opening Weekends - Winter': '85', 'Widest Opening Releases': '434', 'Opening Weekends Adjusted - February': '78', 'Opening Weekends Adjusted - Winter': '126', 'Opening Weeks': '789', 'Opening Weekends Adjusted': '1,129', President's Day 4-Day Holiday Weekend Openers: '18', President's Day 4-Day Holiday Weekends: '31', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,213', 'Widest Releases': '470', 'Non-Friday Opening Weekends': '111', 'Non-Friday Opening Weekends Adjusted': '142', 'Opening Weekends - February': '53', 'Opening Weeks Adjusted': '1,160', 'Smallest Drops, All Wide Releases': '3,477', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,697', 'All Time Domestic': '1,312', 'Opening Weekends': '783', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '625'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Robocop'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=robocop.htm"},
+					"DomesticTotalGross": {"S":"b'$53,424,681'"},
+					"Runtime": {"S":"b'1 hrs. 43 min.'"},
+					"Distributor": {"S":"b'Orion Pictures'"},
+					"Genre": {"S":"b'Sci-Fi Action'"},
+					"ReleaseDate": {"S":"b'July 17, 1987'"},
+					"ProductionBudget": {"S":"b'$13 million'"},
+					"MPAARating": {"S":"b'R'"},
+					"Director": {"S":"b'Paul Verhoeven'"},
+					"Domestic": {"S":"b'$53,424,681'"},
+					"WidestRelease": {"S":"b'1,601 theaters'"},
+					"OpeningWeekend": {"S":"b'$8,008,721'"},
+					"Awards": {"S":"Nominated for Two Oscars."},
+					"GenreRank": {"S":"{'Cyborg / Android / Robot': '24', 'Sci-Fi - Satire': '4'}"},
+					"Franchise": {"S":"{'Series: Robocop': '2'}"},
+					"Chart": {"S":"{BOM Users' Grades: '455', 'Yearly 1987': '16', 'Smallest Drops, All Wide Releases': '627', 'Yearly Opening Weekends (Wide) 1987': '13', 'Opening Weeks': '2,061', 'Yearly Opening Weekends 1987': '12', BOM Users' Grades (1987 Releases): '35', 'Opening Weekends': '2,253', 'Consecutive Weekends At #1': '338', 'Opening Weeks Adjusted': '1,421', 'Yearly R Rated 1987': '9', 'Highest All Time Rank (on October 13, 1987)': '148', 'Most Weekends at #1 (non-consecutive)': '338', 'All Time Domestic': '1,457', 'Fewest Theaters to Debut at #1': '145', 'Opening Weekends Adjusted': '1,624', 'Yearly (Wide) 1987': '15'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Robocop 2'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=robocop2.htm"},
+					"DomesticTotalGross": {"S":"b'$45,681,173'"},
+					"Runtime": {"S":"b'1 hrs. 57 min.'"},
+					"Distributor": {"S":"b'Orion Pictures'"},
+					"Genre": {"S":"b'Sci-Fi Action'"},
+					"ReleaseDate": {"S":"b'June 22, 1990'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Frank Miller'"},
+					"Producer": {"S":"b'Patrick Crowley'"},
+					"Director": {"S":"b'Irvin Kershner'"},
+					"Domestic": {"S":"b'$45,681,173'"},
+					"WidestRelease": {"S":"b'1,806 theaters'"},
+					"OpeningWeekend": {"S":"b'$14,145,411'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Cyborg / Android / Robot': '25', 'Sci-Fi - Satire': '5'}"},
+					"Franchise": {"S":"{'Series: Robocop': '3'}"},
+					"Chart": {"S":"{'Opening Weekends - June': '161', 'Smallest Drops, All Wide Releases': '3,489', 'Yearly Opening Weekends (Wide) 1990': '12', 'Opening Weeks': '1,320', 'Opening Weekends Adjusted': '824', 'Yearly R Rated 1990': '12', 'Opening Weeks Adjusted': '834', 'Yearly 1990': '28', 'Yearly Opening Weekends 1990': '12', 'Highest All Time Rank (on August 14, 1990)': '267', 'Opening Weekends Adjusted - June': '141', 'Yearly (Wide) 1990': '29', 'All Time Domestic': '1,720', 'Opening Weekends': '1,311', BOM Users' Grades (1990 Releases): '75'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Robocop 3'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=robocop3.htm"},
+					"DomesticTotalGross": {"S":"b'$10,696,210'"},
+					"Runtime": {"S":"b'1 hrs. 45 min.'"},
+					"Distributor": {"S":"b'Orion Pictures'"},
+					"Genre": {"S":"b'Sci-Fi Action'"},
+					"ReleaseDate": {"S":"b'November 5, 1993'"},
+					"ProductionBudget": {"S":"b'$22 million'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Frank Miller'"},
+					"Producer": {"S":"b'Patrick Crowley'"},
+					"Domestic": {"S":"b'$10,696,210'"},
+					"WidestRelease": {"S":"b'1,796 theaters'"},
+					"OpeningWeekend": {"S":"b'$4,304,829'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Cyborg / Android / Robot': '36'}"},
+					"Franchise": {"S":"{'Series: Robocop': '4'}"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Wide) 1993': '80', 'Smallest Drops, All Wide Releases': '3,092', 'Opening Weeks': '3,364', 'Highest All Time Rank (on November 30, 1993)': '1341', 'Yearly 1993': '107', 'Opening Weekends': '3,289', 'Yearly PG-13 Rated 1993': '30', 'Opening Weeks Adjusted': '3,047', 'Yearly (Wide) 1993': '98', 'All Time Domestic': '4,343', BOM Users' Grades (1993 Releases): '115', 'Opening Weekends Adjusted': '2,967', 'Yearly Opening Weekends 1993': '73'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Robopocalypse'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=robopocalypse.htm"},
+					"Runtime": {"S":"b'N/A'"},
+					"Distributor": {"S":"b'Unknown'"},
+					"Genre": {"S":"b'Sci-Fi Action'"},
+					"ReleaseDate": {"S":"b'TBD'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Writer": {"S":"b'Drew Goddard'"},
+					"Director": {"S":"b'Steven Spielberg'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Cyborg / Android / Robot': 'n/a', 'Post-Apocalypse': 'n/a'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Robot &amp; Frank'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=robotandfrank.htm"},
+					"DomesticTotalGross": {"S":"b'$3,325,038'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"Distributor": {"S":"b'Samuel Goldwyn'"},
+					"Genre": {"S":"b'Sci-Fi Comedy'"},
+					"ReleaseDate": {"S":"b'August 17, 2012'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Christopher D. Ford'"},
+					"Actor": {"S":"b'Frank Langella, James Marsden, Liv Tyler, Susan Sarandon, Peter Sarsgaard'"},
+					"Director": {"S":"b'Jake Schreier'"},
+					"Domestic": {"S":"b'$3,325,038'"},
+					"Worldwide": {"S":"b'$3,325,038'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'209 theaters'"},
+					"OpeningWeekend": {"S":"b'$35,539'"},
+					"CloseDate": {"S":"b'January 21, 2013'"},
+					"InRelease": {"S":"b'137 days / 19.6 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Cyborg / Android / Robot': '46', 'Sci-Fi Comedy': '52', 'Sundance 2012': '6', 'Future - Near': '67'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '5,890'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Robot Carnival'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=robotcarnival.htm"},
+					"DomesticTotalGross": {"S":"b'$10,642'"},
+					"Runtime": {"S":"b'1 hrs. 31 min.'"},
+					"Distributor": {"S":"b'Streamline'"},
+					"Genre": {"S":"b'Animation'"},
+					"ReleaseDate": {"S":"b'March 15, 1991'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$10,642'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"OpeningWeekend": {"S":"b'$10,642'"},
+					"InRelease": {"S":"b'3 days / 0.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Animation': '398', 'Animation - Anime': '70', 'Animation - Sci-Fi': '46'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 1991': '94', 'Yearly 1991': '238', 'Highest All Time Rank (on March 17, 1991)': '2340', 'Yearly Opening Weekends (Limited) 1991': '89', 'All Time Domestic': '13,279', 'Yearly Opening Weekends 1991': '200'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Robot Jox'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=robotjox.htm"},
+					"DomesticTotalGross": {"S":"b'$1,272,977'"},
+					"Runtime": {"S":"b'1 hrs. 25 min.'"},
+					"Distributor": {"S":"b'Triumph'"},
+					"Genre": {"S":"b'Sci-Fi Action'"},
+					"ReleaseDate": {"S":"b'November 21, 1990'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$1,272,977'"},
+					"WidestRelease": {"S":"b'333 theaters'"},
+					"OpeningWeekend": {"S":"b'$464,441'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Cyborg / Android / Robot': '51'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on December 11, 1990)': '1894', 'Yearly 1990': '181', 'Yearly Opening Weekends 1990': '134', 'Yearly PG Rated 1990': '27', 'Yearly Opening Weekends (Limited) 1990': '28', 'All Time Domestic': '7,018', 'Yearly (Limited) 1990': '52'}"}
+				}
+			}
+		}
+	]
+}

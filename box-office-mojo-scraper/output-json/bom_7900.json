@@ -1,0 +1,653 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Man Trouble'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mantrouble.htm"},
+					"ReleaseDate": {"S":"b'July 17, 1992'"},
+					"Genre": {"S":"b'Romantic Comedy'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$4,096,030'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Gianni Nunnari'"},
+					"Actor": {"S":"b'Jack Nicholson'"},
+					"Domestic": {"S":"b'$4,096,030'"},
+					"WidestRelease": {"S":"b'1,009 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,034,475'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Biggest 2nd Weekend Drops': '160', 'Opening Weeks Adjusted': '4,052', 'All Time Domestic': '5,638', 'Opening Weeks': '4,209', 'Yearly 1992': '124', 'Highest All Time Rank (on August 7, 1992)': '1704', 'Opening Weekends Adjusted': '4,138', 'Smallest Drops, All Wide Releases': '4,265', 'Yearly PG-13 Rated 1992': '38', 'Opening Weekends': '4,274', 'Yearly (Wide) 1992': '109', 'Yearly Opening Weekends (Wide) 1992': '104', 'Yearly Opening Weekends 1992': '99'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Man Up'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manup.htm"},
+					"ReleaseDate": {"S":"b'TBD'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unknown'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Man in the Middle'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=maninthemiddle.htm"},
+					"ReleaseDate": {"S":"b'February 5, 1964'"},
+					"Genre": {"S":"b'War Drama'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 34 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Producer": {"S":"b'Walter Seltzer'"},
+					"Actor": {"S":"b'Robert Mitchum, France Nuyen, Barry Sullivan, Trevor Howard, Keenan Wynn, Sam Wanamaker, Alexander Knox'"},
+					"Cinematographer": {"S":"b'Wilkie Cooper'"},
+					"Writer": {"S":"b'Willis Hall, Keith Waterhouse'"},
+					"Composer": {"S":"b'John Barry'"},
+					"Director": {"S":"b'Guy Hamilton'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Man of Iron'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manofiron.htm"},
+					"ReleaseDate": {"S":"b'November 20, 1981'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'MGM'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$492,035'"},
+					"Runtime": {"S":"b'2 hrs. 33 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$492,035'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{Cannes Film Festival - Palme D'Or winners: '28'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1981': '108', 'All Time Domestic': '8,248'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Man of Steel'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=superman2012.htm"},
+					"ReleaseDate": {"S":"b'June 14, 2013'"},
+					"Genre": {"S":"b'Action / Adventure'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'$225 million'"},
+					"DomesticTotalGross": {"S":"b'$291,045,518'"},
+					"Runtime": {"S":"b'2 hrs. 23 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'David S. Goyer, Christopher Nolan'"},
+					"Producer": {"S":"b'Christopher Nolan, Charles Roven, Deborah Snyder, Emma Thomas, Thomas Tull'"},
+					"Actor": {"S":"b'Henry Cavill, Amy Adams, Michael Shannon, Kevin Costner, Diane Lane, Laurence Fishburne, Ayelet Zurer, Russell Crowe, Christopher Meloni'"},
+					"Composer": {"S":"b'Hans Zimmer'"},
+					"Director": {"S":"b'Zack Snyder'"},
+					"Domestic": {"S":"b'$291,045,518'"},
+					"Worldwide": {"S":"b'$668,045,518'"},
+					"Foreign": {"S":"b'$377,000,000'"},
+					"WidestRelease": {"S":"b'4,207 theaters'"},
+					"CloseDate": {"S":"b'September 19, 2013'"},
+					"OpeningWeekend": {"S":"b'$116,619,362'"},
+					"InRelease": {"S":"b'98 days / 14 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': '26', 'Sci-Fi - Alien Invasion': '6', 'Superhero': '16', 'Comic Book Adaptation': '16', 'Superhero - Origin': '6', 'IMAX (Feature-length)': '38'}"},
+					"Franchise": {"S":"{'Brand: DC Comics': '5', 'Series: Superman': '2', 'Series: DC Extended Universe': '3', 'Showdown: Superhero Origin Showdown': '4', 'Brand: Legendary Pictures': '5', 'Showdown: Superman Vs. Himself': '1'}"},
+					"Chart": {"S":"{'Top 3-Day Grosses': '31', 'Slowest to $200 million': '136', 'Biggest 2nd Weekend Drops': '258', 'Single Day Tuesday Gross': '50', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '846', 'Top 8-Day Grosses': '38', 'Opening Weekends - Summer': '15', 'Fastest to $150 million': '30', 'Highest All Time Rank (on August 29, 2013)': '54', 'Single Day Saturday Gross': '45', 'Independence Day Weekends': '95', 'Opening Weeks Adjusted': '49', 'Single Day Wednesday Gross': '105', 'Top 5-Day Grosses': '38', 'Single Day Gross': '63', 'Smallest Drops, 2,000+ theaters (Very Wide)': '2,163', 'Opening Day Gross': '35', 'All Time Worldwide': '97', 'Widest Opening Releases': '30', 'Rated PG-13, Opening Weekends Adjusted': '34', 'Non-Holiday Monday Gross': '28', 'Single Day Friday Gross': '31', 'Non-Opening Tuesday Gross': '45', 'Second Weekends': '72', 'Single Day Tuesday Gross Adjusted': '81', 'Fastest to $200 million': '37', 'Second Weekends Adjusted': '133', 'Single Day Sunday Gross': '15', 'Fourth Weekends': '167', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,550', 'Rated PG-13': '48', 'Widest PG-13 Rated Releases': '22', 'Widest Releases': '31', 'Rated PG-13 Adjusted': '81', 'Third Weekends': '98', 'Opening Weekends Adjusted': '46', 'Opening Weekends': '28', 'Top 6-Day Grosses': '39', 'Single Day Wednesday Gross Adjusted': '164', 'Worldwide Openings': '48', 'Rated PG-13, Opening Weekends': '24', 'All Time Domestic': '74', 'Theater Averages - Wide Opening Weekends Adjusted': '88', 'Single Day Sunday Gross Adjusted': '25', 'Top 9-Day Grosses': '41', 'Non-Opening Wednesday Gross Adjusted': '107', 'Smallest Drops, All Wide Releases': '4,164', 'Theater Averages - Wide Opening Weekends': '34', 'Single Day Saturday Gross Adjusted': '66', 'Top 10-Day Grosses': '43', 'Single Day Monday Gross Adjusted': '104', 'Opening Weeks': '30', 'Slowest to $100 million': '611', 'Widest PG-13 Rated Openings': '22', 'Fastest to $100 million': '24', 'Opening Weekends Adjusted - Summer': '29', 'Theater Averages (Wide Releases) - All Time Adjusted': '101', 'Friday to Saturday Drops on Opening Weekends': '176', 'Single Day Friday Gross Adjusted': '36', 'Non-Opening Wednesday Gross': '60', 'Single Day Thursday Gross Adjusted': '87', 'Top 4-Day Grosses': '35', 'Non-Opening Tuesday Gross Adjusted': '72', 'Single Day Thursday Gross': '54', 'Single Day Monday Gross': '61', 'Opening Weekends - June': '3', 'Foreign Opening Weekends': '74', 'Theater Averages (Wide Releases) - All Time': '35', 'Opening Weekends Adjusted - June': '6', 'Fastest to $250 million': '44', 'Top 7-Day Grosses': '38'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Man of Tai Chi'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manoftaichi.htm"},
+					"ReleaseDate": {"S":"b'November 1, 2013'"},
+					"Genre": {"S":"b'Action'"},
+					"Distributor": {"S":"b'Radius-TWC'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$100,144'"},
+					"Runtime": {"S":"b'1 hrs. 45 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Keanu Reeves'"},
+					"Director": {"S":"b'Keanu Reeves'"},
+					"Domestic": {"S":"b'$100,144'"},
+					"Worldwide": {"S":"b'$100,144'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'110 theaters'"},
+					"CloseDate": {"S":"b'November 7, 2013'"},
+					"OpeningWeekend": {"S":"b'$61,054'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Action - Martial Arts': '144'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '10,390'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Man of the Century'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manofthecentury.htm"},
+					"ReleaseDate": {"S":"b'October 29, 1999'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Fine Line'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$34,857'"},
+					"Runtime": {"S":"b'1 hrs. 17 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$34,857'"},
+					"WidestRelease": {"S":"b'10 theaters'"},
+					"CloseDate": {"S":"b'November 18, 1999'"},
+					"OpeningWeekend": {"S":"b'$7,724'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'News/Broadcasting': '48'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 1999': '183', 'All Time Domestic': '11,783', 'Yearly (Limited) 1999': '168', 'Yearly R Rated 1999': '162', 'Highest All Time Rank (on November 23, 1999)': '4471', 'Yearly Opening Weekends 1999': '315', 'Yearly 1999': '318'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Man of the House'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manofthehouse.htm"},
+					"ReleaseDate": {"S":"b'March 3, 1995'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$40,070,995'"},
+					"Runtime": {"S":"b'1 hrs. 37 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Chevy Chase, Jonathan Taylor Thomas'"},
+					"Composer": {"S":"b'Mark Mancina'"},
+					"Domestic": {"S":"b'$40,070,995'"},
+					"WidestRelease": {"S":"b'2,059 theaters'"},
+					"OpeningWeekend": {"S":"b'$9,473,317'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - Fish-Out-of-Water Father': '26'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Wide) 1995': '41', 'Opening Weeks Adjusted': '1,804', 'Opening Weekends - March': '171', BOM Users' Grades (1995 Releases): '103', 'Highest All Time Rank (on April 25, 1995)': '489', 'Yearly PG Rated 1995': '9', 'Yearly (Wide) 1995': '39', 'Smallest Drops, All Wide Releases': '970', 'Yearly 1995': '41', 'Yearly Opening Weekends 1995': '39', 'Opening Weekends': '1,978', 'Opening Weekends Adjusted': '1,511', 'Smallest Drops, 2,000+ theaters (Very Wide)': '278', 'Opening Weeks': '2,240', 'Opening Weekends Adjusted - March': '130', 'All Time Domestic': '1,951'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Man of the Year'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manoftheyear.htm"},
+					"ReleaseDate": {"S":"b'October 13, 2006'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$37,327,390'"},
+					"Runtime": {"S":"b'1 hrs. 55 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Cinematographer": {"S":"b'Dick Pope'"},
+					"Producer": {"S":"b'James G. Robinson'"},
+					"Actor": {"S":"b'Robin Williams, Laura Linney, Jeff Goldblum, Christopher Walken'"},
+					"Composer": {"S":"b'Graeme Revell'"},
+					"Director": {"S":"b'Barry Levinson'"},
+					"Domestic": {"S":"b'$37,327,390'"},
+					"Worldwide": {"S":"b'$41,237,648'"},
+					"Foreign": {"S":"b'$3,910,258'"},
+					"WidestRelease": {"S":"b'2,626 theaters'"},
+					"CloseDate": {"S":"b'November 30, 2006'"},
+					"OpeningWeekend": {"S":"b'$12,299,380'"},
+					"InRelease": {"S":"b'49 days / 7 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Political Campaign / Election': '11', 'President': '16', 'Political Satire': '10'}"},
+					"Franchise": {"S":"{'Showdown: President Run-off': '2'}"},
+					"Chart": {"S":"{'Yearly 2006': '85', 'Opening Weekends - Fall': '194', 'Opening Weekends - October': '107', 'Yearly Opening Weekends 2006': '74', 'Worldwide Yearly 2006': '113', 'All Time Domestic': '2,089', 'Opening Weekends Adjusted - October': '120', 'Yearly PG-13 Rated 2006': '39', 'Yearly Opening Weekends (Wide) 2006': '76', 'Opening Weekends Adjusted': '1,793', 'Smallest Drops, All Wide Releases': '2,264', 'Opening Weeks Adjusted': '1,952', 'Smallest Drops, 2,500+ theaters (Saturation)': '651', 'Yearly (Wide) 2006': '86', BOM Users' Grades (2006 Releases): '174', 'Smallest Drops, 2,000+ theaters (Very Wide)': '947', 'Opening Weeks': '1,693', 'Opening Weekends': '1,532'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Man of the Year (1996)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manoftheyear96.htm"},
+					"ReleaseDate": {"S":"b'March 1, 1996'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'7th Art'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$209,935'"},
+					"Runtime": {"S":"b'1 hrs. 25 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$209,935'"},
+					"WidestRelease": {"S":"b'4 theaters'"},
+					"OpeningWeekend": {"S":"b'$26,147'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Mockumentary': '19', 'Gay / Lesbian': '176'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 1996': '72', 'All Time Domestic': '9,359', 'Highest All Time Rank (on March 15, 1996)': '3305', 'Yearly Opening Weekends (Limited) 1996': '77', 'Yearly Opening Weekends 1996': '218', 'Yearly 1996': '255'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Man on Fire'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manonfire.htm"},
+					"ReleaseDate": {"S":"b'April 21, 2004'"},
+					"Genre": {"S":"b'Action Drama'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'$70 million'"},
+					"DomesticTotalGross": {"S":"b'$77,911,774'"},
+					"Runtime": {"S":"b'2 hrs. 26 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Arnon Milchan, Tony Scott'"},
+					"Actor": {"S":"b'Denzel Washington, Dakota Fanning, Radha Mitchell, Christopher Walken, Mickey Rourke*'"},
+					"Cinematographer": {"S":"b'Paul Cameron'"},
+					"Writer": {"S":"b'Brian Helgeland'"},
+					"Composer": {"S":"b', Director'"},
+					"Domestic": {"S":"b'$77,911,774'"},
+					"Worldwide": {"S":"b'$130,293,714'"},
+					"Foreign": {"S":"b'$52,381,940'"},
+					"WidestRelease": {"S":"b'2,986 theaters'"},
+					"CloseDate": {"S":"b'September 6, 2004'"},
+					"OpeningWeekend": {"S":"b'$22,751,490'"},
+					"InRelease": {"S":"b'139 days / 19.9 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Drama - Kidnapping': '3', 'Revenge': '16', 'Action Remake': '5', 'Travelogue - Mexico': '6'}"},
+					"Franchise": {"S":"{'Showdown: Kidnapping Clash': '4', 'Showdown: Denzel Washington Thriller Throwdown': '2'}"},
+					"Chart": {"S":"{'Yearly 2004': '34', 'Opening Weekends Adjusted - April': '29', 'Opening Weeks Adjusted': '802', 'All Time Domestic': '915', 'Rated R, Opening Weekends': '173', 'Worldwide Yearly 2004': '40', 'Smallest Drops, All Wide Releases': '1,377', BOM Users' Grades: '256', 'Opening Weekends Adjusted - Spring': '86', 'Yearly Opening Weekends 2004': '37', 'Opening Weekends - Spring': '97', 'Smallest Drops, 2,000+ theaters (Very Wide)': '474', 'Opening Weeks': '790', 'Yearly Opening Weekends (Wide) 2004': '37', 'Rated R, Opening Weekends Adjusted': '176', 'Opening Weekends - April': '34', 'Opening Weekends Adjusted': '720', 'Highest All Time Rank (on June 22, 2004)': '428', BOM Users' Grades (2004 Releases): '33', 'Smallest Drops, 2,500+ theaters (Saturation)': '311', 'Yearly (Wide) 2004': '33', 'Yearly R Rated 2004': '5', 'Opening Weekends': '722'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Man on Fire (1987)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manonfire87.htm"},
+					"ReleaseDate": {"S":"b'October 9, 1987'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'TriStar'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$519,596'"},
+					"Runtime": {"S":"b'1 hrs. 32 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Arnon Milchan'"},
+					"Actor": {"S":"b'Scott Glenn, Joe Pesci, Brooke Adams, Jonathan Pryce, Danny Aiello'"},
+					"Domestic": {"S":"b'$519,596'"},
+					"WidestRelease": {"S":"b'178 theaters'"},
+					"CloseDate": {"S":"b'October 29, 1987'"},
+					"OpeningWeekend": {"S":"b'$258,812'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Drama - Kidnapping': '25'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 1987': '58', 'All Time Domestic': '8,184', 'Yearly Opening Weekends 1987': '138', 'Yearly R Rated 1987': '102', 'Highest All Time Rank (on July 5, 1988)': '1061', 'Yearly 1987': '202', 'Yearly Opening Weekends (Limited) 1987': '32'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Man on Wire'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manonwire.htm"},
+					"ReleaseDate": {"S":"b'July 25, 2008'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'Magnolia'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$2,962,242'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Director": {"S":"b'James Marsh'"},
+					"Domestic": {"S":"b'$2,962,242'"},
+					"Worldwide": {"S":"b'$5,258,569'"},
+					"Foreign": {"S":"b'$2,296,327'"},
+					"WidestRelease": {"S":"b'93 theaters'"},
+					"CloseDate": {"S":"b'March 5, 2009'"},
+					"OpeningWeekend": {"S":"b'$51,392'"},
+					"InRelease": {"S":"b'189 days / 27 weeks'"},
+					"Awards": {"S":"Nominated for One Oscar, Including One Win."},
+					"GenreRank": {"S":"{'Documentary': '71'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{BOM Users' Grades (2008 Releases): '10', 'All Time Domestic': '6,029', 'Worldwide Yearly 2008': '241', 'Yearly Opening Weekends (Limited) 2008': '114', 'Yearly (Limited) 2008': '23', 'Yearly Opening Weekends 2008': '266', 'Yearly PG-13 Rated 2008': '92', 'Yearly 2008': '189'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Man on a Ledge'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manonaledge.htm"},
+					"ReleaseDate": {"S":"b'January 27, 2012'"},
+					"Genre": {"S":"b'Thriller'"},
+					"Distributor": {"S":"b'Lionsgate/Summit'"},
+					"ProductionBudget": {"S":"b'$42 million'"},
+					"DomesticTotalGross": {"S":"b'$18,620,000'"},
+					"Runtime": {"S":"b'1 hrs. 42 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Pablo F. Fenjves'"},
+					"Producer": {"S":"b'Lorenzo di Bonaventura, Mark Vahradian'"},
+					"Actor": {"S":"b'Sam Worthington, Elizabeth Banks, Jamie Bell, Ed Harris, Edward Burns, Anthony Mackie, Kyra Sedgwick'"},
+					"Composer": {"S":"b'Henry Jackman'"},
+					"Director": {"S":"b'Asger Leth'"},
+					"Domestic": {"S":"b'$18,620,000'"},
+					"Worldwide": {"S":"b'$46,221,189'"},
+					"Foreign": {"S":"b'$27,601,189'"},
+					"WidestRelease": {"S":"b'2,998 theaters'"},
+					"CloseDate": {"S":"b'March 1, 2012'"},
+					"OpeningWeekend": {"S":"b'$8,001,932'"},
+					"InRelease": {"S":"b'35 days / 5 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Heist / Caper': '50', 'Revenge': '48', 'Crime Time': '50'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Saturday Share of Opening Weekends': '186', 'Worst Openings - Saturated': '162', 'All Time Domestic': '3,375', 'Worst Openings - Saturated Adjusted': '125', 'Biggest Theater Drops': '119', 'Opening Weekends Adjusted': '3,012', 'Smallest Drops, All Wide Releases': '2,488', 'Opening Weekends - January': '158', 'Opening Weeks Adjusted': '3,105', 'Smallest Drops, 2,500+ theaters (Saturation)': '751', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,080', 'Opening Weeks': '2,369', 'Opening Weekends': '2,258'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Man on a Mission'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manonamission.htm"},
+					"ReleaseDate": {"S":"b'January 13, 2012'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'First Run'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$8,688'"},
+					"Runtime": {"S":"b'1 hrs. 23 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$8,688'"},
+					"WidestRelease": {"S":"b'5 theaters'"},
+					"CloseDate": {"S":"b'February 23, 2012'"},
+					"OpeningWeekend": {"S":"b'$3,430'"},
+					"InRelease": {"S":"b'42 days / 6 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '1234'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '13,493'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Man on the Flying Trapeze'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manontheflyingtrapeze.htm"},
+					"ReleaseDate": {"S":"b'August 3, 1935'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 5 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Cinematographer": {"S":"b'Alfred Gilks'"},
+					"Writer": {"S":"b'Ray Harris'"},
+					"Producer": {"S":"b'William LeBaron'"},
+					"Actor": {"S":"b'W.C. Fields, Mary Brian, Kathleen Howard, Grady Sutton, Vera Lewis, Lucien Littlefield, Tammany Young, Walter Brennan'"},
+					"Director": {"S":"b'Clyde Bruckman'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Man on the Moon'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manonthemoon.htm"},
+					"ReleaseDate": {"S":"b'December 22, 1999'"},
+					"Genre": {"S":"b'Comedy / Drama'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'$82 million'"},
+					"DomesticTotalGross": {"S":"b'$34,607,430'"},
+					"Runtime": {"S":"b'1 hrs. 59 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Scott Alexander, Larry Karaszewski'"},
+					"Producer": {"S":"b'Michael Shamberg, Stacey Sher'"},
+					"Actor": {"S":"b'Jim Carrey, Courtney Love, Paul Giamatti, Danny DeVito'"},
+					"Cinematographer": {"S":"b'Anastas N.  Michos'"},
+					"Domestic": {"S":"b'$34,607,430'"},
+					"Worldwide": {"S":"b'$47,434,430'"},
+					"Foreign": {"S":"b'$12,827,000'"},
+					"WidestRelease": {"S":"b'2,079 theaters'"},
+					"CloseDate": {"S":"b'February 24, 2000'"},
+					"OpeningWeekend": {"S":"b'$7,515,585'"},
+					"InRelease": {"S":"b'65 days / 9.3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Hollywood / Movies': '25'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Worldwide Yearly 1999': '66', 'Yearly (Wide) 1999': '60', 'All Time Domestic': '2,240', 'Highest All Time Rank (on August 28, 2002)': '838', 'Yearly R Rated 1999': '29', 'Opening Weekends Adjusted - December': '190', 'Opening Weekends - December': '194', 'Opening Weekends Adjusted': '2,244', 'Smallest Drops, All Wide Releases': '961', 'Yearly Opening Weekends (Wide) 1999': '71', 'Opening Weeks Adjusted': '1,609', BOM Users' Grades (1999 Releases): '29', 'Opening Weekends': '2,352', 'Movies That Never Hit the Top 5 Adjusted': '68', 'Movies That Never Hit the Top 5': '89', 'Smallest Drops, 2,000+ theaters (Very Wide)': '275', 'Opening Weeks': '1,804', 'Sunday Share of Opening Weekends': '16', 'Yearly Opening Weekends 1999': '66', 'Yearly 1999': '58'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Man on the Train'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manonthetrain.htm"},
+					"ReleaseDate": {"S":"b'May 9, 2003'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Paramount Classics'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$2,542,020'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$2,542,020'"},
+					"Worldwide": {"S":"b'$7,585,989'"},
+					"Foreign": {"S":"b'$5,043,969'"},
+					"WidestRelease": {"S":"b'85 theaters'"},
+					"CloseDate": {"S":"b'November 30, 2003'"},
+					"OpeningWeekend": {"S":"b'$41,138'"},
+					"InRelease": {"S":"b'203 days / 29 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '162'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 2003': '71', 'Worldwide Yearly 2003': '184', 'All Time Domestic': '6,189', 'Yearly (Limited) 2003': '42', 'Yearly Opening Weekends 2003': '255', 'Highest All Time Rank (on August 21, 2003)': '3796', 'Yearly Opening Weekends (Limited) 2003': '126', 'Yearly 2003': '182'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Man with a Plan'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manwithaplan.htm"},
+					"ReleaseDate": {"S":"b'May 31, 1996'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Fred Herman Co.'"},
+					"ProductionBudget": {"S":"b'$100,000'"},
+					"DomesticTotalGross": {"S":"b'$33,402'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$33,402'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"CloseDate": {"S":"b'August 8, 1996'"},
+					"OpeningWeekend": {"S":"b'$6,920'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Mockumentary': '30'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 1996': '98', 'All Time Domestic': '11,837', 'Yearly Opening Weekends (Limited) 1996': '105', 'Yearly Opening Weekends 1996': '246', 'Yearly 1996': '286', 'Highest All Time Rank (on June 14, 1996)': '3514'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bMan's Best Friend"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mansbestfriend.htm"},
+					"ReleaseDate": {"S":"b'November 19, 1993'"},
+					"Genre": {"S":"b'Horror'"},
+					"Distributor": {"S":"b'New Line'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$12,974,636'"},
+					"Runtime": {"S":"b'1 hrs. 27 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Lance Henriksen'"},
+					"Domestic": {"S":"b'$12,974,636'"},
+					"WidestRelease": {"S":"b'1,230 theaters'"},
+					"OpeningWeekend": {"S":"b'$3,861,079'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Dog': '39'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '3,167', 'Yearly Opening Weekends 1993': '85', 'All Time Domestic': '4,042', 'Highest All Time Rank (on December 21, 1993)': '1214', 'Yearly 1993': '92', 'Yearly R Rated 1993': '37', 'Opening Weekends Adjusted': '3,162', 'Smallest Drops, All Wide Releases': '877', 'Yearly (Wide) 1993': '86', 'Opening Weekends': '3,472', 'Yearly Opening Weekends (Wide) 1993': '93', 'Post-Thanksgiving Weekend  - Biggest Drops': '180', 'Opening Weeks': '3,461'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Man, Woman and Child'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manwomanandchild.htm"},
+					"ReleaseDate": {"S":"b'April 1, 1983'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$2,314,561'"},
+					"Runtime": {"S":"b'1 hrs. 39 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Craig T. Nelson'"},
+					"Domestic": {"S":"b'$2,314,561'"},
+					"WidestRelease": {"S":"b'350 theaters'"},
+					"OpeningWeekend": {"S":"b'$802,702'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 1983': '33', 'Yearly 1983': '122', 'Yearly Opening Weekends (Limited) 1983': '26', 'All Time Domestic': '6,302', 'Yearly Opening Weekends 1983': '102', 'Yearly PG Rated 1983': '58', 'Highest All Time Rank (on December 14, 1985)': '596'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Man-Thing'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=man-thing.htm"},
+					"ReleaseDate": {"S":"b'N/A'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Lions Gate'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Avi Arad'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comic Book Adaptation': '149'}"},
+					"Franchise": {"S":"{'Brand: Marvel Comics': '45'}"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Management'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=management.htm"},
+					"ReleaseDate": {"S":"b'May 15, 2009'"},
+					"Genre": {"S":"b'Romantic Comedy'"},
+					"Distributor": {"S":"b'Samuel Goldwyn'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$934,658'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Jennifer Aniston, Marty Bowen, Wyck Godfrey, Sidney Kimmel'"},
+					"Actor": {"S":"b'Jennifer Aniston, Steve Zahn, Woody Harrelson'"},
+					"Composer": {"S":"b'Mychael Danna, Rob Simonsen'"},
+					"Domestic": {"S":"b'$934,658'"},
+					"Worldwide": {"S":"b'$2,401,743'"},
+					"Foreign": {"S":"b'$1,467,085'"},
+					"WidestRelease": {"S":"b'212 theaters'"},
+					"CloseDate": {"S":"b'August 6, 2009'"},
+					"OpeningWeekend": {"S":"b'$375,916'"},
+					"InRelease": {"S":"b'84 days / 12 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Romantic Comedy': '340'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 2009': '69', 'All Time Domestic': '7,443', 'Yearly Opening Weekends 2009': '162', 'Yearly (Limited) 2009': '51', BOM Users' Grades (2009 Releases): '135', 'Yearly 2009': '202', 'Worldwide Yearly 2009': '230', 'Yearly Opening Weekends (Limited) 2009': '24'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Manakamana'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manakamana.htm"},
+					"ReleaseDate": {"S":"b'April 18, 2014'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'Cinema Guild'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$30,029'"},
+					"Runtime": {"S":"b'1 hrs. 58 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$30,029'"},
+					"WidestRelease": {"S":"b'4 theaters'"},
+					"CloseDate": {"S":"b'December 18, 2014'"},
+					"OpeningWeekend": {"S":"b'$3,635'"},
+					"InRelease": {"S":"b'119 days / 17 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '924'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '11,995'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Manchester by the Sea'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manchesterbythesea.htm"},
+					"ReleaseDate": {"S":"b'November 18, 2016'"},
+					"DomesticTotalasofMar.19,2017": {"S":"b'$47,614,786'"},
+					"Distributor": {"S":"b'Roadside Attractions'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Genre": {"S":"b'Drama'"},
+					"Runtime": {"S":"b'2 hrs. 15 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Kenneth Lonergan'"},
+					"Actor": {"S":"b'Casey Affleck, Kyle Chandler, Tate Donovan, Gretchen Mol, Michelle Williams'"},
+					"Director": {"S":"b'Kenneth Lonergan'"},
+					"Domestic": {"S":"b'$47,614,786'"},
+					"Worldwide": {"S":"b'$62,201,310'"},
+					"Foreign": {"S":"b'$14,586,524'"},
+					"InRelease": {"S":"b'122 days / 17.4 weeks'"},
+					"WidestRelease": {"S":"b'1,213 theaters'"},
+					"LimitedOpeningWeekend": {"S":"b'<b> $256,498</b>'"},
+					"WideOpeningWeekend": {"S":"b'$4,223,828'"},
+					"Awards": {"S":"Nominated for Six Oscars, Including Two Wins."},
+					"GenreRank": {"S":"{'Sundance 2016': '1'}"},
+					"Franchise": {"S":"{'Brand: Amazon Studios': '1'}"},
+					"Chart": {"S":"{'Theater Averages - All Time Adjusted': '79', 'All Time Domestic': '1,654', 'Theater Averages - Opening Weekends Adjusted': '192', 'Movies That Never Hit the Top 5 Adjusted': '125', 'Top Movies in the Past 365 Days': '69', 'Opening Weekends Adjusted': '4,156', 'Smallest Drops, All Wide Releases': '1,420', 'Opening Weeks Adjusted': '3,900', 'Theater Averages - Opening Weekends': '69', 'Opening Weekends': '3,321', 'Best Picture Nomination Effect': '121', 'Movies That Never Hit the Top 5': '34', 'Opening Weeks': '3,048'}"}
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,640 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Marty'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=marty.htm"},
+					"ReleaseDate": {"S":"b'1955'"},
+					"Genre": {"S":"b'Romance'"},
+					"Distributor": {"S":"b'United Artists'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Producer": {"S":"b'Harold Hecht, Paddy Chayefsky'"},
+					"Actor": {"S":"b'Ernest Borgnine, Betsy Blair, Esther Minciotti, Augusta Ciolli, Joe Mantell'"},
+					"Cinematographer": {"S":"b'Joseph LaShelle'"},
+					"Writer": {"S":"b'Paddy Chayefsky'"},
+					"Composer": {"S":"b'Roy Webb'"},
+					"Director": {"S":"b'Delbert Mann'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bMarvel's The Avengers"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=avengers11.htm"},
+					"ReleaseDate": {"S":"b'May 4, 2012'"},
+					"Genre": {"S":"b'Action / Adventure'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"ProductionBudget": {"S":"b'$220 million'"},
+					"DomesticTotalGross": {"S":"b'$623,357,910'"},
+					"Runtime": {"S":"b'2 hrs. 22 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Zak Penn, Joss Whedon'"},
+					"Producer": {"S":"b'Victoria Alonso, Louis DEsposito, Jon Favreau, Kevin Feige, Alan Fine, Jeremy Latcham , Stan Lee, Patricia Whitcher'"},
+					"Actor": {"S":"b'Chris Hemsworth, Chris Evans, Jeremy Renner, Mark Ruffalo, Scarlett Johansson, Clark Gregg, Samuel L. Jackson, Cobie Smulders, Tom Hiddleston, Stellan Skarsgard, Gwyneth Paltrow*, Paul Bettany*'"},
+					"Composer": {"S":"b'Alan Silvestri'"},
+					"Director": {"S":"b'Joss Whedon'"},
+					"Domestic": {"S":"b'$623,357,910'"},
+					"Worldwide": {"S":"b'$1,518,812,988'"},
+					"Foreign": {"S":"b'$895,455,078'"},
+					"WidestRelease": {"S":"b'4,349 theaters'"},
+					"CloseDate": {"S":"b'October 4, 2012'"},
+					"OpeningWeekend": {"S":"b'$207,438,708'"},
+					"InRelease": {"S":"b'154 days / 22 weeks'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"{'3D': '4', 'Sci-Fi - Alien Invasion': '1', 'Superhero': '1', 'Comic Book Adaptation': '1', 'IMAX (Feature-length)': '4'}"},
+					"Franchise": {"S":"{Showdown: 'Avengers' Vs. 'Iron Man 3': '1', 'Series: Marvel Cinematic Universe': '1', 'Showdown: Summer Starter Skirmish': '1', 'Showdown: All Time Grossers': '4', 'Showdown: King Size Domestic Grosses': '4', 'Showdown: Avatar vs. Avengers vs. Jurassic World': '3', 'Showdown: Marvel Comics Showdown': '1', 'Showdown: Avengers Assemble': '1', 'Showdown: Blockbuster Superhero Showdown': '1', 'Series: Avengers': '1', 'Brand: Marvel Comics': '1'}"},
+					"Chart": {"S":"{'Top 3-Day Grosses': '3', 'Seventh Weekends': '15', 'Seventh Weekends Adjusted': '86', 'Fifth Weekends': '6', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '500', 'Top 5-Day Grosses': '3', 'Opening Weekends - Summer': '2', 'Non-Opening Thursday Gross Adjusted': '65', 'Non-Opening Friday Gross': '13', 'Single Day Saturday Gross': '2', 'Memorial Day 4-Day Holiday Weekends': '30', 'Highest All Time Rank (on June 3, 2012)': '3', 'Single Day Gross': '6', 'All Time Worldwide': '5', 'Widest Opening Releases': '9', 'Theater Averages - All Time Adjusted': '157', 'Non-Holiday Monday Gross': '10', 'Non-Opening Tuesday Gross': '10', 'Second Weekends': '3', 'Summer Starts': '1', 'Single Day Sunday Gross': '3', 'Opening Weekends': '3', 'Widest PG-13 Rated Releases': '7', 'Consecutive Weekends At #1': '62', 'Most Weekends at #1 (non-consecutive)': '79', 'Rated PG-13 Adjusted': '7', 'Smallest Drops, 2,500+ theaters (Saturation)': '989', 'Top 6-Day Grosses': '3', 'Single Day Wednesday Gross Adjusted': '73', 'Fastest to $100 million': '3', 'Rated PG-13, Opening Weekends': '3', 'Smallest Drops, All Wide Releases': '2,999', 'Ninth Weekends': '47', 'Opening Weekends Adjusted - May': '1', 'Single Day Saturday Gross Adjusted': '1', 'All Time Adjusted': '29', 'Fastest to $400 million': '3', 'Eleventh Weekends': '140', 'Third Weekends Adjusted': '5', 'Opening Weekends Adjusted - Summer': '1', 'Tenth Weekends': '122', 'Eighth Weekends': '21', 'Theater Averages - Wide Opening Weekends Adjusted': '5', 'Single Day Thursday Gross Adjusted': '78', 'Top 4-Day Grosses': '3', 'Non-Opening Tuesday Gross Adjusted': '10', 'Single Day Tuesday Gross': '13', 'Fastest to $450 million': '3', 'Fastest to $350 million': '3', 'Widest Releases': '10', 'Foreign Opening Weekends': '18', 'Theater Averages (Wide Releases) - All Time': '62', 'Top 7-Day Grosses': '3', 'Slowest to $200 million': '170', 'Opening Weeks Adjusted': '3', 'Opening Weekends - May': '1', 'Single Day Thursday Gross': '48', 'Widest PG-13 Rated Openings': '7', 'Top 8-Day Grosses': '3', 'Worldwide Openings': '7', 'Theater Averages - Opening Weekends': '123', 'Single Day Monday Gross': '18', 'Single Day Wednesday Gross': '47', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,399', 'Eighth Weekends Adjusted': '84', 'All Time Domestic': '5', 'Sixth Weekends': '18', 'Single Day Friday Gross': '6', 'Sixth Weekends Adjusted': '89', 'Opening Weekends Adjusted': '2', 'Fastest to $200 million': '3', 'Second Weekends Adjusted': '3', 'Rated PG-13, Opening Weekends Adjusted': '2', 'Fourth Weekends': '3', 'Rated PG-13': '5', 'Third Weekends': '3', 'Single Day Monday Gross Adjusted': '27', 'Fastest to $150 million': '3', 'Opening Day Gross': '6', 'Fastest to $250 million': '3', 'Single Day Sunday Gross Adjusted': '1', 'Top 9-Day Grosses': '3', 'Non-Opening Wednesday Gross Adjusted': '34', 'Ninth Weekends Adjusted': '127', 'Theater Averages - Wide Opening Weekends': '3', 'Top 10-Day Grosses': '3', 'Opening Weeks': '3', 'Slowest to $100 million': '632', 'Fastest to $500 million': '3', 'Theater Averages (Wide Releases) - All Time Adjusted': '5', 'Single Day Friday Gross Adjusted': '3', 'Fifth Weekends Adjusted': '27', 'Non-Opening Wednesday Gross': '22', 'Single Day Tuesday Gross Adjusted': '14', 'Fourth Weekends Adjusted': '7', 'Fastest to $300 million': '3', 'Non-Opening Thursday Gross': '36', 'Non-Opening Friday Gross Adjusted': '24'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Marvin the Martian'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=marvinthemartian.htm"},
+					"ReleaseDate": {"S":"b'TBD'"},
+					"Genre": {"S":"b'Animation'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Animation - Sci-Fi': 'n/a', 'Animation': 'n/a'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bMarvin's Room"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=marvinsroom.htm"},
+					"ReleaseDate": {"S":"b'December 20, 1996'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Miramax'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$12,803,305'"},
+					"Runtime": {"S":"b'1 hrs. 38 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Scott Rudin'"},
+					"Actor": {"S":"b'Meryl Streep, Leonardo DiCaprio, Diane Keaton, Robert DeNiro'"},
+					"Composer": {"S":"b'Rachel Portman'"},
+					"Director": {"S":"b'Jerry Zaks'"},
+					"Domestic": {"S":"b'$12,803,305'"},
+					"WidestRelease": {"S":"b'1,158 theaters'"},
+					"LimitedOpeningWeekend": {"S":"b'<b> $57,739</b>'"},
+					"WideOpeningWeekend": {"S":"b'$3,250,409'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 1996': '54', 'Opening Weeks Adjusted': '3,669', 'All Time Domestic': '4,061', BOM Users' Grades (1996 Releases): '29', 'Yearly Opening Weekends (Wide) 1997': '119', 'Yearly (Wide) 1997': '110', 'Yearly Opening Weekends 1996': '195', 'Opening Weekends Adjusted': '3,634', 'Smallest Drops, All Wide Releases': '908', 'Highest All Time Rank (on April 4, 1997)': '1559', 'Opening Weekends': '3,743', 'Yearly PG-13 Rated 1996': '36', 'Opening Weeks': '3,790', 'Yearly 1996': '112'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Marwencol'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=marwencol.htm"},
+					"ReleaseDate": {"S":"b'October 8, 2010'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'Cinema Guild'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$112,036'"},
+					"Runtime": {"S":"b'1 hrs. 23 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$112,036'"},
+					"WidestRelease": {"S":"b'6 theaters'"},
+					"CloseDate": {"S":"b'May 22, 2011'"},
+					"OpeningWeekend": {"S":"b'$3,276'"},
+					"InRelease": {"S":"b'220 days / 31.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '557'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '10,196'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mary'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mary.htm"},
+					"ReleaseDate": {"S":"b'N/A'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'IFC'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Actor": {"S":"b'Juliette Binoche, Matthew Modine, Forest Whitaker, Heather Graham, Marion Cotillard'"},
+					"Director": {"S":"b'Abel Ferrara'"},
+					"Domestic": {"S":"b'n/a'"},
+					"Worldwide": {"S":"b'$668,779'"},
+					"Foreign": {"S":"b'$668,779'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mary Kom'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=marykom.htm"},
+					"ReleaseDate": {"S":"b'September 5, 2014'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Eros'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$621,300'"},
+					"Runtime": {"S":"b'2 hrs. 2 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$621,300'"},
+					"Worldwide": {"S":"b'$621,300'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'139 theaters'"},
+					"CloseDate": {"S":"b'September 18, 2014'"},
+					"OpeningWeekend": {"S":"b'$370,277'"},
+					"InRelease": {"S":"b'14 days / 2 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sports - Boxing': '39', 'Foreign Language': '567'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '7,949'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mary Poppins'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=marypoppins.htm"},
+					"ReleaseDate": {"S":"b'August 29, 1964'"},
+					"Runtime": {"S":"b'2 hrs. 19 min.'"},
+					"Distributor": {"S":"b'Disney'"},
+					"DomesticLifetimeGross": {"S":"b''"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$31,000,000'"},
+					"Genre": {"S":"b'Family'"},
+					"MPAARating": {"S":"b'G'"},
+					"Actor": {"S":"b'Julie Andrews'"},
+					"Domestic": {"S":"b'$102,272,727'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Rated G': '36', 'All Time Domestic': '628', 'Highest All Time Rank (on January 1, 1982)': '27', BOM Users' Grades: '173', 'All Time Adjusted': '27', 'Rated G Adjusted': '8', 'Rated G and PG Adjusted': '17'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mary Poppins (Undocumented Releases)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=marypoppins_unknown.htm"},
+					"ReleaseDate": {"S":"b'January 1, 1966'"},
+					"Runtime": {"S":"b'2 hrs. 19 min.'"},
+					"Distributor": {"S":"b'Disney'"},
+					"DomesticLifetimeGross": {"S":"b''"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$57,272,727'"},
+					"Genre": {"S":"b'Family'"},
+					"MPAARating": {"S":"b'G'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$102,272,727'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mary Poppins (re-issue)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=marypoppins80.htm"},
+					"ReleaseDate": {"S":"b'May 23, 1980'"},
+					"Runtime": {"S":"b'2 hrs. 19 min.'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"DomesticLifetimeGross": {"S":"b''"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$14,000,000'"},
+					"Genre": {"S":"b'Musical'"},
+					"MPAARating": {"S":"b'G'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$102,272,727'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1980': '54'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mary Poppins Returns'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=disneyliveaction22018.htm"},
+					"ReleaseDate": {"S":"b'December 25, 2018'"},
+					"Genre": {"S":"b'Musical'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Writer": {"S":"b'David Magee'"},
+					"Producer": {"S":"b'John DeLuca, Rob Marshall, Marc Platt'"},
+					"Actor": {"S":"b'Emily Blunt, Emily Mortimer, Ben Whishaw, Julie Walters, Colin Firth, Meryl Streep, Dick Van Dyke, Angela Lansbury'"},
+					"Composer": {"S":"b'Marc Shaiman'"},
+					"Director": {"S":"b'Rob Marshall'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mary Reilly'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=maryreilly.htm"},
+					"ReleaseDate": {"S":"b'February 23, 1996'"},
+					"Genre": {"S":"b'Period Horror'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$5,707,094'"},
+					"Runtime": {"S":"b'1 hrs. 48 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Christopher Hampton'"},
+					"Actor": {"S":"b'Julia Roberts, John Malkovich, Glenn Close, Michael Sheen'"},
+					"Composer": {"S":"b'George Fenton'"},
+					"Director": {"S":"b'Stephen Frears'"},
+					"Domestic": {"S":"b'$5,707,094'"},
+					"Worldwide": {"S":"b'$12,379,402'"},
+					"Foreign": {"S":"b'$6,672,308'"},
+					"WidestRelease": {"S":"b'1,470 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,812,620'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Horror - Period': '24'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Wide) 1996': '135', 'All Time Domestic': '5,235', 'Highest All Time Rank (on March 15, 1996)': '2042', BOM Users' Grades (1996 Releases): '125', 'Yearly Opening Weekends (Wide) 1996': '125', 'Yearly Opening Weekends 1996': '117', 'Yearly R Rated 1996': '66', 'Smallest Drops, All Wide Releases': '2,960', 'Opening Weeks Adjusted': '3,865', 'Opening Weekends': '3,926', 'Opening Weekends Adjusted': '3,796', 'Opening Weeks': '3,992', 'Yearly 1996': '144', 'Worldwide Yearly 1996': '53'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bMary Shelley's Frankenstein"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=maryshelleysfrankenstein.htm"},
+					"ReleaseDate": {"S":"b'November 4, 1994'"},
+					"Genre": {"S":"b'Period Horror'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"ProductionBudget": {"S":"b'$45 million'"},
+					"DomesticTotalGross": {"S":"b'$22,006,296'"},
+					"Runtime": {"S":"b'2 hrs. 3 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Frank Darabont'"},
+					"Actor": {"S":"b'Helena Bonham Carter, Robert DeNiro, Kenneth Branagh, Ian Holm*'"},
+					"Composer": {"S":"b'Patrick Doyle'"},
+					"Director": {"S":"b'Kenneth Branagh'"},
+					"Domestic": {"S":"b'$22,006,296'"},
+					"Worldwide": {"S":"b'$112,006,296'"},
+					"Foreign": {"S":"b'$90,000,000'"},
+					"WidestRelease": {"S":"b'2,177 theaters'"},
+					"OpeningWeekend": {"S":"b'$11,212,889'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"{'Horror - Period': '21', 'Sci-Fi Horror': '25'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on December 2, 1994)': '859', 'Yearly Opening Weekends (Wide) 1994': '26', 'Biggest 2nd Weekend Drops': '177', 'Opening Weeks Adjusted': '1,306', 'All Time Domestic': '3,045', BOM Users' Grades (1994 Releases): '62', 'Worldwide Yearly 1994': '22', 'Yearly R Rated 1994': '22', 'Yearly Opening Weekends 1994': '24', 'Opening Weekends Adjusted': '1,155', 'Smallest Drops, All Wide Releases': '4,247', 'Opening Weekends - November': '178', 'Opening Weekends': '1,680', 'Smallest Drops, 2,000+ theaters (Very Wide)': '2,214', 'Opening Weeks': '1,836', 'Yearly 1994': '59', 'Opening Weekends Adjusted - November': '138', 'Yearly (Wide) 1994': '62'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mary of Scotland'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=maryofscotland.htm"},
+					"ReleaseDate": {"S":"b'August 28, 1936'"},
+					"Genre": {"S":"b'Historical Drama'"},
+					"Distributor": {"S":"b'RKO'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'2 hrs. 3 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Producer": {"S":"b'Pandro S. Berman'"},
+					"Actor": {"S":"b'Katharine Hepburn, Fredric March, Florence Eldridge, Douglas Walton, John Carradine, Robert Barrat'"},
+					"Cinematographer": {"S":"b'Joseph H. August'"},
+					"Writer": {"S":"b'Dudley Nichols'"},
+					"Composer": {"S":"b'Nathaniel Shilkret'"},
+					"Director": {"S":"b'John Ford'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Maryam'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=maryam.htm"},
+					"ReleaseDate": {"S":"b'February 22, 2002'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Streetlight'"},
+					"DomesticTotalasofAug.11,2002": {"S":"b'$129,265'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 27 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$129,265'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,210'"},
+					"InRelease": {"S":"b'171 days / 24.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2002': '334', 'Yearly (Limited) 2002': '174', 'All Time Domestic': '10,007', 'Yearly Unrated Movies 2002': '51', 'Highest All Time Rank (on August 28, 2002)': '4110', 'Yearly Opening Weekends 2002': '414', 'Yearly Opening Weekends (Limited) 2002': '274'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mas Negro Que La Noche'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=masnegroquelanoche.htm"},
+					"ReleaseDate": {"S":"b'September 26, 2014'"},
+					"Genre": {"S":"b'Foreign / Horror'"},
+					"Distributor": {"S":"b'Lionsgate'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$870,063'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$870,063'"},
+					"Worldwide": {"S":"b'$6,091,063'"},
+					"Foreign": {"S":"b'$5,221,000'"},
+					"WidestRelease": {"S":"b'178 theaters'"},
+					"CloseDate": {"S":"b'October 23, 2014'"},
+					"OpeningWeekend": {"S":"b'$539,867'"},
+					"InRelease": {"S":"b'28 days / 4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': '269', 'Horror Remake': '59', 'Foreign Language': '451', 'Horror - Supernatural': '123'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '7,535'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Masai: The Rain Warriors'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=masai.htm"},
+					"ReleaseDate": {"S":"b'October 20, 2006'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Artmattan Prods.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$7,650'"},
+					"Runtime": {"S":"b'1 hrs. 34 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$7,650'"},
+					"Worldwide": {"S":"b'$1,163,922'"},
+					"Foreign": {"S":"b'$1,156,272'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"CloseDate": {"S":"b'April 29, 2007'"},
+					"OpeningWeekend": {"S":"b'$788'"},
+					"InRelease": {"S":"b'77 days / 11 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1811'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2006': '542', 'Yearly Unrated Movies 2006': '166', 'Yearly Opening Weekends 2006': '585', 'Worldwide Yearly 2006': '298', 'All Time Domestic': '13,620', 'Yearly (Limited) 2006': '367', 'Yearly Opening Weekends (Limited) 2006': '427'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Masculine Feminine (Re-issue)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=masculinefeminine05.htm"},
+					"ReleaseDate": {"S":"b'February 11, 2005'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Rialto'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$200,380'"},
+					"Runtime": {"S":"b'1 hrs. 43 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$200,380'"},
+					"WidestRelease": {"S":"b'4 theaters'"},
+					"CloseDate": {"S":"b'September 8, 2005'"},
+					"OpeningWeekend": {"S":"b'$26,855'"},
+					"InRelease": {"S":"b'210 days / 30 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '913'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2005': '153', 'All Time Domestic': '9,434', 'Yearly 2005': '313', 'Yearly Opening Weekends (Limited) 2005': '147', 'Yearly Unrated Movies 2005': '45', 'Yearly Opening Weekends 2005': '286'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mask'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mask85.htm"},
+					"ReleaseDate": {"S":"b'March 8, 1985'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$48,230,162'"},
+					"Runtime": {"S":"b'2 hrs. 7 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Cher, Sam Elliott, Eric Stoltz'"},
+					"Domestic": {"S":"b'$48,230,162'"},
+					"WidestRelease": {"S":"b'1,024 theaters'"},
+					"LimitedOpeningWeekend": {"S":"b'<b> $135,499</b>'"},
+					"WideOpeningWeekend": {"S":"b'$6,121,129'"},
+					"Awards": {"S":"Nominated for One Oscar, Including One Win."},
+					"GenreRank": {"S":"{'Mother': '9'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Wide) 1985': '15', 'Most Weekends in Top 5 (non-consecutive)': '161', 'Yearly Opening Weekends (Wide) 1985': '21', 'Theater Averages - All Time Adjusted': '122', 'All Time Domestic': '1,629', 'Yearly PG-13 Rated 1985': '5', 'Consecutive Weekends In Top 10': '117', 'Yearly 1985': '15', 'Opening Weekends Adjusted - March': '177', 'Highest All Time Rank (on June 18, 1985)': '140', 'Eleventh Weekends Adjusted': '171', 'Yearly Opening Weekends (Limited) 1985': '31', 'Smallest Drops, All Wide Releases': '651', 'Ninth Weekends Adjusted': '179', 'Theater Averages - Opening Weekends Adjusted': '93', 'Opening Weekends': '2,674', 'Most Weekends in Top 10 (non-consecutive)': '139', BOM Users' Grades (1985 Releases): '17', 'Yearly Opening Weekends 1985': '135', 'Consecutive Weekends In Top 5': '161', 'Opening Weekends Adjusted': '1,944'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Masked and Anonymous'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=maskedandanonymous.htm"},
+					"ReleaseDate": {"S":"b'July 24, 2003'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Sony Classics'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$533,569'"},
+					"Runtime": {"S":"b'1 hrs. 46 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Larry Charles'"},
+					"Cinematographer": {"S":"b'Rogier Stoffers'"},
+					"Actor": {"S":"b'Bob Dylan, Jeff Bridges, Penelope Cruz, John Goodman, Jessica Lange, Luke Wilson, Angela Bassett*, Ed Harris*, Val Kilmer*, Cheech Marin*, Chris Penn*, Giovanni Ribisi*, Mickey Rourke*'"},
+					"Director": {"S":"b'Larry Charles'"},
+					"Domestic": {"S":"b'$533,569'"},
+					"Worldwide": {"S":"b'$533,569'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'23 theaters'"},
+					"CloseDate": {"S":"b'December 18, 2003'"},
+					"OpeningWeekend": {"S":"b'$30,783'"},
+					"InRelease": {"S":"b'148 days / 21.1 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly PG-13 Rated 2003': '86', 'Worldwide Yearly 2003': '239', 'All Time Domestic': '8,151', 'Highest All Time Rank (on November 9, 2003)': '4903', 'Yearly (Limited) 2003': '100', 'Yearly Opening Weekends 2003': '280', 'Yearly Opening Weekends (Limited) 2003': '151', 'Yearly 2003': '245'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Masquerade'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=masquerade.htm"},
+					"ReleaseDate": {"S":"b'March 11, 1988'"},
+					"Genre": {"S":"b'Romantic Thriller'"},
+					"Distributor": {"S":"b'MGM'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$15,855,828'"},
+					"Runtime": {"S":"b'1 hrs. 31 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Rob Lowe'"},
+					"Domestic": {"S":"b'$15,855,828'"},
+					"WidestRelease": {"S":"b'1,031 theaters'"},
+					"OpeningWeekend": {"S":"b'$3,500,259'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 1988': '66', 'All Time Domestic': '3,665', 'Yearly 1988': '64', 'Highest All Time Rank (on July 5, 1988)': '394', 'Yearly (Wide) 1988': '62', 'Opening Weekends Adjusted': '3,335', 'Smallest Drops, All Wide Releases': '656', 'Yearly R Rated 1988': '35', 'Opening Weeks Adjusted': '3,269', 'Opening Weekends': '3,639', 'Yearly Opening Weekends (Wide) 1988': '72', 'Opening Weeks': '3,573'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Masquerade (2012)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=masquerade2012.htm"},
+					"ReleaseDate": {"S":"b'September 21, 2012'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'CJ Entertainment'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$922,921'"},
+					"Runtime": {"S":"b'2 hrs. 11 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$922,921'"},
+					"Worldwide": {"S":"b'$80,762,596'"},
+					"Foreign": {"S":"b'$79,839,675'"},
+					"WidestRelease": {"S":"b'15 theaters'"},
+					"CloseDate": {"S":"b'April 18, 2013'"},
+					"InRelease": {"S":"b'210 days / 30 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '429'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '7,459'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mass Appeal'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=massappeal.htm"},
+					"ReleaseDate": {"S":"b'1984'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$1,945,658'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$1,945,658'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly PG Rated 1984': '59', 'All Time Domestic': '6,536', 'Yearly 1984': '141'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Massoud, the Afghan'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=massoudtheafghan.htm"},
+					"ReleaseDate": {"S":"b'December 4, 2002'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'New Yorker'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$26,747'"},
+					"Runtime": {"S":"b'1 hrs. 29 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$26,747'"},
+					"Worldwide": {"S":"b'$26,747'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"CloseDate": {"S":"b'May 18, 2003'"},
+					"OpeningWeekend": {"S":"b'$5,859'"},
+					"InRelease": {"S":"b'82 days / 11.7 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2002': '403', 'Yearly (Limited) 2002': '241', 'All Time Domestic': '12,151', 'Yearly Unrated Movies 2002': '82', 'Worldwide Yearly 2002': '296', 'Highest All Time Rank (on December 15, 2002)': '5613', 'Yearly Opening Weekends 2002': '375', 'Yearly Opening Weekends (Limited) 2002': '235'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mast'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mast.htm"},
+					"ReleaseDate": {"S":"b'October 15, 1999'"},
+					"DomesticTotalasofOct.24,1999": {"S":"b'$158,928'"},
+					"Distributor": {"S":"b'Eros'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Runtime": {"S":"b'2 hrs. 33 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$158,928'"},
+					"WidestRelease": {"S":"b'25 theaters'"},
+					"OpeningWeekend": {"S":"b'$61,330'"},
+					"InRelease": {"S":"b'10 days / 1.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 1999': '70', 'All Time Domestic': '9,711', 'Yearly (Limited) 1999': '126', 'Highest All Time Rank (on August 28, 2002)': '4047', 'Yearly Opening Weekends 1999': '202', 'Yearly 1999': '273'}"}
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,653 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flight from Glory'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flightfromglory.htm"},
+					"ReleaseDate": {"S":"b'August 20, 1937'"},
+					"Genre": {"S":"b'Action / Adventure'"},
+					"Distributor": {"S":"b'RKO'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 7 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Cinematographer": {"S":"b'Nicholas Musuraca'"},
+					"Writer": {"S":"b'Robert Hardy Andrews, Dave Silverstein, Derek N. Twist, John Twist'"},
+					"Producer": {"S":"b'Robert Sisk'"},
+					"Actor": {"S":"b'Chester Morris, Whitney Bourne, Onslow Stevens, Richard Lane, Van Heflin'"},
+					"Director": {"S":"b'Lew Landers'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flight of the Intruder'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flightoftheintruder.htm"},
+					"ReleaseDate": {"S":"b'January 18, 1991'"},
+					"Genre": {"S":"b'War'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'$35 million'"},
+					"DomesticTotalGross": {"S":"b'$14,587,732'"},
+					"Runtime": {"S":"b'1 hrs. 54 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Ralph Winter'"},
+					"Actor": {"S":"b'Danny Glover, Willem Dafoe, John Corbett*'"},
+					"Domestic": {"S":"b'$14,587,732'"},
+					"WidestRelease": {"S":"b'1,489 theaters'"},
+					"OpeningWeekend": {"S":"b'$5,725,133'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Pilot / Aircraft': '36'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1991': '84', 'Yearly (Wide) 1991': '84', 'Yearly Opening Weekends 1991': '44', 'All Time Domestic': '3,819', 'Yearly PG-13 Rated 1991': '20', 'Highest All Time Rank (on February 19, 1991)': '888', 'Yearly Opening Weekends (Wide) 1991': '48', 'Martin Lurther King 4-Day Holiday Weekend Openers': '88'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flight of the Navigator'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flightofthenavigator.htm"},
+					"ReleaseDate": {"S":"b'July 30, 1986'"},
+					"Genre": {"S":"b'Family Adventure'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$18,564,613'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Sarah Jessica Parker'"},
+					"Composer": {"S":"b'Alan Silvestri'"},
+					"Domestic": {"S":"b'$18,564,613'"},
+					"WidestRelease": {"S":"b'1,024 theaters'"},
+					"OpeningWeekend": {"S":"b'$3,115,097'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sci-Fi - Adventure': '78', 'Time Travel': '37'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1986': '48', 'Yearly Opening Weekends 1986': '61', BOM Users' Grades (1986 Releases): '22', 'Opening Weeks Adjusted': '3,013', 'All Time Domestic': '3,380', 'Yearly (Wide) 1986': '46', 'Yearly PG Rated 1986': '12', 'Smallest Drops, All Wide Releases': '630', 'Yearly Opening Weekends (Wide) 1986': '65', 'Opening Weekends': '3,796', 'Opening Weeks': '3,514', 'Highest All Time Rank (on September 16, 1986)': '482', 'Opening Weekends Adjusted': '3,363'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flight of the Phoenix'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flightofthephoenix.htm"},
+					"ReleaseDate": {"S":"b'December 17, 2004'"},
+					"Genre": {"S":"b'Adventure'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'$45 million'"},
+					"DomesticTotalGross": {"S":"b'$21,009,180'"},
+					"Runtime": {"S":"b'2 hrs. 0 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Scott Frank'"},
+					"Producer": {"S":"b'John Davis, Wyck Godfrey'"},
+					"Actor": {"S":"b'Dennis Quaid, Tyrese Gibson, Giovanni Ribisi, Miranda Otto, Hugh Laurie'"},
+					"Composer": {"S":"b'Marco Beltrami'"},
+					"Director": {"S":"b'John Moore'"},
+					"Domestic": {"S":"b'$21,009,180'"},
+					"Worldwide": {"S":"b'$34,586,268'"},
+					"Foreign": {"S":"b'$13,577,088'"},
+					"WidestRelease": {"S":"b'2,604 theaters'"},
+					"CloseDate": {"S":"b'March 13, 2005'"},
+					"OpeningWeekend": {"S":"b'$5,019,430'"},
+					"InRelease": {"S":"b'91 days / 13 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Adventure Remake': '23', 'Adventure - Desert': '16', 'Pilot / Aircraft': '34', 'Disaster': '34'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2004': '106', 'All Time Domestic': '3,146', 'Worst Openings - Saturated': '39', 'Worst Openings - Very Wide Adjusted': '193', 'Yearly PG-13 Rated 2004': '55', 'Worldwide Yearly 2004': '109', 'Worst Openings - Saturated Adjusted': '68', 'Opening Weekends Adjusted': '3,416', 'Smallest Drops, All Wide Releases': '2,635', BOM Users' Grades (2004 Releases): '117', 'Opening Weeks Adjusted': '3,162', 'Yearly Opening Weekends 2004': '118', 'Worst Openings - Very Wide': '158', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,181', 'Opening Weeks': '2,805', 'Yearly (Wide) 2004': '104', 'Opening Weekends': '3,043', 'Yearly Opening Weekends (Wide) 2004': '120', 'Smallest Drops, 2,500+ theaters (Saturation)': '822'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flightplan'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flightplan.htm"},
+					"ReleaseDate": {"S":"b'September 23, 2005'"},
+					"Genre": {"S":"b'Thriller'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$89,707,299'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Billy Ray'"},
+					"Producer": {"S":"b'Brian Grazer'"},
+					"Actor": {"S":"b'Jodie Foster, Peter Sarsgaard, Sean Bean, Erika Christensen'"},
+					"Composer": {"S":"b'James Horner'"},
+					"Director": {"S":"b'Robert Schwentke'"},
+					"Domestic": {"S":"b'$89,707,299'"},
+					"Worldwide": {"S":"b'$223,387,299'"},
+					"Foreign": {"S":"b'$133,680,000'"},
+					"WidestRelease": {"S":"b'3,424 theaters'"},
+					"CloseDate": {"S":"b'March 9, 2006'"},
+					"OpeningWeekend": {"S":"b'$24,629,938'"},
+					"InRelease": {"S":"b'168 days / 24 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Pilot / Aircraft': '10'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weekends Adjusted - Fall': '46', 'Opening Weekends - Fall': '52', 'Opening Weeks Adjusted': '770', 'All Time Domestic': '757', 'Widest Opening Releases': '394', BOM Users' Grades (2005 Releases): '97', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '247', 'Yearly Opening Weekends 2005': '24', 'Smallest Drops, All Wide Releases': '1,886', BOM Users' Grades: '468', 'Yearly PG-13 Rated 2005': '12', 'Highest All Time Rank (on December 4, 2005)': '382', 'Smallest Drops, 2,000+ theaters (Very Wide)': '735', 'Opening Weeks': '732', 'Opening Weekends Adjusted - September': '19', 'Yearly Opening Weekends (Wide) 2005': '24', 'All Time Worldwide': '588', 'Opening Weekends - September': '21', 'Most Weekends at #1 (non-consecutive)': '335', 'Worldwide Yearly 2005': '17', 'Opening Weekends Adjusted': '662', 'Yearly (Wide) 2005': '21', 'Smallest Drops, 2,500+ theaters (Saturation)': '494', 'Yearly 2005': '20', 'Consecutive Weekends At #1': '335', 'Widest Releases': '423', 'Opening Weekends': '642'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flipped'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flipped.htm"},
+					"ReleaseDate": {"S":"b'August 6, 2010'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'$14 million'"},
+					"DomesticTotalGross": {"S":"b'$1,755,212'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Cody Horn*, Callan McAuliffe, Rebecca De Mornay, Anthony Edwards, John Mahoney, Aidan Quinn'"},
+					"Composer": {"S":"b'Marc Shaiman'"},
+					"Director": {"S":"b'Rob Reiner'"},
+					"Domestic": {"S":"b'$1,755,212'"},
+					"WidestRelease": {"S":"b'442 theaters'"},
+					"CloseDate": {"S":"b'October 14, 2010'"},
+					"OpeningWeekend": {"S":"b'$224,233'"},
+					"InRelease": {"S":"b'70 days / 10 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '6,640'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flipper'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flipper.htm"},
+					"ReleaseDate": {"S":"b'May 17, 1996'"},
+					"Genre": {"S":"b'Family Adventure'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$20,080,020'"},
+					"Runtime": {"S":"b'1 hrs. 37 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Elijah Wood'"},
+					"Domestic": {"S":"b'$20,080,020'"},
+					"WidestRelease": {"S":"b'2,419 theaters'"},
+					"OpeningWeekend": {"S":"b'$4,209,525'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Family - Remake': '26', 'Family - Animal (Live action)': '26', 'TV Adaptation (Live Action)': '71'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Wide) 1996': '86', 'All Time Domestic': '3,236', 'Yearly PG Rated 1996': '18', 'Highest All Time Rank (on June 28, 1996)': '1088', 'Yearly Opening Weekends (Wide) 1996': '102', 'Yearly Opening Weekends 1996': '100', 'Opening Weekends Adjusted': '3,124', 'Opening Weeks Adjusted': '3,279', 'Opening Weekends': '3,327', 'Memorial Day 4-Day Holiday Weekends': '171', 'Worst Openings - Very Wide': '98', BOM Users' Grades (1996 Releases): '102', 'Opening Weeks': '3,460', 'Yearly 1996': '85'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flirt'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flirt.htm"},
+					"ReleaseDate": {"S":"b'August 7, 1996'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Lions Gate'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$263,192'"},
+					"Runtime": {"S":"b'1 hrs. 25 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Ted Hope'"},
+					"Actor": {"S":"b'Martin Donovan, Parker Posey'"},
+					"Domestic": {"S":"b'$263,192'"},
+					"WidestRelease": {"S":"b'7 theaters'"},
+					"CloseDate": {"S":"b'January 30, 1997'"},
+					"OpeningWeekend": {"S":"b'$15,040'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 1996': '67', 'All Time Domestic': '9,057', 'Yearly Opening Weekends (Limited) 1996': '86', 'Yearly Opening Weekends 1996': '227', 'Highest All Time Rank (on September 24, 1996)': '3393', 'Yearly R Rated 1996': '127', 'Yearly 1996': '249'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flirting'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flirting.htm"},
+					"ReleaseDate": {"S":"b'November 6, 1992'"},
+					"Genre": {"S":"b'Comedy / Drama'"},
+					"Distributor": {"S":"b'Samuel Goldwyn'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$2,415,396'"},
+					"Runtime": {"S":"b'1 hrs. 39 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'George Miller'"},
+					"Actor": {"S":"b'Nicole Kidman, Thandie Newton, Naomi Watts*'"},
+					"Domestic": {"S":"b'$2,415,396'"},
+					"WidestRelease": {"S":"b'33 theaters'"},
+					"CloseDate": {"S":"b'April 22, 1993'"},
+					"OpeningWeekend": {"S":"b'$10,125'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - High School': '61', 'School - Prep / Boarding / Catholic': '26', 'Teen Romance': '54'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 1992': '70', 'Highest All Time Rank (on February 9, 1993)': '1989', 'Yearly Opening Weekends (Limited) 1992': '85', 'Yearly (Limited) 1992': '26', 'All Time Domestic': '6,253', 'Yearly 1992': '143', 'Yearly Opening Weekends 1992': '197'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flirting with Disaster'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flirtingwithdisaster.htm"},
+					"ReleaseDate": {"S":"b'March 22, 1996'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Miramax'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$14,702,438'"},
+					"Runtime": {"S":"b'1 hrs. 26 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'David O. Russell'"},
+					"Actor": {"S":"b'Ben Stiller, Tea Leoni, Alan Alda, Lily Tomlin, Josh Brolin'"},
+					"Director": {"S":"b'David O. Russell'"},
+					"Domestic": {"S":"b'$14,702,438'"},
+					"WidestRelease": {"S":"b'969 theaters'"},
+					"LimitedOpeningWeekend": {"S":"b'<b> $164,458</b>'"},
+					"WideOpeningWeekend": {"S":"b'$3,021,024'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on May 10, 1996)': '1339', 'Yearly (Wide) 1996': '101', 'Opening Weeks Adjusted': '3,764', 'All Time Domestic': '3,803', BOM Users' Grades (1996 Releases): '50', 'Yearly Opening Weekends (Wide) 1996': '118', 'Yearly Opening Weekends 1996': '165', 'Yearly R Rated 1996': '46', 'Smallest Drops, All Wide Releases': '1,294', 'Yearly Opening Weekends (Limited) 1996': '24', 'Opening Weekends': '3,838', 'Opening Weeks': '3,916', 'Yearly 1996': '102', 'Opening Weekends Adjusted': '3,685'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flock of Dudes'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flockofdudes.htm"},
+					"ReleaseDate": {"S":"b'September 30, 2016'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Starz Media'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Florence Foster Jenkins'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=florencefosterjenkins.htm"},
+					"ReleaseDate": {"S":"b'August 12, 2016'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$27,383,770'"},
+					"Runtime": {"S":"b'1 hrs. 50 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Rebecca Ferguson, Hugh Grant, Meryl Streep'"},
+					"Director": {"S":"b'Stephen Frears'"},
+					"Domestic": {"S":"b'$27,383,770'"},
+					"Worldwide": {"S":"b'$27,383,770'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'1,528 theaters'"},
+					"CloseDate": {"S":"b'October 27, 2016'"},
+					"OpeningWeekend": {"S":"b'$6,601,313'"},
+					"InRelease": {"S":"b'77 days / 11 weeks'"},
+					"Awards": {"S":"Nominated for Two Oscars."},
+					"GenreRank": {"S":"{'Drama - Summer': '81'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks': '2,403', 'Opening Weeks Adjusted': '3,266', 'All Time Domestic': '2,659', 'Top Movies in the Past 365 Days': '92', 'Opening Weekends': '2,558', 'Opening Weekends Adjusted': '3,481', 'Smallest Drops, All Wide Releases': '1,348'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Floundering'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=floundering.htm"},
+					"ReleaseDate": {"S":"b'November 4, 1994'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Strand'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$20,031'"},
+					"Runtime": {"S":"b'1 hrs. 37 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'John Cusack*, Ethan Hawke*, Viggo Mortensen*, Billy Bob Thornton*'"},
+					"Domestic": {"S":"b'$20,031'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"CloseDate": {"S":"b'December 15, 1994'"},
+					"OpeningWeekend": {"S":"b'$2,604'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Twentysomething': '29', 'Slacker / Stoner': '61'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on December 13, 1994)': '3154', 'Yearly (Limited) 1994': '86', 'All Time Domestic': '12,535', 'Yearly Opening Weekends (Limited) 1994': '94', 'Yearly R Rated 1994': '110', 'Yearly Opening Weekends 1994': '223', 'Yearly 1994': '254'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flower Drum Song'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flowerdrumsong.htm"},
+					"ReleaseDate": {"S":"b'November 9, 1961'"},
+					"Genre": {"S":"b'Musical'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'2 hrs. 12 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Producer": {"S":"b'Ross Hunter'"},
+					"Actor": {"S":"b'Nancy Kwan, James Shigeta, Juanita Hall, Jack Soo, Miyoshi Umeki, Benson Fong'"},
+					"Cinematographer": {"S":"b'Russell Metty'"},
+					"Writer": {"S":"b'Joseph Fields'"},
+					"Composer": {"S":"b'Oscar Hammerstein II , Richard Rodgers'"},
+					"Director": {"S":"b'Henry Koster'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flowers'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flowers15.htm"},
+					"ReleaseDate": {"S":"b'October 30, 2015'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Music Box Films'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$61,568'"},
+					"Runtime": {"S":"b'1 hrs. 39 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$61,568'"},
+					"Worldwide": {"S":"b'$61,568'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'5 theaters'"},
+					"CloseDate": {"S":"b'January 28, 2016'"},
+					"OpeningWeekend": {"S":"b'$6,572'"},
+					"InRelease": {"S":"b'91 days / 13 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '11,000'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flowers in the Attic'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flowersintheattic.htm"},
+					"ReleaseDate": {"S":"b'November 20, 1987'"},
+					"Genre": {"S":"b'Drama / Thriller'"},
+					"Distributor": {"S":"b'New World'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$15,151,736'"},
+					"Runtime": {"S":"b'1 hrs. 32 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Composer": {"S":"b'Christopher Young'"},
+					"Domestic": {"S":"b'$15,151,736'"},
+					"WidestRelease": {"S":"b'1,095 theaters'"},
+					"OpeningWeekend": {"S":"b'$5,020,317'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Thriller - Psycho / Stalker / Blank from Hell': '24'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly PG-13 Rated 1987': '16', 'Yearly (Wide) 1987': '71', BOM Users' Grades (1987 Releases): '65', 'All Time Domestic': '3,741', 'Highest All Time Rank (on July 5, 1988)': '391', 'Post-Thanksgiving Weekend - Best Holds': '174', 'Smallest Drops, All Wide Releases': '2,072', 'Yearly Opening Weekends (Wide) 1987': '39', 'Opening Weeks Adjusted': '2,509', 'Opening Weekends': '3,040', 'Yearly Opening Weekends 1987': '36', 'Opening Weeks': '3,027', 'Yearly 1987': '70', 'Opening Weekends Adjusted': '2,534'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flubber'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flubber.htm"},
+					"ReleaseDate": {"S":"b'November 26, 1997'"},
+					"Genre": {"S":"b'Family Comedy'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$92,977,226'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'John Hughes'"},
+					"Producer": {"S":"b'John Hughes'"},
+					"Actor": {"S":"b'Robin Williams'"},
+					"Composer": {"S":"b'Danny Elfman'"},
+					"Domestic": {"S":"b'$92,977,226'"},
+					"Worldwide": {"S":"b'$177,977,226'"},
+					"Foreign": {"S":"b'$85,000,000'"},
+					"WidestRelease": {"S":"b'2,679 theaters'"},
+					"OpeningWeekend": {"S":"b'$26,725,207'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Family - Remake': '8', 'Sci-Fi Comedy': '8', 'Comedy Remake': '11'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Thanksgiving 3-day Openings': '15', 'Thanksgiving 5-day Openings': '15', 'Opening Weeks Adjusted': '501', 'Rated PG': '188', 'All Time Domestic': '721', 'Highest All Time Rank (on January 31, 1998)': '169', BOM Users' Grades (1997 Releases): '88', 'Thanksgiving 5-day Weekends': '35', 'Smallest Drops, All Wide Releases': '3,730', 'Non-Friday Opening Weekends Adjusted': '59', 'Opening Weekends Adjusted - November': '55', 'Opening Weekends - November': '78', 'Thanksgiving 5-day Weekends Adjusted': '23', 'Post-Thanksgiving Weekend  - Biggest Drops': '102', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,874', 'Opening Weeks': '782', 'Thanksgiving 5-day Openings Adjusted': '11', 'Worldwide Yearly 1997': '19', 'Rated PG Adjusted': '184', 'Yearly Opening Weekends (Wide) 1997': '9', 'Thanksgiving 3-day Weekends': '34', 'Yearly 1997': '18', 'Rated PG, Opening Weekends Adjusted': '77', 'Non-Friday Opening Weekends': '85', 'Yearly (Wide) 1997': '17', 'Opening Weekends Adjusted - Holiday': '77', 'Opening Weekends Adjusted': '336', 'Opening Weekends - Holiday': '119', 'Rated G and PG, Opening Weekends': '150', 'Thanksgiving 3-day Weekends Adjusted': '17', 'Yearly Opening Weekends 1997': '9', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,339', 'Rated G and PG, Opening Weekends Adjusted': '97', 'Thanksgiving 3-day Openings Adjusted': '9', 'Yearly PG Rated 1997': '4', 'Consecutive Weekends At #1': '279', 'Most Weekends at #1 (non-consecutive)': '280', 'Rated PG, Opening Weekends': '122', 'Opening Weekends': '571'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fluke'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fluke.htm"},
+					"ReleaseDate": {"S":"b'June 2, 1995'"},
+					"Genre": {"S":"b'Family'"},
+					"Distributor": {"S":"b'MGM'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$3,987,768'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Samuel L. Jackson*'"},
+					"Domestic": {"S":"b'$3,987,768'"},
+					"WidestRelease": {"S":"b'1,200 theaters'"},
+					"OpeningWeekend": {"S":"b'$1,435,709'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Dog': '48'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Worst Opening Weekend Per-Theater Averages': '194', 'Opening Weeks Adjusted': '4,379', 'All Time Domestic': '5,675', 'Yearly PG Rated 1995': '33', 'Yearly Opening Weekends (Wide) 1995': '140', 'Yearly (Wide) 1995': '135', 'Yearly 1995': '157', 'Yearly Opening Weekends 1995': '136', 'Opening Weekends': '4,528', 'Opening Weeks': '4,484', 'Highest All Time Rank (on June 20, 1995)': '2133', 'Opening Weekends Adjusted': '4,446'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flushed Away'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flushedaway.htm"},
+					"ReleaseDate": {"S":"b'November 3, 2006'"},
+					"Genre": {"S":"b'Animation'"},
+					"Distributor": {"S":"b'Paramount (DreamWorks)'"},
+					"ProductionBudget": {"S":"b'$149 million'"},
+					"DomesticTotalGross": {"S":"b'$64,665,672'"},
+					"Runtime": {"S":"b'1 hrs. 26 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Producer": {"S":"b'Peter Lord'"},
+					"Actor": {"S":"b'Andy Serkis, Hugh Jackman, Kate Winslet, Ian McKellen, Tom McGrath*'"},
+					"Composer": {"S":"b', Director'"},
+					"Domestic": {"S":"b'$64,665,672'"},
+					"Worldwide": {"S":"b'$178,120,010'"},
+					"Foreign": {"S":"b'$113,454,338'"},
+					"WidestRelease": {"S":"b'3,707 theaters'"},
+					"CloseDate": {"S":"b'March 1, 2007'"},
+					"OpeningWeekend": {"S":"b'$18,814,323'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Animation - Computer': '91', 'Mouse / Rat': '4', 'Animation': '119'}"},
+					"Franchise": {"S":"{'Brand: Aardman': '2', 'Brand: DreamWorks Animation': '30', 'Showdown: Fall DreamWorks Animation': '6'}"},
+					"Chart": {"S":"{'Yearly Opening Weekends 2006': '49', 'Worldwide Yearly 2006': '25', 'All Time Domestic': '1,167', 'Widest Opening Releases': '197', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '31', 'Smallest Drops, All Wide Releases': '382', 'Opening Weekends Adjusted - November': '128', 'Opening Weekends - November': '116', 'Post-Thanksgiving Weekend  - Biggest Drops': '55', 'Opening Weeks Adjusted': '1,219', BOM Users' Grades (2006 Releases): '59', 'Smallest Drops, 2,000+ theaters (Very Wide)': '82', 'Opening Weeks': '1,073', 'Yearly PG Rated 2006': '14', 'Yearly (Wide) 2006': '42', 'Yearly 2006': '41', 'Saturday Share of Opening Weekends': '144', 'Yearly Opening Weekends (Wide) 2006': '49', 'Widest PG Rated Releases': '83', 'Opening Weekends Adjusted': '1,052', 'Opening Weekends - Holiday': '176', 'Opening Weekends': '944', 'Widest PG Rated Openings': '77', 'Widest Releases': '216', 'Rated PG, Opening Weekends': '188', 'Smallest Drops, 2,500+ theaters (Saturation)': '51'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fly Away Home'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flyawayhome.htm"},
+					"ReleaseDate": {"S":"b'September 13, 1996'"},
+					"Genre": {"S":"b'Family'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$25,143,818'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Anna Paquin'"},
+					"Composer": {"S":"b'Mark Isham'"},
+					"Domestic": {"S":"b'$25,143,818'"},
+					"WidestRelease": {"S":"b'1,401 theaters'"},
+					"OpeningWeekend": {"S":"b'$4,708,044'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"{'Family - Animal (Live action)': '20', 'Environmentalist': '15'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Wide) 1996': '67', 'All Time Domestic': '2,826', 'Yearly PG Rated 1996': '15', BOM Users' Grades (1996 Releases): '27', 'Yearly Opening Weekends (Wide) 1996': '95', 'Yearly Opening Weekends 1996': '93', 'Opening Weekends Adjusted': '2,922', 'Smallest Drops, All Wide Releases': '549', 'Highest All Time Rank (on November 22, 1996)': '898', 'Opening Weeks Adjusted': '3,125', 'Opening Weekends': '3,138', 'Opening Weeks': '3,325', 'Yearly 1996': '64'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fly Me to the Moon'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flymetothemoon3d.htm"},
+					"ReleaseDate": {"S":"b'August 15, 2008'"},
+					"Genre": {"S":"b'Animation'"},
+					"Distributor": {"S":"b'Summit Entertainment'"},
+					"ProductionBudget": {"S":"b'$25 million'"},
+					"DomesticTotalGross": {"S":"b'$13,816,982'"},
+					"Runtime": {"S":"b'1 hrs. 27 min.'"},
+					"MPAARating": {"S":"b'G'"},
+					"Producer": {"S":"b'Charlotte Huggins'"},
+					"Actor": {"S":"b'Christopher Lloyd , Nicollette Sheridan , Tim Curry'"},
+					"Composer": {"S":"b'Ramin Djawadi'"},
+					"Domestic": {"S":"b'$13,816,982'"},
+					"Worldwide": {"S":"b'$41,721,414'"},
+					"Foreign": {"S":"b'$27,904,432'"},
+					"InRelease": {"S":"b'287 days / 41 weeks'"},
+					"WidestRelease": {"S":"b'713 theaters'"},
+					"CloseDate": {"S":"b'May 28, 2009'"},
+					"LimitedOpeningWeekend": {"S":"b'<b> $1,900,523</b>'"},
+					"WideOpeningWeekend": {"S":"b'$1,509,198'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': '237', 'Animation - Computer': '123', 'Animation - Sci-Fi': '23', 'Animation': '205'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly G Rated 2008': '9', 'All Time Domestic': '3,930', 'Rated G, Opening Weekends Adjusted': '175', 'Rated G, Opening Weekends': '164', 'Yearly 2008': '130', 'Smallest Drops, All Wide Releases': '379', 'Opening Weeks Adjusted': '4,547', 'Opening Weekends Adjusted': '4,625', 'Worldwide Yearly 2008': '108', 'Yearly Opening Weekends (Wide) 2008': '161', 'Opening Weeks': '4,403', 'Yearly Opening Weekends 2008': '150', 'Rated G': '183', 'Worst Openings - Wide Releases Adjusted': '160', 'Widest G Rated Releases': '188', 'Movies That Never Hit the Top 10': '88', 'Labor Day 4-Day Holiday Weekend Openers': '74', BOM Users' Grades (2008 Releases): '160', 'Opening Weekends': '4,497', 'Yearly (Wide) 2008': '126', 'Opening Weekends (Limited Release)': '146', 'Widest G Rated Openings': '192', 'Sunday Share of Opening Weekends': '62', 'Yearly Opening Weekends (Limited) 2008': '4'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flyboys'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flyboys.htm"},
+					"ReleaseDate": {"S":"b'September 22, 2006'"},
+					"Genre": {"S":"b'War'"},
+					"Distributor": {"S":"b'MGM'"},
+					"ProductionBudget": {"S":"b'$60 million'"},
+					"DomesticTotalGross": {"S":"b'$13,090,630'"},
+					"Runtime": {"S":"b'2 hrs. 0 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Dean Devlin'"},
+					"Actor": {"S":"b'James Franco, Jean Reno, Martin Henderson, Tcheky Karyo'"},
+					"Composer": {"S":"b'Trevor Rabin'"},
+					"Director": {"S":"b'Tony Bill'"},
+					"Domestic": {"S":"b'$13,090,630'"},
+					"Worldwide": {"S":"b'$17,834,865'"},
+					"Foreign": {"S":"b'$4,744,235'"},
+					"WidestRelease": {"S":"b'2,033 theaters'"},
+					"CloseDate": {"S":"b'December 21, 2006'"},
+					"OpeningWeekend": {"S":"b'$6,004,219'"},
+					"InRelease": {"S":"b'91 days / 13 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Pilot / Aircraft': '40', 'War - World War I': '5'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2006': '141', 'Yearly Opening Weekends (Wide) 2006': '122', 'Yearly Opening Weekends 2006': '118', 'Worldwide Yearly 2006': '164', 'All Time Domestic': '4,019', 'Yearly PG-13 Rated 2006': '64', 'Opening Weekends Adjusted': '3,197', 'Smallest Drops, All Wide Releases': '3,970', 'Biggest 2nd Weekend Drops': '448', 'Opening Weekends': '2,733', 'Opening Weeks Adjusted': '3,311', BOM Users' Grades (2006 Releases): '70', 'Smallest Drops, 2,000+ theaters (Very Wide)': '2,041', 'Opening Weeks': '2,853', 'Yearly (Wide) 2006': '137'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flying Down to Rio'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flyingdowntorio.htm"},
+					"ReleaseDate": {"S":"b'December 22, 1933'"},
+					"Genre": {"S":"b'Musical'"},
+					"Distributor": {"S":"b'RKO'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 29 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Producer": {"S":"b'Merian C. Cooper , Louis Brock'"},
+					"Actor": {"S":"b'Dolores Del Rio, Gene Raymond, Raul Roulien, Ginger Rogers, Fred Astaire'"},
+					"Composer": {"S":"b'Vincent Youmans , Edward Eliscu , Gus Kahn'"},
+					"Director": {"S":"b'Thornton Freeland'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flying Leathernecks'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flyingleathernecks.htm"},
+					"ReleaseDate": {"S":"b'August 28, 1951'"},
+					"Genre": {"S":"b'War'"},
+					"Distributor": {"S":"b'RKO'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 42 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Producer": {"S":"b'Edmund Grainger'"},
+					"Actor": {"S":"b'John Wayne, Robert Ryan, Don Taylor, Janis Carter, Jay C. Flippen'"},
+					"Cinematographer": {"S":"b'William Snyder'"},
+					"Writer": {"S":"b'James Edward Grant, Kenneth Gamet'"},
+					"Composer": {"S":"b'Roy Webb'"},
+					"Director": {"S":"b'Nicholas Ray'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flying Monsters'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flyingmonsters.htm"},
+					"ReleaseDate": {"S":"b'October 7, 2011'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'National Geographic Entertainment'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalasofNov.7,2013": {"S":"b'$5,705,874'"},
+					"Runtime": {"S":"b'0 hrs. 40 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$5,705,874'"},
+					"Worldwide": {"S":"b'$10,813,862'"},
+					"Foreign": {"S":"b'$5,107,988'"},
+					"WidestRelease": {"S":"b'27 theaters'"},
+					"OpeningWeekend": {"S":"b'n/a'"},
+					"InRelease": {"S":"b'476 days / 68 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': '254', 'Documentary': '39', 'Documentary - Nature': '10', 'Dinosaur': '14'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '5,236'}"}
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,688 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Cure'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=cure.htm"},
+					"DomesticTotalGross": {"S":"b'$2,568,425'"},
+					"Runtime": {"S":"b'1 hrs. 39 min.'"},
+					"Distributor": {"S":"b'Universal'"},
+					"Genre": {"S":"b'Drama'"},
+					"ReleaseDate": {"S":"b'April 21, 1995'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$2,568,425'"},
+					"WidestRelease": {"S":"b'832 theaters'"},
+					"OpeningWeekend": {"S":"b'$1,206,415'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1995': '176', 'Smallest Drops, All Wide Releases': '3,635', 'Highest All Time Rank (on May 12, 1995)': '2324', 'Opening Weeks': '4,586', 'Opening Weekends Adjusted': '4,532', 'Yearly Opening Weekends 1995': '140', 'Opening Weeks Adjusted': '4,519', 'Yearly (Wide) 1995': '143', 'Worst Openings - Wide Releases': '169', 'Yearly PG-13 Rated 1995': '42', 'Yearly Opening Weekends (Wide) 1995': '142', 'All Time Domestic': '6,174', 'Opening Weekends': '4,615'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Curious Case of Benjamin Button'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=curiouscaseofbenjaminbutton.htm"},
+					"DomesticTotalGross": {"S":"b'$127,509,326'"},
+					"Runtime": {"S":"b'2 hrs. 48 min.'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"Genre": {"S":"b'Fantasy Drama'"},
+					"ReleaseDate": {"S":"b'December 25, 2008'"},
+					"ProductionBudget": {"S":"b'$150 million'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Eric Roth, F. Scott Fitzgerald , Robin Swicord'"},
+					"Producer": {"S":"b'Cean Chaffin, Kathleen Kennedy, Frank Marshall'"},
+					"Composer": {"S":"b'Alexandre Desplat'"},
+					"Actor": {"S":"b'Brad Pitt, Cate Blanchett, Tilda Swinton, Elle Fanning, Julia Ormond, Taraji P. Henson, Jared Harris'"},
+					"Director": {"S":"b'David Fincher'"},
+					"Domestic": {"S":"b'$127,509,326'"},
+					"Worldwide": {"S":"b'$333,932,083'"},
+					"Foreign": {"S":"b'$206,422,757'"},
+					"WidestRelease": {"S":"b'2,988 theaters'"},
+					"OpeningWeekend": {"S":"b'$26,853,816'"},
+					"CloseDate": {"S":"b'April 23, 2009'"},
+					"InRelease": {"S":"b'120 days / 17.1 weeks'"},
+					"Awards": {"S":"Nominated for Thirteen Oscars, Including Three Wins."},
+					"GenreRank": {"S":"{'Travelogue - New Orleans': '3'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Worldwide Yearly 2008': '16', BOM Users' Grades: '144', 'Movies That Never Hit #1': '62', 'Non-Opening Thursday Gross Adjusted': '144', 'Opening Weekends Not At #1': '117', 'Yearly 2008': '20', 'Opening Weekends Adjusted': '690', 'Opening Weekends Adjusted - Holiday': '150', 'Opening Weekends Adjusted - December': '57', 'Single Day Thursday Gross Adjusted': '69', 'Opening Weekends - December': '41', BOM Users' Grades (2008 Releases): '17', 'Best Picture Nomination Effect': '124', 'Opening Weekends - Holiday': '118', 'All Time Domestic': '432', 'Opening Weekends': '570', 'Opening Weekends Not At #1 Adjusted': '133', 'All Time Worldwide': '336', 'Slowest to $100 million': '254', 'Smallest Drops, All Wide Releases': '1,088', 'Yearly PG-13 Rated 2008': '10', 'Yearly (Wide) 2008': '19', 'Opening Weeks': '379', 'Opening Thursdays': '12', 'Smallest Drops, 2,500+ theaters (Saturation)': '211', 'Non-Friday Opening Weekends Adjusted': '97', 'Non-Friday Opening Weekends': '84', 'Movies That Never #1 Adjusted': '121', 'Yearly Opening Weekends 2008': '34', 'Highest All Time Rank (on April 5, 2009)': '253', 'Christmas Day Openers': '8', 'Single Day Thursday Gross': '57', 'Smallest Drops, 2,000+ theaters (Very Wide)': '332', 'Opening Weeks Adjusted': '490', 'Yearly Opening Weekends (Wide) 2008': '34'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Curse'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=curse.htm"},
+					"DomesticTotalGross": {"S":"b'$1,930,001'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"Distributor": {"S":"b'Trans World Ent.'"},
+					"Genre": {"S":"b'Unknown'"},
+					"ReleaseDate": {"S":"b'September 11, 1987'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$1,930,001'"},
+					"WidestRelease": {"S":"b'326 theaters'"},
+					"OpeningWeekend": {"S":"b'$1,169,922'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 1987': '28', 'Yearly 1987': '152', 'Yearly Opening Weekends (Limited) 1987': '8', 'Highest All Time Rank (on July 5, 1988)': '903', 'Yearly R Rated 1987': '71', 'Yearly Opening Weekends 1987': '108', 'All Time Domestic': '6,544', 'Top Ranking Limited Release Debuts': '102'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Curse of the Jade Scorpion'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=curseofthejadescorpion.htm"},
+					"DomesticTotalGross": {"S":"b'$7,517,191'"},
+					"Runtime": {"S":"b'1 hrs. 42 min.'"},
+					"Distributor": {"S":"b'DreamWorks'"},
+					"Genre": {"S":"b'Comedy Thriller'"},
+					"ReleaseDate": {"S":"b'August 24, 2001'"},
+					"ProductionBudget": {"S":"b'$33 million'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Woody Allen'"},
+					"Actor": {"S":"b'Woody Allen, Helen Hunt, Charlize Theron'"},
+					"Director": {"S":"b'Woody Allen'"},
+					"Domestic": {"S":"b'$7,517,191'"},
+					"Worldwide": {"S":"b'$18,914,307'"},
+					"Foreign": {"S":"b'$11,397,116'"},
+					"WidestRelease": {"S":"b'909 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,459,315'"},
+					"CloseDate": {"S":"b'October 21, 2001'"},
+					"InRelease": {"S":"b'59 days / 8.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on August 28, 2002)': '2184', 'Opening Weeks': '4,058', 'Opening Weekends Adjusted': '4,270', 'Yearly 2001': '132', 'Yearly PG-13 Rated 2001': '59', 'Yearly Opening Weekends (Wide) 2001': '132', 'Worldwide Yearly 2001': '124', 'Yearly (Wide) 2001': '126', BOM Users' Grades (2001 Releases): '82', 'Yearly Opening Weekends 2001': '121', 'Opening Weeks Adjusted': '4,218', 'Smallest Drops, All Wide Releases': '1,540', 'All Time Domestic': '4,837', 'Opening Weekends': '4,083'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Cut'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=thecut.htm"},
+					"DomesticTotalGross": {"S":"b'$28,066'"},
+					"Runtime": {"S":"b'2 hrs. 18 min.'"},
+					"Distributor": {"S":"b'Strand'"},
+					"Genre": {"S":"b'Drama'"},
+					"ReleaseDate": {"S":"b'September 18, 2015'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Actor": {"S":"b'Tahar Rahim'"},
+					"Domestic": {"S":"b'$28,066'"},
+					"Worldwide": {"S":"b'$28,066'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'5 theaters'"},
+					"OpeningWeekend": {"S":"b'$5,327'"},
+					"CloseDate": {"S":"b'November 19, 2015'"},
+					"InRelease": {"S":"b'63 days / 9 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '12,086'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Cutting Edge'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=cuttingedge.htm"},
+					"DomesticTotalGross": {"S":"b'$25,105,517'"},
+					"Runtime": {"S":"b'1 hrs. 37 min.'"},
+					"Distributor": {"S":"b'MGM'"},
+					"Genre": {"S":"b'Sports Comedy'"},
+					"ReleaseDate": {"S":"b'March 27, 1992'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'Tony Gilroy'"},
+					"Producer": {"S":"b'Ted Field'"},
+					"Cinematographer": {"S":"b'Elliot Davis'"},
+					"Actor": {"S":"b'Moira Kelly, D.B. Sweeney'"},
+					"Director": {"S":"b'Paul Michael Glaser'"},
+					"Domestic": {"S":"b'$25,105,517'"},
+					"WidestRelease": {"S":"b'1,121 theaters'"},
+					"OpeningWeekend": {"S":"b'$4,478,919'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sports Comedy': '33', 'Sports - Olympics': '5', 'Sports - Hockey': '7'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on May 12, 1992)': '633', 'Yearly Opening Weekends 1992': '68', 'Smallest Drops, All Wide Releases': '711', 'Movies That Never Hit the Top 5 Adjusted': '89', 'Opening Weeks': '3,323', 'Opening Weekends Adjusted': '2,900', 'Opening Weekends': '3,225', 'Yearly (Wide) 1992': '49', 'Opening Weeks Adjusted': '3,000', BOM Users' Grades (1992 Releases): '31', 'Yearly Opening Weekends (Wide) 1992': '71', 'Yearly PG Rated 1992': '13', 'All Time Domestic': '2,832', 'Yearly 1992': '50'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The D Train'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dtrain.htm"},
+					"DomesticTotalGross": {"S":"b'$673,151'"},
+					"Runtime": {"S":"b'1 hrs. 41 min.'"},
+					"Distributor": {"S":"b'IFC'"},
+					"Genre": {"S":"b'Comedy'"},
+					"ReleaseDate": {"S":"b'May 8, 2015'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Jack Black, Kathryn Hahn, James Marsden, Jeffrey Tambor'"},
+					"Domestic": {"S":"b'$673,151'"},
+					"Worldwide": {"S":"b'$774,780'"},
+					"Foreign": {"S":"b'$101,629'"},
+					"WidestRelease": {"S":"b'1,009 theaters'"},
+					"OpeningWeekend": {"S":"b'$447,661'"},
+					"CloseDate": {"S":"b'May 21, 2015'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sundance 2015': '16'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Smallest Drops, All Wide Releases': '4,461', 'Worst Openings - Wide Releases Adjusted': '14', 'Worst Openings - Wide Releases': '19', 'Opening Weeks': '4,703', 'Opening Weekends Adjusted': '4,771', 'Worst Opening Weekend Per-Theater Averages': '16', 'All Time Domestic': '7,849', 'Opening Weekends': '4,766', 'Worst Opening Weekend Per-Theater Averages Adjusted': '10', 'Opening Weeks Adjusted': '4,710'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The DUFF'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=duff.htm"},
+					"DomesticTotalGross": {"S":"b'$34,030,343'"},
+					"Runtime": {"S":"b'1 hrs. 41 min.'"},
+					"Distributor": {"S":"b'Lionsgate'"},
+					"Genre": {"S":"b'Comedy'"},
+					"ReleaseDate": {"S":"b'February 20, 2015'"},
+					"ProductionBudget": {"S":"b'$8.5 million'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Josh A. Cagan'"},
+					"Producer": {"S":"b'McG'"},
+					"Actor": {"S":"b'Bella Thorne'"},
+					"Director": {"S":"b'Ari Sandel'"},
+					"Domestic": {"S":"b'$34,030,343'"},
+					"Worldwide": {"S":"b'$43,528,634'"},
+					"Foreign": {"S":"b'$9,498,291'"},
+					"WidestRelease": {"S":"b'2,622 theaters'"},
+					"OpeningWeekend": {"S":"b'$10,809,149'"},
+					"CloseDate": {"S":"b'May 14, 2015'"},
+					"InRelease": {"S":"b'84 days / 12 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - High School': '23'}"},
+					"Franchise": {"S":"{'Brand: CBS Films': '1'}"},
+					"Chart": {"S":"{'Smallest Drops, All Wide Releases': '1,584', 'Opening Weeks Adjusted': '2,726', 'Opening Weekends - February': '134', 'Opening Weekends Adjusted - February': '181', 'Opening Weeks': '1,999', 'Opening Weekends Adjusted': '2,468', 'Smallest Drops, 2,000+ theaters (Very Wide)': '580', 'All Time Domestic': '2,268', 'Opening Weekends': '1,746', 'Smallest Drops, 2,500+ theaters (Saturation)': '383'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Da Vinci Code'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=davincicode.htm"},
+					"DomesticTotalGross": {"S":"b'$217,536,138'"},
+					"Runtime": {"S":"b'2 hrs. 29 min.'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"Genre": {"S":"b'Thriller'"},
+					"ReleaseDate": {"S":"b'May 19, 2006'"},
+					"ProductionBudget": {"S":"b'$125 million'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Akiva Goldsman'"},
+					"Producer": {"S":"b'Brian Grazer, Ron Howard'"},
+					"Composer": {"S":"b'Hans Zimmer'"},
+					"Actor": {"S":"b'Tom Hanks, Audrey Tautou, Ian McKellen, Paul Bettany, Jean Reno, Alfred Molina'"},
+					"Director": {"S":"b'Ron Howard'"},
+					"Domestic": {"S":"b'$217,536,138'"},
+					"Worldwide": {"S":"b'$758,239,851'"},
+					"Foreign": {"S":"b'$540,703,713'"},
+					"WidestRelease": {"S":"b'3,757 theaters'"},
+					"OpeningWeekend": {"S":"b'$77,073,388'"},
+					"CloseDate": {"S":"b'August 20, 2006'"},
+					"InRelease": {"S":"b'94 days / 13.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Controversy': '2', 'Travelogue - Paris': '1'}"},
+					"Franchise": {"S":"{'Showdown: Robert Langdon Franchise': '1', 'Showdown: Christians in Conflict': '3', 'Series: Robert Langdon': '1'}"},
+					"Chart": {"S":"{'Theater Averages (Wide Releases) - All Time': '93', BOM Users' Grades: '535', 'Second Weekends': '115', 'Top 3-Day Grosses': '77', 'Third Weekends': '138', 'Single Day Sunday Gross': '98', 'Opening Weekends Adjusted - May': '21', BOM Users' Grades (2006 Releases): '123', 'Rated PG-13, Opening Weekends': '53', 'Widest Releases': '187', 'Fastest to $100 million': '96', 'Theater Averages - Wide Opening Weekends': '88', 'Rated PG-13, Opening Weekends Adjusted': '45', 'Yearly Opening Weekends 2006': '3', 'Yearly (Wide) 2006': '5', 'Single Day Sunday Gross Adjusted': '79', 'All Time Domestic': '147', 'Single Day Friday Gross': '82', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '645', 'Single Day Saturday Gross Adjusted': '78', 'All Time Worldwide': '71', 'Slowest to $100 million': '539', 'Smallest Drops, All Wide Releases': '3,552', 'Widest Opening Releases': '184', 'Worldwide Yearly 2006': '2', 'Highest All Time Rank (on August 17, 2006)': '57', 'Opening Weeks': '87', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,247', 'Yearly 2006': '5', 'Slowest to $200 million': '57', 'Opening Weekends - Summer': '47', 'Yearly PG-13 Rated 2006': '3', 'Single Day Monday Gross Adjusted': '128', 'Third Weekends Adjusted': '167', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,749', 'Memorial Day 4-Day Holiday Weekends': '35', 'Widest PG-13 Rated Releases': '103', 'Opening Weekends Adjusted - Summer': '41', 'Opening Weekends - May': '25', 'Single Day Saturday Gross': '100', 'Opening Day Gross': '82', 'Widest PG-13 Rated Openings': '102', 'Single Day Friday Gross Adjusted': '62', 'Worldwide Openings': '35', 'Top 9-Day Grosses': '95', 'Top 6-Day Grosses': '92', 'Foreign Opening Weekends': '25', 'Yearly Opening Weekends (Wide) 2006': '3', 'Top 8-Day Grosses': '92', 'Opening Weekends': '78', 'Opening Weekends Adjusted': '62', 'Fastest to $200 million': '116', 'Rated PG-13 Adjusted': '88', 'Rated PG-13': '84', 'Top 4-Day Grosses': '82', 'Theater Averages (Wide Releases) - All Time Adjusted': '120', 'Top 7-Day Grosses': '93', 'Single Day Monday Gross': '130', 'Second Weekends Adjusted': '104', 'Opening Weeks Adjusted': '80', 'Single Day Gross': '230', 'Fastest to $150 million': '99', 'Theater Averages - Wide Opening Weekends Adjusted': '106', 'Non-Holiday Monday Gross': '76', 'Top 10-Day Grosses': '98', 'Top 5-Day Grosses': '89'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Damned United'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=damnedunited.htm"},
+					"DomesticTotalGross": {"S":"b'$449,865'"},
+					"Runtime": {"S":"b'1 hrs. 37 min.'"},
+					"Distributor": {"S":"b'Sony Classics'"},
+					"Genre": {"S":"b'Sports Drama'"},
+					"ReleaseDate": {"S":"b'October 9, 2009'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Peter Morgan'"},
+					"Producer": {"S":"b'Peter Morgan'"},
+					"Actor": {"S":"b'Michael Sheen, Timothy Spall, Colm Meaney, Jim Broadbent'"},
+					"Director": {"S":"b'Tom Hooper'"},
+					"Domestic": {"S":"b'$449,865'"},
+					"Worldwide": {"S":"b'$4,091,378'"},
+					"Foreign": {"S":"b'$3,641,513'"},
+					"WidestRelease": {"S":"b'45 theaters'"},
+					"OpeningWeekend": {"S":"b'$32,065'"},
+					"CloseDate": {"S":"b'February 11, 2010'"},
+					"InRelease": {"S":"b'126 days / 18 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sports - Soccer': '14', 'Sports Drama': '115'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 2009': '80', 'Yearly (Limited) 2009': '90', 'Yearly 2009': '241', 'Worldwide Yearly 2009': '209', 'All Time Domestic': '8,343', 'Yearly Opening Weekends 2009': '272', 'Yearly Opening Weekends (Limited) 2009': '133'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Dance of Reality'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=danceofreality.htm"},
+					"DomesticTotalGross": {"S":"b'$293,680'"},
+					"Runtime": {"S":"b'2 hrs. 6 min.'"},
+					"Distributor": {"S":"b'Abkco Films'"},
+					"Genre": {"S":"b'Foreign'"},
+					"ReleaseDate": {"S":"b'May 23, 2014'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$293,680'"},
+					"Worldwide": {"S":"b'$293,680'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'15 theaters'"},
+					"OpeningWeekend": {"S":"b'$24,768'"},
+					"CloseDate": {"S":"b'August 28, 2014'"},
+					"InRelease": {"S":"b'98 days / 14 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '790'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '8,904'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Dancer Upstairs'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dancerupstairs.htm"},
+					"DomesticTotalGross": {"S":"b'$2,377,348'"},
+					"Runtime": {"S":"b'2 hrs. 13 min.'"},
+					"Distributor": {"S":"b'Fox Searchlight'"},
+					"Genre": {"S":"b'Drama / Thriller'"},
+					"ReleaseDate": {"S":"b'May 2, 2003'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Composer": {"S":"b'Alberto Iglesias'"},
+					"Actor": {"S":"b'Javier Bardem'"},
+					"Domestic": {"S":"b'$2,377,348'"},
+					"Worldwide": {"S":"b'$5,227,348'"},
+					"Foreign": {"S":"b'$2,850,000'"},
+					"WidestRelease": {"S":"b'152 theaters'"},
+					"OpeningWeekend": {"S":"b'$106,142'"},
+					"CloseDate": {"S":"b'August 21, 2003'"},
+					"InRelease": {"S":"b'112 days / 16 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Thriller - Political': '51'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2003': '44', 'Yearly Opening Weekends 2003': '195', 'Yearly Opening Weekends (Limited) 2003': '66', 'Yearly R Rated 2003': '72', 'Yearly 2003': '185', 'All Time Domestic': '6,277', 'Worldwide Yearly 2003': '199', 'Highest All Time Rank (on July 15, 2003)': '3815'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Dangerous Lives of Altar Boys'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dangerouslivesofaltarboys.htm"},
+					"DomesticTotalGross": {"S":"b'$1,815,864'"},
+					"Runtime": {"S":"b'1 hrs. 45 min.'"},
+					"Distributor": {"S":"b'ThinkFilm'"},
+					"Genre": {"S":"b'Drama'"},
+					"ReleaseDate": {"S":"b'June 14, 2002'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Graham King'"},
+					"Composer": {"S":"b'Marco Beltrami'"},
+					"Actor": {"S":"b'Emile Hirsch, Kieran Culkin, Vincent DOnofrio, Jena Malone, Jodie Foster'"},
+					"Domestic": {"S":"b'$1,815,864'"},
+					"Worldwide": {"S":"b'$2,036,599'"},
+					"Foreign": {"S":"b'$220,735'"},
+					"WidestRelease": {"S":"b'125 theaters'"},
+					"OpeningWeekend": {"S":"b'$55,000'"},
+					"CloseDate": {"S":"b'November 14, 2002'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'School - Prep / Boarding / Catholic': '27'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 2002': '225', 'Yearly Opening Weekends (Limited) 2002': '85', 'Highest All Time Rank (on August 28, 2002)': '3125', 'Yearly 2002': '203', 'Yearly R Rated 2002': '81', 'Yearly (Limited) 2002': '46', 'All Time Domestic': '6,607', 'Worldwide Yearly 2002': '224'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Danish Girl'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=danishgirl.htm"},
+					"DomesticTotalGross": {"S":"b'$11,114,018'"},
+					"Runtime": {"S":"b'2 hrs. 0 min.'"},
+					"Distributor": {"S":"b'Focus Features'"},
+					"Genre": {"S":"b'Drama'"},
+					"ReleaseDate": {"S":"b'November 27, 2015'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Composer": {"S":"b'Alexandre Desplat'"},
+					"Actor": {"S":"b'Eddie Redmayne, Alicia Vikander, Matthias Schoenaerts, Ben Whishaw, Amber Heard'"},
+					"Director": {"S":"b'Tom Hooper'"},
+					"Domestic": {"S":"b'$11,114,018'"},
+					"Worldwide": {"S":"b'$64,191,523'"},
+					"Foreign": {"S":"b'$53,077,505'"},
+					"WideOpeningWeekend": {"S":"b'$526,374'"},
+					"WidestRelease": {"S":"b'794 theaters'"},
+					"CloseDate": {"S":"b'March 17, 2016'"},
+					"LimitedOpeningWeekend": {"S":"b'<b> $187,318</b>'"},
+					"InRelease": {"S":"b'112 days / 16 weeks'"},
+					"Awards": {"S":"Nominated for Four Oscars, Including One Win."},
+					"GenreRank": {"S":"{'Cross Dressing / Gender Bending': '19', 'Gay / Lesbian': '36'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Smallest Drops, All Wide Releases': '3,073', 'Theater Averages - All Time Adjusted': '162', 'Opening Weeks': '4,680', 'Opening Weekends Adjusted': '4,767', 'Theater Averages - Opening Weekends': '126', 'Opening Weekends': '4,754', 'Worst Openings - Wide Releases': '31', 'Worst Openings - Wide Releases Adjusted': '18', 'Worst Opening Weekend Per-Theater Averages': '36', 'All Time Domestic': '4,285', 'Opening Weeks Adjusted': '4,699', 'Worst Opening Weekend Per-Theater Averages Adjusted': '24'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Darjeeling Limited'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=darjeelinglimited.htm"},
+					"DomesticTotalGross": {"S":"b'$11,902,715'"},
+					"Runtime": {"S":"b'1 hrs. 31 min.'"},
+					"Distributor": {"S":"b'Fox Searchlight'"},
+					"Genre": {"S":"b'Comedy'"},
+					"ReleaseDate": {"S":"b'September 29, 2007'"},
+					"ProductionBudget": {"S":"b'$16 million'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Wes Anderson, Jason Schwartzman, Roman Coppola'"},
+					"Producer": {"S":"b'Steven M. Rales, Scott Rudin, Lydia Pilcher, Wes Anderson, Roman Coppola'"},
+					"Actor": {"S":"b'Owen Wilson, Adrien Brody, Jason Schwartzman'"},
+					"Director": {"S":"b'Wes Anderson'"},
+					"Domestic": {"S":"b'$11,902,715'"},
+					"Worldwide": {"S":"b'$35,078,918'"},
+					"Foreign": {"S":"b'$23,176,203'"},
+					"WideOpeningWeekend": {"S":"b'$1,761,335'"},
+					"WidestRelease": {"S":"b'698 theaters'"},
+					"CloseDate": {"S":"b'February 28, 2008'"},
+					"LimitedOpeningWeekend": {"S":"b'<b> $134,938</b>'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 2007': '65', 'Smallest Drops, All Wide Releases': '1,124', 'Theater Averages - All Time Adjusted': '116', 'Yearly Opening Weekends 2007': '232', 'Opening Weeks': '4,348', 'Opening Weekends Adjusted': '4,564', 'Theater Averages - Opening Weekends Adjusted': '88', 'Theater Averages - Opening Weekends': '63', 'Yearly R Rated 2007': '54', 'Opening Weeks Adjusted': '4,507', 'Yearly 2007': '138', BOM Users' Grades (2007 Releases): '89', 'Worldwide Yearly 2007': '118', 'Yearly Opening Weekends (Wide) 2007': '167', 'Yearly (Wide) 2007': '137', 'All Time Domestic': '4,182', 'Opening Weekends': '4,408', 'Movies That Never Hit the Top 10': '131'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Dark Backward'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=darkbackward.htm"},
+					"DomesticTotalGross": {"S":"b'$28,654'"},
+					"Runtime": {"S":"b'1 hrs. 41 min.'"},
+					"Distributor": {"S":"b'Greycat'"},
+					"Genre": {"S":"b'Comedy'"},
+					"ReleaseDate": {"S":"b'July 26, 1991'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Adam Rifkin'"},
+					"Actor": {"S":"b'Judd Nelson, Bill Paxton, Lara Flynn Boyle, James Caan, Rob Lowe'"},
+					"Director": {"S":"b'Adam Rifkin'"},
+					"Domestic": {"S":"b'$28,654'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"OpeningWeekend": {"S":"b'$7,917'"},
+					"CloseDate": {"S":"b'August 22, 1991'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 1991': '93', 'Yearly (Limited) 1991': '89', 'Yearly 1991': '232', 'Yearly R Rated 1991': '128', 'Highest All Time Rank (on August 13, 1991)': '2390', 'All Time Domestic': '12,057', 'Yearly Opening Weekends 1991': '204'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Dark Below'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=thedarkbelow.htm"},
+					"Runtime": {"S":"b'1 hrs. 23 min.'"},
+					"Distributor": {"S":"b'Parade Deck Films'"},
+					"Genre": {"S":"b'Thriller'"},
+					"DomesticTotalasofMar.19,2017": {"S":"b'$3,675'"},
+					"ReleaseDate": {"S":"b'March 10, 2017'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$3,675'"},
+					"WidestRelease": {"S":"b'3 theaters'"},
+					"OpeningWeekend": {"S":"b'$1,526'"},
+					"InRelease": {"S":"b'10 days / 1.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Top Movies in the Past 365 Days': '666', 'All Time Domestic': '14,156'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Dark Crystal'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=darkcrystal.htm"},
+					"DomesticTotalGross": {"S":"b'$40,577,001'"},
+					"Runtime": {"S":"b'1 hrs. 34 min.'"},
+					"Distributor": {"S":"b'Universal'"},
+					"Genre": {"S":"b'Fantasy'"},
+					"ReleaseDate": {"S":"b'December 17, 1982'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Composer": {"S":"b'Trevor Jones'"},
+					"Director": {"S":"b'Frank Oz'"},
+					"Domestic": {"S":"b'$40,577,001'"},
+					"WidestRelease": {"S":"b'1,052 theaters'"},
+					"OpeningWeekend": {"S":"b'$4,657,335'"},
+					"InRelease": {"S":"b'63 days / 9 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Puppet / Puppetry': '4', 'Fantasy - Live Action': '60', 'Sword and Sorcery': '11'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on February 13, 1983)': '141', 'Yearly Opening Weekends 1982': '22', 'Smallest Drops, All Wide Releases': '932', 'Opening Weeks': '2,900', 'Most Weekends in Top 5 (non-consecutive)': '162', 'Opening Weekends Adjusted - December': '177', 'Yearly (Wide) 1982': '16', 'Yearly 1982': '16', BOM Users' Grades (1982 Releases): '14', 'Consecutive Weekends In Top 5': '162', 'Opening Weeks Adjusted': '1,824', 'Yearly Opening Weekends (Wide) 1982': '25', 'Yearly PG Rated 1982': '10', 'All Time Domestic': '1,920', 'Opening Weekends': '3,152', 'Opening Weekends Adjusted': '2,111'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Dark Half'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=darkhalf.htm"},
+					"DomesticTotalGross": {"S":"b'$10,611,160'"},
+					"Runtime": {"S":"b'2 hrs. 1 min.'"},
+					"Distributor": {"S":"b'Orion Pictures'"},
+					"Genre": {"S":"b'Horror'"},
+					"ReleaseDate": {"S":"b'April 23, 1993'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Composer": {"S":"b'Christopher Young'"},
+					"Domestic": {"S":"b'$10,611,160'"},
+					"WidestRelease": {"S":"b'1,563 theaters'"},
+					"OpeningWeekend": {"S":"b'$3,250,883'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"{'Brand: Stephen King': '32'}"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Wide) 1993': '108', 'Smallest Drops, All Wide Releases': '1,979', 'Yearly R Rated 1993': '43', 'Opening Weeks': '3,793', BOM Users' Grades (1993 Releases): '85', 'Yearly 1993': '108', 'Opening Weeks Adjusted': '3,522', 'Highest All Time Rank (on May 25, 1993)': '1286', 'Yearly (Wide) 1993': '99', 'All Time Domestic': '4,358', 'Opening Weekends': '3,742', 'Opening Weekends Adjusted': '3,463', 'Yearly Opening Weekends 1993': '99'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Dark Horse'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=thedarkhorse.htm"},
+					"DomesticTotalGross": {"S":"b'$67,533'"},
+					"Runtime": {"S":"b'2 hrs. 4 min.'"},
+					"Distributor": {"S":"b'Broad Green Pictures'"},
+					"Genre": {"S":"b'Drama'"},
+					"ReleaseDate": {"S":"b'April 1, 2016'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Cliff Curtis, James Rolleston'"},
+					"Director": {"S":"b'James Napier Robertson'"},
+					"Domestic": {"S":"b'$67,533'"},
+					"Worldwide": {"S":"b'$67,533'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'10 theaters'"},
+					"OpeningWeekend": {"S":"b'$8,152'"},
+					"CloseDate": {"S":"b'May 19, 2016'"},
+					"InRelease": {"S":"b'49 days / 7 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Top Movies in the Past 365 Days': '408', 'All Time Domestic': '10,877'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Dark Hours'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=darkhours.htm"},
+					"DomesticTotalGross": {"S":"b'$423'"},
+					"Runtime": {"S":"b'1 hrs. 12 min.'"},
+					"Distributor": {"S":"b'Unknown'"},
+					"Genre": {"S":"b'Horror'"},
+					"ReleaseDate": {"S":"b'October 13, 2005'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$423'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"OpeningWeekend": {"S":"b'$338'"},
+					"CloseDate": {"S":"b'October 16, 2005'"},
+					"InRelease": {"S":"b'8 days / 1.1 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sci-Fi Horror': '59', 'Hostage': '49', 'Horror - Torture': '31'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2005': '547', 'Yearly R Rated 2005': '171', 'Yearly Opening Weekends (Limited) 2005': '393', 'Yearly Opening Weekends 2005': '532', 'Yearly (Limited) 2005': '387', 'All Time Domestic': '14,677'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Dark Knight'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=darkknight.htm"},
+					"DomesticTotalGross": {"S":"b'$533,345,358'"},
+					"Genre": {"S":"b'Action / Adventure'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"DomesticLifetimeGross": {"S":"b''"},
+					"ReleaseDate": {"S":"b'July 18, 2008'"},
+					"Runtime": {"S":"b'2 hrs. 30 min.'"},
+					"ProductionBudget": {"S":"b'$185 million'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Christopher Nolan, Emma Thomas, Thomas Tull'"},
+					"Composer": {"S":"b'James Newton Howard, Hans Zimmer'"},
+					"Actor": {"S":"b'Christian Bale, Heath Ledger, Aaron Eckhart, Morgan Freeman, Michael Caine, Gary Oldman, Maggie Gyllenhaal, Eric Roberts, Michael Jai White*, William Fichtner*, Cillian Murphy*'"},
+					"Writer": {"S":"b'David S. Goyer, Christopher Nolan, Jonathan Nolan'"},
+					"Cinematographer": {"S":"b'Wally Pfister'"},
+					"Director": {"S":"b'Christopher Nolan'"},
+					"Domestic": {"S":"b'$534,858,444'"},
+					"Worldwide": {"S":"b'$1,004,558,444'"},
+					"Foreign": {"S":"b'$469,700,000'"},
+					"WidestRelease": {"S":"b'4,366 theaters'"},
+					"OpeningWeekend": {"S":"b'$158,411,483'"},
+					"CloseDate": {"S":"b'March 5, 2009'"},
+					"InRelease": {"S":"b'231 days / 33 weeks'"},
+					"Awards": {"S":"Nominated for Eight Oscars, Including Two Wins."},
+					"GenreRank": {"S":"{'Superhero': '2', 'IMAX (Feature-length)': '5', 'Comic Book Adaptation': '2'}"},
+					"Franchise": {"S":"{'Showdown: Batman Battle': '1', 'Showdown: Summer 2008 Crown': '1', 'Series: Batman': '1', 'Series: The Dark Knight Trilogy': '1', 'Showdown: Blockbuster Superhero Showdown': '2', 'Brand: Legendary Pictures': '2', 'Brand: DC Comics': '1', 'Showdown: Biggest 2D-Only Openers': '1', 'Showdown: All Time Grossers': '6', 'Showdown: All Time Openers': '3', 'Showdown: Rogue One vs. Comparable Openings': '1'}"},
+					"Chart": {"S":"{'Fastest to $450 million': '5', 'Second Weekends': '6', 'Top 3-Day Grosses': '11', 'Third Weekends': '8', 'Single Day Sunday Gross': '6', 'Opening Weekends - July': '3', 'Fastest to $350 million': '5', 'Consecutive Weekends At #1': '26', 'Eighth Weekends': '45', 'Rated PG-13, Opening Weekends Adjusted': '5', BOM Users' Grades (2008 Releases): '1', 'Most Weekends in Top 5 (non-consecutive)': '76', 'All Time Domestic': '6', 'Top 8-Day Grosses': '4', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '563', 'Non-Opening Thursday Gross Adjusted': '23', 'Consecutive Weekends In Top 10': '121', 'Non-Opening Wednesday Gross Adjusted': '5', 'Eighth Weekends Adjusted': '114', 'All Time Adjusted': '31', 'Fourth Weekends': '7', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,107', 'Slowest to $200 million': '166', 'Yearly Opening Weekends 2008': '1', 'Single Day Thursday Gross Adjusted': '28', 'Fastest to $400 million': '5', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,551', 'Opening Weeks Adjusted': '4', 'Highest All Time Rank (on August 17, 2008)': '2', 'Worldwide Yearly 2008': '1', 'Single Day Saturday Gross': '13', 'Opening Day Gross': '18', 'Tenth Weekends Adjusted': '134', 'Widest PG-13 Rated Openings': '5', 'Worldwide Openings': '51', 'Fastest to $150 million': '11', 'Widest Releases': '8', 'Foreign Opening Weekends': '128', 'Eleventh Weekends Adjusted': '183', 'Single Day Thursday Gross': '25', 'Non-Opening Thursday Gross': '19', 'Fastest to $100 million': '15', 'Rated PG-13': '6', 'Top 4-Day Grosses': '9', 'Yearly PG-13 Rated 2008': '1', 'Theater Averages - Wide Opening Weekends': '17', 'Friday Share of Opening Weekends': '140', 'Widest PG-13 Rated Releases': '5', 'Most Weekends in Top 10 (non-consecutive)': '143', 'Sixth Weekends': '28', 'Single Day Tuesday Gross Adjusted': '6', 'Top 10-Day Grosses': '4', 'Theater Averages (Wide Releases) - All Time': '17', BOM Users' Grades: '1', 'Sixth Weekends Adjusted': '75', 'Opening Weekends Adjusted': '5', 'Rated PG-13, Opening Weekends': '10', 'Top 6-Day Grosses': '5', 'Rated PG-13 Adjusted': '8', 'Non-Opening Friday Gross': '23', 'Single Day Tuesday Gross': '8', 'Non-Opening Wednesday Gross': '8', 'Fourth Weekends Adjusted': '18', 'Ninth Weekends': '59', 'Seventh Weekends': '17', 'Single Day Sunday Gross Adjusted': '4', 'Fifth Weekends': '13', 'Seventh Weekends Adjusted': '71', 'Opening Weekends Adjusted - Summer': '4', 'Slowest to $100 million': '620', 'Fastest to $300 million': '4', 'Smallest Drops, All Wide Releases': '3,244', 'Widest Opening Releases': '6', 'Third Weekends Adjusted': '11', 'Eleventh Weekends': '110', 'Most Weekends at #1 (non-consecutive)': '34', 'Opening Weekends - Summer': '8', 'Single Day Monday Gross Adjusted': '9', 'Labor Day 4-Day Holiday Weekends': '45', 'Theater Averages (Wide Releases) - All Time Adjusted': '11', 'Single Day Wednesday Gross': '25', 'Twelfth Weekends': '188', 'Ninth Weekends Adjusted': '123', 'All Time Worldwide': '28', 'Yearly Opening Weekends (Wide) 2008': '1', 'Single Day Wednesday Gross Adjusted': '25', 'Yearly 2008': '1', 'Single Day Friday Gross Adjusted': '9', 'Non-Opening Tuesday Gross Adjusted': '4', 'Fastest to $250 million': '4', 'Non-Opening Tuesday Gross': '6', 'Consecutive Weekends In Top 5': '67', 'Top 9-Day Grosses': '5', 'Non-Opening Friday Gross Adjusted': '35', 'Single Day Friday Gross': '17', 'Opening Weekends': '11', 'Fastest to $200 million': '7', 'Opening Weekends Adjusted - July': '1', 'Fastest to $500 million': '6', 'Yearly (Wide) 2008': '1', 'Top 7-Day Grosses': '4', 'Single Day Monday Gross': '8', 'Friday to Saturday Drops on Opening Weekends': '72', 'Second Weekends Adjusted': '6', 'Single Day Gross': '21', 'Fifth Weekends Adjusted': '39', 'Theater Averages - Wide Opening Weekends Adjusted': '10', 'Opening Weeks': '4', 'Tenth Weekends': '64', 'Non-Holiday Monday Gross': '5', 'Single Day Saturday Gross Adjusted': '12', 'Top 5-Day Grosses': '7'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Dark Knight (2012 re-release)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=darkknight2012.htm"},
+					"DomesticTotalGross": {"S":"b'$1,513,086'"},
+					"Genre": {"S":"b'Action / Adventure'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"DomesticLifetimeGross": {"S":"b''"},
+					"ReleaseDate": {"S":"b'July 19, 2012'"},
+					"Runtime": {"S":"b'2 hrs. 30 min.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$534,858,444'"},
+					"CloseDate": {"S":"b'July 19, 2012'"},
+					"InRelease": {"S":"b'1 days / 0.1 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"{'Series: The Dark Knight Trilogy': '4'}"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Dark Knight Rises'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=batman3.htm"},
+					"DomesticTotalGross": {"S":"b'$448,139,099'"},
+					"Runtime": {"S":"b'2 hrs. 45 min.'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Genre": {"S":"b'Action Thriller'"},
+					"ReleaseDate": {"S":"b'July 20, 2012'"},
+					"ProductionBudget": {"S":"b'$250 million'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Christopher Nolan, Charles Roven, Emma Thomas, Thomas Tull'"},
+					"Composer": {"S":"b'Hans Zimmer'"},
+					"Actor": {"S":"b'Christian Bale, Michael Caine, Anne Hathaway, Tom Hardy, Gary Oldman, Marion Cotillard, Morgan Freeman, Matthew Modine, Juno Temple*, Cillian Murphy*, Liam Neeson*, Joey King*'"},
+					"Writer": {"S":"b'David S. Goyer, Christopher Nolan, Jonathan Nolan'"},
+					"Cinematographer": {"S":"b'Wally Pfister'"},
+					"Director": {"S":"b'Christopher Nolan'"},
+					"Domestic": {"S":"b'$448,139,099'"},
+					"Worldwide": {"S":"b'$1,084,939,099'"},
+					"Foreign": {"S":"b'$636,800,000'"},
+					"WidestRelease": {"S":"b'4,404 theaters'"},
+					"OpeningWeekend": {"S":"b'$160,887,295'"},
+					"CloseDate": {"S":"b'December 13, 2012'"},
+					"InRelease": {"S":"b'147 days / 21 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Superhero': '4', 'IMAX (Feature-length)': '9', 'Comic Book Adaptation': '4'}"},
+					"Franchise": {"S":"{'Showdown: Batman Battle': '2', 'Series: Batman': '2', 'Series: The Dark Knight Trilogy': '2', 'Showdown: Blockbuster Superhero Showdown': '4', 'Brand: Legendary Pictures': '3', 'Showdown: Superhero Smackdown': '2', 'Brand: DC Comics': '2', 'Showdown: Biggest 2D-Only Openers': '2', 'Showdown: All Time Openers': '4'}"},
+					"Chart": {"S":"{'Fifth Weekends Adjusted': '167', 'Second Weekends': '17', 'Top 3-Day Grosses': '10', 'Third Weekends': '14', 'Single Day Sunday Gross': '11', 'Opening Weekends - July': '2', 'Consecutive Weekends At #1': '67', 'Eighth Weekends': '167', 'Rated PG-13, Opening Weekends Adjusted': '10', 'All Time Domestic': '12', 'Top 8-Day Grosses': '9', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '796', 'Non-Opening Thursday Gross Adjusted': '54', 'All Time Worldwide': '17', 'Non-Opening Wednesday Gross Adjusted': '26', 'All Time Adjusted': '67', 'Fourth Weekends': '34', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,478', 'Seventh Weekends Adjusted': '197', 'Slowest to $200 million': '163', 'Single Day Thursday Gross Adjusted': '66', 'Fastest to $400 million': '9', 'Smallest Drops, 2,000+ theaters (Very Wide)': '2,060', 'Third Weekends Adjusted': '28', 'Single Day Saturday Gross': '19', 'Opening Day Gross': '7', 'Widest PG-13 Rated Openings': '2', 'Worldwide Openings': '30', 'Biggest 2nd Weekend Drops': '416', 'Widest Releases': '3', 'Foreign Opening Weekends': '57', 'Single Day Thursday Gross': '42', 'Non-Opening Thursday Gross': '30', 'Fastest to $100 million': '11', 'Rated PG-13': '9', 'Top 4-Day Grosses': '11', 'Theater Averages - Wide Opening Weekends': '16', 'Friday Share of Opening Weekends': '39', 'Opening Weeks Adjusted': '6', 'Sixth Weekends': '96', 'Widest PG-13 Rated Releases': '2', 'Top 10-Day Grosses': '8', 'Theater Averages (Wide Releases) - All Time': '16', 'Opening Weekends Adjusted': '10', 'Rated PG-13, Opening Weekends': '9', 'Top 6-Day Grosses': '10', 'Rated PG-13 Adjusted': '18', 'Non-Opening Friday Gross': '60', 'Single Day Tuesday Gross': '12', 'Non-Opening Wednesday Gross': '20', 'Fourth Weekends Adjusted': '86', 'Ninth Weekends': '178', 'Seventh Weekends': '78', 'Single Day Sunday Gross Adjusted': '14', 'Fifth Weekends': '58', 'Highest All Time Rank (on September 20, 2012)': '7', 'Opening Weekends Adjusted - Summer': '9', 'Slowest to $100 million': '624', 'Fastest to $300 million': '9', 'Smallest Drops, All Wide Releases': '4,003', 'Widest Opening Releases': '2', 'Opening Weeks': '7', 'Most Weekends at #1 (non-consecutive)': '83', 'Opening Weekends - Summer': '7', 'Single Day Monday Gross Adjusted': '20', 'Labor Day 4-Day Holiday Weekends': '109', 'Theater Averages (Wide Releases) - All Time Adjusted': '20', 'Single Day Wednesday Gross': '45', 'Single Day Wednesday Gross Adjusted': '62', 'Single Day Friday Gross Adjusted': '6', 'Non-Opening Tuesday Gross Adjusted': '9', 'Fastest to $250 million': '8', 'Non-Opening Tuesday Gross': '9', 'Top 9-Day Grosses': '8', 'Fastest to $350 million': '8', 'Single Day Friday Gross': '7', 'Opening Weekends': '10', 'Fastest to $200 million': '10', 'Opening Weekends Adjusted - July': '4', 'Top 7-Day Grosses': '8', 'Single Day Monday Gross': '17', 'Friday to Saturday Drops on Opening Weekends': '22', 'Second Weekends Adjusted': '28', 'Single Day Gross': '7', 'Fastest to $150 million': '10', 'Theater Averages - Wide Opening Weekends Adjusted': '19', 'Single Day Tuesday Gross Adjusted': '12', 'Non-Holiday Monday Gross': '9', 'Single Day Saturday Gross Adjusted': '22', 'Top 5-Day Grosses': '10'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Dark Tower'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=darktower.htm"},
+					"Runtime": {"S":"b'N/A'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"Genre": {"S":"b'Fantasy'"},
+					"ReleaseDate": {"S":"b'July 28, 2017'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Producer": {"S":"b'Ron Howard'"},
+					"Composer": {"S":"b'Junkie XL'"},
+					"Actor": {"S":"b'Matthew McConaughey, Idris Elba'"},
+					"Director": {"S":"b'Nikolaj Arcel'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"{'Brand: Stephen King': 'n/a'}"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,647 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Amelie'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=amelie.htm"},
+					"Genre": {"S":"b'Foreign'"},
+					"ProductionBudget": {"S":"b'$10 million'"},
+					"ReleaseDate": {"S":"b'November 2, 2001'"},
+					"Distributor": {"S":"b'Miramax'"},
+					"DomesticTotalGross": {"S":"b'$33,225,499'"},
+					"Runtime": {"S":"b'2 hrs. 2 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b', Actor'"},
+					"Director": {"S":"b''"},
+					"Foreign": {"S":"b'$140,696,455'"},
+					"Domestic": {"S":"b'$33,225,499'"},
+					"Worldwide": {"S":"b'$173,921,954'"},
+					"InRelease": {"S":"b'245 days / 35 weeks'"},
+					"OpeningWeekend": {"S":"b'$136,470'"},
+					"CloseDate": {"S":"b'July 4, 2002'"},
+					"WidestRelease": {"S":"b'303 theaters'"},
+					"Awards": {"S":"Nominated for Four Oscars."},
+					"GenreRank": {"S":"{'Foreign Language': '6'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on August 28, 2002)': '882', 'Movies That Never Hit the Top 5': '107', 'Yearly 2001': '71', BOM Users' Grades (2001 Releases): '16', 'Yearly Opening Weekends 2001': '161', 'Yearly R Rated 2001': '25', 'Theater Averages - All Time Adjusted': '197', 'All Time Domestic': '2,316', 'Yearly (Limited) 2001': '1', 'Theater Averages - Opening Weekends Adjusted': '151', 'Theater Averages - Opening Weekends': '137', 'Movies That Never Hit the Top 5 Adjusted': '100', 'Worldwide Yearly 2001': '24', 'Yearly Opening Weekends (Limited) 2001': '33'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Amen'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=amen.htm"},
+					"Genre": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'January 24, 2003'"},
+					"Distributor": {"S":"b'Kino'"},
+					"DomesticTotalGross": {"S":"b'$274,299'"},
+					"Runtime": {"S":"b'2 hrs. 12 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Foreign": {"S":"b'$8,144,753'"},
+					"Domestic": {"S":"b'$274,299'"},
+					"Worldwide": {"S":"b'$8,419,052'"},
+					"InRelease": {"S":"b'199 days / 28.4 weeks'"},
+					"OpeningWeekend": {"S":"b'$16,284'"},
+					"CloseDate": {"S":"b'August 10, 2003'"},
+					"WidestRelease": {"S":"b'9 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 2003': '327', 'Yearly (Limited) 2003': '138', 'All Time Domestic': '8,998', 'Worldwide Yearly 2003': '176', 'Yearly Opening Weekends (Limited) 2003': '198', 'Yearly Unrated Movies 2003': '41', 'Yearly 2003': '284', 'Highest All Time Rank (on August 3, 2003)': '5121'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'AmeriGeddon'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=amerigeddon.htm"},
+					"Genre": {"S":"b'Action'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'May 13, 2016'"},
+					"Distributor": {"S":"b'Forewarned'"},
+					"DomesticTotalGross": {"S":"b'$316,554'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$316,554'"},
+					"InRelease": {"S":"b'31 days / 4.4 weeks'"},
+					"OpeningWeekend": {"S":"b'$125,571'"},
+					"CloseDate": {"S":"b'June 26, 2016'"},
+					"WidestRelease": {"S":"b'30 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Top Movies in the Past 365 Days': '301', 'All Time Domestic': '8,787'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'America (2014)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=america2014.htm"},
+					"Genre": {"S":"b'Documentary'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'June 27, 2014'"},
+					"Distributor": {"S":"b'Lionsgate'"},
+					"DomesticTotalGross": {"S":"b'$14,444,502'"},
+					"Runtime": {"S":"b'1 hrs. 43 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Dinesh DSouza, John Sullivan'"},
+					"Producer": {"S":"b'Dinesh DSouza, Gerald R. Molen'"},
+					"Director": {"S":"b'Dinesh DSouza, John Sullivan'"},
+					"Domestic": {"S":"b'$14,444,502'"},
+					"WideOpeningWeekend": {"S":"b'$2,743,753'"},
+					"InRelease": {"S":"b'70 days / 10 weeks'"},
+					"WidestRelease": {"S":"b'1,105 theaters'"},
+					"CloseDate": {"S":"b'September 4, 2014'"},
+					"LimitedOpeningWeekend": {"S":"b'<b> $38,608</b>'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary - Political': '6', 'Documentary': '18'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '4,251', 'Opening Weekends': '3,961', 'All Time Domestic': '3,841', 'Movies That Never Hit the Top 10': '81', 'Smallest Drops, All Wide Releases': '401', 'Opening Weeks': '3,690', 'Independence Day Opening Weekends': '73', 'Opening Weekends Adjusted': '4,427'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'America Betrayed'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=americabetrayed.htm"},
+					"Genre": {"S":"b'Documentary'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'March 27, 2009'"},
+					"Distributor": {"S":"b'First Run'"},
+					"DomesticTotalGross": {"S":"b'$1,311'"},
+					"Runtime": {"S":"b'1 hrs. 34 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Actor": {"S":"b'Richard Dreyfuss*'"},
+					"Domestic": {"S":"b'$1,311'"},
+					"InRelease": {"S":"b'21 days / 3 weeks'"},
+					"OpeningWeekend": {"S":"b'$245'"},
+					"CloseDate": {"S":"b'April 12, 2009'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary - Political': '130', 'Documentary': '1439'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2009': '516', 'Yearly Opening Weekends 2009': '510', 'All Time Domestic': '14,558', 'Yearly Opening Weekends (Limited) 2009': '371', 'Yearly (Limited) 2009': '364', 'Yearly Unrated Movies 2009': '174'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'America the Beautiful'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=americathebeautiful.htm"},
+					"Genre": {"S":"b'Documentary'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'May 9, 2008'"},
+					"Distributor": {"S":"b'First Independent Pictures'"},
+					"DomesticTotalGross": {"S":"b'$76,173'"},
+					"Runtime": {"S":"b'1 hrs. 45 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$76,173'"},
+					"InRelease": {"S":"b'203 days / 29 weeks'"},
+					"OpeningWeekend": {"S":"b'$6,760'"},
+					"CloseDate": {"S":"b'November 23, 2008'"},
+					"WidestRelease": {"S":"b'5 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '660'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 2008': '130', 'Yearly 2008': '389', 'Yearly (Limited) 2008': '216', 'Yearly Opening Weekends 2008': '446', 'Yearly Opening Weekends (Limited) 2008': '294', 'All Time Domestic': '10,721'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'America the Beautiful 2: The Thin Commandments'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=americathebeautiful2.htm"},
+					"Genre": {"S":"b'Documentary'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'October 14, 2011'"},
+					"Distributor": {"S":"b'PMK*BNC'"},
+					"DomesticTotalGross": {"S":"b'$12,366'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$12,366'"},
+					"InRelease": {"S":"b'49 days / 7 weeks'"},
+					"OpeningWeekend": {"S":"b'$5,599'"},
+					"CloseDate": {"S":"b'December 8, 2011'"},
+					"WidestRelease": {"S":"b'3 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '1141'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '13,098'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bAmerica's Heart and Soul"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=americasheartandsoul.htm"},
+					"Genre": {"S":"b'Documentary'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'July 2, 2004'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"DomesticTotalGross": {"S":"b'$314,402'"},
+					"Runtime": {"S":"b'1 hrs. 28 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$314,402'"},
+					"InRelease": {"S":"b'28 days / 4 weeks'"},
+					"OpeningWeekend": {"S":"b'$134,939'"},
+					"CloseDate": {"S":"b'July 29, 2004'"},
+					"WidestRelease": {"S":"b'98 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '310'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 2004': '197', 'Highest All Time Rank (on July 22, 2004)': '5326', 'Yearly PG Rated 2004': '45', 'All Time Domestic': '8,797', 'Yearly Opening Weekends (Limited) 2004': '59', 'Yearly (Limited) 2004': '132', 'Yearly 2004': '285'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bAmerica's Sweethearts"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=americassweethearts.htm"},
+					"Genre": {"S":"b'Romantic Comedy'"},
+					"ProductionBudget": {"S":"b'$46 million'"},
+					"ReleaseDate": {"S":"b'July 20, 2001'"},
+					"Distributor": {"S":"b'Sony (Revolution)'"},
+					"DomesticTotalGross": {"S":"b'$93,607,673'"},
+					"Runtime": {"S":"b'1 hrs. 42 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Composer": {"S":"b'James Newton Howard'"},
+					"Writer": {"S":"b'Peter Tolan'"},
+					"Actor": {"S":"b'Julia Roberts, Billy Crystal, John Cusack, Hank Azaria, Stanley Tucci, Christopher Walken, Seth Green*, Emma Roberts*'"},
+					"Director": {"S":"b'Joe Roth'"},
+					"Foreign": {"S":"b'$44,583,755'"},
+					"Domestic": {"S":"b'$93,607,673'"},
+					"Worldwide": {"S":"b'$138,191,428'"},
+					"InRelease": {"S":"b'101 days / 14.4 weeks'"},
+					"OpeningWeekend": {"S":"b'$30,181,877'"},
+					"WidestRelease": {"S":"b'3,011 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Romantic Comedy': '34', 'Hollywood / Movies': '8'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Smallest Drops, 3,000+ theaters (Super-Saturation)': '465', 'Opening Weekends - July': '71', 'Yearly 2001': '23', 'Opening Weekends': '471', 'Opening Weeks Adjusted': '375', 'Smallest Drops, 2,500+ theaters (Saturation)': '932', 'Opening Weekends Not At #1 Adjusted': '31', 'Yearly PG-13 Rated 2001': '13', 'All Time Domestic': '710', 'Opening Weekends Not At #1': '77', 'Widest Opening Releases': '876', 'Movies That Never #1 Adjusted': '138', 'Opening Weekends Adjusted - July': '64', 'Highest All Time Rank (on September 23, 2001)': '249', 'Yearly Opening Weekends (Wide) 2001': '15', BOM Users' Grades (2001 Releases): '102', 'Yearly Opening Weekends 2001': '15', 'Opening Weekends Adjusted': '386', 'Widest Releases': '932', 'Smallest Drops, All Wide Releases': '2,857', 'Opening Weeks': '455', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,320', 'Yearly (Wide) 2001': '23', 'Worldwide Yearly 2001': '34'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'America: Freedom to Fascism'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=america:freedomtofascism.htm"},
+					"Genre": {"S":"b'Documentary'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'July 28, 2006'"},
+					"Distributor": {"S":"b'Cinema Libre Studio'"},
+					"DomesticTotalGross": {"S":"b'$87,400'"},
+					"Runtime": {"S":"b'1 hrs. 45 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$87,400'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"OpeningWeekend": {"S":"b'$61,200'"},
+					"CloseDate": {"S":"b'August 3, 2006'"},
+					"WidestRelease": {"S":"b'10 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary - Political': '72', 'Documentary': '626'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '10,544', 'Yearly Opening Weekends (Limited) 2006': '101', 'Yearly 2006': '384', 'Yearly Unrated Movies 2006': '64', 'Yearly (Limited) 2006': '209', 'Yearly Opening Weekends 2006': '259'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'American Adobo'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=americanadobo.htm"},
+					"Genre": {"S":"b'Comedy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'January 25, 2002'"},
+					"Distributor": {"S":"b'Outrider'"},
+					"DomesticTotalGross": {"S":"b'$344,992'"},
+					"Runtime": {"S":"b'1 hrs. 44 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$344,992'"},
+					"OpeningWeekend": {"S":"b'$41,001'"},
+					"CloseDate": {"S":"b'June 27, 2002'"},
+					"WidestRelease": {"S":"b'7 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 2002': '114', 'Yearly 2002': '270', 'All Time Domestic': '8,674', 'Yearly (Limited) 2002': '111', 'Highest All Time Rank (on August 28, 2002)': '3797', 'Yearly Opening Weekends (Limited) 2002': '102', 'Yearly Opening Weekends 2002': '242'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'American Animal'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=americananimal.htm"},
+					"Genre": {"S":"b'Comedy / Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'May 18, 2012'"},
+					"Distributor": {"S":"b'Screen Media'"},
+					"DomesticTotalGross": {"S":"b'$5,928'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$5,928'"},
+					"InRelease": {"S":"b'3 days / 0.4 weeks'"},
+					"OpeningWeekend": {"S":"b'$5,928'"},
+					"CloseDate": {"S":"b'May 20, 2012'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '13,824'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'American Anthem'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=americananthem.htm"},
+					"Genre": {"S":"b'Sports Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'June 27, 1986'"},
+					"Distributor": {"S":"b'Columbia'"},
+					"DomesticTotalGross": {"S":"b'$4,845,724'"},
+					"Runtime": {"S":"b'1 hrs. 42 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Composer": {"S":"b'Alan Silvestri'"},
+					"Domestic": {"S":"b'$4,845,724'"},
+					"OpeningWeekend": {"S":"b'$1,867,969'"},
+					"WidestRelease": {"S":"b'900 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Drama - Summer': '134', 'Sports - Olympics': '10', 'Sports Drama': '83'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 1986': '91', 'Highest All Time Rank (on July 5, 1988)': '760', 'Opening Weekends': '4,356', 'Biggest 2nd Weekend Drops': '315', 'Yearly PG-13 Rated 1986': '24', 'Opening Weeks Adjusted': '3,907', 'Yearly (Wide) 1986': '98', 'All Time Domestic': '5,428', 'Smallest Drops, All Wide Releases': '4,106', 'Yearly 1986': '109', 'Opening Weeks': '4,200', 'Opening Weekends Adjusted': '4,102', 'Yearly Opening Weekends (Wide) 1986': '96'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'American Beauty'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=americanbeauty.htm"},
+					"Genre": {"S":"b'Drama'"},
+					"ProductionBudget": {"S":"b'$15 million'"},
+					"ReleaseDate": {"S":"b'September 15, 1999'"},
+					"Distributor": {"S":"b'DreamWorks'"},
+					"DomesticTotalGross": {"S":"b'$130,096,601'"},
+					"Runtime": {"S":"b'2 hrs. 2 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Composer": {"S":"b'Thomas Newman'"},
+					"Writer": {"S":"b'Alan Ball'"},
+					"Actor": {"S":"b'Chris Cooper, Kevin Spacey, Annette Bening'"},
+					"Director": {"S":"b'Sam Mendes'"},
+					"Foreign": {"S":"b'$226,200,000'"},
+					"Domestic": {"S":"b'$130,096,601'"},
+					"Worldwide": {"S":"b'$356,296,601'"},
+					"WideOpeningWeekend": {"S":"b'$8,188,587'"},
+					"WidestRelease": {"S":"b'1,990 theaters'"},
+					"LimitedOpeningWeekend": {"S":"b'<b> $861,531</b>'"},
+					"Awards": {"S":"Nominated for Eight Oscars, Including Five Wins."},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1999': '13', 'Opening Weeks Adjusted': '2,056', 'Yearly Opening Weekends (Limited) 1999': '6', 'Rated R Adjusted': '77', 'Opening Weekends': '2,203', 'Yearly R Rated 1999': '4', 'Theater Averages - All Time Adjusted': '95', 'All Time Domestic': '418', 'All Time Worldwide': '299', 'Top Ranking Limited Release Debuts': '192', 'Best Picture Nomination Effect': '87', BOM Users' Grades (1999 Releases): '15', 'Movies That Never Hit #1': '57', BOM Users' Grades: '213', 'Slowest to $100 million': '5', 'Highest All Time Rank (on May 29, 2000)': '104', 'Theater Averages - Opening Weekends Adjusted': '73', 'Worldwide Yearly 1999': '9', 'Opening Weekends Adjusted - October': '152', 'Movies That Never #1 Adjusted': '35', 'Yearly Opening Weekends 1999': '137', President's Day 4-Day Holiday Weekends: '178', 'Yearly (Wide) 1999': '13', 'Most Weekends in Top 10 (non-consecutive)': '58', 'Opening Weekends - October': '169', 'Rated R': '73', 'Yearly Opening Weekends (Wide) 1999': '69', 'Smallest Drops, All Wide Releases': '101', 'Theater Averages - Opening Weekends': '97', 'Opening Weeks': '2,191', 'Opening Weekends Adjusted': '2,079'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'American Buffalo'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=americanbuffalo.htm"},
+					"Genre": {"S":"b'Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'September 13, 1996'"},
+					"Distributor": {"S":"b'Samuel Goldwyn'"},
+					"DomesticTotalGross": {"S":"b'$665,450'"},
+					"Runtime": {"S":"b'1 hrs. 28 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Composer": {"S":"b'Thomas Newman'"},
+					"Writer": {"S":"b'David Mamet'"},
+					"Actor": {"S":"b'Dustin Hoffman'"},
+					"Producer": {"S":"b'John Sloss'"},
+					"Domestic": {"S":"b'$665,450'"},
+					"OpeningWeekend": {"S":"b'$164,109'"},
+					"WidestRelease": {"S":"b'73 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on November 19, 1996)': '3238', 'Yearly R Rated 1996': '105', 'Yearly Opening Weekends (Limited) 1996': '25', 'Yearly (Limited) 1996': '41', 'All Time Domestic': '7,870', 'Yearly 1996': '217', 'Yearly Opening Weekends 1996': '166'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'American Cannibal'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=americancannibal.htm"},
+					"Genre": {"S":"b'Documentary'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'March 16, 2007'"},
+					"Distributor": {"S":"b'Lifesize'"},
+					"DomesticTotalGross": {"S":"b'$16,566'"},
+					"Runtime": {"S":"b'1 hrs. 27 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$16,566'"},
+					"InRelease": {"S":"b'28 days / 4 weeks'"},
+					"OpeningWeekend": {"S":"b'$4,778'"},
+					"CloseDate": {"S":"b'April 8, 2007'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '1082'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 2007': '329', 'All Time Domestic': '12,769', 'Yearly (Limited) 2007': '322', 'Yearly Unrated Movies 2007': '132', 'Yearly 2007': '508', 'Yearly Opening Weekends 2007': '496'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'American Casino'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=americancasino.htm"},
+					"Genre": {"S":"b'Documentary'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'August 14, 2009'"},
+					"Distributor": {"S":"b'Argot Pictures'"},
+					"DomesticTotalGross": {"S":"b'$50,437'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$50,437'"},
+					"InRelease": {"S":"b'84 days / 12 weeks'"},
+					"OpeningWeekend": {"S":"b'$1,397'"},
+					"CloseDate": {"S":"b'November 1, 2009'"},
+					"WidestRelease": {"S":"b'3 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '776'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2009': '362', 'Yearly Opening Weekends 2009': '496', 'All Time Domestic': '11,298', 'Yearly Opening Weekends (Limited) 2009': '357', 'Yearly (Limited) 2009': '210', 'Yearly Unrated Movies 2009': '83'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'American Chai'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=americanchai.htm"},
+					"Genre": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'April 5, 2002'"},
+					"Distributor": {"S":"b'Magic Lamp'"},
+					"DomesticTotalGross": {"S":"b'$127,518'"},
+					"Runtime": {"S":"b'1 hrs. 32 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$127,518'"},
+					"InRelease": {"S":"b'42 days / 6 weeks'"},
+					"OpeningWeekend": {"S":"b'$23,230'"},
+					"CloseDate": {"S":"b'June 27, 2002'"},
+					"WidestRelease": {"S":"b'5 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 2002': '135', 'Yearly 2002': '335', 'All Time Domestic': '10,025', 'Yearly (Limited) 2002': '175', 'Highest All Time Rank (on August 28, 2002)': '4113', 'Yearly Opening Weekends (Limited) 2002': '135', 'Yearly Opening Weekends 2002': '275'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'American Desi'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=americandesi.htm"},
+					"Genre": {"S":"b'Comedy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'March 16, 2001'"},
+					"Distributor": {"S":"b'Eros'"},
+					"DomesticTotalGross": {"S":"b'$907,835'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Actor": {"S":"b'Kal Penn'"},
+					"Domestic": {"S":"b'$907,835'"},
+					"OpeningWeekend": {"S":"b'$305,054'"},
+					"WidestRelease": {"S":"b'38 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on August 28, 2002)': '3433', 'All Time Domestic': '7,478', 'Yearly (Limited) 2001': '65', 'Yearly 2001': '203', 'Yearly Opening Weekends 2001': '146', 'Yearly Opening Weekends (Limited) 2001': '18'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'American Dream'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=americandream.htm"},
+					"Genre": {"S":"b'Documentary'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'March 18, 1992'"},
+					"Distributor": {"S":"b'Miramax'"},
+					"DomesticTotalGross": {"S":"b'$269,823'"},
+					"Runtime": {"S":"b'1 hrs. 38 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$269,823'"},
+					"OpeningWeekend": {"S":"b'$9,291'"},
+					"WidestRelease": {"S":"b'7 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '352'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 1992': '67', 'Yearly Opening Weekends 1992': '199', 'All Time Domestic': '9,026', 'Yearly PG-13 Rated 1992': '52', 'Yearly 1992': '202', 'Highest All Time Rank (on May 19, 1992)': '2452', 'Yearly Opening Weekends (Limited) 1992': '87'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'American Dreamer'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=americandreamer.htm"},
+					"Genre": {"S":"b'Romantic Comedy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'October 26, 1984'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"DomesticTotalGross": {"S":"b'$5,021,751'"},
+					"Runtime": {"S":"b'1 hrs. 45 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'Ann Biderman'"},
+					"Domestic": {"S":"b'$5,021,751'"},
+					"OpeningWeekend": {"S":"b'$1,580,990'"},
+					"WidestRelease": {"S":"b'801 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Romantic Comedy': '281', 'Travelogue - Paris': '32'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '4,209', 'Opening Weekends': '4,477', 'Yearly (Wide) 1984': '94', 'Yearly PG Rated 1984': '51', 'Yearly Opening Weekends 1984': '100', 'Yearly 1984': '110', 'All Time Domestic': '5,383', 'Yearly Opening Weekends (Wide) 1984': '99', 'Smallest Drops, All Wide Releases': '340', 'Opening Weeks': '4,480', 'Highest All Time Rank (on December 14, 1985)': '476', 'Opening Weekends Adjusted': '4,177'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'American Dreamz'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=americandreamz.htm"},
+					"Genre": {"S":"b'Comedy'"},
+					"ProductionBudget": {"S":"b'$17 million'"},
+					"ReleaseDate": {"S":"b'April 21, 2006'"},
+					"Distributor": {"S":"b'Universal'"},
+					"DomesticTotalGross": {"S":"b'$7,191,830'"},
+					"Runtime": {"S":"b'1 hrs. 47 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Cinematographer": {"S":"b'Robert Elswit'"},
+					"Composer": {"S":"b'Stephen Trask'"},
+					"Producer": {"S":"b'Rodney M. Liber, Andrew Miano, Chris Weitz, Paul Weitz'"},
+					"Writer": {"S":"b'Paul Weitz'"},
+					"Actor": {"S":"b'Hugh Grant, Dennis Quaid, Mandy Moore, Marcia Gay Harden, Chris Klein, Jennifer Coolidge, Willem Dafoe'"},
+					"Director": {"S":"b'Paul Weitz'"},
+					"Foreign": {"S":"b'$9,266,629'"},
+					"Domestic": {"S":"b'$7,191,830'"},
+					"Worldwide": {"S":"b'$16,458,459'"},
+					"InRelease": {"S":"b'28 days / 4 weeks'"},
+					"OpeningWeekend": {"S":"b'$3,667,420'"},
+					"CloseDate": {"S":"b'May 18, 2006'"},
+					"WidestRelease": {"S":"b'1,500 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Reality TV': '11', 'President': '27', 'Political Satire': '23'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '4,032', 'Yearly PG-13 Rated 2006': '73', 'Opening Weekends': '3,554', 'Opening Weekends Adjusted': '3,963', BOM Users' Grades (2006 Releases): '185', 'Yearly 2006': '169', 'Worldwide Yearly 2006': '170', 'All Time Domestic': '4,908', 'Yearly Opening Weekends (Wide) 2006': '154', 'Smallest Drops, All Wide Releases': '3,613', 'Opening Weeks': '3,671', 'Yearly (Wide) 2006': '162', 'Yearly Opening Weekends 2006': '143'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'American Flyers'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=americanflyers.htm"},
+					"Genre": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'August 16, 1985'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"DomesticTotalGross": {"S":"b'$1,420,355'"},
+					"Runtime": {"S":"b'1 hrs. 53 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Kevin Costner'"},
+					"Domestic": {"S":"b'$1,420,355'"},
+					"OpeningWeekend": {"S":"b'$78,345'"},
+					"WidestRelease": {"S":"b'5 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sports Drama': '104'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly PG-13 Rated 1985': '37', 'Yearly Opening Weekends 1985': '137', 'All Time Domestic': '6,882', 'Yearly (Limited) 1985': '24', 'Yearly 1985': '145', 'Highest All Time Rank (on December 14, 1985)': '699', 'Yearly Opening Weekends (Limited) 1985': '33'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'American Friends'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=americanfriends.htm"},
+					"Genre": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'April 9, 1993'"},
+					"Distributor": {"S":"b'Castle Hill'"},
+					"DomesticTotalGross": {"S":"b'$23,034'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Alfred Molina'"},
+					"Domestic": {"S":"b'$23,034'"},
+					"OpeningWeekend": {"S":"b'$5,334'"},
+					"CloseDate": {"S":"b'May 6, 1993'"},
+					"WidestRelease": {"S":"b'3 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1993': '250', 'All Time Domestic': '12,340', 'Yearly Opening Weekends (Limited) 1993': '99', 'Yearly Opening Weekends 1993': '229', 'Highest All Time Rank (on April 29, 1993)': '2773', 'Yearly PG Rated 1993': '50', 'Yearly (Limited) 1993': '86'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'American Gangster'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=americangangster.htm"},
+					"Genre": {"S":"b'Crime Drama'"},
+					"ProductionBudget": {"S":"b'$100 million'"},
+					"ReleaseDate": {"S":"b'November 2, 2007'"},
+					"Distributor": {"S":"b'Universal'"},
+					"DomesticTotalGross": {"S":"b'$130,164,645'"},
+					"Runtime": {"S":"b'2 hrs. 40 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Composer": {"S":"b'Marc Streitenfeld'"},
+					"Writer": {"S":"b'Steven Zaillian'"},
+					"Actor": {"S":"b'Denzel Washington, Russell Crowe, Josh Brolin, Chiwetel Ejiofor, Carla Gugino, T.I., RZA, Common, Idris Elba'"},
+					"Producer": {"S":"b'Brian Grazer, Ridley Scott'"},
+					"Director": {"S":"b'Ridley Scott'"},
+					"Foreign": {"S":"b'$136,300,392'"},
+					"Domestic": {"S":"b'$130,164,645'"},
+					"Worldwide": {"S":"b'$266,465,037'"},
+					"InRelease": {"S":"b'91 days / 13 weeks'"},
+					"OpeningWeekend": {"S":"b'$43,565,135'"},
+					"CloseDate": {"S":"b'January 31, 2008'"},
+					"WidestRelease": {"S":"b'3,110 theaters'"},
+					"Awards": {"S":"Nominated for Two Oscars."},
+					"GenreRank": {"S":"{'Crime Time': '3', 'True Crime': '2', That '70s Movie: '7'}"},
+					"Franchise": {"S":"{'Showdown: Crime Pay-Off': '2', 'Showdown: Denzel The Antagonist': '1', 'Showdown: Denzel vs. Denzel': '1', 'Showdown: Denzel in November': '1'}"},
+					"Chart": {"S":"{'Smallest Drops, 3,000+ theaters (Super-Saturation)': '351', 'Top 3-Day Grosses': '247', 'Rated R Adjusted': '158', 'Opening Weekends': '258', 'Opening Weekends Adjusted - November': '45', 'Widest R Rated Releases': '150', 'Smallest Drops, 2,500+ theaters (Saturation)': '701', 'Yearly Opening Weekends (Wide) 2007': '16', 'Fastest to $100 million': '299', 'Yearly R Rated 2007': '3', 'All Time Domestic': '417', 'Yearly Opening Weekends 2007': '16', 'All Time Worldwide': '470', 'Widest Opening Releases': '789', 'Widest R Rated Openings': '154', 'Opening Weekends Adjusted - Holiday': '64', 'Single Day Saturday Gross Adjusted': '300', BOM Users' Grades (2007 Releases): '27', 'Opening Weeks Adjusted': '333', 'Opening Weekends - Holiday': '54', 'Worldwide Yearly 2007': '19', BOM Users' Grades: '128', 'Slowest to $100 million': '336', 'Thanksgiving 3-day Weekends Adjusted': '174', 'Yearly (Wide) 2007': '19', 'Yearly 2007': '19', 'Rated R, Opening Weekends': '31', 'Rated R, Opening Weekends Adjusted': '36', 'Highest All Time Rank (on January 27, 2008)': '220', 'Opening Weekends - November': '36', 'Post-Thanksgiving Weekend  - Biggest Drops': '182', 'Thanksgiving 5-day Weekends': '124', 'Widest Releases': '780', 'Single Day Saturday Gross': '292', 'Single Day Gross': '756', 'Rated R': '72', 'Smallest Drops, All Wide Releases': '2,391', 'Thanksgiving 5-day Weekends Adjusted': '129', 'Opening Weeks': '292', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,017', 'Opening Weekends Adjusted': '286'}"}
+				}
+			}
+		}
+	]
+}

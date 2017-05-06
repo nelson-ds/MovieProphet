@@ -1,0 +1,643 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Desk Set'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=deskset.htm"},
+					"Genre": {"S":"b'Romantic Comedy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'May 1, 1957'"},
+					"Distributor": {"S":"b'Fox'"},
+					"Runtime": {"S":"b'1 hrs. 43 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Cinematographer": {"S":"b'Leon Shamroy'"},
+					"Composer": {"S":"b'Cyril Mockridge'"},
+					"Producer": {"S":"b'Henry Ephron'"},
+					"Writer": {"S":"b'Henry Ephron, Phoebe Ephron'"},
+					"Actor": {"S":"b'Spencer Tracy, Katharine Hepburn, Gig Young, Joan Blondell, Dina Merrill'"},
+					"Director": {"S":"b'Walter Lang'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Desperado'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=desperado.htm"},
+					"Genre": {"S":"b'Action'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'August 25, 1995'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"DomesticTotalGross": {"S":"b'$25,405,445'"},
+					"Runtime": {"S":"b'1 hrs. 46 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Robert Rodriguez'"},
+					"Actor": {"S":"b'Antonio Banderas'"},
+					"Producer": {"S":"b'Robert Rodriguez'"},
+					"Director": {"S":"b'Robert Rodriguez'"},
+					"Domestic": {"S":"b'$25,405,445'"},
+					"OpeningWeekend": {"S":"b'$7,910,446'"},
+					"WidestRelease": {"S":"b'2,027 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Travelogue - Mexico': '12', 'Revenge': '42'}"},
+					"Franchise": {"S":"{'Series: El Mariachi': '2'}"},
+					"Chart": {"S":"{BOM Users' Grades (1995 Releases): '39', 'Opening Weeks Adjusted': '1,812', 'Yearly R Rated 1995': '26', 'Labor Day 4-Day Holiday Weekends': '174', 'Highest All Time Rank (on October 3, 1995)': '819', 'Opening Weekends': '2,272', 'Opening Weekends Adjusted - August': '157', 'All Time Domestic': '2,807', 'Yearly Opening Weekends 1995': '50', 'Yearly 1995': '66', 'Opening Weeks': '2,248', 'Yearly (Wide) 1995': '63', 'Opening Weekends Adjusted': '1,857', 'Yearly Opening Weekends (Wide) 1995': '52'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Desperate Acts of Magic'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=desperateactsofmagic.htm"},
+					"Genre": {"S":"b'Comedy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'May 3, 2013'"},
+					"Distributor": {"S":"b'Gold Cap Films'"},
+					"DomesticTotalGross": {"S":"b'$7,373'"},
+					"Runtime": {"S":"b'1 hrs. 26 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$7,373'"},
+					"InRelease": {"S":"b'14 days / 2 weeks'"},
+					"OpeningWeekend": {"S":"b'$2,238'"},
+					"CloseDate": {"S":"b'May 16, 2013'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '13,649'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Desperate Hours (1990)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=desperatehours.htm"},
+					"Genre": {"S":"b'Thriller'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'October 5, 1990'"},
+					"Distributor": {"S":"b'MGM'"},
+					"DomesticTotalGross": {"S":"b'$2,742,912'"},
+					"Runtime": {"S":"b'1 hrs. 45 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Mickey Rourke, Anthony Hopkins'"},
+					"Producer": {"S":"b'Michael Cimino'"},
+					"Director": {"S":"b'Michael Cimino'"},
+					"Domestic": {"S":"b'$2,742,912'"},
+					"OpeningWeekend": {"S":"b'$1,367,657'"},
+					"WidestRelease": {"S":"b'1,033 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Hostage': '37'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Wide) 1990': '116', 'Yearly Opening Weekends 1990': '109', 'All Time Domestic': '6,113', 'Yearly R Rated 1990': '70', 'Yearly 1990': '139', 'Yearly Opening Weekends (Wide) 1990': '116', 'Highest All Time Rank (on October 26, 1990)': '1617'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Desperate Measures'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=desperatemeasures.htm"},
+					"Genre": {"S":"b'Thriller'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'January 30, 1998'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"DomesticTotalGross": {"S":"b'$13,806,137'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Composer": {"S":"b'Trevor Jones'"},
+					"Actor": {"S":"b'Michael Keaton, Brian Cox'"},
+					"Producer": {"S":"b'Jeffrey Chernov'"},
+					"Director": {"S":"b'Barbet Schroeder'"},
+					"Domestic": {"S":"b'$13,806,137'"},
+					"OpeningWeekend": {"S":"b'$5,833,412'"},
+					"WidestRelease": {"S":"b'1,963 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '2,777', 'Yearly (Wide) 1998': '100', 'Opening Weekends Adjusted - January': '171', 'Opening Weekends': '2,767', 'Highest All Time Rank (on February 28, 1998)': '1590', 'Opening Weekends Adjusted': '2,614', 'Yearly R Rated 1998': '49', 'Yearly 1998': '108', 'Yearly Opening Weekends (Wide) 1998': '88', 'All Time Domestic': '3,931', BOM Users' Grades (1998 Releases): '102', 'Opening Weekends - January': '200', 'Smallest Drops, All Wide Releases': '2,801', 'Opening Weeks': '2,946', 'Yearly Opening Weekends 1998': '85'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Desperately Seeking Susan'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=desperatelyseekingsusan.htm"},
+					"Genre": {"S":"b'Romantic Comedy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'March 29, 1985'"},
+					"Distributor": {"S":"b'Orion Pictures'"},
+					"DomesticTotalGross": {"S":"b'$27,398,584'"},
+					"Runtime": {"S":"b'1 hrs. 44 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Cinematographer": {"S":"b'Edward Lachman'"},
+					"Composer": {"S":"b'Thomas Newman, Thomas Newman'"},
+					"Actor": {"S":"b'Madonna'"},
+					"Domestic": {"S":"b'$27,398,584'"},
+					"WideOpeningWeekend": {"S":"b'$2,683,767'"},
+					"WidestRelease": {"S":"b'1,108 theaters'"},
+					"LimitedOpeningWeekend": {"S":"b'<b> $1,526,098</b>'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Romantic Comedy': '152', 'Pop Star Debuts': '24', 'Memory Loss / Amnesia': '19'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{BOM Users' Grades (1985 Releases): '55', 'Opening Weeks Adjusted': '3,542', 'Yearly 1985': '31', 'Opening Weekends': '3,992', 'Yearly Opening Weekends (Limited) 1985': '9', 'Yearly Opening Weekends (Wide) 1985': '68', 'Yearly PG-13 Rated 1985': '10', 'Yearly Opening Weekends 1985': '105', 'All Time Domestic': '2,658', 'Yearly (Wide) 1985': '30', 'Smallest Drops, All Wide Releases': '191', 'Highest All Time Rank (on July 2, 1985)': '292', 'Opening Weeks': '3,991', 'Opening Weekends Adjusted': '3,524'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Despicable Me'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=despicableme.htm"},
+					"Genre": {"S":"b'Animation'"},
+					"ProductionBudget": {"S":"b'$69 million'"},
+					"ReleaseDate": {"S":"b'July 9, 2010'"},
+					"Distributor": {"S":"b'Universal'"},
+					"DomesticTotalGross": {"S":"b'$251,513,985'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Composer": {"S":"b'Heitor Pereira'"},
+					"Writer": {"S":"b'Ken Daurio, Cinco Paul'"},
+					"Actor": {"S":"b'Steve Carell, Jason Segel, Russell Brand, Kristen Wiig*, Will Arnett* , Jemaine Clement*, Danny McBride*, Julie Andrews*, Jack McBrayer* , Mindy Kaling*'"},
+					"Producer": {"S":"b'Janet Healy, Christopher Meledandri'"},
+					"Director": {"S":"b'Pierre Coffin, Chris Renaud'"},
+					"Foreign": {"S":"b'$291,600,000'"},
+					"Domestic": {"S":"b'$251,513,985'"},
+					"Worldwide": {"S":"b'$543,113,985'"},
+					"InRelease": {"S":"b'196 days / 28 weeks'"},
+					"OpeningWeekend": {"S":"b'$56,397,125'"},
+					"CloseDate": {"S":"b'January 20, 2011'"},
+					"WidestRelease": {"S":"b'3,602 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': '35', 'Animation - Computer': '19', 'Comedy - Fish-Out-of-Water Father': '2', 'Animation': '20'}"},
+					"Franchise": {"S":"{'Series: Despicable Me': '3', 'Showdown: Sing vs. Despicable Me': '2', 'Showdown: July Animation': '2', 'Brand: Illumination Entertainment': '5', 'Showdown: Animation 2010': '2', 'Showdown: Illumination Battle': '3', 'Showdown: Animated Heroes &amp; Villains': '2'}"},
+					"Chart": {"S":"{'Smallest Drops, 3,000+ theaters (Super-Saturation)': '286', 'Opening Weekends - July': '26', 'Sixth Weekends': '109', 'Rated PG Adjusted': '76', 'Fastest to $200 million': '101', 'Top 3-Day Grosses': '147', 'Single Day Tuesday Gross': '109', 'Opening Weekends - Summer': '94', 'Fastest to $100 million': '139', 'Non-Opening Tuesday Gross Adjusted': '140', 'Rated G and PG Adjusted': '114', 'Second Weekends': '129', 'All Time Domestic': '101', 'Theater Averages - Wide Opening Weekends': '159', 'Rated PG, Opening Weekends': '36', 'Opening Weekends Adjusted': '217', 'Top 7-Day Grosses': '140', 'Third Weekends': '66', 'Rated G and PG': '35', 'Rated PG, Opening Weekends Adjusted': '47', 'Fourth Weekends Adjusted': '157', 'Rated PG': '30', 'Opening Weekends Adjusted - Summer': '140', 'Highest All Time Rank (on January 2, 2011)': '59', 'Widest Releases': '288', 'Single Day Saturday Gross': '193', 'Slowest to $200 million': '72', 'Second Weekends Adjusted': '200', 'Smallest Drops, All Wide Releases': '2,089', 'Non-Opening Tuesday Gross': '101', 'Smallest Drops, 2,000+ theaters (Very Wide)': '840', 'Fifth Weekends': '103', 'Opening Day Gross': '141', 'Widest PG Rated Releases': '107', 'Opening Weekends': '153', 'Seventh Weekends': '146', 'Rated G and PG, Opening Weekends Adjusted': '57', 'Fastest to $150 million': '119', 'Third Weekends Adjusted': '140', 'Fastest to $250 million': '99', 'Single Day Friday Gross Adjusted': '195', 'Smallest Drops, 2,500+ theaters (Saturation)': '570', 'All Time Worldwide': '146', 'Ninth Weekends': '107', 'Single Day Saturday Gross Adjusted': '267', 'Fourth Weekends': '69', 'Single Day Tuesday Gross Adjusted': '149', 'Opening Weeks Adjusted': '184', 'Theater Averages (Wide Releases) - All Time': '180', 'Slowest to $100 million': '496', 'Top 5-Day Grosses': '159', 'Widest Opening Releases': '349', 'Opening Weekends Adjusted - July': '40', 'Single Day Friday Gross': '155', 'Single Day Gross': '477', 'Widest PG Rated Openings': '123', 'Tenth Weekends': '169', 'Opening Weeks': '132', 'Rated G and PG, Opening Weekends': '44'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Despicable Me 2'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=despicableme2.htm"},
+					"Genre": {"S":"b'Animation'"},
+					"ProductionBudget": {"S":"b'$76 million'"},
+					"ReleaseDate": {"S":"b'July 3, 2013'"},
+					"Distributor": {"S":"b'Universal'"},
+					"DomesticTotalGross": {"S":"b'$368,061,265'"},
+					"Runtime": {"S":"b'1 hrs. 38 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Composer": {"S":"b'Heitor Pereira'"},
+					"Writer": {"S":"b'Ken Daurio, Cinco Paul'"},
+					"Actor": {"S":"b'Steve Carell, Kristen Wiig, Benjamin Bratt, Russell Brand, Ken Jeong , Steve Coogan'"},
+					"Producer": {"S":"b'Janet Healy, Christopher Meledandri'"},
+					"Director": {"S":"b'Pierre Coffin, Chris Renaud'"},
+					"Foreign": {"S":"b'$602,700,620'"},
+					"Domestic": {"S":"b'$368,061,265'"},
+					"Worldwide": {"S":"b'$970,761,885'"},
+					"OpeningWeekend": {"S":"b'$83,517,315'"},
+					"CloseDate": {"S":"b'January 16, 2014'"},
+					"WidestRelease": {"S":"b'4,003 theaters'"},
+					"Awards": {"S":"Nominated for Two Oscars."},
+					"GenreRank": {"S":"{'3D': '14', 'Spy': '1', 'Comedy - Spy': '1', 'Animation - Computer': '7', 'Comedy - Fish-Out-of-Water Father': '1', 'Animation': '8'}"},
+					"Franchise": {"S":"{'Showdown: Biggest Animated Movies': '5', 'Series: Despicable Me': '1', 'Showdown: July Animation': '1', 'Showdown: Summer 2013 Family Movies': '1', 'Showdown: Biggest Animated Openers': '3', 'Brand: Illumination Entertainment': '2', 'Showdown: Illumination Battle': '1'}"},
+					"Chart": {"S":"{'Consecutive Weekends At #1': '178', 'Top 3-Day Grosses': '60', 'All Time Adjusted': '118', 'Fastest to $200 million': '44', 'Non-Opening Friday Gross': '10', 'Top 8-Day Grosses': '33', 'Single Day Friday Gross Adjusted': '81', 'Single Day Saturday Gross Adjusted': '112', 'Fastest to $100 million': '49', 'Single Day Monday Gross Adjusted': '130', 'Theater Averages - Wide Opening Weekends': '84', 'Worldwide Openings': '81', 'Second Weekends Adjusted': '84', 'Third Weekends': '57', 'Non-Opening Wednesday Gross': '50', 'Rated PG, Opening Weekends Adjusted': '16', 'Fourth Weekends Adjusted': '137', 'Single Day Thursday Gross Adjusted': '11', 'Single Day Monday Gross': '92', 'Rated PG': '8', 'Slowest to $200 million': '129', 'Theater Averages (Wide Releases) - All Time': '89', 'Smallest Drops, All Wide Releases': '2,677', 'Rated G and PG Adjusted': '61', 'Sixth Weekends': '158', 'Theater Averages - Wide Opening Weekends Adjusted': '172', 'Non-Opening Friday Gross Adjusted': '14', 'Rated G and PG, Opening Weekends Adjusted': '20', 'Fastest to $150 million': '38', 'Third Weekends Adjusted': '118', 'Non-Opening Thursday Gross': '3', 'Smallest Drops, 2,500+ theaters (Saturation)': '836', 'Fastest to $300 million': '28', 'Top 7-Day Grosses': '33', 'Top 5-Day Grosses for movies opening on a Wednesday': '6', 'Non-Opening Wednesday Gross Adjusted': '70', 'Single Day Sunday Gross': '68', 'Top 10-Day Grosses': '44', 'Opening Weekends Adjusted - July': '15', 'Single Day Wednesday Gross': '8', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,199', 'Opening Weeks Adjusted': '75', 'Single Day Friday Gross': '72', 'Single Day Gross': '126', 'Widest PG Rated Openings': '27', 'Single Day Sunday Gross Adjusted': '98', 'Opening Weeks': '52', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '409', 'Opening Weekends - July': '9', 'Independence Day Opening Weekends': '3', 'Non-Friday Opening Weekends': '10', 'Top 9-Day Grosses': '42', 'Rated PG Adjusted': '36', 'Single Day Tuesday Gross': '41', 'Opening Weekends - Summer': '42', 'Single Day Thursday Gross': '8', 'Twelfth Weekends': '111', 'Second Weekends': '56', 'All Time Domestic': '33', 'Non-Opening Tuesday Gross Adjusted': '49', 'Opening Day Gross': '58', 'Widest Opening Releases': '81', 'Rated PG, Opening Weekends': '13', 'Opening Wednesdays': '7', 'Rated G and PG': '11', 'Non-Friday Opening Weekends Adjusted': '19', 'Opening Weekends Adjusted - Summer': '62', 'Widest Releases': '83', 'Single Day Saturday Gross': '82', 'Most Weekends at #1 (non-consecutive)': '189', 'Non-Opening Tuesday Gross': '36', 'Fifth Weekends': '79', 'Single Day Wednesday Gross Adjusted': '10', 'Top 5-Day Grosses for movies opening on a Wednesday Adjusted': '13', 'Widest PG Rated Releases': '27', 'Twelfth Weekends Adjusted': '176', 'Opening Weekends': '71', 'Non-Holiday Monday Gross': '47', 'Top 6-Day Grosses': '36', 'Fastest to $250 million': '35', 'Independence Day Weekends': '3', 'All Time Worldwide': '30', 'Ninth Weekends': '124', 'Highest All Time Rank (on September 1, 2013)': '24', 'Single Day Tuesday Gross Adjusted': '56', 'Slowest to $100 million': '586', 'Non-Opening Thursday Gross Adjusted': '6', 'Top 4-Day Grosses': '43', 'Top 5-Day Grosses': '35', 'Opening Weekends Adjusted': '92', 'Fourth Weekends': '57', 'Fastest to $350 million': '27', 'Eleventh Weekends': '158', 'Rated G and PG, Opening Weekends': '14'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Despicable Me 3'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=despicableme3.htm"},
+					"Genre": {"S":"b'Animation'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'June 30, 2017'"},
+					"Distributor": {"S":"b'Universal'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Actor": {"S":"b'Steve Carell, Trey Parker'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Animation - Computer': 'n/a', 'Animation': 'n/a'}"},
+					"Franchise": {"S":"{'Series: Despicable Me': 'n/a', 'Brand: Illumination Entertainment': 'n/a'}"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Destination Tokyo'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=destinationtokyo.htm"},
+					"Genre": {"S":"b'War'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'December 31, 1943'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Runtime": {"S":"b'2 hrs. 15 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Cinematographer": {"S":"b'Bert Glennon'"},
+					"Composer": {"S":"b'Franz Waxman'"},
+					"Producer": {"S":"b'Jerry Wald'"},
+					"Writer": {"S":"b'Delmer Daves, Albert Maltz, Steve Fisher'"},
+					"Actor": {"S":"b'Cary Grant, John Garfield, Alan Hale, John Ridgely, Dane Clark'"},
+					"Director": {"S":"b'Delmer Daves'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Destiny Turns on the Radio'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=destinyturnsontheradio.htm"},
+					"Genre": {"S":"b'Crime Comedy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'April 28, 1995'"},
+					"Distributor": {"S":"b'Savoy'"},
+					"DomesticTotalGross": {"S":"b'$1,176,982'"},
+					"Runtime": {"S":"b'1 hrs. 41 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Cinematographer": {"S":"b'James L. Carter'"},
+					"Domestic": {"S":"b'$1,176,982'"},
+					"OpeningWeekend": {"S":"b'$676,659'"},
+					"WidestRelease": {"S":"b'1,126 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '4,641', 'Worst Opening Weekend Per-Theater Averages Adjusted': '84', 'Yearly R Rated 1995': '103', 'Yearly 1995': '196', 'Biggest 2nd Weekend Drops': '34', 'Opening Weekends': '4,734', 'Worst Openings - Wide Releases': '51', 'All Time Domestic': '7,130', 'Yearly Opening Weekends 1995': '150', 'Worst Openings - Wide Releases Adjusted': '89', 'Worst Opening Weekend Per-Theater Averages': '32', 'Smallest Drops, All Wide Releases': '4,395', 'Opening Weeks': '4,676', 'Yearly (Wide) 1995': '148', 'Opening Weekends Adjusted': '4,696', 'Highest All Time Rank (on May 19, 1995)': '2716', 'Yearly Opening Weekends (Wide) 1995': '148'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Destricted'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=destricted.htm"},
+					"Genre": {"S":"b'Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'TBD'"},
+					"Distributor": {"S":"b'IFC'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Detachment'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=detachment.htm"},
+					"Genre": {"S":"b'Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'March 16, 2012'"},
+					"DomesticTotalasofMay.3,2012": {"S":"b'$72,689'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"Distributor": {"S":"b'Tribeca Film'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Actor": {"S":"b'Adrien Brody, James Caan, Marcia Gay Harden, Lucy Liu, Blythe Danner'"},
+					"Producer": {"S":"b'Greg Shapiro'"},
+					"Director": {"S":"b'Tony Kaye'"},
+					"Foreign": {"S":"b'n/a'"},
+					"Domestic": {"S":"b'$72,689'"},
+					"Worldwide": {"S":"b'$72,689'"},
+					"InRelease": {"S":"b'49 days / 7 weeks'"},
+					"OpeningWeekend": {"S":"b'$10,739'"},
+					"WidestRelease": {"S":"b'15 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '10,768'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Detective Byomkesh Bakshy'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=detectivebyomkeshbakshy.htm"},
+					"Genre": {"S":"b'Thriller'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'April 3, 2015'"},
+					"Distributor": {"S":"b'Yash Raj'"},
+					"DomesticTotalGross": {"S":"b'$579,055'"},
+					"Runtime": {"S":"b'2 hrs. 15 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Foreign": {"S":"b'n/a'"},
+					"Domestic": {"S":"b'$579,055'"},
+					"Worldwide": {"S":"b'$579,055'"},
+					"InRelease": {"S":"b'10 days / 1.4 weeks'"},
+					"OpeningWeekend": {"S":"b'$338,637'"},
+					"CloseDate": {"S":"b'April 12, 2015'"},
+					"WidestRelease": {"S":"b'82 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '8,039'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Detective Chinatown (Tang ren jie tan an)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=detectivechinatown.htm"},
+					"Genre": {"S":"b'Foreign'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'January 15, 2016'"},
+					"Distributor": {"S":"b'China Lion'"},
+					"DomesticTotalGross": {"S":"b'$474,252'"},
+					"Runtime": {"S":"b'2 hrs. 16 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Foreign": {"S":"b'$125,368,683'"},
+					"Domestic": {"S":"b'$474,252'"},
+					"Worldwide": {"S":"b'$125,842,935'"},
+					"InRelease": {"S":"b'17 days / 2.4 weeks'"},
+					"OpeningWeekend": {"S":"b'$280,281'"},
+					"CloseDate": {"S":"b'January 31, 2016'"},
+					"WidestRelease": {"S":"b'36 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '648'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '8,285'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Detective Dee and the Mystery of the Phantom Flame'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=detectivedee.htm"},
+					"Genre": {"S":"b'Foreign'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'September 2, 2011'"},
+					"Distributor": {"S":"b'Indomina Media'"},
+					"DomesticTotalGross": {"S":"b'$459,836'"},
+					"Runtime": {"S":"b'1 hrs. 59 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Foreign": {"S":"b'$51,263,449'"},
+					"Domestic": {"S":"b'$459,836'"},
+					"Worldwide": {"S":"b'$51,723,285'"},
+					"InRelease": {"S":"b'49 days / 7 weeks'"},
+					"OpeningWeekend": {"S":"b'$52,617'"},
+					"CloseDate": {"S":"b'October 20, 2011'"},
+					"WidestRelease": {"S":"b'48 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '660'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '8,321'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Detective K: Secret of the Lost Island'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=detectivek.htm"},
+					"Genre": {"S":"b'Foreign'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'March 6, 2015'"},
+					"Distributor": {"S":"b'CJ Entertainment'"},
+					"DomesticTotalGross": {"S":"b'$185,367'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Foreign": {"S":"b'n/a'"},
+					"Domestic": {"S":"b'$185,367'"},
+					"Worldwide": {"S":"b'$185,367'"},
+					"InRelease": {"S":"b'38 days / 5.4 weeks'"},
+					"OpeningWeekend": {"S":"b'$57,663'"},
+					"CloseDate": {"S":"b'April 12, 2015'"},
+					"WidestRelease": {"S":"b'19 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '933'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '9,512'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Detention'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=detention.htm"},
+					"Genre": {"S":"b'Horror Comedy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'April 6, 2012'"},
+					"Distributor": {"S":"b'Samuel Goldwyn'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Josh Hutcherson, Dane Cook'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Horror Comedy': '127'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Detention of the Dead'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=detentionofthedead.htm"},
+					"Genre": {"S":"b'Horror Comedy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'June 28, 2013'"},
+					"Distributor": {"S":"b'Anchor Bay Films'"},
+					"DomesticTotalGross": {"S":"b'$1,777'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$1,777'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"OpeningWeekend": {"S":"b'$1,332'"},
+					"CloseDate": {"S":"b'July 4, 2013'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Horror Comedy': '120', 'Zombie': '61', 'Comedy - High School': '70'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '14,471'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Deterrence'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=deterrence.htm"},
+					"Genre": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'$800,000'"},
+					"ReleaseDate": {"S":"b'March 10, 2000'"},
+					"Distributor": {"S":"b'Paramount Classics'"},
+					"DomesticTotalGross": {"S":"b'$145,071'"},
+					"Runtime": {"S":"b'1 hrs. 41 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Director": {"S":"b'Rod Lurie'"},
+					"Domestic": {"S":"b'$145,071'"},
+					"OpeningWeekend": {"S":"b'$23,318'"},
+					"CloseDate": {"S":"b'May 25, 2000'"},
+					"WidestRelease": {"S":"b'17 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'President': '35', 'Thriller - Political': '63'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 2000': '284', 'All Time Domestic': '9,855', 'Yearly R Rated 2000': '137', 'Highest All Time Rank (on August 28, 2002)': '4308', 'Yearly 2000': '296', 'Yearly Opening Weekends (Limited) 2000': '151', 'Yearly (Limited) 2000': '148'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Detour'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=detour.htm"},
+					"Genre": {"S":"b'Thriller'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'January 20, 2017'"},
+					"Distributor": {"S":"b'Magnolia'"},
+					"Runtime": {"S":"b'1 hrs. 37 min.'"},
+					"DomesticTotalasofJan.26,2017": {"S":"b'$1,788'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Tye Sheridan, Emory Cohen, Bel Powley, Stephen Moyer'"},
+					"Domestic": {"S":"b'$1,788'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"OpeningWeekend": {"S":"b'$145'"},
+					"WidestRelease": {"S":"b'5 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Top Movies in the Past 365 Days': '688', 'All Time Domestic': '14,468'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Detroit 9000 (Re-issue)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=detroit9000.htm"},
+					"Genre": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'October 9, 1998'"},
+					"Distributor": {"S":"b'Rolling Thunder'"},
+					"DomesticTotalGross": {"S":"b'$3,179'"},
+					"Runtime": {"S":"b'1 hrs. 46 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$3,179'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"OpeningWeekend": {"S":"b'$2,054'"},
+					"CloseDate": {"S":"b'October 15, 1998'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 1998': '180', 'Yearly 1998': '334', 'All Time Domestic': '14,243', 'Highest All Time Rank (on October 15, 1998)': '4259', 'Yearly Opening Weekends (Limited) 1998': '170', 'Yearly (Limited) 1998': '165', 'Yearly Opening Weekends 1998': '298'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Detroit Rock City'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=detroitrockcity.htm"},
+					"Genre": {"S":"b'Comedy'"},
+					"ProductionBudget": {"S":"b'$34 million'"},
+					"ReleaseDate": {"S":"b'August 13, 1999'"},
+					"Distributor": {"S":"b'New Line'"},
+					"DomesticTotalGross": {"S":"b'$4,217,115'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Cinematographer": {"S":"b'John R. Leonetti'"},
+					"Producer": {"S":"b'Michael De Luca'"},
+					"Director": {"S":"b'Adam Rifkin'"},
+					"Domestic": {"S":"b'$4,217,115'"},
+					"OpeningWeekend": {"S":"b'$2,005,512'"},
+					"WidestRelease": {"S":"b'1,802 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{That '70s Movie: '49', 'Comedy - Music': '19', 'Comedy - R-Rated Youth': '93', 'Slacker / Stoner': '50'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1999': '159', 'Opening Weeks Adjusted': '4,212', 'Biggest 2nd Weekend Drops': '140', 'Highest All Time Rank (on August 28, 2002)': '2638', 'Opening Weekends': '4,303', 'Yearly (Wide) 1999': '137', 'Yearly Opening Weekends 1999': '126', 'Yearly R Rated 1999': '80', 'All Time Domestic': '5,602', 'Yearly Opening Weekends (Wide) 1999': '135', 'Worst Opening Weekend Per-Theater Averages': '158', 'Smallest Drops, All Wide Releases': '4,285', BOM Users' Grades (1999 Releases): '93', 'Opening Weeks': '4,160', 'Opening Weekends Adjusted': '4,343', 'Biggest Theater Drops': '79'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Detropia'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=detropia.htm"},
+					"Genre": {"S":"b'Documentary'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'September 7, 2012'"},
+					"Distributor": {"S":"b'Loki Films'"},
+					"DomesticTotalGross": {"S":"b'$390,024'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$390,024'"},
+					"InRelease": {"S":"b'161 days / 23 weeks'"},
+					"OpeningWeekend": {"S":"b'$17,414'"},
+					"CloseDate": {"S":"b'February 28, 2013'"},
+					"WidestRelease": {"S":"b'24 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '282'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '8,511'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Deuce Bigalow: European Gigolo'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=deucebigalow2.htm"},
+					"Genre": {"S":"b'Comedy'"},
+					"ProductionBudget": {"S":"b'$22 million'"},
+					"ReleaseDate": {"S":"b'August 12, 2005'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"DomesticTotalGross": {"S":"b'$22,400,154'"},
+					"Runtime": {"S":"b'1 hrs. 23 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Composer": {"S":"b'James L. Venable'"},
+					"Actor": {"S":"b'Rob Schneider, Eddie Griffin, Adam Sandler*'"},
+					"Producer": {"S":"b'Jack Giarraputo, Adam Sandler'"},
+					"Foreign": {"S":"b'$22,709,407'"},
+					"Domestic": {"S":"b'$22,400,154'"},
+					"Worldwide": {"S":"b'$45,109,561'"},
+					"OpeningWeekend": {"S":"b'$9,626,287'"},
+					"CloseDate": {"S":"b'October 2, 2005'"},
+					"WidestRelease": {"S":"b'3,127 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - Sequel (Live Action)': '88', 'Comedy - R-Rated Youth': '46'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Smallest Drops, 3,000+ theaters (Super-Saturation)': '778', 'Yearly Opening Weekends (Wide) 2005': '91', 'Widest R Rated Releases': '133', 'Yearly (Wide) 2005': '107', 'Biggest 2nd Weekend Drops': '473', 'Opening Weekends Adjusted - August': '189', 'Yearly Opening Weekends 2005': '88', 'Opening Weekends': '1,955', 'Worst Openings - Super Saturated Adjusted': '74', 'Opening Weeks Adjusted': '2,153', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,450', 'Opening Weekends - August': '166', 'Yearly R Rated 2005': '27', BOM Users' Grades (2005 Releases): '191', 'All Time Domestic': '3,022', 'Widest Opening Releases': '675', 'Worldwide Yearly 2005': '107', 'Widest R Rated Openings': '110', 'Widest Releases': '740', 'Biggest Theater Drops': '157', 'Yearly 2005': '109', 'Smallest Drops, All Wide Releases': '3,944', 'Worst Openings - Super Saturated': '43', 'Opening Weeks': '1,911', 'Smallest Drops, 2,000+ theaters (Very Wide)': '2,024', 'Opening Weekends Adjusted': '2,217'}"}
+				}
+			}
+		}
+	]
+}

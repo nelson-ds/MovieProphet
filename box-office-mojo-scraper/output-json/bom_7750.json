@@ -1,0 +1,634 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Lunacy'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=lunacy.htm"},
+					"ReleaseDate": {"S":"b'August 9, 2006'"},
+					"Genre": {"S":"b'Foreign / Horror'"},
+					"Distributor": {"S":"b'Zeitgeist'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$48,324'"},
+					"Runtime": {"S":"b'1 hrs. 58 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$48,324'"},
+					"Worldwide": {"S":"b'$133,982'"},
+					"Foreign": {"S":"b'$85,658'"},
+					"WidestRelease": {"S":"b'5 theaters'"},
+					"CloseDate": {"S":"b'February 8, 2007'"},
+					"OpeningWeekend": {"S":"b'$3,245'"},
+					"InRelease": {"S":"b'184 days / 26.3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1371'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2006': '426', 'Yearly Unrated Movies 2006': '90', 'Yearly Opening Weekends 2006': '516', 'Worldwide Yearly 2006': '382', 'All Time Domestic': '11,379', 'Yearly (Limited) 2006': '251', 'Yearly Opening Weekends (Limited) 2006': '358'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Lush'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=lush.htm"},
+					"ReleaseDate": {"S":"b'December 28, 2001'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Menemsha'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$2,763'"},
+					"Runtime": {"S":"b'1 hrs. 34 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Campbell Scott, Laura Linney, Jared Harris'"},
+					"Domestic": {"S":"b'$2,763'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"CloseDate": {"S":"b'January 3, 2002'"},
+					"OpeningWeekend": {"S":"b'$2,349'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Travelogue - New Orleans': '27'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2001': '198', 'Yearly R Rated 2001': '158', 'All Time Domestic': '14,309', 'Yearly 2001': '350', 'Yearly Opening Weekends 2001': '309', 'Yearly Opening Weekends (Limited) 2001': '181'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Lust in the Dust'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=lustinthedust.htm"},
+					"ReleaseDate": {"S":"b'February 8, 1985'"},
+					"Genre": {"S":"b'Western'"},
+					"Distributor": {"S":"b'New World'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$727,639'"},
+					"Runtime": {"S":"b'1 hrs. 24 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$727,639'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Western': '62'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 1985': '68', 'Yearly 1985': '155', 'All Time Domestic': '7,752'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Lust, Caution'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=lustcaution.htm"},
+					"ReleaseDate": {"S":"b'September 28, 2007'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Focus Features'"},
+					"ProductionBudget": {"S":"b'$15 million'"},
+					"DomesticTotalGross": {"S":"b'$4,604,982'"},
+					"Runtime": {"S":"b'2 hrs. 38 min.'"},
+					"MPAARating": {"S":"b'NC-17'"},
+					"Writer": {"S":"b'James Schamus'"},
+					"Actor": {"S":"b'Tony Leung, Joan Chen'"},
+					"Composer": {"S":"b'Alexandre Desplat'"},
+					"Director": {"S":"b'Ang Lee'"},
+					"Domestic": {"S":"b'$4,604,982'"},
+					"Worldwide": {"S":"b'$67,091,915'"},
+					"Foreign": {"S":"b'$62,486,933'"},
+					"WidestRelease": {"S":"b'143 theaters'"},
+					"CloseDate": {"S":"b'January 24, 2008'"},
+					"OpeningWeekend": {"S":"b'$63,918'"},
+					"InRelease": {"S":"b'119 days / 17 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '82'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Widest NC-17 Rated Releases': '5', 'All Time Domestic': '5,487', 'Theater Averages - All Time Adjusted': '131', 'Yearly Opening Weekends 2007': '262', 'Theater Averages - Opening Weekends Adjusted': '100', 'Yearly NC-17 Rated 2007': '1', 'Rated NC-17': '5', 'Worldwide Yearly 2007': '85', BOM Users' Grades (2007 Releases): '35', 'Yearly Opening Weekends (Limited) 2007': '95', 'Theater Averages - Opening Weekends': '70', 'Rated NC-17 Adjusted': '6', 'Yearly 2007': '181', 'Yearly (Limited) 2007': '16'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Luster'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=luster.htm"},
+					"DomesticTotalasofNov.2,2003": {"S":"b'$24,137'"},
+					"ReleaseDate": {"S":"b'September 12, 2003'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'TLA Releasing'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$24,137'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"OpeningWeekend": {"S":"b'$7,589'"},
+					"InRelease": {"S":"b'56 days / 8 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Gay / Lesbian': '261'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on October 30, 2003)': '5952', 'All Time Domestic': '12,275', 'Yearly 2003': '427', 'Yearly (Limited) 2003': '281', 'Yearly Opening Weekends 2003': '385', 'Yearly Opening Weekends (Limited) 2003': '256', 'Yearly Unrated Movies 2003': '116'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Luther'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=luther.htm"},
+					"ReleaseDate": {"S":"b'September 26, 2003'"},
+					"Genre": {"S":"b'Historical Drama'"},
+					"Distributor": {"S":"b'RS'"},
+					"ProductionBudget": {"S":"b'$30 million'"},
+					"DomesticTotalGross": {"S":"b'$5,791,328'"},
+					"Runtime": {"S":"b'1 hrs. 55 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Alfred Molina'"},
+					"Composer": {"S":"b'Richard Harvey'"},
+					"Domestic": {"S":"b'$5,791,328'"},
+					"Worldwide": {"S":"b'$29,413,900'"},
+					"Foreign": {"S":"b'$23,622,572'"},
+					"WidestRelease": {"S":"b'400 theaters'"},
+					"CloseDate": {"S":"b'December 18, 2003'"},
+					"OpeningWeekend": {"S":"b'$908,446'"},
+					"InRelease": {"S":"b'84 days / 12 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Christian': '33'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 2003': '9', 'Yearly PG-13 Rated 2003': '70', 'Worldwide Yearly 2003': '116', 'Highest All Time Rank (on December 7, 2003)': '3173', 'All Time Domestic': '5,206', 'Yearly (Limited) 2003': '19', 'Yearly Opening Weekends 2003': '137', BOM Users' Grades (2003 Releases): '21', 'Yearly 2003': '153'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Luv Shuv Tey Chicken Khurana'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=luvshuvtey.htm"},
+					"ReleaseDate": {"S":"b'November 2, 2012'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'UTV Communications'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$143,507'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$143,507'"},
+					"Worldwide": {"S":"b'$143,507'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'60 theaters'"},
+					"CloseDate": {"S":"b'November 15, 2012'"},
+					"OpeningWeekend": {"S":"b'$95,364'"},
+					"InRelease": {"S":"b'14 days / 2 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1026'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '9,869'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Lymelife'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=lymelife.htm"},
+					"ReleaseDate": {"S":"b'April 8, 2009'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Screen Media'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$421,307'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Martin Scorsese'"},
+					"Actor": {"S":"b'Alec Baldwin, Kieran Culkin, Rory Culkin, Jill Hennessy, Timothy Hutton, Cynthia Nixon, Emma Roberts'"},
+					"Domestic": {"S":"b'$421,307'"},
+					"Worldwide": {"S":"b'$526,245'"},
+					"Foreign": {"S":"b'$104,938'"},
+					"WidestRelease": {"S":"b'35 theaters'"},
+					"CloseDate": {"S":"b'July 12, 2009'"},
+					"OpeningWeekend": {"S":"b'$27,758'"},
+					"InRelease": {"S":"b'100 days / 14.3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{That '70s Movie: '57'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 2009': '82', 'All Time Domestic': '8,414', 'Yearly Opening Weekends 2009': '279', 'Yearly (Limited) 2009': '92', 'Yearly Opening Weekends (Limited) 2009': '140', 'Yearly 2009': '243', 'Worldwide Yearly 2009': '284'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Lyrical Nitrate'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=lyricalnitrate.htm"},
+					"ReleaseDate": {"S":"b'October 11, 1991'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Zeitgeist'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$26,662'"},
+					"Runtime": {"S":"b'2 hrs. 1 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$26,662'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"OpeningWeekend": {"S":"b'$4,710'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1991': '233', 'Yearly (Limited) 1991': '90', 'Yearly Opening Weekends 1991': '211', 'All Time Domestic': '12,159', 'Yearly Opening Weekends (Limited) 1991': '100', 'Highest All Time Rank (on October 29, 1991)': '2451'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'M'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=m.htm"},
+					"ReleaseDate": {"S":"b'March 31, 1933'"},
+					"Genre": {"S":"b'Crime Thriller'"},
+					"Distributor": {"S":"b'Foremco Pictures'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 54 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Cinematographer": {"S":"b'Fritz Arno Wagner, Gustav Rathje, Karl Vash'"},
+					"Writer": {"S":"b'Thea von Harbou'"},
+					"Producer": {"S":"b'Seymour Nebenzal, Cinematographers'"},
+					"Actor": {"S":"b'Peter Lorre, Ellen Widmann, Inge Landgut, Gustav Gruendgens, Fritz Gnass, Fritz Odemar'"},
+					"Director": {"S":"b'Fritz Lang'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'M. Butterfly'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mbutterfly.htm"},
+					"ReleaseDate": {"S":"b'October 1, 1993'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$1,498,795'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Composer": {"S":"b'Howard Shore'"},
+					"Domestic": {"S":"b'$1,498,795'"},
+					"WidestRelease": {"S":"b'120 theaters'"},
+					"CloseDate": {"S":"b'December 9, 1993'"},
+					"OpeningWeekend": {"S":"b'$57,280'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Cross Dressing / Gender Bending': '32'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 1993': '55', 'Yearly Opening Weekends 1993': '185', 'All Time Domestic': '6,829', 'Yearly 1993': '183', 'Yearly R Rated 1993': '74', 'Highest All Time Rank (on December 7, 1993)': '2335', 'Yearly (Limited) 1993': '36'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'M.A.S.H.'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mash.htm"},
+					"ReleaseDate": {"S":"b'January 25, 1970'"},
+					"Genre": {"S":"b'Comedy / Drama'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'$3.5 million'"},
+					"DomesticTotalGross": {"S":"b'$81,600,000'"},
+					"Runtime": {"S":"b'1 hrs. 56 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Donald Sutherland, Elliott Gould, Robert Duvall'"},
+					"Director": {"S":"b'Robert Altman'"},
+					"Domestic": {"S":"b'$81,600,000'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Adjusted': '90', 'All Time Domestic': '858', 'Highest All Time Rank (on January 1, 1982)': '41', 'Rated R Adjusted': '9'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'M.S. Dhoni: The Untold Story'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=msdhoni.htm"},
+					"ReleaseDate": {"S":"b'September 30, 2016'"},
+					"Genre": {"S":"b'Sports Drama'"},
+					"Distributor": {"S":"b'FIP'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$1,801,550'"},
+					"Runtime": {"S":"b'3 hrs. 10 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$1,801,550'"},
+					"Worldwide": {"S":"b'$27,755,817'"},
+					"Foreign": {"S":"b'$25,954,267'"},
+					"WidestRelease": {"S":"b'256 theaters'"},
+					"CloseDate": {"S":"b'October 20, 2016'"},
+					"OpeningWeekend": {"S":"b'$1,108,650'"},
+					"InRelease": {"S":"b'21 days / 3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '245', 'Sports Drama': '101'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Top Movies in the Past 365 Days': '206', 'All Time Domestic': '6,612'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'MC5: A True Testimonial'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mc5.htm"},
+					"ReleaseDate": {"S":"b'March 5, 2004'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Avatar'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalasofMar.18,2004": {"S":"b'$10,888'"},
+					"Runtime": {"S":"b'2 hrs. 0 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$10,888'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"OpeningWeekend": {"S":"b'$1,962'"},
+					"InRelease": {"S":"b'14 days / 2 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '1184'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2004': '488', 'Yearly (Limited) 2004': '335', 'Highest All Time Rank (on March 18, 2004)': '6265', 'Yearly Opening Weekends 2004': '508', 'Yearly Unrated Movies 2004': '147', 'Yearly Opening Weekends (Limited) 2004': '370', 'All Time Domestic': '13,257'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'MI-5'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mi5saban.htm"},
+					"ReleaseDate": {"S":"b'December 4, 2015'"},
+					"Genre": {"S":"b'Action'"},
+					"Distributor": {"S":"b'Saban Films'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 44 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Jennifer Ehle, Peter Firth, Kit Harington'"},
+					"Director": {"S":"b'Bharat Nalluri'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'MIB 3'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mib3.htm"},
+					"ReleaseDate": {"S":"b'May 25, 2012'"},
+					"Genre": {"S":"b'Sci-Fi Comedy'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"ProductionBudget": {"S":"b'$225 million'"},
+					"DomesticTotalGross": {"S":"b'$179,020,854'"},
+					"Runtime": {"S":"b'1 hrs. 46 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Etan Cohen'"},
+					"Producer": {"S":"b'Steven Spielberg'"},
+					"Actor": {"S":"b'Will Smith, Josh Brolin, Tommy Lee Jones, Alice Eve, Emma Thompson, Michael Stuhlbarg, Jemaine Clement, Bill Hader*'"},
+					"Composer": {"S":"b'Danny Elfman'"},
+					"Director": {"S":"b'Barry Sonnenfeld'"},
+					"Domestic": {"S":"b'$179,020,854'"},
+					"Worldwide": {"S":"b'$624,026,776'"},
+					"Foreign": {"S":"b'$445,005,922'"},
+					"WidestRelease": {"S":"b'4,248 theaters'"},
+					"CloseDate": {"S":"b'September 9, 2012'"},
+					"OpeningWeekend": {"S":"b'$54,592,779'"},
+					"InRelease": {"S":"b'108 days / 15.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': '68', 'Sci-Fi - Alien Invasion': '13', 'Comic Book Adaptation': '38', 'Time Travel': '7', 'Action - Buddy Comedy': '5', 'Sci-Fi Comedy': '3', 'IMAX (Feature-length)': '86'}"},
+					"Franchise": {"S":"{'Showdown: Alien Invasion': '6', 'Series: Men in Black': '3'}"},
+					"Chart": {"S":"{'Top 3-Day Grosses': '167', 'Smallest Drops, All Wide Releases': '2,809', 'Worldwide Openings': '56', 'Rated PG-13, Opening Weekends': '110', 'Opening Weekends - May': '44', 'Widest Opening Releases': '24', 'Opening Weekends Adjusted - May': '63', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '447', 'Top 5-Day Grosses': '146', 'Opening Weekends - Summer': '106', 'Single Day Monday Gross Adjusted': '67', 'Fastest to $100 million': '154', 'Fastest to $150 million': '174', 'Smallest Drops, 2,500+ theaters (Saturation)': '906', 'Single Day Saturday Gross': '243', 'Memorial Day 4-Day Holiday Weekends': '16', 'Memorial Day 4-Day Holiday Weekend Openers': '14', 'Opening Day Gross': '198', 'Opening Weeks': '140', 'Single Day Gross': '623', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,290', 'Widest PG-13 Rated Openings': '17', 'All Time Domestic': '226', 'All Time Worldwide': '110', 'Single Day Sunday Gross': '148', 'Opening Weekends Adjusted - Summer': '170', 'Rated PG-13, Opening Weekends Adjusted': '160', 'Single Day Friday Gross': '231', 'Opening Weeks Adjusted': '226', 'Second Weekends': '183', 'Single Day Monday Gross': '38', 'Slowest to $100 million': '481', 'Rated PG-13 Adjusted': '186', 'Foreign Opening Weekends': '35', 'Highest All Time Rank (on August 26, 2012)': '161', 'Opening Weekends': '173', 'Rated PG-13': '129', 'Widest PG-13 Rated Releases': '19', 'Widest Releases': '26', 'Sunday Share of Opening Weekends': '155', 'Opening Weekends Adjusted': '262', 'Top 7-Day Grosses': '151'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'MVP: Most Valuable Primate'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mostvaluableprimate.htm"},
+					"ReleaseDate": {"S":"b'August 11, 2000'"},
+					"Genre": {"S":"b'Family Comedy'"},
+					"Distributor": {"S":"b'Equinox'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$1,248,746'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$1,248,746'"},
+					"WidestRelease": {"S":"b'205 theaters'"},
+					"OpeningWeekend": {"S":"b'$99,518'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sports - Hockey': '15'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on August 28, 2002)': '3278', 'All Time Domestic': '7,046', 'Yearly (Limited) 2000': '43', 'Yearly Opening Weekends 2000': '184', 'Yearly Opening Weekends (Limited) 2000': '51', 'Yearly PG Rated 2000': '22', 'Yearly 2000': '189'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Ma Fille, Mon Ange'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mafillemonange.htm"},
+					"ReleaseDate": {"S":"b'February 16, 2007'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Alliance'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$2,779,545'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$2,779,545'"},
+					"Worldwide": {"S":"b'$2,780,005'"},
+					"Foreign": {"S":"b'$460'"},
+					"WidestRelease": {"S":"b'87 theaters'"},
+					"CloseDate": {"S":"b'May 20, 2007'"},
+					"OpeningWeekend": {"S":"b'$795,000'"},
+					"InRelease": {"S":"b'94 days / 13.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '149'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Worldwide Yearly 2007': '269', 'Yearly Opening Weekends (Limited) 2007': '12', 'Yearly R Rated 2007': '88', 'Yearly Opening Weekends 2007': '171', 'Yearly 2007': '206', 'Yearly (Limited) 2007': '29', 'All Time Domestic': '6,101'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Ma Mere'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mamere.htm"},
+					"ReleaseDate": {"S":"b'May 13, 2005'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'TLA Releasing'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$71,616'"},
+					"Runtime": {"S":"b'1 hrs. 51 min.'"},
+					"MPAARating": {"S":"b'NC-17'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$71,616'"},
+					"Worldwide": {"S":"b'$1,022,148'"},
+					"Foreign": {"S":"b'$950,532'"},
+					"WidestRelease": {"S":"b'4 theaters'"},
+					"CloseDate": {"S":"b'August 25, 2005'"},
+					"OpeningWeekend": {"S":"b'$10,334'"},
+					"InRelease": {"S":"b'105 days / 15 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Mother': '50', 'Foreign Language': '1237'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2005': '209', 'Widest NC-17 Rated Releases': '22', 'All Time Domestic': '10,794', 'Yearly 2005': '369', 'Rated NC-17 Adjusted': '28', 'Yearly Opening Weekends (Limited) 2005': '213', 'Rated NC-17': '27', 'Worldwide Yearly 2005': '275', 'Yearly Opening Weekends 2005': '352', 'Yearly NC-17 Rated 2005': '3'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Ma Saison Preferee'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=masaisonpreferee.htm"},
+					"ReleaseDate": {"S":"b'April 19, 1996'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Filmopolis'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$873,857'"},
+					"Runtime": {"S":"b'2 hrs. 4 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$873,857'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '447'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '7,524', 'Yearly 1996': '209'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Ma Tante Aline'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=matantealine.htm"},
+					"DomesticTotalasofSep.30,2007": {"S":"b'$1,025,852'"},
+					"ReleaseDate": {"S":"b'July 20, 2007'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Alliance'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 47 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$1,025,852'"},
+					"WidestRelease": {"S":"b'65 theaters'"},
+					"OpeningWeekend": {"S":"b'$207,145'"},
+					"InRelease": {"S":"b'73 days / 10.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '396'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 2007': '50', 'Yearly Opening Weekends 2007': '217', 'Yearly Unrated Movies 2007': '14', 'Yearly 2007': '237', 'Yearly (Limited) 2007': '55', 'All Time Domestic': '7,331'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Ma Vie En Rose'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mavieenrose.htm"},
+					"ReleaseDate": {"S":"b'December 26, 1997'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Sony Classics'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$2,162,043'"},
+					"Runtime": {"S":"b'1 hrs. 28 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$2,162,043'"},
+					"WidestRelease": {"S":"b'63 theaters'"},
+					"CloseDate": {"S":"b'May 21, 1998'"},
+					"OpeningWeekend": {"S":"b'$76,212'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Cross Dressing / Gender Bending': '30', 'Foreign Language': '198', 'Gay / Lesbian': '82'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 1997': '34', 'Yearly Opening Weekends 1997': '172', 'All Time Domestic': '6,392', 'Yearly R Rated 1997': '90', 'Yearly (Limited) 1997': '23', 'Yearly 1997': '172', 'Highest All Time Rank (on March 24, 1998)': '2918'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Ma ma'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mama2015.htm"},
+					"ReleaseDate": {"S":"b'May 20, 2016'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Oscilloscope Pictures'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$47,258'"},
+					"Runtime": {"S":"b'1 hrs. 51 min.'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Actor": {"S":"b'Penelope Cruz'"},
+					"Domestic": {"S":"b'$47,258'"},
+					"Worldwide": {"S":"b'$1,137,421'"},
+					"Foreign": {"S":"b'$1,090,163'"},
+					"WidestRelease": {"S":"b'11 theaters'"},
+					"CloseDate": {"S":"b'June 23, 2016'"},
+					"OpeningWeekend": {"S":"b'$8,874'"},
+					"InRelease": {"S":"b'35 days / 5 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1378'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Top Movies in the Past 365 Days': '442', 'All Time Domestic': '11,397'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Ma vie en cinemascope'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mavieencinemascope.htm"},
+					"ReleaseDate": {"S":"b'December 17, 2004'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Alliance'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$1,163,648'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$1,163,648'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Biopic - Music': '39'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2004': '212', 'All Time Domestic': '7,142', 'Yearly Unrated Movies 2004': '15'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mac'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mac.htm"},
+					"ReleaseDate": {"S":"b'February 19, 1993'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Samuel Goldwyn'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalasofFeb.25,1993": {"S":"b'$39,437'"},
+					"Runtime": {"S":"b'1 hrs. 57 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$39,437'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"OpeningWeekend": {"S":"b'$27,587'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 1993': '67', 'Yearly Opening Weekends 1993': '197', 'All Time Domestic': '11,639', 'Highest All Time Rank (on February 25, 1993)': '2704', 'Yearly R Rated 1993': '106', 'Yearly 1993': '244', 'Yearly (Limited) 1993': '82'}"}
+				}
+			}
+		}
+	]
+}

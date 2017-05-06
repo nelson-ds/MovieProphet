@@ -1,0 +1,656 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Meet the Fokkens'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=meetthefokkens.htm"},
+					"DomesticTotalasofFeb.3,2013": {"S":"b'$30,810'"},
+					"ReleaseDate": {"S":"b'August 8, 2012'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'Kino Lorber'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 20 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$30,810'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"OpeningWeekend": {"S":"b'$7,628'"},
+					"InRelease": {"S":"b'142 days / 20.3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Twins': '26', 'Foreign Language': '1488', 'Documentary': '914'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '11,948'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Meet the Mormons'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=meetthemormons.htm"},
+					"ReleaseDate": {"S":"b'October 10, 2014'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'Purdie Distribution'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$6,047,363'"},
+					"Runtime": {"S":"b'1 hrs. 18 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$6,047,363'"},
+					"WidestRelease": {"S":"b'333 theaters'"},
+					"CloseDate": {"S":"b'February 12, 2015'"},
+					"OpeningWeekend": {"S":"b'$2,509,808'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '37'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weekends (Limited Release)': '76', 'All Time Domestic': '5,148'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Meet the Parents'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=meettheparents.htm"},
+					"ReleaseDate": {"S":"b'October 6, 2000'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'$55 million'"},
+					"DomesticTotalGross": {"S":"b'$166,244,045'"},
+					"Runtime": {"S":"b'1 hrs. 48 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Shauna Robertson*'"},
+					"Actor": {"S":"b'Robert DeNiro, Ben Stiller, Blythe Danner, Teri Polo, Owen Wilson*'"},
+					"Composer": {"S":"b'Randy Newman'"},
+					"Director": {"S":"b'Jay Roach'"},
+					"Domestic": {"S":"b'$166,244,045'"},
+					"Worldwide": {"S":"b'$330,444,045'"},
+					"Foreign": {"S":"b'$164,200,000'"},
+					"WidestRelease": {"S":"b'2,697 theaters'"},
+					"CloseDate": {"S":"b'March 29, 2001'"},
+					"OpeningWeekend": {"S":"b'$28,623,300'"},
+					"InRelease": {"S":"b'175 days / 25 weeks'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"{'Showdown: Relationship Comedy Clash': '2', 'Series: Fockers': '2', Showdown: Jennifer and the 'Crashers': '2', Showdown: 'Four Christmases' Comp Romp: '2'}"},
+					"Chart": {"S":"{'Seventh Weekends': '74', 'Opening Weeks Adjusted': '435', 'Seventh Weekends Adjusted': '72', 'Consecutive Weekends In Top 10': '133', 'Fifth Weekends': '33', 'Rated PG-13 Adjusted': '104', BOM Users' Grades: '268', 'Thanksgiving 5-day Weekends Adjusted': '138', 'Opening Weekends Adjusted - Fall': '15', 'Smallest Drops, 2,000+ theaters (Very Wide)': '226', 'All Time Worldwide': '343', 'Sixth Weekends': '32', 'Eighth Weekends Adjusted': '40', 'Sixth Weekends Adjusted': '34', 'Fourth Weekends Adjusted': '49', 'Tenth Weekends Adjusted': '88', 'Opening Weekends Adjusted': '388', 'Slowest to $100 million': '245', 'Opening Weekends Adjusted - October': '11', 'Thanksgiving 3-day Weekends Adjusted': '189', 'Fourth Weekends': '76', 'Smallest Drops, 2,500+ theaters (Saturation)': '140', 'Rated PG-13': '141', 'Yearly (Wide) 2000': '7', 'Consecutive Weekends At #1': '40', 'Most Weekends at #1 (non-consecutive)': '54', 'Worldwide Yearly 2000': '7', 'Opening Weekends': '526', 'Opening Weekends - Fall': '41', 'Opening Weekends - October': '24', 'All Time Domestic': '260', 'Smallest Drops, All Wide Releases': '842', 'Ninth Weekends Adjusted': '79', 'Ninth Weekends': '65', 'Most Weekends in Top 10 (non-consecutive)': '157', 'Opening Weeks': '554', 'Yearly Opening Weekends (Wide) 2000': '15', 'Eleventh Weekends': '177', 'Third Weekends Adjusted': '153', 'Tenth Weekends': '59', 'Eighth Weekends': '30', 'Highest All Time Rank (on January 14, 2001)': '60', 'Twelfth Weekends': '184', 'Post-Thanksgiving Weekend - Best Holds': '54', 'Fifth Weekends Adjusted': '34', 'Yearly Opening Weekends 2000': '15', BOM Users' Grades (2000 Releases): '18', 'Yearly PG-13 Rated 2000': '5', 'Yearly 2000': '7', 'Eleventh Weekends Adjusted': '185'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Meet the Patels'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=meetthepatels.htm"},
+					"ReleaseDate": {"S":"b'September 11, 2015'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Alchemy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$1,700,681'"},
+					"Runtime": {"S":"b'1 hrs. 28 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$1,700,681'"},
+					"WidestRelease": {"S":"b'101 theaters'"},
+					"CloseDate": {"S":"b'December 10, 2015'"},
+					"OpeningWeekend": {"S":"b'$72,180'"},
+					"InRelease": {"S":"b'91 days / 13 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '6,698'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Meet the Robinsons'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=meettherobinsons.htm"},
+					"ReleaseDate": {"S":"b'March 30, 2007'"},
+					"Genre": {"S":"b'Animation'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$97,822,171'"},
+					"Runtime": {"S":"b'1 hrs. 32 min.'"},
+					"MPAARating": {"S":"b'G'"},
+					"Writer": {"S":"b'Don Hall'"},
+					"Producer": {"S":"b'John Lasseter'"},
+					"Composer": {"S":"b'Danny Elfman'"},
+					"Domestic": {"S":"b'$97,822,171'"},
+					"Worldwide": {"S":"b'$169,333,034'"},
+					"Foreign": {"S":"b'$71,510,863'"},
+					"WidestRelease": {"S":"b'3,435 theaters'"},
+					"CloseDate": {"S":"b'September 6, 2007'"},
+					"OpeningWeekend": {"S":"b'$25,123,781'"},
+					"InRelease": {"S":"b'161 days / 23 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': '127', 'Animation - Computer': '78', 'Animation - Sci-Fi': '9', 'Time Travel': '12', 'Animation': '95'}"},
+					"Franchise": {"S":"{'Showdown: Mid-Range 3D Family Bash': '5', 'Brand: Walt Disney Animation Studios': '9', 'Showdown: March Animation Madness': '6'}"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '708', 'All Time Domestic': '679', 'Rated G, Opening Weekends Adjusted': '39', 'Movies That Never Hit #1': '146', 'Rated G, Opening Weekends': '30', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '137', 'Smallest Drops, All Wide Releases': '1,334', 'Worldwide Yearly 2007': '33', BOM Users' Grades (2007 Releases): '55', 'Highest All Time Rank (on June 7, 2007)': '373', 'Opening Weekends Adjusted - Spring': '88', 'Smallest Drops, 2,500+ theaters (Saturation)': '297', 'Opening Weekends - Spring': '76', 'Smallest Drops, 2,000+ theaters (Very Wide)': '455', 'Opening Weeks': '613', 'Yearly 2007': '29', 'Yearly Opening Weekends 2007': '33', 'Opening Weekends Adjusted - March': '59', 'Widest Opening Releases': '398', 'Opening Weekends - March': '53', 'Rated G': '43', 'Rated G Adjusted': '75', 'Widest G Rated Releases': '22', 'Opening Weekends Not At #1 Adjusted': '155', 'Opening Weekends Adjusted': '729', 'Opening Weekends Not At #1': '139', 'Rated G and PG, Opening Weekends': '158', 'Yearly (Wide) 2007': '29', 'Widest G Rated Openings': '21', 'Widest Releases': '410', 'Yearly G Rated 2007': '2', 'Yearly Opening Weekends (Wide) 2007': '33', 'Opening Weekends': '621'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Meet the Spartans'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=meetthespartans.htm"},
+					"ReleaseDate": {"S":"b'January 25, 2008'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$38,233,676'"},
+					"Runtime": {"S":"b'1 hrs. 24 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Jason Friedberg, Aaron Seltzer'"},
+					"Producer": {"S":"b'Jason Friedberg, Arnon Milchan, Peter Safran, Aaron Seltzer'"},
+					"Composer": {"S":"b'Christopher Lennertz'"},
+					"Director": {"S":"b'Jason Friedberg, Aaron Seltzer'"},
+					"Domestic": {"S":"b'$38,233,676'"},
+					"Worldwide": {"S":"b'$84,646,831'"},
+					"Foreign": {"S":"b'$46,413,155'"},
+					"WidestRelease": {"S":"b'2,643 theaters'"},
+					"CloseDate": {"S":"b'May 1, 2008'"},
+					"OpeningWeekend": {"S":"b'$18,505,530'"},
+					"InRelease": {"S":"b'98 days / 14 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - Spoof': '20'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weekends Adjusted - Winter': '143', 'Biggest 2nd Weekend Drops': '476', 'All Time Domestic': '2,033', 'Yearly Opening Weekends 2008': '54', 'Opening Weekends Adjusted - January': '59', 'Yearly (Wide) 2008': '76', 'Yearly 2008': '74', 'Opening Weekends Adjusted': '1,212', 'Smallest Drops, All Wide Releases': '3,941', 'Opening Weekends - January': '50', 'Opening Weeks Adjusted': '1,527', BOM Users' Grades (2008 Releases): '193', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,447', 'Worldwide Yearly 2008': '66', 'Yearly Opening Weekends (Wide) 2008': '55', 'Smallest Drops, 2,000+ theaters (Very Wide)': '2,021', 'Opening Weeks': '1,196', 'Opening Weekends - Winter': '122', 'Yearly PG-13 Rated 2008': '41', 'Opening Weekends': '966'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Meeting Evil'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=meetingevil.htm"},
+					"ReleaseDate": {"S":"b'May 4, 2012'"},
+					"Genre": {"S":"b'Crime Drama'"},
+					"Distributor": {"S":"b'Magnolia'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$525'"},
+					"Runtime": {"S":"b'1 hrs. 29 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Samuel L. Jackson, Luke Wilson'"},
+					"Domestic": {"S":"b'$525'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"CloseDate": {"S":"b'May 10, 2012'"},
+					"OpeningWeekend": {"S":"b'$181'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '14,665'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Meeting Resistance'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=meetingresistance.htm"},
+					"ReleaseDate": {"S":"b'October 19, 2007'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'International Film Circuit'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$20,616'"},
+					"Runtime": {"S":"b'1 hrs. 24 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$20,616'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"CloseDate": {"S":"b'November 22, 2007'"},
+					"OpeningWeekend": {"S":"b'$7,712'"},
+					"InRelease": {"S":"b'35 days / 5 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary - Political': '95', 'Documentary': '1018'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 2007': '280', 'Yearly Opening Weekends 2007': '447', 'Yearly Unrated Movies 2007': '122', 'Yearly 2007': '493', 'Yearly (Limited) 2007': '307', 'All Time Domestic': '12,492'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Meeting Venus'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=meetingvenus.htm"},
+					"ReleaseDate": {"S":"b'November 15, 1991'"},
+					"Genre": {"S":"b'Comedy / Drama'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$1,000,348'"},
+					"Runtime": {"S":"b'1 hrs. 59 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Glenn Close'"},
+					"Domestic": {"S":"b'$1,000,348'"},
+					"WidestRelease": {"S":"b'32 theaters'"},
+					"CloseDate": {"S":"b'February 13, 1992'"},
+					"OpeningWeekend": {"S":"b'$65,715'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1991': '175', 'Yearly (Limited) 1991': '48', 'Yearly Opening Weekends 1991': '160', 'All Time Domestic': '7,394', 'Highest All Time Rank (on January 28, 1992)': '2158', 'Yearly PG-13 Rated 1991': '45', 'Yearly Opening Weekends (Limited) 1991': '49'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Meg'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=wbeventfilm2018.htm"},
+					"ReleaseDate": {"S":"b'August 10, 2018'"},
+					"Genre": {"S":"b'Horror'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unknown'"},
+					"Producer": {"S":"b'Lorenzo di Bonaventura, Colin Wilson'"},
+					"Actor": {"S":"b'Jason Statham, Fan Bingbing'"},
+					"Director": {"S":"b'Jon Turteltaub'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': 'n/a', 'Horror - Terror in the Water': 'n/a', 'Shark': 'n/a'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Megaforce'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=megaforce.htm"},
+					"ReleaseDate": {"S":"b'June 25, 1982'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$5,675,599'"},
+					"Runtime": {"S":"b'1 hrs. 39 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$5,675,599'"},
+					"WidestRelease": {"S":"b'1,193 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,350,021'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Wide) 1982': '51', 'Yearly PG Rated 1982': '41', 'Opening Weeks Adjusted': '3,265', 'All Time Domestic': '5,246', 'Yearly (Wide) 1982': '67', 'Highest All Time Rank (on July 20, 1982)': '471', 'Opening Weekends Adjusted': '3,436', 'Opening Weeks': '4,008', 'Opening Weekends': '4,131', 'Yearly Opening Weekends 1982': '50', 'Yearly 1982': '91'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Megamind'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mastermind.htm"},
+					"ReleaseDate": {"S":"b'November 5, 2010'"},
+					"Genre": {"S":"b'Animation'"},
+					"Distributor": {"S":"b'Paramount (DreamWorks)'"},
+					"ProductionBudget": {"S":"b'$130 million'"},
+					"DomesticTotalGross": {"S":"b'$148,415,853'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Producer": {"S":"b'Lara Breay, Denise Nolan Cascino, Ben Stiller'"},
+					"Actor": {"S":"b'Will Ferrell, Brad Pitt, Tina Fey, Jonah Hill, David Cross , Justin Theroux* , Ben Stiller*, Tom McGrath*, J.K. Simmons*'"},
+					"Composer": {"S":"b'Lorne Balfe, Hans Zimmer'"},
+					"Director": {"S":"b'Tom McGrath'"},
+					"Domestic": {"S":"b'$148,415,853'"},
+					"Worldwide": {"S":"b'$321,885,765'"},
+					"Foreign": {"S":"b'$173,469,912'"},
+					"WidestRelease": {"S":"b'3,949 theaters'"},
+					"CloseDate": {"S":"b'February 24, 2011'"},
+					"OpeningWeekend": {"S":"b'$46,016,833'"},
+					"InRelease": {"S":"b'112 days / 16 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': '85', 'Animation - Computer': '57', 'Superhero - Comedy': '4', 'Superhero': '43', 'IMAX (Feature-length)': '94', 'Animation': '64'}"},
+					"Franchise": {"S":"{'Showdown: Fall DreamWorks Animation': '4', 'Showdown: Animation 2010': '6', 'Brand: DreamWorks Animation': '19', 'Showdown: Animated Heroes &amp; Villains': '5', Showdown: 'Megamind' Vs. 'Wreck-It Ralph': '2'}"},
+					"Chart": {"S":"{'Top 3-Day Grosses': '227', 'Fastest to $100 million': '263', 'Rated PG': '92', 'All Time Domestic': '324', 'Widest Opening Releases': '102', 'Thanksgiving 5-day Weekends': '87', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '187', 'Smallest Drops, All Wide Releases': '1,597', 'Highest All Time Rank (on February 20, 2011)': '208', 'Opening Weekends Adjusted - November': '57', 'Opening Weekends - November': '34', 'Thanksgiving 5-day Weekends Adjusted': '109', 'Single Day Saturday Gross': '199', 'Opening Weeks Adjusted': '400', 'Post-Thanksgiving Weekend  - Biggest Drops': '70', 'Smallest Drops, 2,000+ theaters (Very Wide)': '584', 'Opening Weeks': '268', 'Single Day Gross': '519', 'Widest PG Rated Openings': '36', 'All Time Worldwide': '356', 'Saturday Share of Opening Weekends': '159', 'Single Day Saturday Gross Adjusted': '301', 'Widest Releases': '108', 'Slowest to $100 million': '372', 'Thanksgiving 3-day Weekends': '99', 'Rated PG, Opening Weekends Adjusted': '78', 'Widest PG Rated Releases': '39', 'Second Weekends': '170', 'Opening Weekends Adjusted - Holiday': '79', 'Opening Weekends Adjusted': '342', 'Opening Weekends - Holiday': '49', 'Rated G and PG, Opening Weekends': '67', 'Thanksgiving 3-day Weekends Adjusted': '142', 'Fourth Weekends': '127', 'Opening Weekends': '238', 'Rated G and PG, Opening Weekends Adjusted': '98', 'Rated G and PG': '112', 'Consecutive Weekends At #1': '292', 'Most Weekends at #1 (non-consecutive)': '293', 'Rated PG, Opening Weekends': '58', 'Smallest Drops, 2,500+ theaters (Saturation)': '385'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Megiddo: The Omega Code II'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=omegacode2.htm"},
+					"ReleaseDate": {"S":"b'September 21, 2001'"},
+					"Genre": {"S":"b'Action / Adventure'"},
+					"Distributor": {"S":"b'8X Entertainment'"},
+					"ProductionBudget": {"S":"b'$22 million'"},
+					"DomesticTotalGross": {"S":"b'$6,047,691'"},
+					"Runtime": {"S":"b'1 hrs. 44 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$6,047,691'"},
+					"WidestRelease": {"S":"b'353 theaters'"},
+					"OpeningWeekend": {"S":"b'$1,573,454'"},
+					"InRelease": {"S":"b'59 days / 8.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Christian': '32'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2001': '13', 'All Time Domestic': '5,147', 'Highest All Time Rank (on August 28, 2002)': '2360', 'Yearly 2001': '142', 'Yearly Opening Weekends 2001': '128', 'Yearly PG-13 Rated 2001': '60', 'Yearly Opening Weekends (Limited) 2001': '2'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mekong Hotel'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mekonghotel.htm"},
+					"ReleaseDate": {"S":"b'March 4, 2016'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Strand'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$2,502'"},
+					"Runtime": {"S":"b'1 hrs. 1 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$2,502'"},
+					"WidestRelease": {"S":"b'3 theaters'"},
+					"CloseDate": {"S":"b'March 31, 2016'"},
+					"OpeningWeekend": {"S":"b'$999'"},
+					"InRelease": {"S":"b'28 days / 4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1932'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '14,359'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mela'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mela.htm"},
+					"ReleaseDate": {"S":"b'January 7, 2000'"},
+					"DomesticTotalasofJan.17,2000": {"S":"b'$220,524'"},
+					"Distributor": {"S":"b'Eros'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$220,524'"},
+					"WidestRelease": {"S":"b'29 theaters'"},
+					"OpeningWeekend": {"S":"b'$138,261'"},
+					"InRelease": {"S":"b'11 days / 1.6 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on August 28, 2002)': '3947', 'All Time Domestic': '9,300', 'Yearly (Limited) 2000': '129', 'Yearly Opening Weekends 2000': '173', 'Yearly 2000': '277', 'Yearly Opening Weekends (Limited) 2000': '40'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Melancholia'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=melancholia.htm"},
+					"ReleaseDate": {"S":"b'November 11, 2011'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Magnolia'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$3,030,848'"},
+					"Runtime": {"S":"b'2 hrs. 15 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Lars Von Trier'"},
+					"Actor": {"S":"b'Kirsten Dunst, Charlotte Gainsbourg, John Hurt, Charlotte Rampling, Stellan Skarsgard, Alexander Skarsg, Kiefer Sutherland'"},
+					"Director": {"S":"b'Lars Von Trier'"},
+					"Domestic": {"S":"b'$3,030,848'"},
+					"Worldwide": {"S":"b'$15,946,321'"},
+					"Foreign": {"S":"b'$12,915,473'"},
+					"WidestRelease": {"S":"b'145 theaters'"},
+					"CloseDate": {"S":"b'March 1, 2012'"},
+					"OpeningWeekend": {"S":"b'$257,174'"},
+					"InRelease": {"S":"b'112 days / 16 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '6,006'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Melinda and Melinda'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=melindaandmelinda.htm"},
+					"ReleaseDate": {"S":"b'March 18, 2005'"},
+					"Genre": {"S":"b'Fantasy Comedy'"},
+					"Distributor": {"S":"b'Fox Searchlight'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$3,826,280'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Woody Allen'"},
+					"Actor": {"S":"b'Chiwetel Ejiofor, Will Ferrell, Radha Mitchell, Amanda Peet, Chloe Sevigny, Wallace Shawn, Josh Brolin, Steve Carell*'"},
+					"Director": {"S":"b'Woody Allen'"},
+					"Domestic": {"S":"b'$3,826,280'"},
+					"Worldwide": {"S":"b'$20,085,825'"},
+					"Foreign": {"S":"b'$16,259,545'"},
+					"WidestRelease": {"S":"b'302 theaters'"},
+					"CloseDate": {"S":"b'June 23, 2005'"},
+					"OpeningWeekend": {"S":"b'$74,238'"},
+					"InRelease": {"S":"b'98 days / 14 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2005': '24', 'Theater Averages - All Time Adjusted': '70', 'Theater Averages - Opening Weekends': '51', 'Yearly PG-13 Rated 2005': '74', 'Theater Averages - Opening Weekends Adjusted': '52', 'Yearly 2005': '174', BOM Users' Grades (2005 Releases): '110', 'Yearly Opening Weekends (Limited) 2005': '82', 'Worldwide Yearly 2005': '141', 'Yearly Opening Weekends 2005': '221', 'All Time Domestic': '5,718'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Melvin Goes to Dinner'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=melvingoestodinner.htm"},
+					"DomesticTotalasofNov.23,2003": {"S":"b'$4,168'"},
+					"ReleaseDate": {"S":"b'November 14, 2003'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Arrival Pictures'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 23 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Jenna Fischer*'"},
+					"Domestic": {"S":"b'$4,168'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"OpeningWeekend": {"S":"b'$1,919'"},
+					"InRelease": {"S":"b'10 days / 1.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 2003': '181', 'Highest All Time Rank (on November 23, 2003)': '6240', 'All Time Domestic': '14,081', 'Yearly (Limited) 2003': '338', 'Yearly Opening Weekends 2003': '478', 'Yearly Opening Weekends (Limited) 2003': '349', 'Yearly 2003': '484'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Melvin and Howard'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=melvinandhoward.htm"},
+					"ReleaseDate": {"S":"b'October 24, 1980'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$4,309,490'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Director": {"S":"b'Jonathan Demme'"},
+					"Domestic": {"S":"b'$4,309,490'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"Nominated for Three Oscars, Including Two Wins."},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1980': '86', 'All Time Domestic': '5,574'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Memento'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=memento.htm"},
+					"ReleaseDate": {"S":"b'March 16, 2001'"},
+					"Genre": {"S":"b'Thriller'"},
+					"Distributor": {"S":"b'Newmarket'"},
+					"ProductionBudget": {"S":"b'$9 million'"},
+					"DomesticTotalGross": {"S":"b'$25,544,867'"},
+					"Runtime": {"S":"b'1 hrs. 53 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Aaron Ryder, Emma Thomas'"},
+					"Actor": {"S":"b'Guy Pearce'"},
+					"Cinematographer": {"S":"b'Wally Pfister'"},
+					"Writer": {"S":"b'Christopher Nolan'"},
+					"Composer": {"S":"b'David Julyan'"},
+					"Director": {"S":"b'Christopher Nolan'"},
+					"Domestic": {"S":"b'$25,544,867'"},
+					"Worldwide": {"S":"b'$39,723,096'"},
+					"Foreign": {"S":"b'$14,178,229'"},
+					"WidestRelease": {"S":"b'531 theaters'"},
+					"OpeningWeekend": {"S":"b'$235,488'"},
+					"Awards": {"S":"Nominated for Two Oscars."},
+					"GenreRank": {"S":"{'Memory Loss / Amnesia': '21', 'Mindbender': '13', 'Neo Noir': '5'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{BOM Users' Grades: '96', 'Yearly (Limited) 2001': '2', 'Yearly R Rated 2001': '32', 'All Time Domestic': '2,790', 'Highest All Time Rank (on August 28, 2002)': '1089', 'Yearly 2001': '88', 'Yearly Opening Weekends 2001': '153', 'Worldwide Yearly 2001': '82', BOM Users' Grades (2001 Releases): '4', 'Yearly Opening Weekends (Limited) 2001': '25'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Memoirs of a Geisha'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=memoirsofageisha.htm"},
+					"ReleaseDate": {"S":"b'December 9, 2005'"},
+					"Genre": {"S":"b'Period Drama'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"ProductionBudget": {"S":"b'$85 million'"},
+					"DomesticTotalGross": {"S":"b'$57,490,508'"},
+					"Runtime": {"S":"b'2 hrs. 24 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Gary Barber, Roger Birnbaum, Bobby Cohen, Lucy Fisher, Steven Spielberg, Patricia Whitcher, Douglas Wick'"},
+					"Actor": {"S":"b'Zhang Ziyi, Ken Watanabe, Michelle Yeoh, Gong Li'"},
+					"Cinematographer": {"S":"b'Dion Beebe'"},
+					"Writer": {"S":"b'Robin Swicord, Doug Wright, Akiva Goldsman*'"},
+					"Composer": {"S":"b'John Williams'"},
+					"Director": {"S":"b'Rob Marshall'"},
+					"Domestic": {"S":"b'$57,490,508'"},
+					"Worldwide": {"S":"b'$162,242,962'"},
+					"Foreign": {"S":"b'$104,752,454'"},
+					"WidestRelease": {"S":"b'1,654 theaters'"},
+					"CloseDate": {"S":"b'March 12, 2006'"},
+					"LimitedOpeningWeekend": {"S":"b'<b> $682,504</b>'"},
+					"WideOpeningWeekend": {"S":"b'$6,751,729'"},
+					"Awards": {"S":"Nominated for Six Oscars, Including Three Wins."},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '1,341', 'Theater Averages - All Time Adjusted': '45', 'Friday to Saturday Drops on Opening Weekends': '14', 'Theater Averages - Opening Weekends Adjusted': '35', BOM Users' Grades (2005 Releases): '30', 'Yearly Opening Weekends (Limited) 2005': '9', 'Worldwide Yearly 2005': '28', 'Yearly Opening Weekends 2005': '145', 'Smallest Drops, All Wide Releases': '104', 'Yearly (Wide) 2005': '46', 'Opening Weeks Adjusted': '1,701', 'Theater Averages - Opening Weekends': '39', 'Yearly PG-13 Rated 2005': '25', 'Yearly 2005': '45', 'Yearly Opening Weekends (Wide) 2005': '110', 'Opening Weekends Adjusted': '2,947', 'Opening Weeks': '1,506', 'Sunday Share of Opening Weekends': '19', 'Opening Weekends': '2,518'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Memoirs of an Invisible Man'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=memoirsofaninvisibleman.htm"},
+					"ReleaseDate": {"S":"b'February 28, 1992'"},
+					"Genre": {"S":"b'Sci-Fi Comedy'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$14,358,033'"},
+					"Runtime": {"S":"b'1 hrs. 39 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Arnon Milchan'"},
+					"Director": {"S":"b'John Carpenter'"},
+					"Domestic": {"S":"b'$14,358,033'"},
+					"WidestRelease": {"S":"b'1,753 theaters'"},
+					"OpeningWeekend": {"S":"b'$4,601,954'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sci-Fi - Based on Book': '52', 'Sci-Fi Comedy': '37'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{BOM Users' Grades (1992 Releases): '67', 'Opening Weeks Adjusted': '2,908', 'All Time Domestic': '3,857', 'Opening Weeks': '3,258', 'Yearly 1992': '79', 'Opening Weekends Adjusted': '2,831', 'Smallest Drops, All Wide Releases': '1,808', 'Yearly PG-13 Rated 1992': '23', 'Opening Weekends': '3,172', 'Highest All Time Rank (on March 31, 1992)': '994', 'Yearly (Wide) 1992': '76', 'Yearly Opening Weekends (Wide) 1992': '66', 'Yearly Opening Weekends 1992': '63'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Memoria'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=memoria.htm"},
+					"ReleaseDate": {"S":"b'April 8, 2016'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Monterey Media, Inc.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$2,242'"},
+					"Runtime": {"S":"b'1 hrs. 10 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$2,242'"},
+					"WidestRelease": {"S":"b'6 theaters'"},
+					"CloseDate": {"S":"b'May 12, 2016'"},
+					"OpeningWeekend": {"S":"b'$47'"},
+					"InRelease": {"S":"b'35 days / 5 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Top Movies in the Past 365 Days': '682', 'All Time Domestic': '14,405'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Memories of Me'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=memoriesofme.htm"},
+					"ReleaseDate": {"S":"b'September 30, 1988'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'MGM'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$3,965,604'"},
+					"Runtime": {"S":"b'1 hrs. 43 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Eric Roth'"},
+					"Actor": {"S":"b'Billy Crystal, Alan King, Jobeth Williams'"},
+					"Director": {"S":"b'Henry Winkler'"},
+					"Domestic": {"S":"b'$3,965,604'"},
+					"WidestRelease": {"S":"b'723 theaters'"},
+					"OpeningWeekend": {"S":"b'$1,388,123'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 1988': '109', 'Yearly PG-13 Rated 1988': '22', 'All Time Domestic': '5,680', 'Highest All Time Rank (on November 1, 1988)': '1238', 'Yearly Opening Weekends (Wide) 1988': '113', 'Yearly 1988': '128', 'Yearly (Wide) 1988': '108'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Memories of Murder'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=memoriesofmurder.htm"},
+					"ReleaseDate": {"S":"b'July 15, 2005'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Palm'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$15,357'"},
+					"Runtime": {"S":"b'2 hrs. 12 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$15,357'"},
+					"Worldwide": {"S":"b'$229,652'"},
+					"Foreign": {"S":"b'$214,295'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"CloseDate": {"S":"b'August 4, 2005'"},
+					"OpeningWeekend": {"S":"b'$4,487'"},
+					"InRelease": {"S":"b'21 days / 3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1653'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2005': '307', 'All Time Domestic': '12,853', 'Yearly 2005': '467', 'Yearly Opening Weekends (Limited) 2005': '292', 'Yearly Unrated Movies 2005': '127', 'Worldwide Yearly 2005': '318', 'Yearly Opening Weekends 2005': '431'}"}
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,633 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flamenco, Flamenco'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flamencoflamenco.htm"},
+					"ReleaseDate": {"S":"b'July 18, 2014'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Dada Films'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$71,732'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$71,732'"},
+					"WidestRelease": {"S":"b'5 theaters'"},
+					"CloseDate": {"S":"b'January 1, 2015'"},
+					"OpeningWeekend": {"S":"b'$1,259'"},
+					"InRelease": {"S":"b'154 days / 22 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1236'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '10,789'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flanders'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flanders.htm"},
+					"ReleaseDate": {"S":"b'May 18, 2007'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'International Film Circuit'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$22,788'"},
+					"Runtime": {"S":"b'1 hrs. 31 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$22,788'"},
+					"Worldwide": {"S":"b'$402,252'"},
+					"Foreign": {"S":"b'$379,464'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"CloseDate": {"S":"b'September 6, 2007'"},
+					"OpeningWeekend": {"S":"b'$1,794'"},
+					"InRelease": {"S":"b'112 days / 16 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1573'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Worldwide Yearly 2007': '364', 'Yearly Opening Weekends (Limited) 2007': '407', 'Yearly Opening Weekends 2007': '574', 'Yearly Unrated Movies 2007': '115', 'Yearly 2007': '481', 'Yearly (Limited) 2007': '295', 'All Time Domestic': '12,354'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flannel Pajamas'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flannelpajamas.htm"},
+					"ReleaseDate": {"S":"b'November 15, 2006'"},
+					"Genre": {"S":"b'Romance'"},
+					"Distributor": {"S":"b'Gigantic Releasing'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$123,301'"},
+					"Runtime": {"S":"b'2 hrs. 4 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Jamie Harris*'"},
+					"Domestic": {"S":"b'$123,301'"},
+					"WidestRelease": {"S":"b'4 theaters'"},
+					"CloseDate": {"S":"b'April 22, 2007'"},
+					"OpeningWeekend": {"S":"b'$11,069'"},
+					"InRelease": {"S":"b'163 days / 23.3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2006': '362', 'Yearly R Rated 2006': '143', 'Yearly Opening Weekends 2006': '387', 'All Time Domestic': '10,079', 'Yearly (Limited) 2006': '187', 'Yearly Opening Weekends (Limited) 2006': '229'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flash Gordon'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flashgordon.htm"},
+					"ReleaseDate": {"S":"b'December 5, 1980'"},
+					"Genre": {"S":"b'Sci-Fi Adventure'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$27,107,960'"},
+					"Runtime": {"S":"b'1 hrs. 51 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$27,107,960'"},
+					"\t\tOpeningWeekend": {"S":"b'$3,934,030'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Adventure Remake': '19', 'Sci-Fi - Adventure': '71', 'Sci-Fi Remake': '14', 'Comic Book Adaptation': '111', 'Superhero': '87'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '2,448', 'All Time Domestic': '2,675', 'Highest All Time Rank (on January 1, 1982)': '188', 'Yearly 1980': '23', 'Opening Weeks': '3,555', 'Opening Weekends Adjusted - December': '193', 'Opening Weekends Adjusted': '2,270', 'Opening Weekends': '3,450'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flash Point'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flashpoint08.htm"},
+					"ReleaseDate": {"S":"b'March 14, 2008'"},
+					"Genre": {"S":"b'Foreign / Action'"},
+					"Distributor": {"S":"b'Third Rail Releasing'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$5,151'"},
+					"Runtime": {"S":"b'1 hrs. 28 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$5,151'"},
+					"Worldwide": {"S":"b'$6,177,725'"},
+					"Foreign": {"S":"b'$6,172,574'"},
+					"WidestRelease": {"S":"b'10 theaters'"},
+					"CloseDate": {"S":"b'March 20, 2008'"},
+					"OpeningWeekend": {"S":"b'$3,271'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1869'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2008': '387', 'All Time Domestic': '13,931', 'Worldwide Yearly 2008': '234', 'Yearly R Rated 2008': '188', 'Yearly Opening Weekends 2008': '507', 'Yearly 2008': '560', 'Yearly Opening Weekends (Limited) 2008': '355'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flash of Genius'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flashofgenius.htm"},
+					"ReleaseDate": {"S":"b'October 3, 2008'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$4,442,377'"},
+					"Runtime": {"S":"b'1 hrs. 59 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Cinematographer": {"S":"b'Dante Spinotti'"},
+					"Producer": {"S":"b'Gary Barber, Roger Birnbaum, J. Miles Dale, Jonathan Glickman, Eric Newman'"},
+					"Actor": {"S":"b'Greg Kinnear, Lauren Graham, Dermot Mulroney'"},
+					"Composer": {"S":"b'Aaron Zigman'"},
+					"Director": {"S":"b'Marc Abraham'"},
+					"Domestic": {"S":"b'$4,442,377'"},
+					"Worldwide": {"S":"b'$4,802,953'"},
+					"Foreign": {"S":"b'$360,576'"},
+					"WidestRelease": {"S":"b'1,098 theaters'"},
+					"CloseDate": {"S":"b'October 23, 2008'"},
+					"OpeningWeekend": {"S":"b'$2,251,075'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Saturday Share of Opening Weekends': '141', 'Biggest 2nd Weekend Drops': '405', 'All Time Domestic': '5,529', 'Yearly (Wide) 2008': '160', 'Yearly 2008': '175', 'Opening Weekends Adjusted': '4,473', 'Smallest Drops, All Wide Releases': '4,014', 'Opening Weeks Adjusted': '4,454', 'Opening Weekends': '4,167', 'Worldwide Yearly 2008': '248', 'Yearly Opening Weekends (Wide) 2008': '152', 'Opening Weeks': '4,203', 'Yearly Opening Weekends 2008': '146', 'Yearly PG-13 Rated 2008': '86'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flashback'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flashback.htm"},
+					"ReleaseDate": {"S":"b'February 2, 1990'"},
+					"Genre": {"S":"b'Action Comedy'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$6,488,114'"},
+					"Runtime": {"S":"b'1 hrs. 48 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Dennis Hopper, Kiefer Sutherland'"},
+					"Domestic": {"S":"b'$6,488,114'"},
+					"WidestRelease": {"S":"b'875 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,910,116'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Wide) 1990': '90', 'Opening Weeks Adjusted': '3,715', 'All Time Domestic': '5,053', 'Opening Weeks': '3,927', 'Yearly Opening Weekends 1990': '87', 'Yearly R Rated 1990': '58', 'Yearly (Wide) 1990': '104', 'Opening Weekends Adjusted': '3,672', 'Smallest Drops, All Wide Releases': '3,441', 'Opening Weekends': '3,881', 'Yearly 1990': '113', 'Highest All Time Rank (on February 27, 1990)': '1198'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flashbacks of a Fool'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flashbacksofafool.htm"},
+					"ReleaseDate": {"S":"b'October 17, 2008'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Anchor Bay Films'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$1,664'"},
+					"Runtime": {"S":"b'1 hrs. 50 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Daniel Craig, Olivia Williams, James DArcy, Claire Forlani, Mark Strong, Felicity Jones*'"},
+					"Domestic": {"S":"b'$1,664'"},
+					"Worldwide": {"S":"b'$1,115,273'"},
+					"Foreign": {"S":"b'$1,113,609'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"CloseDate": {"S":"b'October 23, 2008'"},
+					"OpeningWeekend": {"S":"b'$1,020'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2008': '421', 'All Time Domestic': '14,491', 'Worldwide Yearly 2008': '318', 'Yearly R Rated 2008': '199', 'Yearly Opening Weekends 2008': '575', 'Yearly 2008': '595', 'Yearly Opening Weekends (Limited) 2008': '423'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flashdance'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flashdance.htm"},
+					"ReleaseDate": {"S":"b'April 15, 1983'"},
+					"Genre": {"S":"b'Music Drama'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$92,921,203'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Joe Eszterhas'"},
+					"Producer": {"S":"b'Jerry Bruckheimer, Jon Peters'"},
+					"Domestic": {"S":"b'$92,921,203'"},
+					"WidestRelease": {"S":"b'1,140 theaters'"},
+					"OpeningWeekend": {"S":"b'$4,076,124'"},
+					"Awards": {"S":"Nominated for Four Oscars, Including One Win."},
+					"GenreRank": {"S":"{'Dance': '4'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Most Weekends in Top 5 (non-consecutive)': '128', 'Opening Weekends Adjusted - April': '183', 'Opening Weeks Adjusted': '2,477', 'All Time Domestic': '722', 'Consecutive Weekends In Top 10': '43', BOM Users' Grades (1983 Releases): '34', 'Smallest Drops, All Wide Releases': '194', 'Yearly Opening Weekends (Wide) 1983': '33', 'Ninth Weekends': '195', 'Rated R Adjusted': '53', 'Eleventh Weekends Adjusted': '52', 'Most Weekends in Top 10 (non-consecutive)': '12', 'Memorial Day 4-Day Holiday Weekends': '179', 'Longest Time To #1': '47', 'Opening Weeks': '3,332', 'Consecutive Weekends In Top 5': '121', 'Rated R': '170', 'Eighth Weekends Adjusted': '68', 'Yearly R Rated 1983': '1', 'Eleventh Weekends': '99', 'Ninth Weekends Adjusted': '90', 'Tenth Weekends': '119', 'Eighth Weekends': '190', 'Highest All Time Rank (on September 25, 1983)': '41', 'Tenth Weekends Adjusted': '55', 'Twelfth Weekends': '36', 'Sixth Weekends Adjusted': '154', 'Yearly Opening Weekends 1983': '31', 'Opening Weekends Adjusted': '2,525', 'Yearly (Wide) 1983': '3', 'Yearly 1983': '3', 'Opening Weekends': '3,379', 'Consecutive Weekends At #1': '109', 'Most Weekends at #1 (non-consecutive)': '125'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flashpoint (1984)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flashpoint.htm"},
+					"ReleaseDate": {"S":"b'August 31, 1984'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'TriStar'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$3,854,833'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Kris Kristofferson, Treat Williams'"},
+					"Domestic": {"S":"b'$3,854,833'"},
+					"WidestRelease": {"S":"b'1,022 theaters'"},
+					"OpeningWeekend": {"S":"b'$1,916,222'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 1984': '89', 'Yearly (Wide) 1984': '101', 'All Time Domestic': '5,708', 'Yearly Opening Weekends (Wide) 1984': '91', 'Highest All Time Rank (on December 14, 1985)': '486', 'Yearly R Rated 1984': '50', 'Labor Day 4-Day Holiday Weekend Openers': '75', 'Yearly 1984': '123'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flatliners'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flatliners.htm"},
+					"ReleaseDate": {"S":"b'August 10, 1990'"},
+					"Genre": {"S":"b'Horror'"},
+					"Distributor": {"S":"b'Columbia'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$61,489,265'"},
+					"Runtime": {"S":"b'1 hrs. 55 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Michael Douglas, Scott Rudin'"},
+					"Actor": {"S":"b'Kiefer Sutherland, Julia Roberts, Kevin Bacon, William Baldwin, Oliver Platt'"},
+					"Composer": {"S":"b'James Newton Howard'"},
+					"Director": {"S":"b'Joel Schumacher'"},
+					"Domestic": {"S":"b'$61,489,265'"},
+					"WidestRelease": {"S":"b'1,483 theaters'"},
+					"OpeningWeekend": {"S":"b'$10,034,685'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Wide) 1990': '22', 'Opening Weeks Adjusted': '1,116', 'All Time Domestic': '1,236', 'Opening Weekends - August': '158', 'Yearly Opening Weekends 1990': '21', 'Yearly R Rated 1990': '7', 'Yearly (Wide) 1990': '20', 'Opening Weekends Adjusted': '1,366', 'Smallest Drops, All Wide Releases': '1,047', 'Fewest Theaters to Debut at #1': '84', 'Opening Weekends Adjusted - August': '100', 'Opening Weekends': '1,871', 'Yearly 1990': '18', 'Opening Weeks': '1,626', 'Highest All Time Rank (on October 30, 1990)': '180', BOM Users' Grades (1990 Releases): '36'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flatliners (2017)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flatliners2017.htm"},
+					"ReleaseDate": {"S":"b'September 29, 2017'"},
+					"Genre": {"S":"b'Sci-Fi Horror'"},
+					"Distributor": {"S":"b'Sony / Screen Gems'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Director": {"S":"b'Niels Arden Oplev'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Horror Remake': 'n/a'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flavors'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flavors.htm"},
+					"ReleaseDate": {"S":"b'July 16, 2004'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Net Effect'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$93,370'"},
+					"Runtime": {"S":"b'1 hrs. 58 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$93,370'"},
+					"WidestRelease": {"S":"b'14 theaters'"},
+					"CloseDate": {"S":"b'July 25, 2004'"},
+					"OpeningWeekend": {"S":"b'$56,000'"},
+					"InRelease": {"S":"b'14 days / 2 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on July 25, 2004)': '5842', 'Yearly (Limited) 2004': '209', 'All Time Domestic': '10,456', 'Yearly 2004': '362', 'Yearly Opening Weekends 2004': '235', 'Yearly Opening Weekends (Limited) 2004': '97', 'Yearly Unrated Movies 2004': '73'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flawless (1999)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flawless.htm"},
+					"ReleaseDate": {"S":"b'November 26, 1999'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'MGM'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$4,488,529'"},
+					"Runtime": {"S":"b'1 hrs. 51 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Cinematographer": {"S":"b'Declan Quinn'"},
+					"Actor": {"S":"b'Robert DeNiro, Philip Seymour Hoffman'"},
+					"Director": {"S":"b'Joel Schumacher'"},
+					"Domestic": {"S":"b'$4,488,529'"},
+					"WidestRelease": {"S":"b'483 theaters'"},
+					"OpeningWeekend": {"S":"b'$1,590,155'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Cross Dressing / Gender Bending': '26', 'Gay / Lesbian': '62'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weekends (Limited Release)': '192', 'All Time Domestic': '5,519', 'Yearly Opening Weekends (Limited) 1999': '4', 'Top Ranking Limited Release Debuts': '193', 'Highest All Time Rank (on August 28, 2002)': '2626', 'Yearly R Rated 1999': '79', 'Yearly (Limited) 1999': '21', 'Yearly Opening Weekends 1999': '131', 'Yearly 1999': '157'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flawless (2008)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flawless07.htm"},
+					"ReleaseDate": {"S":"b'March 28, 2008'"},
+					"Genre": {"S":"b'Crime Thriller'"},
+					"Distributor": {"S":"b'Magnolia'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$1,200,234'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Demi Moore, Michael Caine'"},
+					"Director": {"S":"b'Michael Radford'"},
+					"Domestic": {"S":"b'$1,200,234'"},
+					"Worldwide": {"S":"b'$6,819,587'"},
+					"Foreign": {"S":"b'$5,619,353'"},
+					"WidestRelease": {"S":"b'65 theaters'"},
+					"CloseDate": {"S":"b'July 17, 2008'"},
+					"OpeningWeekend": {"S":"b'$181,910'"},
+					"InRelease": {"S":"b'112 days / 16 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Heist / Caper': '83'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2008': '46', 'All Time Domestic': '7,104', 'Worldwide Yearly 2008': '230', 'Yearly Opening Weekends (Limited) 2008': '55', 'Yearly Opening Weekends 2008': '206', 'Yearly PG-13 Rated 2008': '96', 'Yearly 2008': '214'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fled'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fled.htm"},
+					"ReleaseDate": {"S":"b'July 19, 1996'"},
+					"Genre": {"S":"b'Action Comedy'"},
+					"Distributor": {"S":"b'MGM'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$17,193,231'"},
+					"Runtime": {"S":"b'1 hrs. 38 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Stephen Baldwin, Laurence Fishburne'"},
+					"Composer": {"S":"b'Graeme Revell'"},
+					"Director": {"S":"b'Kevin Hooks'"},
+					"Domestic": {"S":"b'$17,193,231'"},
+					"WidestRelease": {"S":"b'2,104 theaters'"},
+					"OpeningWeekend": {"S":"b'$5,405,855'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Action - Buddy Comedy': '65'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Wide) 1996': '94', 'All Time Domestic': '3,519', 'Yearly Opening Weekends 1996': '86', 'Yearly Opening Weekends (Wide) 1996': '88', 'Highest All Time Rank (on August 16, 1996)': '1229', 'Yearly R Rated 1996': '39', 'Smallest Drops, All Wide Releases': '2,165', 'Opening Weeks Adjusted': '2,483', 'Opening Weekends': '2,902', 'Worst Openings - Very Wide': '198', 'Smallest Drops, 2,000+ theaters (Very Wide)': '894', 'Opening Weeks': '2,786', 'Yearly 1996': '94', 'Opening Weekends Adjusted': '2,633'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flesh and Blood'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fleshandblood.htm"},
+					"ReleaseDate": {"S":"b'August 30, 1985'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Orion Pictures'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'2 hrs. 6 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Rutger Hauer, Jennifer Jason Leigh'"},
+					"Director": {"S":"b'Paul Verhoeven'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Medieval Times': '34'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flesh and Bone'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fleshandbone.htm"},
+					"ReleaseDate": {"S":"b'November 5, 1993'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$9,709,451'"},
+					"Runtime": {"S":"b'2 hrs. 6 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Steve Kloves'"},
+					"Producer": {"S":"b'Sydney Pollack'"},
+					"Actor": {"S":"b'Gwyneth Paltrow, Dennis Quaid, Meg Ryan'"},
+					"Composer": {"S":"b'Thomas Newman'"},
+					"Domestic": {"S":"b'$9,709,451'"},
+					"WidestRelease": {"S":"b'1,200 theaters'"},
+					"OpeningWeekend": {"S":"b'$4,517,066'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Off-Screen Couples On-Screen': '38'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '2,926', 'Yearly Opening Weekends 1993': '69', 'All Time Domestic': '4,507', 'Yearly 1993': '113', 'Yearly R Rated 1993': '45', 'Opening Weekends Adjusted': '2,868', 'Smallest Drops, All Wide Releases': '3,821', 'Yearly (Wide) 1993': '103', 'Opening Weekends': '3,206', 'Yearly Opening Weekends (Wide) 1993': '75', 'Highest All Time Rank (on November 30, 1993)': '1405', 'Opening Weeks': '3,283'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flesh and the Devil'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fleshandthedevil.htm"},
+					"ReleaseDate": {"S":"b'December 25, 1926'"},
+					"Genre": {"S":"b'Romance'"},
+					"Distributor": {"S":"b'MGM'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 53 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Writer": {"S":"b'Benjamin Glazer, Marian Ainslee'"},
+					"Cinematographer": {"S":"b'William Daniels'"},
+					"Actor": {"S":"b'John Gilbert, Greta Garbo, Lars Hanson, Barbara Kent'"},
+					"Director": {"S":"b'Clarence Brown'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fletch'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fletch.htm"},
+					"ReleaseDate": {"S":"b'May 31, 1985'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$50,612,888'"},
+					"Runtime": {"S":"b'1 hrs. 38 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Chevy Chase'"},
+					"Domestic": {"S":"b'$50,612,888'"},
+					"Worldwide": {"S":"b'$59,612,888'"},
+					"Foreign": {"S":"b'$9,000,000'"},
+					"WidestRelease": {"S":"b'1,303 theaters'"},
+					"OpeningWeekend": {"S":"b'$7,022,970'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'News/Broadcasting': '10'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Wide) 1985': '12', 'Yearly Opening Weekends (Wide) 1985': '16', 'Opening Weeks Adjusted': '1,573', 'Opening Weekends - May': '178', 'Highest All Time Rank (on August 6, 1985)': '135', 'Opening Weekends Adjusted': '1,684', 'Smallest Drops, All Wide Releases': '350', 'Yearly PG Rated 1985': '7', 'Opening Weekends Adjusted - May': '152', 'Opening Weekends': '2,453', 'Yearly Opening Weekends 1985': '16', BOM Users' Grades (1985 Releases): '22', 'Opening Weeks': '2,380', 'Yearly 1985': '12', 'All Time Domestic': '1,562'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fletch Lives'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fletchlives.htm"},
+					"ReleaseDate": {"S":"b'March 17, 1989'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$35,150,960'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Chevy Chase'"},
+					"Domestic": {"S":"b'$35,150,960'"},
+					"Worldwide": {"S":"b'$39,450,960'"},
+					"Foreign": {"S":"b'$4,300,000'"},
+					"WidestRelease": {"S":"b'1,512 theaters'"},
+					"OpeningWeekend": {"S":"b'$8,045,760'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'News/Broadcasting': '16', 'Comedy - Sequel (Live Action)': '74'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{BOM Users' Grades (1989 Releases): '59', 'Yearly Opening Weekends (Wide) 1989': '25', 'Smallest Drops, All Wide Releases': '1,056', 'Opening Weeks': '2,193', 'Opening Weekends - March': '189', 'Yearly 1989': '35', 'Highest All Time Rank (on May 9, 1989)': '340', 'Opening Weekends Adjusted': '1,641', 'Yearly Opening Weekends 1989': '24', 'Fewest Theaters to Debut at #1': '123', 'Opening Weeks Adjusted': '1,577', 'Opening Weekends': '2,238', 'Worldwide Yearly 1989': '24', 'Yearly PG Rated 1989': '15', 'Consecutive Weekends At #1': '390', 'Most Weekends at #1 (non-consecutive)': '390', 'Opening Weekends Adjusted - March': '141', 'Yearly (Wide) 1989': '34', 'All Time Domestic': '2,207'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fleur Bleue (Apprentice)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fleurbleue.htm"},
+					"ReleaseDate": {"S":"b'1971'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Ambassador Film'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Actor": {"S":"b'Susan Sarandon'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flex is Kings'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flexiskings.htm"},
+					"ReleaseDate": {"S":"b'April 4, 2014'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'Baxter Bros.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$5,418'"},
+					"Runtime": {"S":"b'1 hrs. 23 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$5,418'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"CloseDate": {"S":"b'April 6, 2014'"},
+					"OpeningWeekend": {"S":"b'$3,152'"},
+					"InRelease": {"S":"b'3 days / 0.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '1318'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '13,897'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flicka'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flicka.htm"},
+					"ReleaseDate": {"S":"b'October 20, 2006'"},
+					"Genre": {"S":"b'Family'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'$15 million'"},
+					"DomesticTotalGross": {"S":"b'$21,000,147'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Alison Lohman, Maria Bello, Armie Hammer*'"},
+					"Composer": {"S":"b'Aaron Zigman'"},
+					"Domestic": {"S":"b'$21,000,147'"},
+					"Worldwide": {"S":"b'$21,893,591'"},
+					"Foreign": {"S":"b'$893,444'"},
+					"WidestRelease": {"S":"b'2,877 theaters'"},
+					"CloseDate": {"S":"b'February 8, 2007'"},
+					"OpeningWeekend": {"S":"b'$7,703,551'"},
+					"InRelease": {"S":"b'112 days / 16 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Family - Remake': '25', 'Family - Animal (Live action)': '24', 'Horse': '11'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2006': '115', 'Opening Weekends - October': '178', 'Yearly Opening Weekends 2006': '105', 'Worldwide Yearly 2006': '151', 'All Time Domestic': '3,149', 'Opening Weeks Adjusted': '2,963', 'Worst Openings - Saturated Adjusted': '186', 'Yearly Opening Weekends (Wide) 2006': '107', 'Opening Weekends Adjusted': '2,715', 'Smallest Drops, All Wide Releases': '1,775', 'Worst Openings - Saturated': '150', 'Smallest Drops, 2,500+ theaters (Saturation)': '452', 'Yearly (Wide) 2006': '115', BOM Users' Grades (2006 Releases): '145', 'Yearly PG Rated 2006': '26', 'Opening Weeks': '2,537', 'Smallest Drops, 2,000+ theaters (Very Wide)': '673', 'Opening Weekends': '2,315'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Flight'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=flight.htm"},
+					"ReleaseDate": {"S":"b'November 2, 2012'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'$31 million'"},
+					"DomesticTotalGross": {"S":"b'$93,772,375'"},
+					"Runtime": {"S":"b'2 hrs. 19 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'John Gatins'"},
+					"Actor": {"S":"b'Denzel Washington, John Goodman, Don Cheadle, Melissa Leo, Bruce Greenwood'"},
+					"Composer": {"S":"b'Alan Silvestri'"},
+					"Director": {"S":"b'Robert Zemeckis'"},
+					"Domestic": {"S":"b'$93,772,375'"},
+					"Worldwide": {"S":"b'$161,772,375'"},
+					"Foreign": {"S":"b'$68,000,000'"},
+					"WidestRelease": {"S":"b'2,638 theaters'"},
+					"CloseDate": {"S":"b'February 14, 2013'"},
+					"OpeningWeekend": {"S":"b'$24,900,566'"},
+					"InRelease": {"S":"b'105 days / 15 weeks'"},
+					"Awards": {"S":"Nominated for Two Oscars."},
+					"GenreRank": {"S":"{'Pilot / Aircraft': '7'}"},
+					"Franchise": {"S":"{'Showdown: Denzel in November': '2'}"},
+					"Chart": {"S":"{'Rated R, Opening Weekends': '145', 'Opening Weeks': '675', 'Opening Weeks Adjusted': '999', 'All Time Domestic': '708', 'Thanksgiving 5-day Weekends': '133', 'Post-Thanksgiving Weekend - Best Holds': '121', 'Smallest Drops, All Wide Releases': '1,959', 'Opening Weekends Adjusted - Holiday': '188', 'Opening Weekends - November': '85', 'Opening Weekends Not At #1': '144', 'Opening Weekends': '629', 'Thanksgiving 5-day Weekends Adjusted': '150', 'Opening Weekends - Holiday': '132', 'Rated R': '166', 'Opening Weekends Adjusted - November': '119', 'Opening Weekends Adjusted': '937'}"}
+				}
+			}
+		}
+	]
+}

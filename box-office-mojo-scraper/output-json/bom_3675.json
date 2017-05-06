@@ -1,0 +1,649 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Divine Madness'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=divinemadness.htm"},
+					"Genre": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'September 26, 1980'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"DomesticTotalGross": {"S":"b'$5,318,098'"},
+					"Runtime": {"S":"b'1 hrs. 26 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$5,318,098'"},
+					"\t\tOpeningWeekend": {"S":"b'$769,787'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Stand-Up Comedy Concert': '10'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '5,321', 'Yearly 1980': '81'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Divine Secrets of the Ya-Ya Sisterhood'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=yaya.htm"},
+					"Genre": {"S":"b'Comedy / Drama'"},
+					"ProductionBudget": {"S":"b'$27 million'"},
+					"ReleaseDate": {"S":"b'June 7, 2002'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"DomesticTotalGross": {"S":"b'$69,599,016'"},
+					"Runtime": {"S":"b'1 hrs. 56 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Callie Khouri'"},
+					"Actor": {"S":"b'Sandra Bullock, Ashley Judd, James Garner'"},
+					"Producer": {"S":"b'Hunt Lowry, Lisa Stewart'"},
+					"Director": {"S":"b'Callie Khouri'"},
+					"Foreign": {"S":"b'$4,240,224'"},
+					"Domestic": {"S":"b'$69,599,016'"},
+					"Worldwide": {"S":"b'$73,839,240'"},
+					"InRelease": {"S":"b'126 days / 18 weeks'"},
+					"OpeningWeekend": {"S":"b'$16,167,412'"},
+					"CloseDate": {"S":"b'October 10, 2002'"},
+					"WidestRelease": {"S":"b'2,792 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"{Showdown: Tussling 'Pants': '1'}"},
+					"Chart": {"S":"{'Worldwide Yearly 2002': '62', 'Yearly 2002': '40', 'Opening Weeks Adjusted': '908', 'Opening Weekends Adjusted': '1,096', 'Yearly PG-13 Rated 2002': '21', 'Yearly Opening Weekends (Wide) 2002': '41', 'Opening Weekends Adjusted - June': '163', 'Yearly Opening Weekends 2002': '39', 'Opening Weekends': '1,135', 'Highest All Time Rank (on September 24, 2002)': '439', 'Smallest Drops, 2,500+ theaters (Saturation)': '720', 'Yearly (Wide) 2002': '40', 'All Time Domestic': '1,074', 'Smallest Drops, All Wide Releases': '2,424', 'Opening Weeks': '974', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,038', BOM Users' Grades (2002 Releases): '127', 'Opening Weekends - June': '150'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Django (2012 re-release)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=django2012.htm"},
+					"DomesticTotalasofFeb.7,2013": {"S":"b'$25,916'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'December 21, 2012'"},
+					"Distributor": {"S":"b'Rialto'"},
+					"Runtime": {"S":"b'1 hrs. 31 min.'"},
+					"Genre": {"S":"b'Foreign'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$25,916'"},
+					"InRelease": {"S":"b'49 days / 7 weeks'"},
+					"OpeningWeekend": {"S":"b'$6,150'"},
+					"WidestRelease": {"S":"b'10 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '12,186'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Django Unchained'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=djangounchained.htm"},
+					"Genre": {"S":"b'Western'"},
+					"ProductionBudget": {"S":"b'$100 million'"},
+					"ReleaseDate": {"S":"b'December 25, 2012'"},
+					"Distributor": {"S":"b'Weinstein Company'"},
+					"DomesticTotalGross": {"S":"b'$162,805,434'"},
+					"Runtime": {"S":"b'2 hrs. 45 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Quentin Tarantino'"},
+					"Actor": {"S":"b'Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington, Samuel L. Jackson, Don Johnson, Dennis Christopher, Walton Goggins*, James Remar*, Jonah Hill*'"},
+					"Producer": {"S":"b'Michael Shamberg, Stacey Sher'"},
+					"Director": {"S":"b'Quentin Tarantino'"},
+					"Foreign": {"S":"b'$262,562,804'"},
+					"Domestic": {"S":"b'$162,805,434'"},
+					"Worldwide": {"S":"b'$425,368,238'"},
+					"InRelease": {"S":"b'143 days / 20.4 weeks'"},
+					"OpeningWeekend": {"S":"b'$30,122,888'"},
+					"CloseDate": {"S":"b'May 16, 2013'"},
+					"WidestRelease": {"S":"b'3,012 theaters'"},
+					"Awards": {"S":"Nominated for Five Oscars, Including Two Wins."},
+					"GenreRank": {"S":"{'Controversy': '4', 'Revenge': '5', 'Western': '4'}"},
+					"Franchise": {"S":"{Showdown: 'Inglourious Basterds' Vs. 'Django Unchained': '1', 'Showdown: Biggest Christmas Day Openers': '2', Showdown: 'Magnificent Seven' Rides Against 'Django', 'Grit' and 'Ranger': '2', Showdown: 'True Grit' Vs. 'Django': '2', 'Showdown: R-Rated Revenge Epics': '3', Showdown: 'Django Unchained' Vs. 'Les Miserables': '1', 'Showdown: DiCaprio in December': '2', Showdown: DiCaprio's Top Openers: '3'}"},
+					"Chart": {"S":"{'Smallest Drops, 3,000+ theaters (Super-Saturation)': '140', 'Opening Weeks Adjusted': '470', 'Non-Friday Opening Weekends': '68', 'Martin Lurther King 4-Day Holiday Weekends': '131', 'Widest R Rated Releases': '199', 'Single Day Tuesday Gross': '23', 'Single Day Thursday Gross': '128', 'All Time Domestic': '274', 'Non-Opening Tuesday Gross Adjusted': '115', 'Opening Weekends Not At #1': '79', 'Worldwide Openings': '109', 'Widest Opening Releases': '878', 'Rated R, Opening Weekends Adjusted': '164', 'Non-Opening Wednesday Gross': '47', 'Opening Weekends - Holiday': '96', 'Opening Weekends Adjusted - Holiday': '148', 'Non-Friday Opening Weekends Adjusted': '95', 'Single Day Thursday Gross Adjusted': '176', 'Highest All Time Rank (on March 17, 2013)': '209', 'Widest Releases': '931', 'Movies That Never Hit #1': '19', 'Smallest Drops, All Wide Releases': '1,345', 'Non-Opening Tuesday Gross': '76', 'Single Day Tuesday Gross Adjusted': '32', 'Smallest Drops, 2,000+ theaters (Very Wide)': '460', 'Foreign Opening Weekends': '114', 'Single Day Wednesday Gross Adjusted': '118', 'Christmas Days': '10', 'Rated R Adjusted': '124', 'Opening Tuesdays': '4', 'Opening Weekends': '475', 'Widest Independent Releases': '46', 'Fastest to $150 million': '231', 'Opening Weekends Not At #1 Adjusted': '131', 'Best Picture Nomination Effect': '77', 'Non-Opening Thursday Gross': '108', 'Smallest Drops, 2,500+ theaters (Saturation)': '301', 'All Time Worldwide': '219', 'Movies That Never #1 Adjusted': '70', 'Non-Opening Wednesday Gross Adjusted': '69', 'Fastest to $100 million': '215', 'Single Day Wednesday Gross': '81', 'Slowest to $100 million': '420', 'Non-Opening Thursday Gross Adjusted': '154', 'Opening Weekends Adjusted - December': '55', 'Rated R, Opening Weekends': '94', 'Widest R Rated Openings': '183', 'Widest Opening Independent Releases': '43', 'Christmas Day Openers': '6', 'Opening Weekends - December': '32', 'Rated R': '27', 'Opening Weeks': '324', 'Opening Weekends Adjusted': '688'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Do I Sound Gay?'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=doisoundgay.htm"},
+					"Genre": {"S":"b'Documentary'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'July 10, 2015'"},
+					"Distributor": {"S":"b'IFC'"},
+					"DomesticTotalGross": {"S":"b'$119,388'"},
+					"Runtime": {"S":"b'1 hrs. 17 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Actor": {"S":"b'George Takei'"},
+					"Foreign": {"S":"b'n/a'"},
+					"Domestic": {"S":"b'$119,388'"},
+					"Worldwide": {"S":"b'$119,388'"},
+					"OpeningWeekend": {"S":"b'$10,461'"},
+					"CloseDate": {"S":"b'August 20, 2015'"},
+					"WidestRelease": {"S":"b'18 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '539'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '10,122'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Do Knot Disturb'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=doknotdisturb.htm"},
+					"Genre": {"S":"b'Foreign'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'October 2, 2009'"},
+					"Distributor": {"S":"b'AdLabs'"},
+					"DomesticTotalGross": {"S":"b'$213,525'"},
+					"Runtime": {"S":"b'2 hrs. 6 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Foreign": {"S":"b'$22,452'"},
+					"Domestic": {"S":"b'$213,525'"},
+					"Worldwide": {"S":"b'$235,977'"},
+					"InRelease": {"S":"b'14 days / 2 weeks'"},
+					"OpeningWeekend": {"S":"b'$124,691'"},
+					"CloseDate": {"S":"b'October 11, 2009'"},
+					"WidestRelease": {"S":"b'57 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '884'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2009': '276', 'Yearly Opening Weekends 2009': '202', 'All Time Domestic': '9,340', 'Yearly Opening Weekends (Limited) 2009': '63', 'Worldwide Yearly 2009': '306', 'Yearly (Limited) 2009': '124', 'Yearly Unrated Movies 2009': '35'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Do Not Disturb'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=donotdisturb.htm"},
+					"Genre": {"S":"b'Comedy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'December 22, 1965'"},
+					"Distributor": {"S":"b'Fox'"},
+					"Runtime": {"S":"b'1 hrs. 42 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Cinematographer": {"S":"b'Leon Shamroy'"},
+					"Composer": {"S":"b'Lionel Newman'"},
+					"Producer": {"S":"b'Aaron Rosenberg, Martin Melcher'"},
+					"Writer": {"S":"b'Richard L. Breen, Milt Rosen'"},
+					"Actor": {"S":"b'Doris Day, Rod Taylor, Hermione Baddeley, Sergio Fantoni, Reginald Gardiner'"},
+					"Director": {"S":"b'Ralph Levy'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Do Not Resist'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=donotresist.htm"},
+					"Genre": {"S":"b'Documentary'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'September 30, 2016'"},
+					"Distributor": {"S":"b'Vanish Films'"},
+					"Runtime": {"S":"b'1 hrs. 12 min.'"},
+					"DomesticTotalasofFeb.2,2017": {"S":"b'$72,791'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$72,791'"},
+					"InRelease": {"S":"b'91 days / 13 weeks'"},
+					"OpeningWeekend": {"S":"b'$7,150'"},
+					"WidestRelease": {"S":"b'8 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '667'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Top Movies in the Past 365 Days': '402', 'All Time Domestic': '10,767'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Do You Believe?'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=doyoubelieve.htm"},
+					"Genre": {"S":"b'Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'March 20, 2015'"},
+					"Distributor": {"S":"b'Pure Flix'"},
+					"DomesticTotalGross": {"S":"b'$12,985,600'"},
+					"Runtime": {"S":"b'2 hrs. 0 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Sean Astin, Delroy Lindo, Mira Sorvino'"},
+					"Foreign": {"S":"b'n/a'"},
+					"Domestic": {"S":"b'$12,985,600'"},
+					"Worldwide": {"S":"b'$12,985,600'"},
+					"InRelease": {"S":"b'98 days / 14 weeks'"},
+					"OpeningWeekend": {"S":"b'$3,591,282'"},
+					"CloseDate": {"S":"b'June 25, 2015'"},
+					"WidestRelease": {"S":"b'1,356 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Christian': '23'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '4,195', 'Opening Weekends': '3,591', 'All Time Domestic': '4,040', 'Smallest Drops, All Wide Releases': '1,516', 'Opening Weeks': '3,561', 'Opening Weekends Adjusted': '4,244'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Do You Wanna Dance?'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=doyouwannadance.htm"},
+					"Genre": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'April 16, 1999'"},
+					"Distributor": {"S":"b'Ellinas Prods.'"},
+					"DomesticTotalGross": {"S":"b'$3,210'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$3,210'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"OpeningWeekend": {"S":"b'$1,723'"},
+					"CloseDate": {"S":"b'April 22, 1999'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Dance': '97'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 1999': '349', 'Yearly 1999': '371', 'Yearly Opening Weekends (Limited) 1999': '217', 'All Time Domestic': '14,236', 'Highest All Time Rank (on April 22, 1999)': '4430', 'Yearly (Limited) 1999': '218'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Do the Right Thing'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dotherightthing.htm"},
+					"Genre": {"S":"b'Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'June 30, 1989'"},
+					"Distributor": {"S":"b'Universal'"},
+					"DomesticTotalGross": {"S":"b'$27,545,445'"},
+					"Runtime": {"S":"b'2 hrs. 0 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Samuel L. Jackson*, Martin Lawrence*'"},
+					"Director": {"S":"b'Spike Lee'"},
+					"Foreign": {"S":"b'$9,750,000'"},
+					"Domestic": {"S":"b'$27,545,445'"},
+					"Worldwide": {"S":"b'$37,295,445'"},
+					"OpeningWeekend": {"S":"b'$3,563,535'"},
+					"WidestRelease": {"S":"b'534 theaters'"},
+					"Awards": {"S":"Nominated for Two Oscars."},
+					"GenreRank": {"S":"{'Drama - Summer': '79'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1989': '43', 'Yearly (Limited) 1989': '1', 'Worldwide Yearly 1989': '26', 'Opening Weekends (Limited Release)': '33', BOM Users' Grades (1989 Releases): '23', 'Yearly Opening Weekends 1989': '60', 'All Time Domestic': '2,651', 'Yearly Opening Weekends (Limited) 1989': '2', 'Top Ranking Limited Release Debuts': '87', 'Highest All Time Rank (on August 22, 1989)': '450', 'Yearly R Rated 1989': '13', 'Movies That Never Hit the Top 5 Adjusted': '54'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Doc Hollywood'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dochollywood.htm"},
+					"Genre": {"S":"b'Romantic Comedy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'August 2, 1991'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"DomesticTotalGross": {"S":"b'$54,830,779'"},
+					"Runtime": {"S":"b'1 hrs. 44 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Cinematographer": {"S":"b'Michael Chapman'"},
+					"Composer": {"S":"b'Carter Burwell'"},
+					"Actor": {"S":"b'Michael J. Fox, Woody Harrelson'"},
+					"Director": {"S":"b''"},
+					"Domestic": {"S":"b'$54,830,779'"},
+					"OpeningWeekend": {"S":"b'$7,251,854'"},
+					"WidestRelease": {"S":"b'1,694 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Romantic Comedy': '74'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Wide) 1991': '23', 'Opening Weeks Adjusted': '1,666', 'Opening Weeks': '2,169', 'Opening Weekends Adjusted - August': '166', 'Opening Weekends': '2,395', 'Yearly PG-13 Rated 1991': '7', 'Highest All Time Rank (on October 15, 1991)': '223', 'Yearly Opening Weekends (Wide) 1991': '31', 'Yearly Opening Weekends 1991': '29', 'All Time Domestic': '1,417', 'Yearly 1991': '24', 'Smallest Drops, All Wide Releases': '431', BOM Users' Grades (1991 Releases): '45', 'Opening Weekends Adjusted': '1,947'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Doctor Benny'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=doctorbenny.htm"},
+					"Genre": {"S":"b'Unknown'"},
+					"DomesticTotalasofMay.4,2003": {"S":"b'$3,657'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'May 2, 2003'"},
+					"Distributor": {"S":"b'Outrider'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$3,657'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"OpeningWeekend": {"S":"b'$3,657'"},
+					"CloseDate": {"S":"b'May 4, 2003'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 2003': '442', 'Yearly (Limited) 2003': '342', 'All Time Domestic': '14,159', 'Yearly Opening Weekends (Limited) 2003': '313', 'Yearly Unrated Movies 2003': '158', 'Yearly 2003': '488', 'Highest All Time Rank (on May 4, 2003)': '5969'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Doctor Detroit'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=doctordetroit.htm"},
+					"Genre": {"S":"b'Comedy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'May 6, 1983'"},
+					"Distributor": {"S":"b'Universal'"},
+					"DomesticTotalGross": {"S":"b'$10,375,893'"},
+					"Runtime": {"S":"b'1 hrs. 31 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Robert K. Weiss'"},
+					"Domestic": {"S":"b'$10,375,893'"},
+					"InRelease": {"S":"b'28 days / 4 weeks'"},
+					"OpeningWeekend": {"S":"b'$3,295,722'"},
+					"WidestRelease": {"S":"b'1,343 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '2,929', 'Yearly Opening Weekends (Wide) 1983': '42', 'Yearly (Wide) 1983': '56', 'Opening Weekends': '3,726', 'Yearly 1983': '68', 'Highest All Time Rank (on May 30, 1983)': '447', 'Opening Weeks': '3,697', 'Yearly Opening Weekends 1983': '41', 'All Time Domestic': '4,402', 'Smallest Drops, All Wide Releases': '866', 'Yearly R Rated 1983': '36', 'Opening Weekends Adjusted': '2,959'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Doctor Dolittle'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=drdolittle.htm"},
+					"Genre": {"S":"b'Family Comedy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'June 26, 1998'"},
+					"Distributor": {"S":"b'Fox'"},
+					"DomesticTotalGross": {"S":"b'$144,156,605'"},
+					"Runtime": {"S":"b'1 hrs. 25 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Eddie Murphy, Chris Rock*, Albert Brooks*, Ellen DeGeneres*, John Leguizamo*'"},
+					"Producer": {"S":"b'John Davis'"},
+					"Director": {"S":"b'Betty Thomas'"},
+					"Foreign": {"S":"b'$150,300,000'"},
+					"Domestic": {"S":"b'$144,156,605'"},
+					"Worldwide": {"S":"b'$294,456,605'"},
+					"OpeningWeekend": {"S":"b'$29,014,324'"},
+					"WidestRelease": {"S":"b'2,871 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Family - Remake': '4', 'Family - Talking Animal (Live action)': '5', 'Comedy Remake': '2'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '249', 'Opening Weekends': '516', 'Rated PG-13, Opening Weekends Adjusted': '181', 'Yearly PG-13 Rated 1998': '3', 'Third Weekends Adjusted': '181', 'Smallest Drops, 2,500+ theaters (Saturation)': '264', BOM Users' Grades: '525', 'Worldwide Yearly 1998': '8', 'All Time Domestic': '341', 'Independence Day Weekends': '50', 'Fifth Weekends Adjusted': '127', 'All Time Worldwide': '414', 'Rated PG-13 Adjusted': '105', 'Yearly Opening Weekends 1998': '10', 'Opening Weekends - June': '82', 'Fourth Weekends Adjusted': '155', 'Rated PG-13': '177', 'Slowest to $100 million': '260', 'Highest All Time Rank (on September 19, 1998)': '65', 'Opening Weekends Adjusted - June': '52', 'Opening Weekends Adjusted - Summer': '182', 'Yearly 1998': '6', 'Yearly Opening Weekends (Wide) 1998': '11', BOM Users' Grades (1998 Releases): '67', 'Yearly (Wide) 1998': '6', 'Smallest Drops, All Wide Releases': '1,240', 'Opening Weeks': '435', 'Smallest Drops, 2,000+ theaters (Very Wide)': '409', 'Opening Weekends Adjusted': '303'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Doctor Strange'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=marvel716.htm"},
+					"Genre": {"S":"b'Action / Adventure'"},
+					"ProductionBudget": {"S":"b'$165 million'"},
+					"ReleaseDate": {"S":"b'November 4, 2016'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"DomesticTotalGross": {"S":"b'$232,641,920'"},
+					"Runtime": {"S":"b'1 hrs. 55 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Composer": {"S":"b'Michael Giacchino'"},
+					"Writer": {"S":"b'Jon Spaihts, Scott Derrickson, C. Robert Cargill'"},
+					"Actor": {"S":"b'Benedict Cumberbatch, Tilda Swinton, Chiwetel Ejiofor, Rachel McAdams, Michael Stuhlbarg, Mads Mikkelsen'"},
+					"Producer": {"S":"b'Kevin Feige'"},
+					"Director": {"S":"b'Scott Derrickson'"},
+					"Foreign": {"S":"b'$444,919,741'"},
+					"Domestic": {"S":"b'$232,641,920'"},
+					"Worldwide": {"S":"b'$677,561,661'"},
+					"InRelease": {"S":"b'133 days / 19 weeks'"},
+					"OpeningWeekend": {"S":"b'$85,058,311'"},
+					"CloseDate": {"S":"b'March 16, 2017'"},
+					"WidestRelease": {"S":"b'3,882 theaters'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"{'3D': '45', 'Superhero - Origin': '9', 'Superhero': '23', 'Fantasy - Live Action': '20', 'IMAX (Feature-length)': '56', 'Comic Book Adaptation': '23'}"},
+					"Franchise": {"S":"{'Showdown: MCU Single Character Intros': '2', 'Brand: Marvel Comics': '16', 'Showdown: 2016 Superhero Openers': '5', 'Showdown: 2016 Superhero Showdown': '5', 'Series: Marvel Cinematic Universe': '9'}"},
+					"Chart": {"S":"{'Smallest Drops, 3,000+ theaters (Super-Saturation)': '479', 'Consecutive Weekends At #1': '245', 'Top 3-Day Grosses': '71', 'Highest All Time Rank (on December 29, 2016)': '125', 'Top 9-Day Grosses': '70', 'Fastest to $200 million': '88', 'Top 8-Day Grosses': '74', 'Smallest Drops, 2,500+ theaters (Saturation)': '957', 'Single Day Saturday Gross Adjusted': '137', 'Fastest to $100 million': '79', 'Second Weekends': '62', 'All Time Domestic': '128', 'Rated PG-13, Opening Weekends Adjusted': '82', 'Theater Averages - Wide Opening Weekends': '74', 'Worldwide Openings': '67', 'Rated PG-13 Adjusted': '142', 'Widest Opening Releases': '125', 'Most Weekends at #1 (non-consecutive)': '248', 'Third Weekends': '159', 'Opening Weekends - Holiday': '15', 'Opening Weekends Adjusted - Holiday': '26', 'Thanksgiving 3-day Weekends Adjusted': '143', 'Thanksgiving 5-day Weekends': '78', 'Widest Releases': '135', 'Single Day Saturday Gross': '71', 'Widest PG-13 Rated Releases': '73', 'Thanksgiving 3-day Weekends': '85', 'Slowest to $200 million': '85', 'Second Weekends Adjusted': '139', 'Smallest Drops, All Wide Releases': '2,922', 'Fourth Weekends': '99', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,358', 'Widest PG-13 Rated Openings': '69', 'Opening Day Gross': '65', 'Slowest to $100 million': '556', 'Opening Weekends': '67', 'Opening Weekends Adjusted - November': '18', 'Top 6-Day Grosses': '79', 'Fastest to $150 million': '72', 'Rated PG-13, Opening Weekends': '48', 'Top Movies in the Past 365 Days': '11', 'Single Day Friday Gross Adjusted': '96', 'All Time Worldwide': '94', 'Top 7-Day Grosses': '78', 'Thanksgiving 5-day Weekends Adjusted': '107', 'Single Day Sunday Gross': '99', 'Top 10-Day Grosses': '72', 'Theater Averages (Wide Releases) - All Time': '77', 'Rated PG-13': '73', 'Top 4-Day Grosses': '79', 'Top 5-Day Grosses': '78', 'Opening Weeks Adjusted': '141', 'Opening Weekends - November': '13', 'Single Day Friday Gross': '59', 'Single Day Gross': '159', 'Foreign Opening Weekends': '59', 'Post-Thanksgiving Weekend - Best Holds': '187', 'Opening Weeks': '73', 'Opening Weekends Adjusted': '118'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Doctor Zhivago'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=doctorzhivago.htm"},
+					"Genre": {"S":"b'Romance'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'December 22, 1965'"},
+					"Distributor": {"S":"b'MGM'"},
+					"DomesticTotalGross": {"S":"b'$111,721,910'"},
+					"Runtime": {"S":"b'3 hrs. 17 min.'"},
+					"MPAARating": {"S":"b'GP'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$111,721,910'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '549', 'All Time Adjusted': '8'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Documented'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=documented.htm"},
+					"Genre": {"S":"b'Documentary'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'May 2, 2014'"},
+					"Distributor": {"S":"b'Define American'"},
+					"DomesticTotalGross": {"S":"b'$30,662'"},
+					"Runtime": {"S":"b'1 hrs. 31 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$30,662'"},
+					"InRelease": {"S":"b'56 days / 8 weeks'"},
+					"OpeningWeekend": {"S":"b'$5,422'"},
+					"CloseDate": {"S":"b'June 26, 2014'"},
+					"WidestRelease": {"S":"b'3 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '915'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '11,954'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Dodge City'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dodgecity.htm"},
+					"Genre": {"S":"b'Western'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'April 1, 1939'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Composer": {"S":"b'Max Steiner'"},
+					"Writer": {"S":"b'Robert Buckner'"},
+					"Actor": {"S":"b'Errol Flynn, Olivia de Havilland, Ann Sheridan, Bruce Cabot, Frank McHugh, Alan Hale, John Litel, Henry Travers, Victor Jory, William Lundigan'"},
+					"Director": {"S":"b'Michael Curtiz'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'DodgeBall: A True Underdog Story'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dodgeball.htm"},
+					"Genre": {"S":"b'Sports Comedy'"},
+					"ProductionBudget": {"S":"b'$20 million'"},
+					"ReleaseDate": {"S":"b'June 18, 2004'"},
+					"Distributor": {"S":"b'Fox'"},
+					"DomesticTotalGross": {"S":"b'$114,326,736'"},
+					"Runtime": {"S":"b'1 hrs. 37 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Composer": {"S":"b'Theodore Shapiro'"},
+					"Writer": {"S":"b'Rawson Marshall Thurber'"},
+					"Actor": {"S":"b'Vince Vaughn, Ben Stiller, Christine Taylor, Justin Long, Joel David Moore, Jason Bateman*'"},
+					"Producer": {"S":"b'Ben Stiller'"},
+					"Director": {"S":"b'Rawson Marshall Thurber'"},
+					"Foreign": {"S":"b'$53,395,574'"},
+					"Domestic": {"S":"b'$114,326,736'"},
+					"Worldwide": {"S":"b'$167,722,310'"},
+					"InRelease": {"S":"b'140 days / 20 weeks'"},
+					"OpeningWeekend": {"S":"b'$30,070,196'"},
+					"CloseDate": {"S":"b'November 4, 2004'"},
+					"WidestRelease": {"S":"b'3,020 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - Fat Suit': '10', 'Sports Comedy': '5'}"},
+					"Franchise": {"S":"{'Showdown: Ben Stiller 2004': '1'}"},
+					"Chart": {"S":"{'Yearly Opening Weekends 2004': '20', 'Opening Weeks Adjusted': '365', 'Opening Weekends': '479', BOM Users' Grades (2004 Releases): '60', 'Yearly 2004': '19', 'Highest All Time Rank (on September 10, 2004)': '228', 'Smallest Drops, 2,500+ theaters (Saturation)': '408', 'Worldwide Yearly 2004': '34', 'All Time Domestic': '528', 'Independence Day Weekends': '132', 'Yearly PG-13 Rated 2004': '9', 'Opening Weekends - June': '76', 'Slowest to $100 million': '232', BOM Users' Grades: '404', 'Opening Weekends Adjusted - June': '82', 'Yearly Opening Weekends (Wide) 2004': '20', 'Widest Releases': '901', 'Yearly (Wide) 2004': '19', 'Smallest Drops, All Wide Releases': '1,661', 'Opening Weeks': '381', 'Smallest Drops, 2,000+ theaters (Very Wide)': '612', 'Opening Weekends Adjusted': '444'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Dog Day Afternoon'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dogdayafternoon.htm"},
+					"Genre": {"S":"b'Crime Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'September 21, 1975'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"DomesticTotalGross": {"S":"b'$50,000,000'"},
+					"Runtime": {"S":"b'2 hrs. 4 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Lance Henriksen*, Al Pacino'"},
+					"Domestic": {"S":"b'$50,000,000'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on January 1, 1982)': '85', 'Rated R Adjusted': '82', 'All Time Domestic': '1,588'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Dog Days'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dogdays.htm"},
+					"DomesticTotalasofSep.1,2003": {"S":"b'$13,031'"},
+					"Genre": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'August 22, 2003'"},
+					"Distributor": {"S":"b'Leisure Time'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Foreign": {"S":"b'n/a'"},
+					"Domestic": {"S":"b'$13,031'"},
+					"Worldwide": {"S":"b'$13,031'"},
+					"InRelease": {"S":"b'11 days / 1.6 weeks'"},
+					"OpeningWeekend": {"S":"b'$6,267'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 2003': '405', 'Yearly (Limited) 2003': '302', 'Highest All Time Rank (on September 1, 2003)': '5968', 'All Time Domestic': '13,045', 'Worldwide Yearly 2003': '325', 'Yearly Opening Weekends (Limited) 2003': '276', 'Yearly Unrated Movies 2003': '130', 'Yearly 2003': '448'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Dog Days of Summer'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dogdaysofsummer.htm"},
+					"Genre": {"S":"b'Drama / Thriller'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'April 18, 2008'"},
+					"Distributor": {"S":"b'Mountain Top Releasing'"},
+					"DomesticTotalGross": {"S":"b'$5,383'"},
+					"Runtime": {"S":"b'1 hrs. 29 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Writer": {"S":"b'Travis Beachem'"},
+					"Actor": {"S":"b'Will Patton'"},
+					"Domestic": {"S":"b'$5,383'"},
+					"InRelease": {"S":"b'14 days / 2 weeks'"},
+					"OpeningWeekend": {"S":"b'$2,973'"},
+					"CloseDate": {"S":"b'April 27, 2008'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '13,902', 'Yearly (Limited) 2008': '384', 'Yearly Unrated Movies 2008': '179', 'Yearly Opening Weekends 2008': '523', 'Yearly Opening Weekends (Limited) 2008': '371', 'Yearly 2008': '557'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Dog Eat Dog'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dogeatdog.htm"},
+					"Genre": {"S":"b'Foreign'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'January 23, 2009'"},
+					"Distributor": {"S":"b'IFC'"},
+					"DomesticTotalGross": {"S":"b'$80'"},
+					"Runtime": {"S":"b'1 hrs. 49 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$80'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"OpeningWeekend": {"S":"b'$80'"},
+					"CloseDate": {"S":"b'January 25, 2009'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1996'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2009': '521', 'Yearly Opening Weekends 2009': '515', 'All Time Domestic': '14,695', 'Yearly Opening Weekends (Limited) 2009': '376', 'Yearly (Limited) 2009': '369', 'Yearly Unrated Movies 2009': '178'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"bDog Lover's Symphony"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=dogloverssymphony.htm"},
+					"Genre": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'June 16, 2006'"},
+					"Distributor": {"S":"b'Dog Lovers Symphony, Domestic Total Gross'"},
+					"Runtime": {"S":"b'1 hrs. 45 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$2,968'"},
+					"InRelease": {"S":"b'14 days / 2 weeks'"},
+					"OpeningWeekend": {"S":"b'$1,442'"},
+					"CloseDate": {"S":"b'June 25, 2006'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '14,289', 'Yearly Opening Weekends (Limited) 2006': '406', 'Yearly 2006': '581', 'Yearly (Limited) 2006': '406', 'Yearly PG Rated 2006': '61', 'Yearly Opening Weekends 2006': '564'}"}
+				}
+			}
+		}
+	]
+}

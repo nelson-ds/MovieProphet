@@ -1,0 +1,652 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kristy'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=satanic.htm"},
+					"ReleaseDate": {"S":"b'TBD'"},
+					"Genre": {"S":"b'Horror'"},
+					"Distributor": {"S":"b'Weinstein Company'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Actor": {"S":"b'Haley Bennett'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Krrish'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=krrish.htm"},
+					"ReleaseDate": {"S":"b'June 30, 2006'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'AdLabs'"},
+					"ProductionBudget": {"S":"b'$10.2 million'"},
+					"DomesticTotalGross": {"S":"b'$1,430,721'"},
+					"Runtime": {"S":"b'2 hrs. 34 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$1,430,721'"},
+					"Worldwide": {"S":"b'$18,039,685'"},
+					"Foreign": {"S":"b'$16,608,964'"},
+					"WidestRelease": {"S":"b'59 theaters'"},
+					"OpeningWeekend": {"S":"b'$370,266'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '300'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2006': '225', 'Yearly Unrated Movies 2006': '8', 'Yearly Opening Weekends 2006': '194', 'Worldwide Yearly 2006': '162', 'All Time Domestic': '6,875', 'Yearly (Limited) 2006': '50', 'Yearly Opening Weekends (Limited) 2006': '36'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Krrish 3'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=krrish3.htm"},
+					"ReleaseDate": {"S":"b'November 1, 2013'"},
+					"Genre": {"S":"b'Foreign / Action'"},
+					"Distributor": {"S":"b'Eros'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$2,191,534'"},
+					"Runtime": {"S":"b'2 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$2,191,534'"},
+					"Worldwide": {"S":"b'$2,191,534'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'208 theaters'"},
+					"CloseDate": {"S":"b'December 5, 2013'"},
+					"OpeningWeekend": {"S":"b'$1,049,560'"},
+					"InRelease": {"S":"b'35 days / 5 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '196'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '6,380'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Krull'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=krull.htm"},
+					"ReleaseDate": {"S":"b'July 29, 1983'"},
+					"Genre": {"S":"b'Fantasy'"},
+					"Distributor": {"S":"b'Columbia'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$16,519,460'"},
+					"Runtime": {"S":"b'2 hrs. 0 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Liam Neeson'"},
+					"Composer": {"S":"b'James Horner'"},
+					"Domestic": {"S":"b'$16,519,460'"},
+					"WidestRelease": {"S":"b'1,289 theaters'"},
+					"OpeningWeekend": {"S":"b'$5,469,415'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Fantasy - Live Action': '81', 'Sword and Sorcery': '19'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on August 30, 1983)': '357', 'Opening Weeks Adjusted': '1,801', 'All Time Domestic': '3,587', BOM Users' Grades (1983 Releases): '39', 'Yearly Opening Weekends 1983': '21', 'Opening Weekends Adjusted': '1,926', 'Smallest Drops, All Wide Releases': '1,890', 'Yearly Opening Weekends (Wide) 1983': '21', 'Yearly 1983': '43', 'Opening Weekends': '2,884', 'Opening Weeks': '2,766', 'Yearly PG Rated 1983': '19', 'Yearly (Wide) 1983': '38'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Krush Groove'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=krushgroove.htm"},
+					"ReleaseDate": {"S":"b'October 25, 1985'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$11,052,713'"},
+					"Runtime": {"S":"b'1 hrs. 34 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$11,052,713'"},
+					"WidestRelease": {"S":"b'519 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,905,293'"},
+					"InRelease": {"S":"b'49 days / 7 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Rap / Rapper': '17'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '4,295', 'Yearly Opening Weekends 1985': '62', 'Top Ranking Limited Release Debuts': '7', 'Opening Weekends (Limited Release)': '59', 'Yearly 1985': '75', 'Yearly (Limited) 1985': '4', 'Yearly Opening Weekends (Limited) 1985': '2', 'Yearly R Rated 1985': '29', 'Highest All Time Rank (on December 14, 1985)': '260'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Ktown Cowboys'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=ktowncowboys.htm"},
+					"ReleaseDate": {"S":"b'March 18, 2016'"},
+					"Genre": {"S":"b'Comedy / Drama'"},
+					"Distributor": {"S":"b'Freestyle Releasing'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$18,863'"},
+					"Runtime": {"S":"b'1 hrs. 23 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$18,863'"},
+					"WidestRelease": {"S":"b'4 theaters'"},
+					"CloseDate": {"S":"b'March 31, 2016'"},
+					"OpeningWeekend": {"S":"b'$12,523'"},
+					"InRelease": {"S":"b'14 days / 2 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '12,610'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kubo and the Two Strings'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kuboandthetwostrings.htm"},
+					"ReleaseDate": {"S":"b'August 19, 2016'"},
+					"Genre": {"S":"b'Animation'"},
+					"Distributor": {"S":"b'Focus Features'"},
+					"ProductionBudget": {"S":"b'$60 million'"},
+					"DomesticTotalGross": {"S":"b'$48,023,088'"},
+					"Runtime": {"S":"b'1 hrs. 41 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Matthew McConaughey, Charlize Theron, Rooney Mara, Ralph Fiennes, George Takei'"},
+					"Composer": {"S":"b'Dario Marianelli'"},
+					"Director": {"S":"b'Travis Knight'"},
+					"Domestic": {"S":"b'$48,023,088'"},
+					"Worldwide": {"S":"b'$69,929,545'"},
+					"Foreign": {"S":"b'$21,906,457'"},
+					"WidestRelease": {"S":"b'3,279 theaters'"},
+					"CloseDate": {"S":"b'December 1, 2016'"},
+					"OpeningWeekend": {"S":"b'$12,608,372'"},
+					"InRelease": {"S":"b'105 days / 15 weeks'"},
+					"Awards": {"S":"Nominated for Two Oscars."},
+					"GenreRank": {"S":"{'3D': '172', 'Animation - Fantasy': '29', 'Animation - Stop Motion': '8', 'Animation': '147'}"},
+					"Franchise": {"S":"{'Showdown: Laika Showdown': '4', 'Brand: Laika': '5'}"},
+					"Chart": {"S":"{'Widest Opening Releases': '522', 'Top Movies in the Past 365 Days': '68', 'All Time Domestic': '1,639', 'Opening Weekends - August': '115', 'Worst Openings - Super Saturated Adjusted': '72', 'Widest PG Rated Releases': '165', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '205', 'Opening Weekends Adjusted': '2,240', 'Smallest Drops, All Wide Releases': '1,699', 'Widest Releases': '550', 'Labor Day 4-Day Holiday Weekends': '90', 'Opening Weeks Adjusted': '2,262', 'Opening Weekends Adjusted - August': '193', 'Smallest Drops, 2,500+ theaters (Saturation)': '425', 'Smallest Drops, 2,000+ theaters (Very Wide)': '633', 'Opening Weeks': '1,533', 'Worst Openings - Super Saturated': '103', 'Widest PG Rated Openings': '161', 'Opening Weekends': '1,496'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kuch Khatti Kuch Meethi'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kuchkhattikuchmeethi.htm"},
+					"ReleaseDate": {"S":"b'January 19, 2001'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Eros'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$57,188'"},
+					"Runtime": {"S":"b'2 hrs. 0 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$57,188'"},
+					"WidestRelease": {"S":"b'23 theaters'"},
+					"CloseDate": {"S":"b'January 21, 2001'"},
+					"OpeningWeekend": {"S":"b'$57,188'"},
+					"InRelease": {"S":"b'3 days / 0.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2001': '159', 'All Time Domestic': '11,102', 'Highest All Time Rank (on August 28, 2002)': '4339', 'Yearly 2001': '302', 'Yearly Opening Weekends 2001': '202', 'Yearly Opening Weekends (Limited) 2001': '74'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kuch Naa Kaho'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kuchnaakaho.htm"},
+					"ReleaseDate": {"S":"b'September 5, 2003'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Eros'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalasofSep.21,2003": {"S":"b'$224,831'"},
+					"Runtime": {"S":"b'2 hrs. 50 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$224,831'"},
+					"Worldwide": {"S":"b'$224,831'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'32 theaters'"},
+					"OpeningWeekend": {"S":"b'$92,197'"},
+					"InRelease": {"S":"b'17 days / 2.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '871'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Worldwide Yearly 2003': '267', 'All Time Domestic': '9,272', 'Yearly 2003': '294', 'Yearly (Limited) 2003': '148', 'Highest All Time Rank (on September 21, 2003)': '5248', 'Yearly Opening Weekends 2003': '203', 'Yearly Opening Weekends (Limited) 2003': '74', 'Yearly Unrated Movies 2003': '43'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kuffs'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kuffs.htm"},
+					"ReleaseDate": {"S":"b'January 10, 1992'"},
+					"Genre": {"S":"b'Action Comedy'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$21,142,815'"},
+					"Runtime": {"S":"b'1 hrs. 42 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Bruce A. Evans, Raynold Gideon'"},
+					"Producer": {"S":"b'Raynold Gideon'"},
+					"Actor": {"S":"b'Christian Slater, Milla Jovovich, Ashley Judd*'"},
+					"Director": {"S":"b'Bruce A. Evans'"},
+					"Domestic": {"S":"b'$21,142,815'"},
+					"WidestRelease": {"S":"b'1,433 theaters'"},
+					"OpeningWeekend": {"S":"b'$5,651,055'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '2,629', 'All Time Domestic': '3,131', 'Opening Weeks': '3,040', 'Yearly 1992': '62', 'Highest All Time Rank (on February 25, 1992)': '723', 'Opening Weekends Adjusted': '2,419', 'Yearly PG-13 Rated 1992': '13', 'Opening Weekends': '2,830', 'Yearly (Wide) 1992': '60', 'Yearly Opening Weekends 1992': '47', 'Yearly Opening Weekends (Wide) 1992': '49', 'Opening Weekends Adjusted - January': '156'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kull the Conqueror'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kulltheconqueror.htm"},
+					"ReleaseDate": {"S":"b'August 29, 1997'"},
+					"Genre": {"S":"b'Action Fantasy'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$6,112,613'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$6,112,613'"},
+					"WidestRelease": {"S":"b'2,091 theaters'"},
+					"OpeningWeekend": {"S":"b'$3,450,145'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Fantasy - Live Action': '102', 'Sword and Sorcery': '30'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{BOM Users' Grades (1997 Releases): '110', 'Yearly Opening Weekends 1997': '105', 'All Time Domestic': '5,132', 'Yearly 1997': '137', 'Yearly (Wide) 1997': '134', 'Worst Openings - Very Wide Adjusted': '159', 'Worst Openings - Very Wide': '51', 'Yearly PG-13 Rated 1997': '39', 'Highest All Time Rank (on September 19, 1997)': '2191', 'Labor Day 4-Day Holiday Weekend Openers': '53', 'Yearly Opening Weekends (Wide) 1997': '114'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kumare'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kumare.htm"},
+					"ReleaseDate": {"S":"b'June 20, 2012'"},
+					"DomesticTotalasofFeb.7,2013": {"S":"b'$132,160'"},
+					"Distributor": {"S":"b'Kino Lorber'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Runtime": {"S":"b'1 hrs. 24 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$132,160'"},
+					"WidestRelease": {"S":"b'9 theaters'"},
+					"OpeningWeekend": {"S":"b'$9,601'"},
+					"InRelease": {"S":"b'212 days / 30.3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '514'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '9,978'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kumiko, The Treasure Hunter'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kumiko.htm"},
+					"ReleaseDate": {"S":"b'March 18, 2015'"},
+					"Genre": {"S":"b'Adventure Comedy'"},
+					"Distributor": {"S":"b'Amplify'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$623,383'"},
+					"Runtime": {"S":"b'1 hrs. 45 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Actor": {"S":"b'Rinko Kikuchi'"},
+					"Domestic": {"S":"b'$623,383'"},
+					"Worldwide": {"S":"b'$623,383'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'71 theaters'"},
+					"CloseDate": {"S":"b'June 4, 2015'"},
+					"OpeningWeekend": {"S":"b'$34,114'"},
+					"InRelease": {"S":"b'79 days / 11.3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '7,941'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kundo: Age of the Rampant'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kundo.htm"},
+					"ReleaseDate": {"S":"b'August 29, 2014'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Well Go USA'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$280,958'"},
+					"Runtime": {"S":"b'2 hrs. 15 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$280,958'"},
+					"WidestRelease": {"S":"b'28 theaters'"},
+					"CloseDate": {"S":"b'September 25, 2014'"},
+					"OpeningWeekend": {"S":"b'$120,857'"},
+					"InRelease": {"S":"b'28 days / 4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '808'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '8,963'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kundun'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kundun.htm"},
+					"ReleaseDate": {"S":"b'December 25, 1997'"},
+					"Genre": {"S":"b'Period Drama'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"ProductionBudget": {"S":"b'$28 million'"},
+					"DomesticTotalGross": {"S":"b'$5,684,789'"},
+					"Runtime": {"S":"b'2 hrs. 8 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Cinematographer": {"S":"b'Roger Deakins'"},
+					"Composer": {"S":"b'Philip Glass'"},
+					"Director": {"S":"b'Martin Scorsese'"},
+					"Domestic": {"S":"b'$5,684,789'"},
+					"WidestRelease": {"S":"b'439 theaters'"},
+					"OpeningWeekend": {"S":"b'$72,095'"},
+					"Awards": {"S":"Nominated for Four Oscars."},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 1997': '37', 'Yearly Opening Weekends 1997': '175', 'All Time Domestic': '5,241', 'Highest All Time Rank (on February 6, 1998)': '2313', 'Yearly (Limited) 1997': '10', 'Yearly PG-13 Rated 1997': '41', 'Theater Averages - Opening Weekends Adjusted': '162', 'Yearly 1997': '143'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kung Fu Hustle'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kungfuhustle.htm"},
+					"ReleaseDate": {"S":"b'April 8, 2005'"},
+					"Genre": {"S":"b'Foreign / Action'"},
+					"Distributor": {"S":"b'Sony Classics'"},
+					"ProductionBudget": {"S":"b'$20 million'"},
+					"DomesticTotalGross": {"S":"b'$17,108,591'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$17,108,591'"},
+					"Worldwide": {"S":"b'$100,914,445'"},
+					"Foreign": {"S":"b'$83,805,854'"},
+					"InRelease": {"S":"b'133 days / 19 weeks'"},
+					"WidestRelease": {"S":"b'2,503 theaters'"},
+					"CloseDate": {"S":"b'August 18, 2005'"},
+					"LimitedOpeningWeekend": {"S":"b'<b> $269,225</b>'"},
+					"WideOpeningWeekend": {"S":"b'$6,749,572'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '11', 'Action - Martial Arts': '63'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Worst Openings - Saturated': '103', 'All Time Domestic': '3,527', BOM Users' Grades (2005 Releases): '26', 'Yearly R Rated 2005': '33', 'Yearly Opening Weekends (Limited) 2005': '29', 'Biggest Theater Drops': '129', 'Opening Weekends - April': '191', 'Worldwide Yearly 2005': '53', 'Yearly Opening Weekends 2005': '167', 'Smallest Drops, All Wide Releases': '3,063', 'Yearly (Wide) 2005': '121', 'Opening Weeks Adjusted': '3,042', 'Theater Averages - Opening Weekends': '200', 'Opening Weekends': '2,521', 'Yearly 2005': '123', 'Yearly Opening Weekends (Wide) 2005': '111', 'Opening Weekends Adjusted': '2,948', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,442', 'Opening Weeks': '2,652', 'Worst Openings - Saturated Adjusted': '137', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,019'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kung Fu Joe'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kungfujoe.htm"},
+					"ReleaseDate": {"S":"b'February 10, 2012'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Indican'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$15,120'"},
+					"Runtime": {"S":"b'1 hrs. 29 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$15,120'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"CloseDate": {"S":"b'April 5, 2012'"},
+					"OpeningWeekend": {"S":"b'$3,158'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '12,869'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kung Fu Killer'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kungfukiller.htm"},
+					"ReleaseDate": {"S":"b'April 24, 2015'"},
+					"Genre": {"S":"b'Foreign / Action'"},
+					"Distributor": {"S":"b'Well Go USA'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$129,784'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Actor": {"S":"b'Donnie Yen'"},
+					"Domestic": {"S":"b'$129,784'"},
+					"Worldwide": {"S":"b'$10,131,784'"},
+					"Foreign": {"S":"b'$10,002,000'"},
+					"WidestRelease": {"S":"b'28 theaters'"},
+					"CloseDate": {"S":"b'June 4, 2015'"},
+					"OpeningWeekend": {"S":"b'$58,664'"},
+					"InRelease": {"S":"b'42 days / 6 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1056', 'Action - Martial Arts': '142'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '9,998'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kung Fu Panda'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kungfupanda.htm"},
+					"ReleaseDate": {"S":"b'June 6, 2008'"},
+					"Genre": {"S":"b'Animation'"},
+					"Distributor": {"S":"b'Paramount (DreamWorks)'"},
+					"ProductionBudget": {"S":"b'$130 million'"},
+					"DomesticTotalGross": {"S":"b'$215,434,591'"},
+					"Runtime": {"S":"b'1 hrs. 31 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'Jonathan Aibel, Glenn Berger'"},
+					"Actor": {"S":"b'Jack Black, Dustin Hoffman, Angelina Jolie, Ian McShane , Jackie Chan, Seth Rogen, Lucy Liu, David Cross , Dan Fogler*, Michael Clarke Duncan*'"},
+					"Composer": {"S":"b'John Powell, Hans Zimmer'"},
+					"Domestic": {"S":"b'$215,434,591'"},
+					"Worldwide": {"S":"b'$631,744,560'"},
+					"Foreign": {"S":"b'$416,309,969'"},
+					"WidestRelease": {"S":"b'4,136 theaters'"},
+					"CloseDate": {"S":"b'October 9, 2008'"},
+					"OpeningWeekend": {"S":"b'$60,239,130'"},
+					"InRelease": {"S":"b'126 days / 18 weeks'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"{'Animation - Computer': '29', 'IMAX (Feature-length)': '61', 'Animation': '32'}"},
+					"Franchise": {"S":"{Showdown: 'Kung Fu Panda 2' Versus Comps: '2', 'Showdown: June Computer Animation': '4', Showdown: DreamWorks Animation Vs. DreamWorks Animation ('Shrek'-Free): '3', 'Brand: DreamWorks Animation': '7', 'Series: Kung Fu Panda': '1'}"},
+					"Chart": {"S":"{'Top 3-Day Grosses': '130', 'Slowest to $200 million': '47', 'Opening Weeks Adjusted': '162', 'Yearly Opening Weekends (Wide) 2008': '9', 'Fastest to $100 million': '147', 'Yearly 2008': '6', 'Top 5-Day Grosses': '154', 'Opening Weekends - Summer': '82', BOM Users' Grades: '102', 'Fastest to $150 million': '129', 'Single Day Saturday Gross': '159', 'Independence Day Weekends': '140', 'Smallest Drops, 2,000+ theaters (Very Wide)': '986', 'Yearly Opening Weekends 2008': '9', 'Opening Day Gross': '155', 'All Time Worldwide': '106', 'Widest Opening Releases': '49', 'Rated PG Adjusted': '93', 'Single Day Friday Gross': '172', 'Rated PG, Opening Weekends Adjusted': '31', 'Single Day Gross': '414', 'Second Weekends': '121', 'Highest All Time Rank (on October 9, 2008)': '75', 'Opening Weekends Adjusted': '153', 'Fastest to $200 million': '126', 'Second Weekends Adjusted': '153', 'Single Day Sunday Gross': '155', 'Fourth Weekends': '155', 'Rated G and PG, Opening Weekends': '38', 'Yearly (Wide) 2008': '6', 'Opening Weekends': '137', BOM Users' Grades (2008 Releases): '11', 'Widest Releases': '47', 'Third Weekends': '84', 'Rated PG, Opening Weekends': '32', 'Smallest Drops, 2,500+ theaters (Saturation)': '678', 'Rated G and PG, Opening Weekends Adjusted': '39', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '337', 'Rated PG': '48', 'All Time Domestic': '152', 'Smallest Drops, All Wide Releases': '2,332', 'Opening Weekends Adjusted - June': '23', 'Single Day Saturday Gross Adjusted': '180', 'Worldwide Yearly 2008': '3', 'Opening Weeks': '138', 'Slowest to $100 million': '488', 'Third Weekends Adjusted': '145', 'Opening Weekends Adjusted - Summer': '97', 'Single Day Friday Gross Adjusted': '189', 'Rated G and PG Adjusted': '135', 'Twelfth Weekends': '175', 'Widest PG Rated Releases': '15', 'Opening Weekends - June': '16', 'Rated G and PG': '58', 'Widest PG Rated Openings': '13', 'Yearly PG Rated 2008': '1', 'Top 7-Day Grosses': '149'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kung Fu Panda 2'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kungfupanda2.htm"},
+					"ReleaseDate": {"S":"b'May 26, 2011'"},
+					"Genre": {"S":"b'Animation'"},
+					"Distributor": {"S":"b'Paramount (DreamWorks)'"},
+					"ProductionBudget": {"S":"b'$150 million'"},
+					"DomesticTotalGross": {"S":"b'$165,249,063'"},
+					"Runtime": {"S":"b'1 hrs. 31 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'Jonathan Aibel, Glenn Berger'"},
+					"Actor": {"S":"b'Jack Black, Angelina Jolie, Dustin Hoffman, Jackie Chan, Seth Rogen, Lucy Liu, David Cross , Gary Oldman, Michelle Yeoh'"},
+					"Composer": {"S":"b'John Powell, Hans Zimmer'"},
+					"Director": {"S":"b'Jennifer Yuh Nelson'"},
+					"Domestic": {"S":"b'$165,249,063'"},
+					"Worldwide": {"S":"b'$665,692,281'"},
+					"Foreign": {"S":"b'$500,443,218'"},
+					"WidestRelease": {"S":"b'3,952 theaters'"},
+					"CloseDate": {"S":"b'September 29, 2011'"},
+					"OpeningWeekend": {"S":"b'$47,656,302'"},
+					"InRelease": {"S":"b'127 days / 18.1 weeks'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"{'3D': '75', 'Animation - Computer': '49', 'Animation': '54'}"},
+					"Franchise": {"S":"{Showdown: 'Kung Fu Panda 2' Versus Comps: '6', 'Showdown: Animation 2011': '2', 'Brand: DreamWorks Animation': '14', 'Series: Kung Fu Panda': '2'}"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '304', 'Opening Weekends - May': '51', 'Movies That Never #1 Adjusted': '69', 'Movies That Never Hit #1': '17', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '488', 'Opening Weekends - Summer': '136', 'Non-Friday Opening Weekends Adjusted': '57', 'Memorial Day 4-Day Holiday Weekend Openers': '16', 'Fastest to $150 million': '204', 'Single Day Saturday Gross': '260', 'Memorial Day 4-Day Holiday Weekends': '20', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,376', 'Single Day Gross': '662', 'Rated PG Adjusted': '181', 'All Time Worldwide': '98', 'Widest Opening Releases': '113', 'Rated PG, Opening Weekends Adjusted': '73', 'Non-Friday Opening Weekends': '38', 'Opening Weekends Adjusted': '328', 'Single Day Sunday Gross': '181', 'Opening Weekends Not At #1': '12', 'Rated G and PG, Opening Weekends': '60', 'Rated G and PG, Opening Weekends Adjusted': '91', 'Opening Thursdays': '23', 'Widest Releases': '105', 'Third Weekends': '190', 'Highest All Time Rank (on September 4, 2011)': '181', 'Opening Weekends': '218', 'Worldwide Openings': '117', 'Rated PG': '80', 'All Time Domestic': '265', 'Smallest Drops, All Wide Releases': '2,964', 'Opening Weekends Adjusted - May': '68', 'Smallest Drops, 2,500+ theaters (Saturation)': '970', 'Single Day Monday Gross Adjusted': '84', 'Opening Weeks': '200', 'Slowest to $100 million': '433', 'Fastest to $100 million': '202', 'Opening Weekends Adjusted - Summer': '197', 'Widest PG Rated Releases': '37', 'Opening Weekends Not At #1 Adjusted': '18', 'Single Day Monday Gross': '53', 'Foreign Opening Weekends': '96', 'Rated G and PG': '97', 'Rated PG, Opening Weekends': '52', 'Widest PG Rated Openings': '42', 'Sunday Share of Opening Weekends': '103'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kung Fu Panda 3'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kungfupanda3.htm"},
+					"ReleaseDate": {"S":"b'January 29, 2016'"},
+					"Genre": {"S":"b'Animation'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$143,528,619'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'Jonathan Aibel, Glenn Berger'"},
+					"Actor": {"S":"b'Jack Black, Jackie Chan, Bryan Cranston, David Cross , Dustin Hoffman, Kate Hudson, Angelina Jolie, Lucy Liu, Seth Rogen'"},
+					"Composer": {"S":"b'Hans Zimmer'"},
+					"Director": {"S":"b'Alessandro Carloni, Jennifer Yuh Nelson'"},
+					"Domestic": {"S":"b'$143,528,619'"},
+					"Worldwide": {"S":"b'$521,170,825'"},
+					"Foreign": {"S":"b'$377,642,206'"},
+					"WidestRelease": {"S":"b'3,987 theaters'"},
+					"CloseDate": {"S":"b'July 21, 2016'"},
+					"OpeningWeekend": {"S":"b'$41,282,042'"},
+					"InRelease": {"S":"b'175 days / 25 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': '89', 'Animation - Computer': '60', 'Animation': '68'}"},
+					"Franchise": {"S":"{'Brand: DreamWorks Animation': '20', 'Series: Kung Fu Panda': '3'}"},
+					"Chart": {"S":"{'Top 3-Day Grosses': '265', 'Fastest to $100 million': '313', 'Rated PG': '97', 'All Time Domestic': '344', 'Fifth Weekends': '117', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '442', 'Smallest Drops, All Wide Releases': '2,793', President's Day 4-Day Holiday Weekends: '27', 'Opening Weeks Adjusted': '611', 'Opening Weekends Adjusted - Winter': '27', 'Single Day Saturday Gross': '277', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,280', 'Opening Weeks': '388', 'Single Day Gross': '700', 'Widest PG Rated Openings': '32', 'Opening Weekends Adjusted - January': '7', 'All Time Worldwide': '157', 'Widest Opening Releases': '95', 'Widest Releases': '90', 'Highest All Time Rank (on June 2, 2016)': '328', 'Rated PG, Opening Weekends Adjusted': '102', 'Opening Weekends - Winter': '14', 'Opening Weekends Adjusted': '447', 'Slowest to $100 million': '322', 'Rated G and PG, Opening Weekends': '80', 'Opening Weekends - January': '3', 'Fourth Weekends': '129', 'Opening Weekends': '277', 'Rated G and PG, Opening Weekends Adjusted': '126', 'Widest PG Rated Releases': '30', 'Rated G and PG': '119', 'Consecutive Weekends At #1': '316', 'Most Weekends at #1 (non-consecutive)': '316', 'Third Weekends': '118', 'Rated PG, Opening Weekends': '68', 'Smallest Drops, 2,500+ theaters (Saturation)': '898'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kung Pow! Enter the Fist'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kungpowenterthefist.htm"},
+					"ReleaseDate": {"S":"b'January 25, 2002'"},
+					"Genre": {"S":"b'Action Comedy'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'$10 million'"},
+					"DomesticTotalGross": {"S":"b'$16,037,962'"},
+					"Runtime": {"S":"b'1 hrs. 21 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Steve Oedekerk'"},
+					"Director": {"S":"b'Steve Oedekerk'"},
+					"Domestic": {"S":"b'$16,037,962'"},
+					"Worldwide": {"S":"b'$16,994,625'"},
+					"Foreign": {"S":"b'$956,663'"},
+					"WidestRelease": {"S":"b'2,478 theaters'"},
+					"CloseDate": {"S":"b'April 18, 2002'"},
+					"OpeningWeekend": {"S":"b'$7,017,474'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - Spoof': '44'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '2,924', 'All Time Domestic': '3,644', 'Worldwide Yearly 2002': '142', 'Opening Weekends Adjusted - January': '175', 'Yearly Opening Weekends 2002': '97', 'Yearly (Wide) 2002': '117', 'Smallest Drops, All Wide Releases': '2,428', 'Yearly Opening Weekends (Wide) 2002': '102', 'Highest All Time Rank (on August 28, 2002)': '1526', 'Opening Weekends - January': '174', 'Yearly 2002': '119', 'Opening Weekends': '2,457', BOM Users' Grades (2002 Releases): '150', 'Opening Weekends Adjusted': '2,653', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,042', 'Opening Weeks': '2,720', 'Yearly PG-13 Rated 2002': '54'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kurbaan'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kurbaan.htm"},
+					"ReleaseDate": {"S":"b'November 20, 2009'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'UTV Communications'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$754,268'"},
+					"Runtime": {"S":"b'2 hrs. 32 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$754,268'"},
+					"Worldwide": {"S":"b'$1,461,611'"},
+					"Foreign": {"S":"b'$707,343'"},
+					"WidestRelease": {"S":"b'83 theaters'"},
+					"CloseDate": {"S":"b'December 24, 2009'"},
+					"OpeningWeekend": {"S":"b'$403,678'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '495'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Unrated Movies 2009': '13', 'All Time Domestic': '7,707', 'Yearly Opening Weekends 2009': '160', 'Yearly (Limited) 2009': '63', 'Yearly Opening Weekends (Limited) 2009': '22', 'Yearly 2009': '214', 'Worldwide Yearly 2009': '252'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kurosawa &amp; Mifune Festival'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kurosawamifunefestival.htm"},
+					"DomesticTotalasofSep.4,2003": {"S":"b'$583,712'"},
+					"ReleaseDate": {"S":"b'July 26, 2002'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Cowboy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$583,712'"},
+					"WidestRelease": {"S":"b'5 theaters'"},
+					"OpeningWeekend": {"S":"b'$15,942'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2002': '250', 'Yearly (Limited) 2002': '91', 'All Time Domestic': '8,028', 'Yearly Unrated Movies 2002': '16', 'Highest All Time Rank (on August 28, 2002)': '4048', 'Yearly Opening Weekends 2002': '307', 'Yearly Opening Weekends (Limited) 2002': '167'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Kurt Cobain About a Son'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=kurtcobainaboutason.htm"},
+					"ReleaseDate": {"S":"b'October 3, 2007'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'Balcony Releasing'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$87,016'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$87,016'"},
+					"Worldwide": {"S":"b'$106,724'"},
+					"Foreign": {"S":"b'$19,708'"},
+					"WidestRelease": {"S":"b'6 theaters'"},
+					"CloseDate": {"S":"b'February 10, 2008'"},
+					"OpeningWeekend": {"S":"b'$10,749'"},
+					"InRelease": {"S":"b'135 days / 19.3 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '628'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Worldwide Yearly 2007': '411', 'Yearly Opening Weekends (Limited) 2007': '236', 'Yearly Opening Weekends 2007': '403', 'Yearly Unrated Movies 2007': '62', 'Yearly 2007': '382', 'Yearly (Limited) 2007': '196', 'All Time Domestic': '10,549'}"}
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,628 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mancora'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mancora.htm"},
+					"ReleaseDate": {"S":"b'March 20, 2009'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Maya Entertainment'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$29,697'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Director": {"S":"b'Ricardo de Montreuil'"},
+					"Domestic": {"S":"b'$29,697'"},
+					"Worldwide": {"S":"b'$196,069'"},
+					"Foreign": {"S":"b'$166,372'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"CloseDate": {"S":"b'June 28, 2009'"},
+					"OpeningWeekend": {"S":"b'$7,675'"},
+					"InRelease": {"S":"b'70 days / 10 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1504'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 2009': '116', 'All Time Domestic': '12,012', 'Yearly Opening Weekends 2009': '387', 'Yearly (Limited) 2009': '247', 'Yearly Opening Weekends (Limited) 2009': '248', 'Yearly 2009': '399', 'Worldwide Yearly 2009': '313'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Manda Bala (Send a Bullet)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mandabala.htm"},
+					"ReleaseDate": {"S":"b'August 17, 2007'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'City Lights Pictures Releasing'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$122,905'"},
+					"Runtime": {"S":"b'1 hrs. 25 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$122,905'"},
+					"Worldwide": {"S":"b'$125,025'"},
+					"Foreign": {"S":"b'$2,120'"},
+					"WidestRelease": {"S":"b'9 theaters'"},
+					"CloseDate": {"S":"b'December 6, 2007'"},
+					"OpeningWeekend": {"S":"b'$14,030'"},
+					"InRelease": {"S":"b'112 days / 16 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '530'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Worldwide Yearly 2007': '404', 'Yearly Opening Weekends (Limited) 2007': '212', 'Yearly Opening Weekends 2007': '379', 'Yearly Unrated Movies 2007': '55', 'Yearly 2007': '358', 'Yearly (Limited) 2007': '172', 'All Time Domestic': '10,083'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mandela'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mandela.htm"},
+					"ReleaseDate": {"S":"b'March 21, 1997'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'Palm'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$42,056'"},
+					"Runtime": {"S":"b'1 hrs. 58 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$42,056'"},
+					"WidestRelease": {"S":"b'8 theaters'"},
+					"OpeningWeekend": {"S":"b'$8,413'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"{'Documentary': '827'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 1997': '108', 'Yearly (Limited) 1997': '104', 'All Time Domestic': '11,561', 'Yearly 1997': '276', 'Yearly Opening Weekends 1997': '246', 'Highest All Time Rank (on April 8, 1997)': '3720'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mandela: Long Walk to Freedom'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mandela2013.htm"},
+					"ReleaseDate": {"S":"b'November 29, 2013'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'Weinstein Company'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$8,323,085'"},
+					"Runtime": {"S":"b'2 hrs. 19 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'William Nicholson'"},
+					"Actor": {"S":"b'Idris Elba, Naomie Harris'"},
+					"Director": {"S":"b'Justin Chadwick'"},
+					"Domestic": {"S":"b'$8,323,085'"},
+					"Worldwide": {"S":"b'$27,333,835'"},
+					"Foreign": {"S":"b'$19,010,750'"},
+					"InRelease": {"S":"b'119 days / 17 weeks'"},
+					"WidestRelease": {"S":"b'1,010 theaters'"},
+					"CloseDate": {"S":"b'March 27, 2014'"},
+					"LimitedOpeningWeekend": {"S":"b'<b> $84,283</b>'"},
+					"WideOpeningWeekend": {"S":"b'$2,240,745'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '4,370', 'All Time Domestic': '4,699', 'Opening Weeks': '3,945', 'Opening Weekends': '4,171', 'Opening Weekends Adjusted': '4,545', 'Smallest Drops, All Wide Releases': '3,296'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Manderlay'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manderlay.htm"},
+					"ReleaseDate": {"S":"b'January 27, 2006'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'IFC'"},
+					"ProductionBudget": {"S":"b'$14.2 million'"},
+					"DomesticTotalGross": {"S":"b'$78,378'"},
+					"Runtime": {"S":"b'2 hrs. 19 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Actor": {"S":"b'Bryce Dallas Howard, Willem Dafoe, Danny Glover, Chloe Sevigny*'"},
+					"Director": {"S":"b'Lars Von Trier'"},
+					"Domestic": {"S":"b'$78,378'"},
+					"Worldwide": {"S":"b'$674,918'"},
+					"Foreign": {"S":"b'$596,540'"},
+					"WidestRelease": {"S":"b'20 theaters'"},
+					"CloseDate": {"S":"b'March 23, 2006'"},
+					"OpeningWeekend": {"S":"b'$15,117'"},
+					"InRelease": {"S":"b'56 days / 8 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2006': '392', 'Yearly Unrated Movies 2006': '68', 'Yearly Opening Weekends 2006': '359', 'Worldwide Yearly 2006': '323', 'All Time Domestic': '10,680', 'Yearly (Limited) 2006': '217', 'Yearly Opening Weekends (Limited) 2006': '201'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Manfast'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manfast.htm"},
+					"DomesticTotalasofMay.18,2003": {"S":"b'$11,480'"},
+					"ReleaseDate": {"S":"b'April 30, 2003'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Hollywood Global'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Composer": {"S":"b'Klaus Badelt'"},
+					"Domestic": {"S":"b'$11,480'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"OpeningWeekend": {"S":"b'$4,042'"},
+					"InRelease": {"S":"b'19 days / 2.7 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Romantic Comedy': '464'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '13,194', 'Yearly 2003': '451', 'Yearly (Limited) 2003': '305', 'Highest All Time Rank (on May 18, 2003)': '5868', 'Yearly Opening Weekends 2003': '434', 'Yearly Opening Weekends (Limited) 2003': '305', 'Yearly Unrated Movies 2003': '133'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mangal Pandey - The Rising'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mangalpandey.htm"},
+					"ReleaseDate": {"S":"b'August 12, 2005'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Yash Raj'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$954,108'"},
+					"Runtime": {"S":"b'2 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$954,108'"},
+					"Worldwide": {"S":"b'$8,142,076'"},
+					"Foreign": {"S":"b'$7,187,968'"},
+					"WidestRelease": {"S":"b'63 theaters'"},
+					"CloseDate": {"S":"b'September 8, 2005'"},
+					"OpeningWeekend": {"S":"b'$531,018'"},
+					"InRelease": {"S":"b'28 days / 4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '420'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2005': '59', 'All Time Domestic': '7,426', 'Yearly 2005': '217', 'Yearly Opening Weekends (Limited) 2005': '12', 'Yearly Unrated Movies 2005': '12', 'Worldwide Yearly 2005': '190', 'Yearly Opening Weekends 2005': '149'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Manglehorn'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manglehorn.htm"},
+					"ReleaseDate": {"S":"b'June 19, 2015'"},
+					"Genre": {"S":"b'Drama'"},
+					"Distributor": {"S":"b'IFC'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$143,101'"},
+					"Runtime": {"S":"b'1 hrs. 37 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Holly Hunter, Harmony Korine, Chris Messina, Al Pacino'"},
+					"Director": {"S":"b'David Gordon Green'"},
+					"Domestic": {"S":"b'$143,101'"},
+					"Worldwide": {"S":"b'$143,101'"},
+					"Foreign": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'27 theaters'"},
+					"CloseDate": {"S":"b'July 26, 2015'"},
+					"OpeningWeekend": {"S":"b'$11,227'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Romantic Drama': '171', 'Drama - Summer': '144'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '9,876'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Manhattan'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manhattan.htm"},
+					"ReleaseDate": {"S":"b'April 25, 1979'"},
+					"Genre": {"S":"b'Romantic Comedy'"},
+					"Distributor": {"S":"b'MGM'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$39,946,780'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Woody Allen'"},
+					"Actor": {"S":"b'Woody Allen, Diane Keaton, Meryl Streep'"},
+					"Director": {"S":"b'Woody Allen'"},
+					"Domestic": {"S":"b'$39,946,780'"},
+					"\t\tOpeningWeekend": {"S":"b'$485,734'"},
+					"Awards": {"S":"Nominated for Two Oscars."},
+					"GenreRank": {"S":"{'Romantic Comedy': '110'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '1,956'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Manhattan Murder Mystery'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manhattanmurdermystery.htm"},
+					"ReleaseDate": {"S":"b'August 18, 1993'"},
+					"Genre": {"S":"b'Comedy Thriller'"},
+					"Distributor": {"S":"b'TriStar'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$11,330,911'"},
+					"Runtime": {"S":"b'1 hrs. 47 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Writer": {"S":"b'Woody Allen'"},
+					"Actor": {"S":"b'Woody Allen, Diane Keaton, Alan Alda, Zach Braff*'"},
+					"Director": {"S":"b'Woody Allen'"},
+					"Domestic": {"S":"b'$11,330,911'"},
+					"WidestRelease": {"S":"b'337 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,015,360'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Movies That Never Hit the Top 10 Adjusted': '74', 'Opening Weekends (Limited Release)': '132', 'Yearly Opening Weekends (Limited) 1993': '4', 'Yearly PG Rated 1993': '30', 'Yearly Opening Weekends 1993': '113', 'All Time Domestic': '4,258', 'Highest All Time Rank (on September 21, 1993)': '1276', BOM Users' Grades (1993 Releases): '23', 'Yearly 1993': '102', 'Movies That Never Hit the Top 10': '143', 'Yearly (Limited) 1993': '6'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Manhunter'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manhunter.htm"},
+					"ReleaseDate": {"S":"b'August 15, 1986'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'DEG'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$8,620,929'"},
+					"Runtime": {"S":"b'2 hrs. 4 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Michael Mann'"},
+					"Cinematographer": {"S":"b'Dante Spinotti'"},
+					"Actor": {"S":"b'Joan Allen, Brian Cox'"},
+					"Director": {"S":"b'Michael Mann'"},
+					"Domestic": {"S":"b'$8,620,929'"},
+					"WidestRelease": {"S":"b'779 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,204,400'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Thriller - Serial Killer': '41'}"},
+					"Franchise": {"S":"{'Series: Hannibal Lecter': '5'}"},
+					"Chart": {"S":"{'Yearly 1986': '76', 'Yearly Opening Weekends 1986': '80', BOM Users' Grades (1986 Releases): '29', 'Opening Weeks Adjusted': '3,665', 'All Time Domestic': '4,648', 'Yearly (Wide) 1986': '72', 'Highest All Time Rank (on July 5, 1988)': '657', 'Opening Weekends Adjusted': '3,879', 'Smallest Drops, All Wide Releases': '2,112', 'Yearly Opening Weekends (Wide) 1986': '86', 'Opening Weekends': '4,194', 'Yearly R Rated 1986': '30', 'Opening Weeks': '4,044'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Maniac (2013)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=maniac2013.htm"},
+					"ReleaseDate": {"S":"b'June 21, 2013'"},
+					"Genre": {"S":"b'Horror Thriller'"},
+					"Distributor": {"S":"b'IFC'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$31,081'"},
+					"Runtime": {"S":"b'1 hrs. 29 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Writer": {"S":"b'Gregory Levasseur'"},
+					"Actor": {"S":"b'Elijah Wood'"},
+					"Domestic": {"S":"b'$31,081'"},
+					"WidestRelease": {"S":"b'12 theaters'"},
+					"CloseDate": {"S":"b'July 8, 2013'"},
+					"OpeningWeekend": {"S":"b'$5,571'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Horror Remake': '64'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '11,930'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Maniac Cop'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=maniaccop.htm"},
+					"ReleaseDate": {"S":"b'May 13, 1988'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Shapiro-Glickenhaus'"},
+					"ProductionBudget": {"S":"b'$1.1 million'"},
+					"DomesticTotalGross": {"S":"b'$671,382'"},
+					"Runtime": {"S":"b'1 hrs. 25 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$671,382'"},
+					"WidestRelease": {"S":"b'50 theaters'"},
+					"OpeningWeekend": {"S":"b'$188,348'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Horror - Slasher': '88', 'Thriller - Psycho / Stalker / Blank from Hell': '33'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 1988': '100', 'Yearly (Limited) 1988': '55', 'Yearly Opening Weekends 1988': '150', 'All Time Domestic': '7,853', 'Yearly 1988': '189', 'Highest All Time Rank (on July 5, 1988)': '1000', 'Yearly Opening Weekends (Limited) 1988': '44'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Manic'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manic.htm"},
+					"ReleaseDate": {"S":"b'April 25, 2003'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'IFC'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$69,958'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Michael Bacall'"},
+					"Actor": {"S":"b'Zooey Deschanel, Don Cheadle'"},
+					"Domestic": {"S":"b'$69,958'"},
+					"WidestRelease": {"S":"b'15 theaters'"},
+					"CloseDate": {"S":"b'June 19, 2003'"},
+					"OpeningWeekend": {"S":"b'$7,628'"},
+					"InRelease": {"S":"b'56 days / 8 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 2003': '151', 'Highest All Time Rank (on June 5, 2003)': '5518', 'All Time Domestic': '10,834', 'Yearly (Limited) 2003': '222', 'Yearly Opening Weekends 2003': '383', 'Yearly Opening Weekends (Limited) 2003': '254', 'Yearly 2003': '368'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Manifesto'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manifesto.htm"},
+					"ReleaseDate": {"S":"b'January 27, 1989'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Cannon Films'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$70,060'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Alfred Molina'"},
+					"Domestic": {"S":"b'$70,060'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"OpeningWeekend": {"S":"b'$9,838'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 1989': '80', 'All Time Domestic': '10,832', 'Yearly Opening Weekends (Limited) 1989': '92', 'Highest All Time Rank (on February 14, 1989)': '1885', 'Yearly 1989': '222', 'Yearly Opening Weekends 1989': '195', 'Yearly R Rated 1989': '113'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Manito'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manito.htm"},
+					"ReleaseDate": {"S":"b'June 13, 2003'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Film Movement'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalasofJun.15,2003": {"S":"b'$11,000'"},
+					"Runtime": {"S":"b'1 hrs. 18 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$11,000'"},
+					"WidestRelease": {"S":"b'5 theaters'"},
+					"OpeningWeekend": {"S":"b'$11,000'"},
+					"InRelease": {"S":"b'3 days / 0.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '13,249', 'Yearly 2003': '456', 'Yearly (Limited) 2003': '310', 'Highest All Time Rank (on June 15, 2003)': '5911', 'Yearly Opening Weekends 2003': '354', 'Yearly Opening Weekends (Limited) 2003': '225', 'Yearly Unrated Movies 2003': '138'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Manna from Heaven'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mannafromheaven.htm"},
+					"ReleaseDate": {"S":"b'August 2, 2002'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Five Sisters'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$505,675'"},
+					"Runtime": {"S":"b'1 hrs. 59 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$505,675'"},
+					"WidestRelease": {"S":"b'33 theaters'"},
+					"CloseDate": {"S":"b'October 2, 2005'"},
+					"InRelease": {"S":"b'574 days / 82 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Christian': '98'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2002': '254', 'Yearly (Limited) 2002': '95', 'All Time Domestic': '8,221', 'Yearly PG Rated 2002': '36', 'Highest All Time Rank (on April 24, 2003)': '4889'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mannat'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mannat.htm"},
+					"ReleaseDate": {"S":"b'October 6, 2006'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Eros'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$53,589'"},
+					"Runtime": {"S":"b'2 hrs. 45 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$53,589'"},
+					"WidestRelease": {"S":"b'10 theaters'"},
+					"CloseDate": {"S":"b'October 15, 2006'"},
+					"OpeningWeekend": {"S":"b'$33,911'"},
+					"InRelease": {"S":"b'14 days / 2 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1333'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 2006': '415', 'Yearly Unrated Movies 2006': '82', 'Yearly Opening Weekends 2006': '294', 'All Time Domestic': '11,205', 'Yearly (Limited) 2006': '240', 'Yearly Opening Weekends (Limited) 2006': '136'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mannequin'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mannequin.htm"},
+					"ReleaseDate": {"S":"b'February 13, 1987'"},
+					"Genre": {"S":"b'Romantic Comedy'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$42,721,196'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Cinematographer": {"S":"b'Tim Suhrstedt'"},
+					"Domestic": {"S":"b'$42,721,196'"},
+					"WidestRelease": {"S":"b'978 theaters'"},
+					"OpeningWeekend": {"S":"b'$6,001,208'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"{'Romantic Comedy': '100'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{President's Day 4-Day Holiday Weekends: '199', BOM Users' Grades (1987 Releases): '61', 'Yearly Opening Weekends (Wide) 1987': '29', 'All Time Domestic': '1,836', 'Highest All Time Rank (on April 28, 1987)': '205', 'Yearly (Wide) 1987': '25', 'Yearly Opening Weekends 1987': '27', President's Day 4-Day Holiday Weekend Openers: '87', 'Yearly R Rated 1987': '17', 'Yearly 1987': '27'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mannequin Two: On the Move'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mannequin2.htm"},
+					"ReleaseDate": {"S":"b'May 17, 1991'"},
+					"Genre": {"S":"b'Romantic Comedy'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'$13 million'"},
+					"DomesticTotalGross": {"S":"b'$3,752,428'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$3,752,428'"},
+					"WidestRelease": {"S":"b'1,540 theaters'"},
+					"OpeningWeekend": {"S":"b'$1,692,817'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Romantic Comedy': '291', 'Comedy - Sequel (Live Action)': '111'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{BOM Users' Grades (1991 Releases): '86', 'Worst Opening Weekend Per-Theater Averages': '153', 'Opening Weeks Adjusted': '4,337', 'All Time Domestic': '5,753', 'Opening Weekends Adjusted': '4,331', 'Yearly 1991': '133', 'Yearly PG Rated 1991': '23', 'Yearly Opening Weekends 1991': '104', 'Yearly (Wide) 1991': '120', 'Highest All Time Rank (on June 8, 1991)': '1605', 'Opening Weeks': '4,460', 'Yearly Opening Weekends (Wide) 1991': '117', 'Opening Weekends': '4,429'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Manny amd Lo'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mannyandlo.htm"},
+					"ReleaseDate": {"S":"b'July 26, 1996'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Sony Classics'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$502,313'"},
+					"Runtime": {"S":"b'1 hrs. 28 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Scarlett Johansson'"},
+					"Domestic": {"S":"b'$502,313'"},
+					"WidestRelease": {"S":"b'27 theaters'"},
+					"CloseDate": {"S":"b'February 6, 1997'"},
+					"OpeningWeekend": {"S":"b'$18,665'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 1996': '51', 'All Time Domestic': '8,227', 'Yearly Opening Weekends (Limited) 1996': '82', 'Yearly Opening Weekends 1996': '223', 'Yearly 1996': '231', 'Yearly R Rated 1996': '114'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Manon of the Spring'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manonofthespring.htm"},
+					"ReleaseDate": {"S":"b'November 5, 1987'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Distributor": {"S":"b'Orion Classics'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$3,940,542'"},
+					"Runtime": {"S":"b'1 hrs. 53 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$3,940,542'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '103'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly PG Rated 1987': '33', 'All Time Domestic': '5,690', 'Yearly 1987': '121'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mansfield Park'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mansfieldpark.htm"},
+					"ReleaseDate": {"S":"b'November 19, 1999'"},
+					"Genre": {"S":"b'Period Drama'"},
+					"Distributor": {"S":"b'Miramax'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$4,775,847'"},
+					"Runtime": {"S":"b'1 hrs. 38 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$4,775,847'"},
+					"WidestRelease": {"S":"b'152 theaters'"},
+					"OpeningWeekend": {"S":"b'$85,608'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 1999': '53', 'Yearly PG-13 Rated 1999': '48', 'All Time Domestic': '5,445', 'Yearly (Limited) 1999': '19', 'Highest All Time Rank (on August 28, 2002)': '2567', 'Yearly Opening Weekends 1999': '185', 'Yearly 1999': '154'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Mansome'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=mansome.htm"},
+					"ReleaseDate": {"S":"b'May 18, 2012'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'Paladin'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$36,280'"},
+					"Runtime": {"S":"b'1 hrs. 24 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Will Arnett, Jason Bateman'"},
+					"Director": {"S":"b'Morgan Spurlock'"},
+					"Domestic": {"S":"b'$36,280'"},
+					"WidestRelease": {"S":"b'20 theaters'"},
+					"CloseDate": {"S":"b'May 31, 2012'"},
+					"OpeningWeekend": {"S":"b'$18,395'"},
+					"InRelease": {"S":"b'14 days / 2 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '875'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '11,735'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Manuela and Manuel'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=manuelaandmanuel.htm"},
+					"ReleaseDate": {"S":"b'March 26, 2010'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Regent Releasing'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$1,582'"},
+					"Runtime": {"S":"b'1 hrs. 34 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$1,582'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"CloseDate": {"S":"b'June 10, 2010'"},
+					"OpeningWeekend": {"S":"b'$629'"},
+					"InRelease": {"S":"b'35 days / 5 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '14,508'}"}
+				}
+			}
+		}
+	]
+}

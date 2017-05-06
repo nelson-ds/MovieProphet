@@ -1,0 +1,655 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Zombeavers'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=zombeavers.htm"},
+					"DomesticTotalGross": {"S":"b'$14,947'"},
+					"Genre": {"S":"b'Horror Comedy'"},
+					"Runtime": {"S":"b'1 hrs. 16 min.'"},
+					"ReleaseDate": {"S":"b'March 20, 2015'"},
+					"MPAARating": {"S":"b'R'"},
+					"Distributor": {"S":"b'Freestyle Releasing'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Worldwide": {"S":"b'$14,947'"},
+					"Foreign": {"S":"b'n/a'"},
+					"Domestic": {"S":"b'$14,947'"},
+					"InRelease": {"S":"b'17 days / 2.4 weeks'"},
+					"CloseDate": {"S":"b'April 5, 2015'"},
+					"OpeningWeekend": {"S":"b'$8,163'"},
+					"WidestRelease": {"S":"b'11 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Horror Comedy': '105'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '12,883'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Zombie Dawn'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=zombiedawn.htm"},
+					"Genre": {"S":"b'Foreign / Horror'"},
+					"Runtime": {"S":"b'1 hrs. 23 min.'"},
+					"ReleaseDate": {"S":"b'April 20, 2012'"},
+					"MPAARating": {"S":"b'R'"},
+					"Distributor": {"S":"b'Eagle One Media/iFN'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Zombie': '67', 'Post-Apocalypse': '55'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Zombie High'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=zombiehigh.htm"},
+					"DomesticTotalGross": {"S":"b'$21,905'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"ReleaseDate": {"S":"b'October 2, 1987'"},
+					"MPAARating": {"S":"b'R'"},
+					"Distributor": {"S":"b'Palisades Ent.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Actor": {"S":"b'Virginia Madsen'"},
+					"Domestic": {"S":"b'$21,905'"},
+					"OpeningWeekend": {"S":"b'$12,165'"},
+					"WidestRelease": {"S":"b'25 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Zombie': '54', 'School - Prep / Boarding / Catholic': '36'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1987': '231', 'Yearly R Rated 1987': '120', 'Yearly Opening Weekends (Limited) 1987': '83', 'All Time Domestic': '12,408', 'Yearly (Limited) 1987': '78', 'Yearly Opening Weekends 1987': '189', 'Highest All Time Rank (on July 5, 1988)': '1166'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Zombieland'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=zombieland.htm"},
+					"DomesticTotalGross": {"S":"b'$75,590,286'"},
+					"Genre": {"S":"b'Horror Comedy'"},
+					"Runtime": {"S":"b'1 hrs. 21 min.'"},
+					"ReleaseDate": {"S":"b'October 2, 2009'"},
+					"MPAARating": {"S":"b'R'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"ProductionBudget": {"S":"b'$23.6 million'"},
+					"Composer": {"S":"b'David Sardy'"},
+					"Director": {"S":"b'Ruben Fleischer'"},
+					"Producer": {"S":"b'Ryan Kavanaugh, Gavin Polone, Rhett Reese, Paul Wernick'"},
+					"Writer": {"S":"b'Rhett Reese, Paul Wernick'"},
+					"Actor": {"S":"b'Woody Harrelson, Jesse Eisenberg, Emma Stone, Abigail Breslin, Amber Heard*, Bill Murray*'"},
+					"Worldwide": {"S":"b'$102,391,540'"},
+					"Foreign": {"S":"b'$26,801,254'"},
+					"Domestic": {"S":"b'$75,590,286'"},
+					"InRelease": {"S":"b'77 days / 11 weeks'"},
+					"CloseDate": {"S":"b'December 13, 2009'"},
+					"OpeningWeekend": {"S":"b'$24,733,155'"},
+					"WidestRelease": {"S":"b'3,171 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Horror Comedy': '10', 'Zombie': '3', 'Post-Apocalypse': '18'}"},
+					"Franchise": {"S":"{'Showdown: Zombie Showdown': '1', Showdown: 'Zombieland' Vs. 'Warm Bodies': '1'}"},
+					"Chart": {"S":"{'Yearly R Rated 2009': '10', 'Opening Weekends': '635', 'Yearly 2009': '42', 'Yearly (Wide) 2009': '43', 'Opening Weekends - October': '30', 'Yearly Opening Weekends (Wide) 2009': '40', 'Opening Weekends Adjusted - Fall': '73', BOM Users' Grades: '63', 'Opening Weeks Adjusted': '912', BOM Users' Grades (2009 Releases): '13', 'Widest Opening Releases': '817', 'Opening Weekends Adjusted - October': '40', 'Opening Weekends - Fall': '50', 'Worldwide Yearly 2009': '56', 'Yearly Opening Weekends 2009': '39', 'Widest R Rated Releases': '108', 'Widest Releases': '679', 'Opening Weekends Adjusted': '865', 'Opening Weeks': '667', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '252', 'Smallest Drops, 2,500+ theaters (Saturation)': '504', 'All Time Domestic': '959', 'Smallest Drops, All Wide Releases': '1,913', 'Widest R Rated Openings': '165', 'Smallest Drops, 2,000+ theaters (Very Wide)': '748', 'Rated R, Opening Weekends': '148'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Zoo'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=zoo.htm"},
+					"DomesticTotalGross": {"S":"b'$69,770'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Runtime": {"S":"b'1 hrs. 16 min.'"},
+					"ReleaseDate": {"S":"b'April 25, 2007'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Distributor": {"S":"b'ThinkFilm'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Worldwide": {"S":"b'$69,770'"},
+					"Foreign": {"S":"b'n/a'"},
+					"Domestic": {"S":"b'$69,770'"},
+					"InRelease": {"S":"b'79 days / 11.3 weeks'"},
+					"CloseDate": {"S":"b'July 12, 2007'"},
+					"OpeningWeekend": {"S":"b'$7,811'"},
+					"WidestRelease": {"S":"b'5 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '681'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Unrated Movies 2007': '72', 'Yearly 2007': '399', 'Yearly (Limited) 2007': '213', 'All Time Domestic': '10,837', 'Yearly Opening Weekends (Limited) 2007': '279', 'Worldwide Yearly 2007': '420', 'Yearly Opening Weekends 2007': '446'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Zookeeper'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=zookeeper.htm"},
+					"DomesticTotalGross": {"S":"b'$80,360,843'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Runtime": {"S":"b'1 hrs. 44 min.'"},
+					"ReleaseDate": {"S":"b'July 8, 2011'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"ProductionBudget": {"S":"b'$80 million'"},
+					"Director": {"S":"b'Frank Coraci'"},
+					"Producer": {"S":"b'Todd Garner, Jack Giarraputo'"},
+					"Writer": {"S":"b'Nick Bakay, Kevin James, Rock Reuben, David Ronn, Jay Scherick'"},
+					"Actor": {"S":"b'Kevin James, Rosario Dawson, Leslie Bibb, Ken Jeong, Donnie Wahlberg, Nick Nolte* , Adam Sandler*, Sylvester Stallone*, Cher*, Judd Apatow*, Jon Favreau*, Maya Rudolph* , Don Rickles*'"},
+					"Worldwide": {"S":"b'$169,852,759'"},
+					"Foreign": {"S":"b'$89,491,916'"},
+					"Domestic": {"S":"b'$80,360,843'"},
+					"InRelease": {"S":"b'112 days / 16 weeks'"},
+					"CloseDate": {"S":"b'October 27, 2011'"},
+					"OpeningWeekend": {"S":"b'$20,065,617'"},
+					"WidestRelease": {"S":"b'3,482 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Family - Talking Animal (Live action)': '18', 'Comedy - Bumbling': '7'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weekends': '873', 'Widest Releases': '366', 'Opening Weekends Adjusted': '1,251', 'Opening Weekends Adjusted - July': '161', 'Widest PG Rated Releases': '122', 'Opening Weeks': '767', 'Smallest Drops, 2,500+ theaters (Saturation)': '447', 'Smallest Drops, All Wide Releases': '1,764', 'Rated PG, Opening Weekends': '176', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '219', 'Opening Weeks Adjusted': '1,114', 'All Time Domestic': '876', 'Smallest Drops, 2,000+ theaters (Very Wide)': '666', 'Widest Opening Releases': '341', 'Widest PG Rated Openings': '118', 'Opening Weekends - July': '119'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Zoolander'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=zoolander.htm"},
+					"DomesticTotalGross": {"S":"b'$45,172,250'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Runtime": {"S":"b'1 hrs. 29 min.'"},
+					"ReleaseDate": {"S":"b'September 28, 2001'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'$28 million'"},
+					"Composer": {"S":"b'David Arnold'"},
+					"Director": {"S":"b'Ben Stiller'"},
+					"Producer": {"S":"b'Scott Rudin, Ben Stiller'"},
+					"Writer": {"S":"b'Ben Stiller'"},
+					"Actor": {"S":"b'Ben Stiller, Owen Wilson, Christine Taylor, Will Ferrell, Milla Jovovich, Jon Voight*, David Duchovny*, James Marsden*'"},
+					"Worldwide": {"S":"b'$60,780,981'"},
+					"Foreign": {"S":"b'$15,608,731'"},
+					"Domestic": {"S":"b'$45,172,250'"},
+					"OpeningWeekend": {"S":"b'$15,525,043'"},
+					"WidestRelease": {"S":"b'2,522 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weekends': '1,180', BOM Users' Grades (2001 Releases): '62', 'Opening Weekends Adjusted': '1,118', 'Opening Weeks': '1,375', 'Opening Weekends - September': '66', 'Opening Weekends Adjusted - September': '50', 'Opening Weekends Adjusted - Fall': '114', 'Highest All Time Rank (on August 28, 2002)': '617', 'Yearly Opening Weekends (Wide) 2001': '41', BOM Users' Grades: '519', 'Worldwide Yearly 2001': '68', 'Yearly PG-13 Rated 2001': '28', 'Yearly (Wide) 2001': '57', 'Opening Weeks Adjusted': '1,336', 'All Time Domestic': '1,735', 'Smallest Drops, All Wide Releases': '1,783', 'Smallest Drops, 2,500+ theaters (Saturation)': '456', 'Smallest Drops, 2,000+ theaters (Very Wide)': '678', 'Yearly 2001': '55', 'Opening Weekends - Fall': '138', 'Yearly Opening Weekends 2001': '40'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Zoolander 2'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=zoolander2.htm"},
+					"DomesticTotalGross": {"S":"b'$28,848,693'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"ReleaseDate": {"S":"b'February 12, 2016'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Director": {"S":"b'Ben Stiller'"},
+					"Writer": {"S":"b'John Hamburg, Ben Stiller, Nick Stoller, Justin Theroux'"},
+					"Actor": {"S":"b'Penelope Cruz, Will Ferrell, Ben Stiller, Kristen Wiig, Owen Wilson'"},
+					"Worldwide": {"S":"b'$56,722,693'"},
+					"Foreign": {"S":"b'$27,874,000'"},
+					"Domestic": {"S":"b'$28,848,693'"},
+					"InRelease": {"S":"b'49 days / 7 weeks'"},
+					"CloseDate": {"S":"b'March 31, 2016'"},
+					"OpeningWeekend": {"S":"b'$13,841,146'"},
+					"WidestRelease": {"S":"b'3,418 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - Sequel (Live Action)': '82'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weekends Adjusted': '2,077', 'Opening Weekends': '1,349', 'Widest Releases': '426', 'Widest Opening Releases': '417', 'Worst Openings - Super Saturated Adjusted': '96', 'Opening Weeks': '1,434', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '781', 'Biggest Theater Drops': '160', 'Smallest Drops, All Wide Releases': '3,957', President's Day 4-Day Holiday Weekend Openers: '40', 'Biggest 2nd Weekend Drops': '461', 'Opening Weekends Adjusted - February': '149', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,453', 'Opening Weeks Adjusted': '2,148', 'All Time Domestic': '2,583', 'Worst Openings - Super Saturated': '133', 'Sunday Share of Opening Weekends': '38', 'Opening Weekends - Winter': '194', 'Opening Weekends - February': '105', 'Smallest Drops, 2,000+ theaters (Very Wide)': '2,030', President's Day 4-Day Holiday Weekends: '70'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Zoom'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=zoom.htm"},
+					"DomesticTotalGross": {"S":"b'$11,989,328'"},
+					"Genre": {"S":"b'Family Adventure'"},
+					"Runtime": {"S":"b'1 hrs. 23 min.'"},
+					"ReleaseDate": {"S":"b'August 11, 2006'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Distributor": {"S":"b'Sony (Revolution)'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Director": {"S":"b'Peter Hewitt'"},
+					"Producer": {"S":"b'Todd Garner'"},
+					"Writer": {"S":"b'Adam Rifkin'"},
+					"Actor": {"S":"b'Tim Allen, Courteney Cox, Chevy Chase, Spencer Breslin, Kate Mara, Rip Torn'"},
+					"Worldwide": {"S":"b'$12,506,188'"},
+					"Foreign": {"S":"b'$516,860'"},
+					"Domestic": {"S":"b'$11,989,328'"},
+					"CloseDate": {"S":"b'September 17, 2006'"},
+					"OpeningWeekend": {"S":"b'$4,510,408'"},
+					"WidestRelease": {"S":"b'2,501 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Superhero': '101'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weekends Adjusted': '3,671', 'Opening Weekends': '3,211', 'Worst Openings - Saturated Adjusted': '45', 'Yearly Opening Weekends (Wide) 2006': '140', 'Opening Weeks': '3,095', 'Smallest Drops, 2,500+ theaters (Saturation)': '792', 'Biggest Theater Drops': '104', BOM Users' Grades (2006 Releases): '206', 'Yearly PG Rated 2006': '33', 'Worldwide Yearly 2006': '186', 'Worst Openings - Very Wide Adjusted': '136', 'Yearly (Wide) 2006': '144', 'Worst Openings - Saturated': '26', 'Yearly 2006': '148', 'Opening Weeks Adjusted': '3,520', 'All Time Domestic': '4,174', 'Yearly Opening Weekends 2006': '132', 'Smallest Drops, All Wide Releases': '2,577', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,139', 'Worst Openings - Very Wide': '115'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Zoot Suit'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=zootsuit.htm"},
+					"DomesticTotalGross": {"S":"b'$3,256,082'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Runtime": {"S":"b'1 hrs. 43 min.'"},
+					"ReleaseDate": {"S":"b'October 2, 1981'"},
+					"MPAARating": {"S":"b'R'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$3,256,082'"},
+					"\t\tOpeningWeekend": {"S":"b'$63,356'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Musical': '60'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1981': '85', 'All Time Domestic': '5,914'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Zootopia'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=disney2016.htm"},
+					"DomesticTotalGross": {"S":"b'$341,268,248'"},
+					"Genre": {"S":"b'Animation'"},
+					"Runtime": {"S":"b'1 hrs. 48 min.'"},
+					"ReleaseDate": {"S":"b'March 4, 2016'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Director": {"S":"b'Byron Howard, Rich Moore'"},
+					"Composer": {"S":"b'Michael Giacchino'"},
+					"Actor": {"S":"b'Ginnifer Goodwin, Jason Bateman, Idris Elba, J.K. Simmons , Jenny Slate , Tommy Chong , Octavia Spencer, Bonnie Hunt, Alan Tudyk'"},
+					"Worldwide": {"S":"b'$1,023,784,195'"},
+					"Foreign": {"S":"b'$682,515,947'"},
+					"Domestic": {"S":"b'$341,268,248'"},
+					"InRelease": {"S":"b'154 days / 22 weeks'"},
+					"CloseDate": {"S":"b'August 4, 2016'"},
+					"OpeningWeekend": {"S":"b'$75,063,401'"},
+					"WidestRelease": {"S":"b'3,959 theaters'"},
+					"Awards": {"S":"Nominated for One Oscar, Including One Win."},
+					"GenreRank": {"S":"{'Animation': '10', 'Animation - Computer': '9', '3D': '18', 'IMAX (Feature-length)': '22'}"},
+					"Franchise": {"S":"{'Showdown: Top Grossing Original Animated Openers': '3', 'Brand: Walt Disney Animation Studios': '2', 'Showdown: Top March Animated Openers': '1', 'Showdown: Recent CG Animated Hits': '3'}"},
+					"Chart": {"S":"{'Sixth Weekends Adjusted': '54', 'Opening Weekends': '81', 'Most Weekends at #1 (non-consecutive)': '99', 'Most Weekends in Top 5 (non-consecutive)': '84', 'Eighth Weekends Adjusted': '122', 'Single Day Saturday Gross Adjusted': '118', 'Single Day Saturday Gross': '69', 'Fastest to $100 million': '115', 'Top 4-Day Grosses': '98', 'Second Weekends Adjusted': '64', 'Single Day Gross': '177', 'Top 7-Day Grosses': '126', 'Ninth Weekends': '29', 'Twelfth Weekends': '82', 'Widest Opening Releases': '145', 'Twelfth Weekends Adjusted': '168', 'Widest PG Rated Openings': '55', 'Seventh Weekends Adjusted': '127', 'Theater Averages (Wide Releases) - All Time': '105', 'Fastest to $150 million': '89', 'Top 10-Day Grosses': '83', 'Fastest to $250 million': '56', 'Smallest Drops, 2,500+ theaters (Saturation)': '242', 'Third Weekends Adjusted': '35', 'Consecutive Weekends In Top 5': '73', 'Top 5-Day Grosses': '105', 'Rated PG, Opening Weekends': '17', 'Theater Averages - Wide Opening Weekends': '98', 'Consecutive Weekends At #1': '87', 'Sixth Weekends': '8', 'Fourth Weekends Adjusted': '48', 'Smallest Drops, All Wide Releases': '1,184', 'Opening Weekends Adjusted - Spring': '15', 'Smallest Drops, 2,000+ theaters (Very Wide)': '380', 'Opening Weekends Adjusted - March': '10', 'Ninth Weekends Adjusted': '111', 'Top 3-Day Grosses': '81', 'Third Weekends': '12', 'Tenth Weekends': '52', 'Top 6-Day Grosses': '114', 'Slowest to $200 million': '104', 'Eleventh Weekends Adjusted': '120', 'Fastest to $300 million': '43', 'Single Day Sunday Gross': '66', 'Rated G and PG, Opening Weekends': '19', 'Tenth Weekends Adjusted': '156', 'Most Weekends in Top 10 (non-consecutive)': '75', 'Eighth Weekends': '28', 'Rated G and PG, Opening Weekends Adjusted': '36', 'Fourth Weekends': '12', 'Rated PG': '11', 'Opening Weekends - Spring': '11', 'Rated G and PG Adjusted': '88', 'Rated PG, Opening Weekends Adjusted': '28', 'Sunday Share of Opening Weekends': '185', 'Opening Weekends Adjusted': '138', 'Opening Weekends - March': '7', 'Single Day Sunday Gross Adjusted': '118', 'Consecutive Weekends In Top 10': '60', 'Eleventh Weekends': '51', 'Widest Releases': '103', 'Rated G and PG': '14', 'Top 8-Day Grosses': '115', 'Widest PG Rated Releases': '36', 'Opening Weeks': '115', 'Opening Day Gross': '169', 'Rated PG Adjusted': '58', 'Fifth Weekends Adjusted': '45', 'Highest All Time Rank (on June 5, 2016)': '38', 'Single Day Friday Gross': '193', 'All Time Adjusted': '182', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '109', 'Opening Weeks Adjusted': '198', 'Top 9-Day Grosses': '91', 'All Time Domestic': '41', 'Fastest to $200 million': '69', 'Slowest to $100 million': '520', 'All Time Worldwide': '26', 'Second Weekends': '35', 'Fifth Weekends': '7', 'Seventh Weekends': '24'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Zorro, the Gay Blade'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=zorrothegayblade.htm"},
+					"Genre": {"S":"b'Action Comedy'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"ReleaseDate": {"S":"b'July 17, 1981'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Director": {"S":"b'Peter Medak'"},
+					"Producer": {"S":"b'C.O. Erickson, George Hamilton, Greg Alt* , Don Moriarty*'"},
+					"Cinematographer": {"S":"b'John A. Alonzo'"},
+					"Writer": {"S":"b'Hal Dresner, Greg Alt , Don Moriarty , Bob Randall'"},
+					"Actor": {"S":"b'George Hamilton, Lauren Hutton, Brenda Vaccaro'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Zu Warriors'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=zuwarriors.htm"},
+					"Genre": {"S":"b'Foreign'"},
+					"Runtime": {"S":"b'1 hrs. 20 min.'"},
+					"ReleaseDate": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Distributor": {"S":"b'Miramax'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Zulu'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=zulu.htm"},
+					"Genre": {"S":"b'War'"},
+					"Runtime": {"S":"b'2 hrs. 18 min.'"},
+					"ReleaseDate": {"S":"b'June 17, 1964'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Distributor": {"S":"b'Embassy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Producer": {"S":"b'Stanley Baker, Cy Endfield'"},
+					"Cinematographer": {"S":"b'Stephen Dade'"},
+					"Actor": {"S":"b'Stanley Baker, Jack Hawkins, Ulla Jacobsson, James Booth, Michael Caine'"},
+					"Director": {"S":"b'Cy Endfield'"},
+					"Composer": {"S":"b'John Barry'"},
+					"Writer": {"S":"b'Cy Endfield, John Prebble'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Zulu Dawn'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=zuludawn.htm"},
+					"Genre": {"S":"b'War'"},
+					"Runtime": {"S":"b'1 hrs. 38 min.'"},
+					"ReleaseDate": {"S":"b'December 14, 1979'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Distributor": {"S":"b'American Cinema'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Composer": {"S":"b'Elmer Bernstein'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Zus &amp; Zo'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=zusandzo.htm"},
+					"DomesticTotalGross": {"S":"b'$49,468'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Runtime": {"S":"b'1 hrs. 46 min.'"},
+					"ReleaseDate": {"S":"b'February 7, 2003'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Distributor": {"S":"b'Lifesize'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Worldwide": {"S":"b'$49,468'"},
+					"Foreign": {"S":"b'n/a'"},
+					"Domestic": {"S":"b'$49,468'"},
+					"InRelease": {"S":"b'45 days / 6.4 weeks'"},
+					"CloseDate": {"S":"b'March 23, 2003'"},
+					"OpeningWeekend": {"S":"b'$6,700'"},
+					"WidestRelease": {"S":"b'4 theaters'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"{'Foreign Language': '1360'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2003': '245', 'All Time Domestic': '11,341', 'Yearly Opening Weekends (Limited) 2003': '269', 'Yearly Unrated Movies 2003': '90', 'Highest All Time Rank (on March 20, 2003)': '5530', 'Yearly Opening Weekends 2003': '398', 'Worldwide Yearly 2003': '308', 'Yearly 2003': '391'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Zyzzyx Road'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=zyzzyxroad.htm"},
+					"DomesticTotalGross": {"S":"b'$30'"},
+					"Genre": {"S":"b'Thriller'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"ReleaseDate": {"S":"b'February 25, 2006'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Distributor": {"S":"b'Regent Releasing'"},
+					"ProductionBudget": {"S":"b'$2 million'"},
+					"Director": {"S":"b'John Penney'"},
+					"Actor": {"S":"b'Katherine Heigl, Tom Sizemore'"},
+					"Domestic": {"S":"b'$30'"},
+					"InRelease": {"S":"b'6 days / 0.9 weeks'"},
+					"CloseDate": {"S":"b'March 2, 2006'"},
+					"OpeningWeekend": {"S":"b'$20'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2006': '433', 'Yearly Unrated Movies 2006': '212', 'Yearly Opening Weekends (Limited) 2006': '439', 'All Time Domestic': '14,700', 'Yearly Opening Weekends 2006': '597', BOM Users' Grades (2006 Releases): '211', 'Yearly 2006': '608'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'[Rec] 2'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=rec2.htm"},
+					"DomesticTotalGross": {"S":"b'$27,766'"},
+					"Genre": {"S":"b'Foreign / Horror'"},
+					"Runtime": {"S":"b'1 hrs. 25 min.'"},
+					"ReleaseDate": {"S":"b'July 9, 2010'"},
+					"MPAARating": {"S":"b'R'"},
+					"Distributor": {"S":"b'Magnolia'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Worldwide": {"S":"b'$18,497,446'"},
+					"Foreign": {"S":"b'$18,469,680'"},
+					"Domestic": {"S":"b'$27,766'"},
+					"InRelease": {"S":"b'35 days / 5 weeks'"},
+					"CloseDate": {"S":"b'August 12, 2010'"},
+					"OpeningWeekend": {"S":"b'$8,191'"},
+					"WidestRelease": {"S":"b'7 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1524', 'Found Footage': '31'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '12,102'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'blackhats (2015)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=blackhats2015.htm"},
+					"DomesticTotalGross": {"S":"b'$3,216'"},
+					"Genre": {"S":"b'Thriller'"},
+					"Runtime": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'October 23, 2015'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Distributor": {"S":"b'Reel One'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$3,216'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"CloseDate": {"S":"b'October 29, 2015'"},
+					"OpeningWeekend": {"S":"b'$2,482'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '14,234'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'crazy/beautiful'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=crazybeautiful.htm"},
+					"DomesticTotalGross": {"S":"b'$16,937,988'"},
+					"Genre": {"S":"b'Romance'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"ReleaseDate": {"S":"b'June 29, 2001'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"ProductionBudget": {"S":"b'$13 million'"},
+					"Director": {"S":"b'John Stockwell'"},
+					"Composer": {"S":"b'Paul Haslinger'"},
+					"Cinematographer": {"S":"b'Shane Hurlbut'"},
+					"Writer": {"S":"b'Phil Hay, Matt Manfredi'"},
+					"Actor": {"S":"b'Kirsten Dunst'"},
+					"Worldwide": {"S":"b'$19,937,988'"},
+					"Foreign": {"S":"b'$3,000,000'"},
+					"Domestic": {"S":"b'$16,937,988'"},
+					"OpeningWeekend": {"S":"b'$4,715,060'"},
+					"WidestRelease": {"S":"b'1,603 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sports - Football (Featured)': '9', 'Romantic Drama': '81', 'Teen Romance': '37'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weekends': '3,134', 'Opening Weekends Adjusted': '3,372', 'Opening Weeks': '2,740', 'Highest All Time Rank (on August 28, 2002)': '1468', 'Yearly Opening Weekends (Wide) 2001': '115', 'Worldwide Yearly 2001': '117', 'Yearly PG-13 Rated 2001': '50', 'Yearly (Wide) 2001': '107', 'Opening Weeks Adjusted': '2,891', 'All Time Domestic': '3,550', 'Smallest Drops, All Wide Releases': '667', BOM Users' Grades (2001 Releases): '89', 'Yearly 2001': '109', 'Yearly Opening Weekends 2001': '108'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'demonlover'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=demonlover.htm"},
+					"DomesticTotalGross": {"S":"b'$232,044'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Runtime": {"S":"b'2 hrs. 0 min.'"},
+					"ReleaseDate": {"S":"b'September 19, 2003'"},
+					"MPAARating": {"S":"b'R'"},
+					"Distributor": {"S":"b'Palm'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Actor": {"S":"b'Chloe Sevigny, Gina Gershon'"},
+					"Worldwide": {"S":"b'$232,044'"},
+					"Foreign": {"S":"b'n/a'"},
+					"Domestic": {"S":"b'$232,044'"},
+					"InRelease": {"S":"b'133 days / 19 weeks'"},
+					"CloseDate": {"S":"b'January 29, 2004'"},
+					"OpeningWeekend": {"S":"b'$39,284'"},
+					"WidestRelease": {"S":"b'15 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2003': '147', 'All Time Domestic': '9,227', 'Yearly Opening Weekends (Limited) 2003': '129', 'Highest All Time Rank (on November 13, 2003)': '5308', 'Yearly R Rated 2003': '121', 'Yearly Opening Weekends 2003': '258', 'Worldwide Yearly 2003': '266', 'Yearly 2003': '293'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'eXistenZ'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=existenz.htm"},
+					"DomesticTotalGross": {"S":"b'$2,856,712'"},
+					"Genre": {"S":"b'Sci-Fi Thriller'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"ReleaseDate": {"S":"b'April 23, 1999'"},
+					"MPAARating": {"S":"b'R'"},
+					"Distributor": {"S":"b'Miramax'"},
+					"ProductionBudget": {"S":"b'$15 million'"},
+					"Composer": {"S":"b'Howard Shore'"},
+					"Actor": {"S":"b'Jude Law, Ian Holm, Willem Dafoe, Sarah Polley'"},
+					"Domestic": {"S":"b'$2,856,712'"},
+					"OpeningWeekend": {"S":"b'$810,262'"},
+					"WidestRelease": {"S":"b'256 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Future - Near': '68', 'Virtual Reality': '16', 'Mindbender': '20'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 1999': '90', 'Yearly Opening Weekends (Limited) 1999': '7', 'All Time Domestic': '6,064', 'Yearly Opening Weekends 1999': '138', 'Highest All Time Rank (on August 28, 2002)': '2905', BOM Users' Grades (1999 Releases): '62', 'Yearly (Limited) 1999': '32', 'Yearly 1999': '174'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'fear dot com'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=feardotcom.htm"},
+					"DomesticTotalGross": {"S":"b'$13,258,249'"},
+					"Genre": {"S":"b'Horror'"},
+					"Runtime": {"S":"b'1 hrs. 38 min.'"},
+					"ReleaseDate": {"S":"b'August 30, 2002'"},
+					"MPAARating": {"S":"b'R'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'$40 million'"},
+					"Cinematographer": {"S":"b'Christian Sebaldt'"},
+					"Worldwide": {"S":"b'$18,902,015'"},
+					"Foreign": {"S":"b'$5,643,766'"},
+					"Domestic": {"S":"b'$13,258,249'"},
+					"CloseDate": {"S":"b'October 31, 2002'"},
+					"OpeningWeekend": {"S":"b'$5,710,128'"},
+					"WidestRelease": {"S":"b'2,550 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 2002': '110', 'Opening Weekends': '2,815', 'Worst Openings - Saturated Adjusted': '115', 'Opening Weeks': '2,736', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,384', 'Smallest Drops, All Wide Releases': '3,825', 'Labor Day 4-Day Holiday Weekend Openers': '32', 'Yearly 2002': '134', 'Highest All Time Rank (on October 24, 2002)': '2177', BOM Users' Grades (2002 Releases): '177', 'Yearly (Wide) 2002': '127', 'Opening Weekends Adjusted': '3,061', 'Opening Weeks Adjusted': '2,943', 'Worldwide Yearly 2002': '136', 'Worst Openings - Saturated': '61', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,935', 'Sunday Share of Opening Weekends': '91', 'Yearly R Rated 2002': '44', 'Yearly Opening Weekends (Wide) 2002': '115', 'Labor Day 4-Day Holiday Weekends': '130', 'All Time Domestic': '3,997'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'johns'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=johns.htm"},
+					"Genre": {"S":"b'Unknown'"},
+					"DomesticTotalasofFeb.2,1997": {"S":"b'$50,789'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"ReleaseDate": {"S":"b'January 31, 1997'"},
+					"MPAARating": {"S":"b'R'"},
+					"Distributor": {"S":"b'First Look'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Producer": {"S":"b'Beau Flynn'"},
+					"Actor": {"S":"b'David Arquette, Lukas Haas, John C. McGinley, Keith David, Terrence Howard*'"},
+					"Domestic": {"S":"b'$50,789'"},
+					"InRelease": {"S":"b'3 days / 0.4 weeks'"},
+					"OpeningWeekend": {"S":"b'$50,789'"},
+					"WidestRelease": {"S":"b'8 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 1997': '194', 'All Time Domestic': '11,290', 'Yearly Opening Weekends (Limited) 1997': '56', 'Yearly 1997': '270', 'Yearly R Rated 1997': '147', 'Highest All Time Rank (on February 2, 1997)': '3650', 'Yearly (Limited) 1997': '98'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'loudQUIETloud: A Film About The Pixies'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=pixies.htm"},
+					"DomesticTotalGross": {"S":"b'$7,506'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Runtime": {"S":"b'1 hrs. 22 min.'"},
+					"ReleaseDate": {"S":"b'September 29, 2006'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Distributor": {"S":"b'Roxie'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$7,506'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"CloseDate": {"S":"b'October 5, 2006'"},
+					"OpeningWeekend": {"S":"b'$3,792'"},
+					"WidestRelease": {"S":"b'3 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '1266'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Unrated Movies 2006': '167', 'Yearly Opening Weekends (Limited) 2006': '342', 'All Time Domestic': '13,630', 'Yearly Opening Weekends 2006': '500', 'Yearly 2006': '543', 'Yearly (Limited) 2006': '368'}"}
+				}
+			}
+		}
+	]
+}

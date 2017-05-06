@@ -1,0 +1,618 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fresh'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fresh.htm"},
+					"ReleaseDate": {"S":"b'August 19, 1994'"},
+					"Genre": {"S":"b'Crime Drama'"},
+					"Distributor": {"S":"b'Miramax'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$8,094,616'"},
+					"Runtime": {"S":"b'1 hrs. 54 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Boaz Yakin'"},
+					"Producer": {"S":"b'Lawrence Bender'"},
+					"Actor": {"S":"b'Samuel L. Jackson'"},
+					"Director": {"S":"b'Boaz Yakin'"},
+					"Domestic": {"S":"b'$8,094,616'"},
+					"WidestRelease": {"S":"b'413 theaters'"},
+					"OpeningWeekend": {"S":"b'$2,921,660'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 1994': '7', 'All Time Domestic': '4,738', 'Yearly Opening Weekends (Limited) 1994': '1', 'Yearly R Rated 1994': '44', 'Yearly Opening Weekends 1994': '98', 'Highest All Time Rank (on September 27, 1994)': '1602', 'Yearly 1994': '117'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fresh (2010)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fresh2010.htm"},
+					"ReleaseDate": {"S":"b'April 9, 2010'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Distributor": {"S":"b'Ripple Effect Inc.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$25,115'"},
+					"Runtime": {"S":"b'1 hrs. 12 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$25,115'"},
+					"WidestRelease": {"S":"b'3 theaters'"},
+					"CloseDate": {"S":"b'October 14, 2010'"},
+					"InRelease": {"S":"b'119 days / 17 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '12,230'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fresh Horses'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=freshhorses.htm"},
+					"ReleaseDate": {"S":"b'November 18, 1988'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Columbia'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$6,640,346'"},
+					"Runtime": {"S":"b'1 hrs. 42 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Actor": {"S":"b'Viggo Mortensen*, Ben Stiller*'"},
+					"Domestic": {"S":"b'$6,640,346'"},
+					"WidestRelease": {"S":"b'1,276 theaters'"},
+					"OpeningWeekend": {"S":"b'$3,074,292'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 1988': '74', 'All Time Domestic': '5,022', 'Highest All Time Rank (on December 13, 1988)': '1075', 'Yearly 1988': '108', 'Yearly (Wide) 1988': '95', 'Opening Weekends Adjusted': '3,542', 'Smallest Drops, All Wide Releases': '2,925', 'Opening Weeks Adjusted': '3,562', 'Yearly PG-13 Rated 1988': '18', 'Opening Weekends': '3,814', 'Yearly Opening Weekends (Wide) 1988': '82', 'Opening Weeks': '3,841'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Freshman Orientation'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=freshmanorientation.htm"},
+					"ReleaseDate": {"S":"b'August 31, 2007'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Regent Releasing'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$10,718'"},
+					"Runtime": {"S":"b'1 hrs. 31 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Composer": {"S":"b'tomandandy'"},
+					"Domestic": {"S":"b'$10,718'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"CloseDate": {"S":"b'December 13, 2007'"},
+					"OpeningWeekend": {"S":"b'$930'"},
+					"InRelease": {"S":"b'77 days / 11 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Comedy - College': '52', 'Gay / Lesbian': '298'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Limited) 2007': '432', 'Yearly R Rated 2007': '190', 'Yearly Opening Weekends 2007': '599', 'Yearly 2007': '537', 'Yearly (Limited) 2007': '351', 'All Time Domestic': '13,271'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Frida'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=frida.htm"},
+					"ReleaseDate": {"S":"b'October 25, 2002'"},
+					"Genre": {"S":"b'Period Drama'"},
+					"Distributor": {"S":"b'Miramax'"},
+					"ProductionBudget": {"S":"b'$12 million'"},
+					"DomesticTotalGross": {"S":"b'$25,885,000'"},
+					"Runtime": {"S":"b'2 hrs. 3 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Producer": {"S":"b'Jay Polstein'"},
+					"Actor": {"S":"b'Salma Hayek, Alfred Molina, Geoffrey Rush, Ashley Judd*, Antonio Banderas*, Diego Luna*, Edward Norton*'"},
+					"Composer": {"S":"b'Elliot Goldenthal'"},
+					"Director": {"S":"b'Julie Taymor'"},
+					"Domestic": {"S":"b'$25,885,000'"},
+					"Worldwide": {"S":"b'$56,298,474'"},
+					"Foreign": {"S":"b'$30,413,474'"},
+					"InRelease": {"S":"b'214 days / 30.6 weeks'"},
+					"WidestRelease": {"S":"b'794 theaters'"},
+					"CloseDate": {"S":"b'May 26, 2003'"},
+					"LimitedOpeningWeekend": {"S":"b'<b> $205,996</b>'"},
+					"WideOpeningWeekend": {"S":"b'$2,369,554'"},
+					"Awards": {"S":"Nominated for Six Oscars, Including Two Wins."},
+					"GenreRank": {"S":"{'Gay / Lesbian': '21', 'Travelogue - Mexico': '10'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '4,224', 'All Time Domestic': '2,764', 'Worldwide Yearly 2002': '77', 'Highest All Time Rank (on May 1, 2003)': '1408', 'Yearly Opening Weekends 2002': '178', 'Yearly Opening Weekends (Limited) 2002': '38', 'Post-Thanksgiving Weekend - Best Holds': '53', 'Smallest Drops, All Wide Releases': '357', 'Yearly Opening Weekends (Wide) 2002': '144', 'Yearly 2002': '96', 'Theater Averages - Opening Weekends': '172', 'Opening Weekends': '4,123', BOM Users' Grades (2002 Releases): '59', 'Opening Weeks': '4,043', 'Yearly R Rated 2002': '28', 'Yearly (Wide) 2002': '98', 'Opening Weekends Adjusted': '4,318'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Friday'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=friday.htm"},
+					"ReleaseDate": {"S":"b'April 28, 1995'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'New Line'"},
+					"ProductionBudget": {"S":"b'$3.5 million'"},
+					"DomesticTotalGross": {"S":"b'$27,467,564'"},
+					"Runtime": {"S":"b'1 hrs. 31 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Ice Cube'"},
+					"Producer": {"S":"b'Ice Cube'"},
+					"Actor": {"S":"b'Tony Cox, Ice Cube, Chris Tucker, Nia Long, Bernie Mac*'"},
+					"Director": {"S":"b'F. Gary Gray'"},
+					"Domestic": {"S":"b'$27,467,564'"},
+					"Worldwide": {"S":"b'$28,215,918'"},
+					"Foreign": {"S":"b'$748,354'"},
+					"WidestRelease": {"S":"b'883 theaters'"},
+					"OpeningWeekend": {"S":"b'$6,589,341'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Slacker / Stoner': '25'}"},
+					"Franchise": {"S":"{'Series: Friday': '3'}"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Wide) 1995': '66', 'Opening Weeks Adjusted': '1,996', 'All Time Domestic': '2,654', 'Opening Weekends - April': '196', 'Opening Weekends Adjusted - April': '147', 'Yearly (Wide) 1995': '59', 'Smallest Drops, All Wide Releases': '1,859', 'Yearly 1995': '62', 'Yearly Opening Weekends 1995': '62', 'Opening Weekends': '2,559', 'Highest All Time Rank (on June 13, 1995)': '736', 'Opening Weekends Adjusted': '2,197', 'Worldwide Yearly 1995': '44', 'Opening Weeks': '2,421', 'Yearly R Rated 1995': '25', BOM Users' Grades (1995 Releases): '29'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Friday After Next'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fridayafternext.htm"},
+					"ReleaseDate": {"S":"b'November 22, 2002'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'New Line'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$33,253,609'"},
+					"Runtime": {"S":"b'1 hrs. 28 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'Ice Cube'"},
+					"Producer": {"S":"b'Matt Alvarez, Ice Cube'"},
+					"Actor": {"S":"b'Ice Cube'"},
+					"Domestic": {"S":"b'$33,253,609'"},
+					"Worldwide": {"S":"b'$33,526,835'"},
+					"Foreign": {"S":"b'$273,226'"},
+					"WidestRelease": {"S":"b'1,621 theaters'"},
+					"CloseDate": {"S":"b'March 16, 2003'"},
+					"OpeningWeekend": {"S":"b'$13,010,767'"},
+					"InRelease": {"S":"b'115 days / 16.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Christmas - Setting Only': '23', 'Slacker / Stoner': '23'}"},
+					"Franchise": {"S":"{'Series: Friday': '2'}"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '1,484', 'All Time Domestic': '2,312', 'Opening Weekends Adjusted - November': '162', 'Worldwide Yearly 2002': '103', 'Thanksgiving 5-day Weekends': '137', 'Yearly Opening Weekends 2002': '57', BOM Users' Grades (2002 Releases): '142', 'Smallest Drops, All Wide Releases': '2,250', 'Yearly Opening Weekends (Wide) 2002': '59', 'Thanksgiving 3-day Weekends Adjusted': '181', 'Opening Weekends - November': '154', 'Thanksgiving 5-day Weekends Adjusted': '130', 'Opening Weekends': '1,449', 'Yearly 2002': '79', 'Post-Thanksgiving Weekend  - Biggest Drops': '53', 'Opening Weeks': '1,476', 'Highest All Time Rank (on January 12, 2003)': '1115', 'Yearly R Rated 2002': '17', 'Yearly (Wide) 2002': '81', 'Opening Weekends Adjusted': '1,448'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Friday Night'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fridaynight.htm"},
+					"ReleaseDate": {"S":"b'May 23, 2003'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Distributor": {"S":"b'Wellspring'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$156,918'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$156,918'"},
+					"WidestRelease": {"S":"b'5 theaters'"},
+					"CloseDate": {"S":"b'November 6, 2003'"},
+					"OpeningWeekend": {"S":"b'$9,381'"},
+					"InRelease": {"S":"b'168 days / 24 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '987'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '9,729', 'Yearly 2003': '318', 'Highest All Time Rank (on October 9, 2003)': '5383', 'Yearly (Limited) 2003': '172', 'Yearly Opening Weekends 2003': '371', 'Yearly Opening Weekends (Limited) 2003': '242', 'Yearly Unrated Movies 2003': '56'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Friday Night Lights'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fridaynightlights.htm"},
+					"ReleaseDate": {"S":"b'October 8, 2004'"},
+					"Genre": {"S":"b'Sports Drama'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'$30 million'"},
+					"DomesticTotalGross": {"S":"b'$61,255,921'"},
+					"Runtime": {"S":"b'1 hrs. 47 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Brian Grazer'"},
+					"Actor": {"S":"b'Billy Bob Thornton, Lucas Black, Garrett Hedlund, Derek Luke, Jay Hernandez, Connie Britton, Amber Heard*'"},
+					"Cinematographer": {"S":"b'Tobias A. Schliessler'"},
+					"Writer": {"S":"b'Peter Berg'"},
+					"Composer": {"S":"b'Brian Reitzell'"},
+					"Director": {"S":"b'Peter Berg'"},
+					"Domestic": {"S":"b'$61,255,921'"},
+					"Worldwide": {"S":"b'$61,950,770'"},
+					"Foreign": {"S":"b'$694,849'"},
+					"WidestRelease": {"S":"b'3,004 theaters'"},
+					"CloseDate": {"S":"b'December 30, 2004'"},
+					"OpeningWeekend": {"S":"b'$20,269,025'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sports - Period': '7', 'Sports - Coach': '7', 'Sports - Football': '6', 'Sports Drama': '21'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weekends Adjusted - Fall': '71', 'Yearly 2004': '48', 'Opening Weekends - October': '48', 'Widest Releases': '951', 'Yearly PG-13 Rated 2004': '27', 'Opening Weekends - Fall': '88', 'Worldwide Yearly 2004': '82', 'Opening Weekends Adjusted - October': '38', 'All Time Domestic': '1,244', 'Opening Weekends Adjusted': '858', 'Smallest Drops, All Wide Releases': '1,871', BOM Users' Grades (2004 Releases): '47', 'Opening Weeks Adjusted': '978', 'Yearly Opening Weekends 2004': '44', 'Smallest Drops, 2,000+ theaters (Very Wide)': '727', 'Opening Weeks': '946', 'Yearly (Wide) 2004': '47', 'Opening Weekends': '854', 'Yearly Opening Weekends (Wide) 2004': '44', 'Smallest Drops, 2,500+ theaters (Saturation)': '488'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Friday the 13th (1980)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=friday13th.htm"},
+					"ReleaseDate": {"S":"b'May 9, 1980'"},
+					"Genre": {"S":"b'Horror'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$39,754,601'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Kevin Bacon'"},
+					"Domestic": {"S":"b'$39,754,601'"},
+					"\t\tOpeningWeekend": {"S":"b'$5,816,321'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Horror - Slasher': '18'}"},
+					"Franchise": {"S":"{'Series: Friday the 13th': '3'}"},
+					"Chart": {"S":"{'Opening Weekends Adjusted - May': '140', 'Opening Weekends - May': '191', 'Highest All Time Rank (on January 1, 1982)': '126', 'Yearly 1980': '18', 'Opening Weekends': '2,772', 'Opening Weekends Adjusted': '1,525', 'All Time Domestic': '1,962'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Friday the 13th (2009)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fridaythe13th09.htm"},
+					"ReleaseDate": {"S":"b'February 13, 2009'"},
+					"Genre": {"S":"b'Horror'"},
+					"Distributor": {"S":"b'Warner Bros. (New Line)'"},
+					"ProductionBudget": {"S":"b'$19 million'"},
+					"DomesticTotalGross": {"S":"b'$65,002,019'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Cinematographer": {"S":"b'Daniel Pearl'"},
+					"Producer": {"S":"b'Michael Bay, Andrew Form, Brad Fuller'"},
+					"Composer": {"S":"b'Steve Jablonsky'"},
+					"Director": {"S":"b'Marcus Nispel'"},
+					"Domestic": {"S":"b'$65,002,019'"},
+					"Worldwide": {"S":"b'$91,379,051'"},
+					"Foreign": {"S":"b'$26,377,032'"},
+					"WidestRelease": {"S":"b'3,105 theaters'"},
+					"CloseDate": {"S":"b'April 23, 2009'"},
+					"OpeningWeekend": {"S":"b'$40,570,365'"},
+					"InRelease": {"S":"b'70 days / 10 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Horror - Slasher': '7', 'Horror Remake': '7'}"},
+					"Franchise": {"S":"{'Series: Friday the 13th': '2', 'Showdown: Horror Revival Rip-Off': '4', 'Showdown: Slasher Remake': '1', 'Brand: Platinum Dunes': '7'}"},
+					"Chart": {"S":"{'Top 3-Day Grosses': '276', 'Rated R, Opening Weekends': '37', 'Biggest 2nd Weekend Drops': '9', 'Opening Day Gross': '174', 'Yearly Opening Weekends 2009': '21', 'Friday Share of Opening Weekends': '35', 'Widest R Rated Releases': '154', 'Worldwide Yearly 2009': '65', 'Rated R, Opening Weekends Adjusted': '55', 'Smallest Drops, All Wide Releases': '4,432', President's Day 4-Day Holiday Weekends: '8', 'Opening Weeks Adjusted': '512', 'Yearly R Rated 2009': '15', 'Single Day Friday Gross Adjusted': '229', 'Smallest Drops, 2,000+ theaters (Very Wide)': '2,299', 'Opening Weeks': '397', 'Opening Weekends - Winter': '18', 'All Time Domestic': '1,161', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '903', 'Widest Opening Releases': '715', 'Opening Weekends Adjusted - February': '15', 'Friday to Saturday Drops on Opening Weekends': '85', 'Single Day Friday Gross': '198', 'Single Day Gross': '612', 'Opening Weekends - February': '15', 'Opening Weekends Adjusted': '375', 'Yearly (Wide) 2009': '53', 'Widest R Rated Openings': '127', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,650', 'Opening Weekends Adjusted - Winter': '18', BOM Users' Grades (2009 Releases): '86', President's Day 4-Day Holiday Weekend Openers: '7', 'Yearly 2009': '52', 'Widest Releases': '790', 'Yearly Opening Weekends (Wide) 2009': '21', 'Opening Weekends': '287'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Friday the 13th (2016)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=friday2015.htm"},
+					"ReleaseDate": {"S":"b'TBD'"},
+					"Genre": {"S":"b'Horror'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Horror - Slasher': 'n/a'}"},
+					"Franchise": {"S":"{'Series: Friday the 13th': 'n/a'}"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Friday the 13th - Part V'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=friday13th5.htm"},
+					"ReleaseDate": {"S":"b'March 22, 1985'"},
+					"Genre": {"S":"b'Horror'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$21,930,418'"},
+					"Runtime": {"S":"b'1 hrs. 32 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Director": {"S":"b'Danny Steinmann'"},
+					"Domestic": {"S":"b'$21,930,418'"},
+					"WidestRelease": {"S":"b'1,759 theaters'"},
+					"OpeningWeekend": {"S":"b'$8,032,883'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Horror - Slasher': '38'}"},
+					"Franchise": {"S":"{'Series: Friday the 13th': '6'}"},
+					"Chart": {"S":"{'Yearly (Wide) 1985': '42', 'Yearly Opening Weekends (Wide) 1985': '12', 'Opening Weeks Adjusted': '1,670', 'Opening Weekends - March': '190', 'Opening Weekends Adjusted - March': '123', 'Yearly R Rated 1985': '12', 'Opening Weekends Adjusted': '1,431', 'Smallest Drops, All Wide Releases': '2,954', 'Fewest Theaters to Debut at #1': '187', 'Opening Weekends Adjusted - Spring': '199', 'Opening Weekends': '2,243', 'Yearly Opening Weekends 1985': '12', BOM Users' Grades (1985 Releases): '77', 'Opening Weeks': '2,450', 'Yearly 1985': '41', 'Highest All Time Rank (on April 30, 1985)': '347', 'All Time Domestic': '3,049'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Friday the 13th Part 2'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=friday13th2.htm"},
+					"ReleaseDate": {"S":"b'April 30, 1981'"},
+					"Genre": {"S":"b'Horror'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$21,722,776'"},
+					"Runtime": {"S":"b'1 hrs. 26 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$21,722,776'"},
+					"\t\tOpeningWeekend": {"S":"b'$6,429,784'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Horror - Slasher': '39'}"},
+					"Franchise": {"S":"{'Series: Friday the 13th': '7'}"},
+					"Chart": {"S":"{'Yearly 1981': '35', 'Opening Weekends Adjusted - May': '135', 'Opening Weekends - May': '184', 'Highest All Time Rank (on January 1, 1982)': '226', 'Opening Weekends': '2,586', 'Opening Weekends Adjusted': '1,396', 'All Time Domestic': '3,062'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Friday the 13th Part 2 in 3D'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=fridaythe13th210.htm"},
+					"ReleaseDate": {"S":"b'TBD'"},
+					"Genre": {"S":"b'Horror'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Not Yet Rated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': 'n/a', 'Remake - Sequel to a Remake': 'n/a', 'Horror - Slasher': 'n/a'}"},
+					"Franchise": {"S":"{'Series: Friday the 13th': 'n/a'}"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Friday the 13th Part III'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=friday13th3.htm"},
+					"ReleaseDate": {"S":"b'August 13, 1982'"},
+					"Runtime": {"S":"b'1 hrs. 28 min.'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"DomesticLifetimeGross": {"S":"b''"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$34,581,519'"},
+					"Genre": {"S":"b'Horror'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$36,690,067'"},
+					"WidestRelease": {"S":"b'1,079 theaters'"},
+					"OpeningWeekend": {"S":"b'$9,406,522'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': '193', 'Horror - Slasher': '22'}"},
+					"Franchise": {"S":"{'Series: Friday the 13th': '4'}"},
+					"Chart": {"S":"{'Yearly (Wide) 1982': '21', 'Opening Weeks Adjusted': '777', 'All Time Domestic': '2,126', 'Opening Weekends - August': '172', 'Theater Averages - Wide Opening Weekends Adjusted': '117', BOM Users' Grades (1982 Releases): '42', 'Yearly Opening Weekends 1982': '6', 'Smallest Drops, All Wide Releases': '2,195', 'Yearly 1982': '21', 'Yearly Opening Weekends (Wide) 1982': '6', 'Fewest Theaters to Debut at #1': '35', 'Opening Weekends': '1,989', 'Yearly R Rated 1982': '10', 'Opening Weekends Adjusted': '890', 'Opening Weeks': '1,843', 'Theater Averages (Wide Releases) - All Time Adjusted': '138', 'Opening Weekends Adjusted - August': '62', 'Highest All Time Rank (on May 27, 1983)': '164'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Friday the 13th Part III (Re-issue)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=friday13th383.htm"},
+					"ReleaseDate": {"S":"b'May 13, 1983'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"DomesticLifetimeGross": {"S":"b''"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$2,108,548'"},
+					"Genre": {"S":"b'Unknown'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$36,690,067'"},
+					"WidestRelease": {"S":"b'520 theaters'"},
+					"OpeningWeekend": {"S":"b'$788,797'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 1983': '35', 'Yearly 1983': '127', 'Yearly Opening Weekends (Limited) 1983': '27', 'Yearly R Rated 1983': '62', 'Top Ranking Limited Release Debuts': '125', 'Yearly Opening Weekends 1983': '103', 'Highest All Time Rank (on December 14, 1985)': '618'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Friday the 13th Part VI'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=friday13th6.htm"},
+					"ReleaseDate": {"S":"b'August 1, 1986'"},
+					"Genre": {"S":"b'Horror'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$19,472,057'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$19,472,057'"},
+					"WidestRelease": {"S":"b'1,610 theaters'"},
+					"OpeningWeekend": {"S":"b'$6,750,837'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Horror - Slasher': '44'}"},
+					"Franchise": {"S":"{'Series: Friday the 13th': '8'}"},
+					"Chart": {"S":"{'Yearly 1986': '46', 'Yearly Opening Weekends 1986': '16', BOM Users' Grades (1986 Releases): '55', 'All Time Domestic': '3,291', 'Highest All Time Rank (on September 2, 1986)': '465', 'Yearly (Wide) 1986': '44', 'Opening Weekends Adjusted': '1,855', 'Smallest Drops, All Wide Releases': '2,722', 'Yearly Opening Weekends (Wide) 1986': '16', 'Opening Weekends': '2,520', 'Yearly R Rated 1986': '18', 'Opening Weekends Adjusted - August': '156'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Friday the 13th Part VII'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=friday13th7.htm"},
+					"ReleaseDate": {"S":"b'May 13, 1988'"},
+					"Genre": {"S":"b'Horror'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$19,170,001'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$19,170,001'"},
+					"WidestRelease": {"S":"b'1,796 theaters'"},
+					"OpeningWeekend": {"S":"b'$8,245,038'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Horror - Slasher': '45'}"},
+					"Franchise": {"S":"{'Series: Friday the 13th': '9'}"},
+					"Chart": {"S":"{'Yearly Opening Weekends 1988': '13', 'Opening Weekends - May': '169', 'Opening Weekends Adjusted - May': '151', 'Yearly 1988': '53', 'Highest All Time Rank (on July 5, 1988)': '298', 'Yearly (Wide) 1988': '52', 'Opening Weekends Adjusted': '1,660', 'Smallest Drops, All Wide Releases': '3,781', 'Yearly R Rated 1988': '28', 'Fewest Theaters to Debut at #1': '195', 'Opening Weeks Adjusted': '1,933', 'Opening Weekends': '2,188', 'Yearly Opening Weekends (Wide) 1988': '14', 'Opening Weeks': '2,440', BOM Users' Grades (1988 Releases): '72', 'All Time Domestic': '3,318'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Friday the 13th Part VIII'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=friday13th8.htm"},
+					"ReleaseDate": {"S":"b'July 28, 1989'"},
+					"Genre": {"S":"b'Horror'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$14,343,976'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$14,343,976'"},
+					"WidestRelease": {"S":"b'1,683 theaters'"},
+					"OpeningWeekend": {"S":"b'$6,251,310'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Horror - Slasher': '61'}"},
+					"Franchise": {"S":"{'Series: Friday the 13th': '11'}"},
+					"Chart": {"S":"{BOM Users' Grades (1989 Releases): '79', 'Opening Weeks': '2,671', 'All Time Domestic': '3,859', 'Highest All Time Rank (on August 22, 1989)': '784', 'Yearly 1989': '70', 'Opening Weekends Adjusted': '2,124', 'Smallest Drops, All Wide Releases': '3,796', 'Opening Weeks Adjusted': '2,134', 'Yearly Opening Weekends (Wide) 1989': '33', 'Yearly Opening Weekends 1989': '30', 'Yearly R Rated 1989': '29', 'Yearly (Wide) 1989': '67', 'Opening Weekends': '2,628'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Friday the 13th: Final Chapter'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=friday13th4.htm"},
+					"ReleaseDate": {"S":"b'April 13, 1984'"},
+					"Genre": {"S":"b'Horror'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$32,980,880'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$32,980,880'"},
+					"WidestRelease": {"S":"b'1,600 theaters'"},
+					"OpeningWeekend": {"S":"b'$11,183,148'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Horror - Slasher': '28'}"},
+					"Franchise": {"S":"{'Series: Friday the 13th': '5'}"},
+					"Chart": {"S":"{'Opening Weekends Adjusted - April': '36', 'Yearly Opening Weekends 1984': '6', 'Yearly Opening Weekends (Wide) 1984': '6', 'All Time Domestic': '2,327', 'Yearly R Rated 1984': '9', 'Opening Weekends - April': '111', BOM Users' Grades (1984 Releases): '57', 'Opening Weekends Adjusted': '828', 'Smallest Drops, All Wide Releases': '2,797', 'Yearly 1984': '26', 'Fewest Theaters to Debut at #1': '147', 'Opening Weeks Adjusted': '864', 'Opening Weekends Adjusted - Spring': '107', 'Opening Weekends': '1,688', 'Opening Weeks': '1,734', 'Yearly (Wide) 1984': '26', 'Highest All Time Rank (on May 22, 1984)': '214'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Fried Green Tomatoes'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=friedgreentomatoes.htm"},
+					"ReleaseDate": {"S":"b'December 27, 1991'"},
+					"Genre": {"S":"b'Comedy / Drama'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticTotalGross": {"S":"b'$82,418,501'"},
+					"Runtime": {"S":"b'2 hrs. 17 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Producer": {"S":"b'Jordan Kerner'"},
+					"Actor": {"S":"b'Kathy Bates, Chris ODonnell, Composer'"},
+					"Domestic": {"S":"b'$82,418,501'"},
+					"Worldwide": {"S":"b'$119,418,501'"},
+					"Foreign": {"S":"b'$37,000,000'"},
+					"WidestRelease": {"S":"b'1,331 theaters'"},
+					"LimitedOpeningWeekend": {"S":"b'<b> $105,317</b>'"},
+					"WideOpeningWeekend": {"S":"b'$5,235,940'"},
+					"Awards": {"S":"Nominated for Two Oscars."},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Most Weekends in Top 5 (non-consecutive)': '66', 'Highest All Time Rank (on June 30, 1992)': '126', 'Opening Weeks Adjusted': '2,442', 'All Time Domestic': '846', 'Movies That Never #1 Adjusted': '81', 'Yearly Opening Weekends (Limited) 1991': '41', 'Consecutive Weekends In Top 10': '150', 'Twelfth Weekends Adjusted': '110', 'Worldwide Yearly 1991': '13', 'Smallest Drops, All Wide Releases': '65', 'Yearly 1991': '11', President's Day 4-Day Holiday Weekends: '169', 'Seventh Weekends Adjusted': '122', 'Yearly Opening Weekends 1991': '152', 'Eleventh Weekends Adjusted': '91', 'Most Weekends in Top 10 (non-consecutive)': '129', 'Yearly PG-13 Rated 1991': '5', 'Ninth Weekends Adjusted': '82', 'Opening Weeks': '2,854', 'Consecutive Weekends In Top 5': '56', 'Yearly Opening Weekends (Wide) 1992': '55', 'Opening Weekends Adjusted - January': '167', 'Eleventh Weekends': '111', BOM Users' Grades (1991 Releases): '10', 'Yearly (Wide) 1992': '16', 'Eighth Weekends': '155', 'Ninth Weekends': '115', 'Twelfth Weekends': '135', 'Sixth Weekends Adjusted': '174', 'Tenth Weekends Adjusted': '58', 'Opening Weekends Adjusted': '2,575', 'Opening Weekends': '2,960', 'Eighth Weekends Adjusted': '101', 'Super Bowl Opening Weekends': '40', 'Tenth Weekends': '74'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Friend Request'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=friendrequest.htm"},
+					"ReleaseDate": {"S":"b'September 22, 2017'"},
+					"Genre": {"S":"b'Thriller'"},
+					"Distributor": {"S":"b'Entertainment Studios'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 32 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Friended to Death'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=friendedtodeath.htm"},
+					"ReleaseDate": {"S":"b'May 2, 2014'"},
+					"Genre": {"S":"b'Comedy'"},
+					"Distributor": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 34 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Friends and Family'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=friendsandfamily.htm"},
+					"ReleaseDate": {"S":"b'May 16, 2003'"},
+					"DomesticTotalasofAug.3,2003": {"S":"b'$127,212'"},
+					"Distributor": {"S":"b'Regent Releasing'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Runtime": {"S":"b'1 hrs. 27 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$127,212'"},
+					"WidestRelease": {"S":"b'4 theaters'"},
+					"OpeningWeekend": {"S":"b'$8,804'"},
+					"InRelease": {"S":"b'80 days / 11.4 weeks'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '10,031', 'Yearly 2003': '334', 'Yearly (Limited) 2003': '188', 'Highest All Time Rank (on July 27, 2003)': '5379', 'Yearly Opening Weekends 2003': '374', 'Yearly Opening Weekends (Limited) 2003': '245', 'Yearly Unrated Movies 2003': '63'}"}
+				}
+			}
+		}
+	]
+}

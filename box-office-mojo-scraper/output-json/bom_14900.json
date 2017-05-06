@@ -1,0 +1,678 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Trouble with Harry'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=troublewithharry.htm"},
+					"Genre": {"S":"b'Comedy Thriller'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"ReleaseDate": {"S":"b'October 3, 1955'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Producer": {"S":"b'Herbert Coleman'"},
+					"Cinematographer": {"S":"b'Robert Burks'"},
+					"Actor": {"S":"b'Edmund Gwenn, John Forsythe, Shirley MacLaine'"},
+					"Director": {"S":"b'Alfred Hitchcock'"},
+					"Composer": {"S":"b'Bernard Herrmann'"},
+					"Writer": {"S":"b'John Michael Hayes'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Trouble with Men and Women'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=troublewithmenandwomen.htm"},
+					"DomesticTotalGross": {"S":"b'$967'"},
+					"Genre": {"S":"b'Romance'"},
+					"Runtime": {"S":"b'1 hrs. 20 min.'"},
+					"ReleaseDate": {"S":"b'August 9, 2006'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Distributor": {"S":"b'IFC'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$967'"},
+					"InRelease": {"S":"b'9 days / 1.3 weeks'"},
+					"CloseDate": {"S":"b'August 17, 2006'"},
+					"OpeningWeekend": {"S":"b'$375'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Unrated Movies 2006': '207', 'Yearly Opening Weekends (Limited) 2006': '436', 'All Time Domestic': '14,604', 'Yearly Opening Weekends 2006': '594', 'Yearly 2006': '601', 'Yearly (Limited) 2006': '426'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Trouble with Terkel'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=troublewithterkel.htm"},
+					"Genre": {"S":"b'Animation'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Runtime": {"S":"b'1 hrs. 24 min.'"},
+					"ReleaseDate": {"S":"b'October 15, 2010'"},
+					"MPAARating": {"S":"b'R'"},
+					"Distributor": {"S":"b'Indican'"},
+					"DomesticTotalasofMay.26,2013": {"S":"b'$40,385'"},
+					"DomesticLifetimeGross": {"S":"b''"},
+					"Actor": {"S":"b'Kristanna Loken'"},
+					"Domestic": {"S":"b'$155,564'"},
+					"InRelease": {"S":"b'284 days / 40.6 weeks'"},
+					"OpeningWeekend": {"S":"b'$3,972'"},
+					"WidestRelease": {"S":"b'4 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Animation': '340'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The True Story of Jesse James'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=truestoryofjessejames.htm"},
+					"Genre": {"S":"b'Western'"},
+					"Runtime": {"S":"b'1 hrs. 32 min.'"},
+					"ReleaseDate": {"S":"b'March 22, 1957'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Producer": {"S":"b'Herbert B. Swope'"},
+					"Cinematographer": {"S":"b'Joseph MacDonald'"},
+					"Actor": {"S":"b'Robert Wagner, Jeffrey Hunter, Hope Lange, Agnes Moorehead, Alan Hale, John Carradine'"},
+					"Director": {"S":"b'Nicholas Ray'"},
+					"Composer": {"S":"b'Leigh Harline'"},
+					"Writer": {"S":"b'Walter Newman'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Truman Show'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=trumanshow.htm"},
+					"DomesticTotalGross": {"S":"b'$125,618,201'"},
+					"Genre": {"S":"b'Comedy / Drama'"},
+					"Runtime": {"S":"b'1 hrs. 43 min.'"},
+					"ReleaseDate": {"S":"b'June 5, 1998'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Director": {"S":"b'Peter Weir'"},
+					"Producer": {"S":"b'Scott Rudin'"},
+					"Writer": {"S":"b'Andrew Niccol'"},
+					"Actor": {"S":"b'Jim Carrey, Ed Harris, Laura Linney, Peter Krause, Paul Giamatti*'"},
+					"Worldwide": {"S":"b'$264,118,201'"},
+					"Foreign": {"S":"b'$138,500,000'"},
+					"Domestic": {"S":"b'$125,618,201'"},
+					"OpeningWeekend": {"S":"b'$31,542,121'"},
+					"WidestRelease": {"S":"b'2,911 theaters'"},
+					"Awards": {"S":"Nominated for Three Oscars."},
+					"GenreRank": {"S":"{'Reality TV': '2', 'Sci-Fi - Satire': '1', 'Drama - Summer': '10'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Rated G and PG, Opening Weekends': '117', 'Opening Weekends': '436', 'Most Weekends at #1 (non-consecutive)': '246', 'Opening Weekends Adjusted': '261', 'Worldwide Yearly 1998': '11', 'Theater Averages - Wide Opening Weekends Adjusted': '127', BOM Users' Grades: '168', 'Rated G and PG, Opening Weekends Adjusted': '71', BOM Users' Grades (1998 Releases): '5', 'Rated PG': '120', 'Rated G and PG Adjusted': '160', 'Rated PG, Opening Weekends Adjusted': '57', 'Opening Weekends - June': '71', 'Highest All Time Rank (on August 7, 1998)': '93', 'Yearly (Wide) 1998': '13', 'Slowest to $100 million': '227', 'Theater Averages (Wide Releases) - All Time Adjusted': '150', 'Independence Day Weekends': '167', 'Rated G and PG': '150', 'Opening Weeks': '443', 'Yearly 1998': '12', 'Yearly Opening Weekends (Wide) 1998': '8', 'Rated PG, Opening Weekends': '97', 'Opening Weekends Adjusted - Summer': '169', 'Consecutive Weekends At #1': '242', 'Opening Weeks Adjusted': '260', 'Yearly Opening Weekends 1998': '7', 'All Time Domestic': '449', 'Smallest Drops, All Wide Releases': '1,590', 'Rated PG Adjusted': '117', 'Smallest Drops, 2,000+ theaters (Very Wide)': '581', 'Yearly PG Rated 1998': '1', 'Opening Weekends Adjusted - June': '46', 'Second Weekends Adjusted': '197', 'All Time Worldwide': '472'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Trumpet of the Swan'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=trumpetoftheswam.htm"},
+					"DomesticTotalasofMay.13,2001": {"S":"b'$102,202'"},
+					"Genre": {"S":"b'Unknown'"},
+					"Runtime": {"S":"b'1 hrs. 15 min.'"},
+					"ReleaseDate": {"S":"b'May 11, 2001'"},
+					"MPAARating": {"S":"b'G'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Composer": {"S":"b'Marcus Miller'"},
+					"Actor": {"S":"b'Seth Green*, Reese Witherspoon*'"},
+					"Worldwide": {"S":"b'$102,202'"},
+					"Foreign": {"S":"b'n/a'"},
+					"Domestic": {"S":"b'$102,202'"},
+					"InRelease": {"S":"b'3 days / 0.4 weeks'"},
+					"OpeningWeekend": {"S":"b'$102,202'"},
+					"WidestRelease": {"S":"b'125 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Animation': '352'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Worldwide Yearly 2001': '227', 'Yearly (Limited) 2001': '143', 'All Time Domestic': '10,337', 'Yearly Opening Weekends (Limited) 2001': '46', 'Highest All Time Rank (on August 28, 2002)': '4173', 'Yearly 2001': '286', 'Yearly G Rated 2001': '11', 'Yearly Opening Weekends 2001': '174'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Truth About Cats &amp; Dogs'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=truthaboutcatsanddogs.htm"},
+					"DomesticTotalGross": {"S":"b'$34,861,807'"},
+					"Genre": {"S":"b'Romantic Comedy'"},
+					"Runtime": {"S":"b'1 hrs. 37 min.'"},
+					"ReleaseDate": {"S":"b'April 26, 1996'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Director": {"S":"b'Michael Lehman'"},
+					"Composer": {"S":"b'Howard Shore'"},
+					"Writer": {"S":"b'Audrey Wells'"},
+					"Actor": {"S":"b'Jamie Foxx, Uma Thurman'"},
+					"Domestic": {"S":"b'$34,861,807'"},
+					"OpeningWeekend": {"S":"b'$6,769,363'"},
+					"WidestRelease": {"S":"b'1,654 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Romantic Comedy': '127'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Opening Weekends': '2,516', 'Opening Weekends Adjusted': '2,176', 'Opening Weeks': '2,630', 'Opening Weekends Adjusted - April': '145', 'Yearly (Wide) 1996': '44', 'Yearly 1996': '42', 'Highest All Time Rank (on June 28, 1996)': '637', BOM Users' Grades (1996 Releases): '74', 'Opening Weekends - April': '190', 'All Time Domestic': '2,228', 'Smallest Drops, All Wide Releases': '421', 'Yearly Opening Weekends (Wide) 1996': '68', 'Opening Weeks Adjusted': '2,300', 'Yearly Opening Weekends 1996': '66', 'Yearly PG-13 Rated 1996': '16'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Truth About Charlie'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=truthaboutcharlie.htm"},
+					"DomesticTotalGross": {"S":"b'$5,350,371'"},
+					"Genre": {"S":"b'Romantic Thriller'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"ReleaseDate": {"S":"b'October 25, 2002'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Distributor": {"S":"b'Universal'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Director": {"S":"b'Jonathan Demme'"},
+					"Composer": {"S":"b'Rachel Portman'"},
+					"Writer": {"S":"b'Jessica Bendinger'"},
+					"Actor": {"S":"b'Mark Wahlberg, Thandie Newton, Tim Robbins'"},
+					"Worldwide": {"S":"b'$7,093,284'"},
+					"Foreign": {"S":"b'$1,742,913'"},
+					"Domestic": {"S":"b'$5,350,371'"},
+					"InRelease": {"S":"b'35 days / 5 weeks'"},
+					"CloseDate": {"S":"b'November 28, 2002'"},
+					"OpeningWeekend": {"S":"b'$2,270,290'"},
+					"WidestRelease": {"S":"b'755 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Travelogue - Paris': '31'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 2002': '136', 'Yearly PG-13 Rated 2002': '71', 'Opening Weekends Adjusted': '4,350', 'Opening Weeks': '4,193', 'Yearly (Wide) 2002': '146', 'Yearly 2002': '169', 'Opening Weekends': '4,159', BOM Users' Grades (2002 Releases): '158', 'Opening Weeks Adjusted': '4,330', 'Worldwide Yearly 2002': '188', 'All Time Domestic': '5,316', 'Smallest Drops, All Wide Releases': '2,377', 'Highest All Time Rank (on November 21, 2002)': '3079', 'Yearly Opening Weekends (Wide) 2002': '145'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Truth About Emanuel'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=truthaboutemanuel.htm"},
+					"DomesticTotalGross": {"S":"b'$4,404'"},
+					"Genre": {"S":"b'Thriller'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"ReleaseDate": {"S":"b'January 10, 2014'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Distributor": {"S":"b'Tribeca Film'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Actor": {"S":"b'Jessica Biel, Alfred Molina, Frances OConnor'"},
+					"Domestic": {"S":"b'$4,404'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"CloseDate": {"S":"b'January 16, 2014'"},
+					"OpeningWeekend": {"S":"b'n/a'"},
+					"WidestRelease": {"S":"b'11 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '14,041'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Tunnel'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=tunnel.htm"},
+					"DomesticTotalGross": {"S":"b'$46,296'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Runtime": {"S":"b'2 hrs. 40 min.'"},
+					"ReleaseDate": {"S":"b'April 27, 2005'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Distributor": {"S":"b'Avatar'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Worldwide": {"S":"b'$46,296'"},
+					"Foreign": {"S":"b'n/a'"},
+					"Domestic": {"S":"b'$46,296'"},
+					"InRelease": {"S":"b'163 days / 23.3 weeks'"},
+					"CloseDate": {"S":"b'October 6, 2005'"},
+					"OpeningWeekend": {"S":"b'$3,127'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1387'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2005': '237', 'Yearly 2005': '397', 'All Time Domestic': '11,431', 'Worldwide Yearly 2005': '337', 'Yearly Opening Weekends 2005': '460', 'Yearly Unrated Movies 2005': '87', 'Yearly Opening Weekends (Limited) 2005': '321'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Tunnel (2011)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=tunnel11.htm"},
+					"DomesticTotalGross": {"S":"b'$1,532'"},
+					"Genre": {"S":"b'Horror Thriller'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"ReleaseDate": {"S":"b'August 5, 2011'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Distributor": {"S":"b'Blackrock Films'"},
+					"ProductionBudget": {"S":"b'$135,000'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$1,532'"},
+					"InRelease": {"S":"b'14 days / 2 weeks'"},
+					"CloseDate": {"S":"b'August 18, 2011'"},
+					"OpeningWeekend": {"S":"b'$507'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '14,514'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Turandot Project'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=turandotproject.htm"},
+					"DomesticTotalGross": {"S":"b'$33,504'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Runtime": {"S":"b'1 hrs. 27 min.'"},
+					"ReleaseDate": {"S":"b'August 10, 2001'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Distributor": {"S":"b'Zeitgeist'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$33,504'"},
+					"InRelease": {"S":"b'14 days / 2 weeks'"},
+					"CloseDate": {"S":"b'November 22, 2001'"},
+					"OpeningWeekend": {"S":"b'$7,877'"},
+					"WidestRelease": {"S":"b'3 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary': '892'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2001': '171', 'All Time Domestic': '11,832', 'Yearly Opening Weekends (Limited) 2001': '163', 'Highest All Time Rank (on August 28, 2002)': '4478', 'Yearly 2001': '315', 'Yearly Opening Weekends 2001': '291'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Turin Horse'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=turinhorse.htm"},
+					"DomesticTotalGross": {"S":"b'$56,391'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Runtime": {"S":"b'2 hrs. 26 min.'"},
+					"ReleaseDate": {"S":"b'February 10, 2012'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Distributor": {"S":"b'Cinema Guild'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Worldwide": {"S":"b'$56,391'"},
+					"Foreign": {"S":"b'n/a'"},
+					"Domestic": {"S":"b'$56,391'"},
+					"InRelease": {"S":"b'231 days / 33 weeks'"},
+					"CloseDate": {"S":"b'April 25, 2013'"},
+					"OpeningWeekend": {"S":"b'$9,145'"},
+					"WidestRelease": {"S":"b'3 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1313', 'Horse': '30'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '11,115'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Turning Point'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=turningpoint.htm"},
+					"DomesticTotalGross": {"S":"b'$25,933,445'"},
+					"Genre": {"S":"b'Drama'"},
+					"Runtime": {"S":"b'1 hrs. 59 min.'"},
+					"ReleaseDate": {"S":"b'November 14, 1977'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Distributor": {"S":"b'Fox'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Actor": {"S":"b'Anne Bancroft'"},
+					"Domestic": {"S":"b'$25,933,445'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Dance': '25'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '2,755'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Tuxedo'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=tuxedo.htm"},
+					"DomesticTotalGross": {"S":"b'$50,547,998'"},
+					"Genre": {"S":"b'Action Comedy'"},
+					"Runtime": {"S":"b'1 hrs. 39 min.'"},
+					"ReleaseDate": {"S":"b'September 27, 2002'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Distributor": {"S":"b'DreamWorks'"},
+					"ProductionBudget": {"S":"b'$60 million'"},
+					"Composer": {"S":"b'Christophe Beck, John Debney'"},
+					"Actor": {"S":"b'Jackie Chan, Jennifer Love Hewitt'"},
+					"Worldwide": {"S":"b'$104,391,623'"},
+					"Foreign": {"S":"b'$53,843,625'"},
+					"Domestic": {"S":"b'$50,547,998'"},
+					"InRelease": {"S":"b'108 days / 15.4 weeks'"},
+					"CloseDate": {"S":"b'January 12, 2003'"},
+					"OpeningWeekend": {"S":"b'$15,051,028'"},
+					"WidestRelease": {"S":"b'3,022 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Spy': '53', 'Action - Buddy Comedy': '36', 'Comedy - Spy': '14', 'Taxi / Taxi Driver': '4', 'Action - Wire-Fu': '12', 'Action - Martial Arts': '20'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly PG-13 Rated 2002': '25', 'Smallest Drops, 2,500+ theaters (Saturation)': '294', 'Yearly (Wide) 2002': '51', 'Opening Weekends Adjusted - September': '58', 'Yearly 2002': '51', 'Opening Weekends': '1,219', 'Opening Weeks Adjusted': '1,457', 'Worst Openings - Super Saturated': '171', 'Widest Opening Releases': '838', 'Opening Weekends - Fall': '143', 'Yearly Opening Weekends 2002': '45', 'Widest Releases': '897', 'Opening Weekends Adjusted': '1,205', 'Opening Weeks': '1,461', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '134', 'Opening Weekends Adjusted - Fall': '128', 'Highest All Time Rank (on December 22, 2002)': '676', BOM Users' Grades (2002 Releases): '126', 'Opening Weekends - September': '67', 'Worldwide Yearly 2002': '49', 'All Time Domestic': '1,565', 'Smallest Drops, All Wide Releases': '1,321', 'Smallest Drops, 2,000+ theaters (Very Wide)': '450', 'Yearly Opening Weekends (Wide) 2002': '47'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Twilight Saga: Breaking Dawn Part 1'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=breakingdawn.htm"},
+					"DomesticTotalGross": {"S":"b'$281,287,133'"},
+					"Genre": {"S":"b'Romance'"},
+					"Runtime": {"S":"b'1 hrs. 48 min.'"},
+					"ReleaseDate": {"S":"b'November 18, 2011'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Distributor": {"S":"b'Summit Entertainment'"},
+					"ProductionBudget": {"S":"b'$110 million'"},
+					"Composer": {"S":"b'Carter Burwell'"},
+					"Director": {"S":"b'Bill Condon'"},
+					"Producer": {"S":"b'Marty Bowen, Wyck Godfrey, Stephenie Meyer, Karen Rosenfelt'"},
+					"Writer": {"S":"b'Melissa Rosenberg'"},
+					"Actor": {"S":"b'Robert Pattinson, Kristen Stewart, Taylor Lautner, Ashley Greene, Billy Burke, Peter Facinelli, Elizabeth Reaser, Nikki Reed, Kellan Lutz, Jackson Rathbone, Maggie Grace*, Anna Kendrick*, Michael Sheen*'"},
+					"Worldwide": {"S":"b'$712,205,856'"},
+					"Foreign": {"S":"b'$430,918,723'"},
+					"Domestic": {"S":"b'$281,287,133'"},
+					"InRelease": {"S":"b'98 days / 14 weeks'"},
+					"CloseDate": {"S":"b'February 23, 2012'"},
+					"OpeningWeekend": {"S":"b'$138,122,261'"},
+					"WidestRelease": {"S":"b'4,066 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Romantic Fantasy': '4', 'Off-Screen Couples On-Screen': '3', 'Young-Adult Book Adaptations': '14', 'Pregnancy': '1', 'Werewolf': '4', 'Teen Romance': '4', 'Vampire': '4'}"},
+					"Franchise": {"S":"{Showdown: 'Twilight' Tiff: '4', 'Series: Twilight': '4', Showdown: 'Twilight' Vs. 'The Hunger Games': '6'}"},
+					"Chart": {"S":"{'Opening Weekends': '19', 'Most Weekends at #1 (non-consecutive)': '111', 'Lowest Grossing #1 Movies Adjusted': '88', 'Fastest to $250 million': '49', 'Widest PG-13 Rated Openings': '43', 'Single Day Saturday Gross': '33', 'Rated PG-13 Adjusted': '75', 'Top 4-Day Grosses': '24', 'Smallest Drops, 2,000+ theaters (Very Wide)': '2,266', 'Second Weekends Adjusted': '97', 'Thanksgiving 5-day Weekends Adjusted': '21', 'Single Day Gross': '10', 'Foreign Opening Weekends': '26', 'Opening Weeks Adjusted': '23', 'Opening Weekends - Holiday': '6', 'Widest Opening Independent Releases': '2', 'Opening Weekends Adjusted - November': '3', 'Widest Opening Releases': '62', 'Worldwide Openings': '21', 'Fastest to $100 million': '18', 'Theater Averages (Wide Releases) - All Time Adjusted': '33', 'Theater Averages (Wide Releases) - All Time': '22', 'Fastest to $150 million': '27', 'Top 10-Day Grosses': '29', 'Consecutive Weekends At #1': '97', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,628', 'Single Day Friday Gross Adjusted': '10', 'Top 5-Day Grosses': '25', 'Widest Independent Releases': '3', 'Post-Thanksgiving Weekend  - Biggest Drops': '74', 'Theater Averages - Wide Opening Weekends': '21', 'Non-Opening Friday Gross': '69', 'Non-Opening Tuesday Gross': '50', 'Smallest Drops, All Wide Releases': '4,332', 'Friday Share of Opening Weekends': '8', 'Thanksgiving 3-day Weekends': '15', 'Top 7-Day Grosses': '26', 'Widest PG-13 Rated Releases': '44', 'Single Day Wednesday Gross Adjusted': '77', 'Top 3-Day Grosses': '19', 'Third Weekends': '191', 'Non-Opening Tuesday Gross Adjusted': '68', 'Rated PG-13, Opening Weekends Adjusted': '18', 'Slowest to $200 million': '146', 'Non-Opening Wednesday Gross': '27', 'Non-Holiday Monday Gross': '64', 'Rated PG-13, Opening Weekends': '18', 'Single Day Sunday Gross': '43', 'Theater Averages - Wide Opening Weekends Adjusted': '32', 'Fastest to $200 million': '27', 'Opening Weekends - November': '4', 'Thanksgiving 5-day Weekends': '15', 'Non-Opening Wednesday Gross Adjusted': '37', 'Single Day Tuesday Gross Adjusted': '76', 'Rated PG-13': '51', 'Single Day Tuesday Gross': '56', 'Thanksgiving 3-day Weekends Adjusted': '25', 'Single Day Saturday Gross Adjusted': '42', 'Friday to Saturday Drops on Opening Weekends': '15', 'Single Day Sunday Gross Adjusted': '69', 'Top 6-Day Grosses': '27', 'Widest Releases': '67', 'Opening Weekends Adjusted': '20', 'Top 8-Day Grosses': '25', 'Single Day Wednesday Gross': '54', 'Opening Day Gross': '10', 'Opening Weeks': '21', 'Biggest 2nd Weekend Drops': '93', 'Single Day Monday Gross Adjusted': '149', 'Single Day Friday Gross': '10', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '891', 'Highest All Time Rank (on January 15, 2012)': '50', 'Top 9-Day Grosses': '24', 'All Time Domestic': '81', 'Opening Weekends Adjusted - Holiday': '5', 'Single Day Monday Gross': '112', 'Slowest to $100 million': '617', 'Second Weekends': '71', 'All Time Worldwide': '84'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Twilight Saga: Breaking Dawn Part 2'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=breakingdawn2.htm"},
+					"DomesticTotalGross": {"S":"b'$292,324,737'"},
+					"Genre": {"S":"b'Romance'"},
+					"Runtime": {"S":"b'1 hrs. 56 min.'"},
+					"ReleaseDate": {"S":"b'November 16, 2012'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Distributor": {"S":"b'Lionsgate/Summit'"},
+					"ProductionBudget": {"S":"b'$120 million'"},
+					"Composer": {"S":"b'Carter Burwell'"},
+					"Director": {"S":"b'Bill Condon'"},
+					"Producer": {"S":"b'Marty Bowen, Wyck Godfrey, Stephenie Meyer, Karen Rosenfelt'"},
+					"Writer": {"S":"b'Melissa Rosenberg'"},
+					"Actor": {"S":"b'Kristen Stewart, Robert Pattinson, Taylor Lautner, Billy Burke, Peter Facinelli, Ashley Greene, Dakota Fanning, Maggie Grace, Michael Sheen, Nikki Reed, Kellan Lutz, Jackson Rathbone'"},
+					"Worldwide": {"S":"b'$829,746,820'"},
+					"Foreign": {"S":"b'$537,422,083'"},
+					"Domestic": {"S":"b'$292,324,737'"},
+					"InRelease": {"S":"b'112 days / 16 weeks'"},
+					"CloseDate": {"S":"b'March 7, 2013'"},
+					"OpeningWeekend": {"S":"b'$141,067,634'"},
+					"WidestRelease": {"S":"b'4,070 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Young-Adult Book Adaptations': '10', 'Romantic Fantasy': '3', 'Teen Romance': '3', 'Vampire': '3', 'Werewolf': '3'}"},
+					"Franchise": {"S":"{Showdown: 'Twilight' Tiff: '3', 'Series: Twilight': '3'}"},
+					"Chart": {"S":"{'Opening Weekends': '18', 'Most Weekends at #1 (non-consecutive)': '110', 'Lowest Grossing #1 Movies Adjusted': '97', 'Fastest to $250 million': '36', 'Widest PG-13 Rated Openings': '41', 'Single Day Saturday Gross': '28', 'Rated PG-13 Adjusted': '74', 'Single Day Thursday Gross': '140', 'Smallest Drops, 2,000+ theaters (Very Wide)': '2,257', 'Highest All Time Rank (on February 24, 2013)': '49', 'Thanksgiving 5-day Weekends Adjusted': '19', 'Single Day Gross': '11', 'Foreign Opening Weekends': '15', 'Opening Weeks Adjusted': '26', 'Opening Weekends - Holiday': '5', 'Opening Weekends Adjusted - Holiday': '6', 'Opening Weekends Adjusted - November': '4', 'Widest Opening Releases': '60', 'Worldwide Openings': '16', 'Fastest to $100 million': '17', 'Theater Averages (Wide Releases) - All Time Adjusted': '35', 'Theater Averages (Wide Releases) - All Time': '21', 'Fastest to $150 million': '24', 'Top 10-Day Grosses': '22', 'Consecutive Weekends At #1': '96', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '887', 'Single Day Friday Gross Adjusted': '11', 'Top 5-Day Grosses': '23', 'Post-Thanksgiving Weekend  - Biggest Drops': '77', 'Theater Averages - Wide Opening Weekends': '20', 'Non-Opening Friday Gross': '62', 'Non-Opening Tuesday Gross': '40', 'Smallest Drops, All Wide Releases': '4,320', 'Friday Share of Opening Weekends': '12', 'Thanksgiving 3-day Weekends': '13', 'Top 7-Day Grosses': '23', 'Widest PG-13 Rated Releases': '43', 'Single Day Wednesday Gross Adjusted': '78', 'Top 3-Day Grosses': '18', 'Third Weekends': '169', 'Non-Opening Tuesday Gross Adjusted': '57', 'Rated PG-13, Opening Weekends Adjusted': '19', 'Non-Opening Thursday Gross': '119', 'Non-Opening Wednesday Gross': '24', 'Non-Holiday Monday Gross': '60', 'Rated PG-13, Opening Weekends': '17', 'Single Day Sunday Gross': '39', 'Top 4-Day Grosses': '23', 'Fastest to $200 million': '22', 'Opening Weekends - November': '3', 'Thanksgiving 5-day Weekends': '14', 'Non-Opening Wednesday Gross Adjusted': '38', 'Single Day Tuesday Gross Adjusted': '65', 'Rated PG-13': '46', 'Slowest to $200 million': '151', 'Single Day Tuesday Gross': '45', 'Thanksgiving 3-day Weekends Adjusted': '23', 'Single Day Saturday Gross Adjusted': '41', 'Friday to Saturday Drops on Opening Weekends': '18', 'Second Weekends Adjusted': '91', 'Single Day Sunday Gross Adjusted': '59', 'Top 6-Day Grosses': '24', 'Widest Releases': '66', 'Opening Weekends Adjusted': '21', 'Top 8-Day Grosses': '20', 'Single Day Wednesday Gross': '50', 'Opening Day Gross': '11', 'Opening Weeks': '18', 'Biggest 2nd Weekend Drops': '105', 'Single Day Monday Gross Adjusted': '154', 'Single Day Friday Gross': '11', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,621', 'Top 9-Day Grosses': '21', 'All Time Domestic': '71', 'Theater Averages - Wide Opening Weekends Adjusted': '34', 'Single Day Monday Gross': '106', 'Slowest to $100 million': '618', 'Second Weekends': '57', 'All Time Worldwide': '55'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Twilight Saga: Eclipse'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=eclipse.htm"},
+					"DomesticTotalGross": {"S":"b'$300,531,751'"},
+					"Genre": {"S":"b'Romance'"},
+					"Runtime": {"S":"b'2 hrs. 4 min.'"},
+					"ReleaseDate": {"S":"b'June 30, 2010'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Distributor": {"S":"b'Summit Entertainment'"},
+					"ProductionBudget": {"S":"b'$68 million'"},
+					"Composer": {"S":"b'Howard Shore'"},
+					"Director": {"S":"b'David Slade'"},
+					"Producer": {"S":"b'Marty Bowen, Wyck Godfrey, Karen Rosenfelt'"},
+					"Writer": {"S":"b'Melissa Rosenberg'"},
+					"Actor": {"S":"b'Kristen Stewart, Robert Pattinson, Taylor Lautner, Ashley Greene, Billy Burke, Peter Facinelli, Elizabeth Reaser, Nikki Reed, Kellan Lutz, Jackson Rathbone, Dakota Fanning, Cameron Bright*, Bryce Dallas Howard*, Catalina Sandino Moreno*, Anna Kendrick*, Sarah Clarke*, Xavier Samuel'"},
+					"Worldwide": {"S":"b'$698,491,347'"},
+					"Foreign": {"S":"b'$397,959,596'"},
+					"Domestic": {"S":"b'$300,531,751'"},
+					"InRelease": {"S":"b'114 days / 16.3 weeks'"},
+					"CloseDate": {"S":"b'October 21, 2010'"},
+					"OpeningWeekend": {"S":"b'$64,832,191'"},
+					"WidestRelease": {"S":"b'4,468 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Romantic Fantasy': '1', 'Off-Screen Couples On-Screen': '1', 'Young-Adult Book Adaptations': '7', 'IMAX (Feature-length)': '34', 'Werewolf': '1', 'Teen Romance': '1', 'Vampire': '1'}"},
+					"Franchise": {"S":"{Showdown: 'Twilight' Tiff: '1', Showdown: 'Harry Potter' Vs. 'Twilight': '3', 'Series: Twilight': '1', Showdown: 'Twilight' Vs. 'The Hunger Games': '4'}"},
+					"Chart": {"S":"{'Single Day Thursday Gross Adjusted': '10', 'Opening Weekends': '123', 'Single Day Monday Gross Adjusted': '22', 'Single Day Tuesday Gross Adjusted': '82', 'Top 5-Day Grosses for movies opening on a Wednesday': '4', 'Widest PG-13 Rated Openings': '1', 'Single Day Saturday Gross': '149', 'Rated PG-13 Adjusted': '68', 'Single Day Thursday Gross': '9', 'Slowest to $200 million': '141', 'Fastest to $300 million': '56', 'Highest All Time Rank (on August 19, 2010)': '36', 'Single Day Gross': '17', 'Foreign Opening Weekends': '76', 'Opening Weeks Adjusted': '97', 'Widest Opening Independent Releases': '1', 'Widest Opening Releases': '1', 'Worldwide Openings': '37', 'Fastest to $100 million': '32', 'Widest PG-13 Rated Releases': '1', 'Fastest to $150 million': '29', 'Opening Weekends Adjusted - Summer': '95', 'Top 10-Day Grosses': '32', 'Non-Friday Opening Weekends Adjusted': '28', 'Non-Opening Friday Gross Adjusted': '21', 'Fastest to $250 million': '34', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,036', 'Single Day Friday Gross Adjusted': '100', 'Top 5-Day Grosses': '27', 'Widest Independent Releases': '1', 'Non-Opening Tuesday Gross': '52', 'Smallest Drops, All Wide Releases': '3,095', 'Friday Share of Opening Weekends': '107', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,461', 'Friday to Saturday Drops on Opening Weekends': '184', 'Single Day Saturday Gross Adjusted': '197', 'Single Day Wednesday Gross Adjusted': '1', 'Top 3-Day Grosses': '30', 'Non-Opening Tuesday Gross Adjusted': '73', 'Rated PG-13, Opening Weekends Adjusted': '101', 'Opening Weekends Adjusted - July': '27', 'Non-Opening Thursday Gross': '4', 'Opening Weekends - Summer': '74', 'Non-Opening Wednesday Gross': '65', 'Rated PG-13, Opening Weekends': '83', 'Non-Opening Friday Gross': '16', 'Top 4-Day Grosses': '26', 'Fastest to $200 million': '32', BOM Users' Grades: '648', 'Non-Opening Wednesday Gross Adjusted': '86', 'Independence Day Opening Weekends': '6', 'Rated PG-13': '41', 'Non-Opening Thursday Gross Adjusted': '5', 'Top 5-Day Grosses for movies opening on a Wednesday Adjusted': '9', 'Single Day Tuesday Gross': '58', 'Non-Friday Opening Weekends': '19', 'Independence Day Weekends': '6', 'Top 6-Day Grosses': '22', 'Widest Releases': '1', 'Opening Weekends Adjusted': '150', 'Top 8-Day Grosses': '26', 'Single Day Wednesday Gross': '1', 'Opening Day Gross': '15', 'Opening Weeks': '71', 'Top 7-Day Grosses': '22', 'Single Day Friday Gross': '84', 'All Time Adjusted': '200', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '522', 'Top 9-Day Grosses': '30', 'All Time Domestic': '65', 'Single Day Monday Gross': '19', 'Opening Wednesdays': '1', 'Slowest to $100 million': '603', 'Second Weekends': '142', 'Opening Weekends - July': '19', 'All Time Worldwide': '89'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Twilight Saga: New Moon'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=newmoon.htm"},
+					"DomesticTotalGross": {"S":"b'$296,623,634'"},
+					"Genre": {"S":"b'Romance'"},
+					"Runtime": {"S":"b'2 hrs. 10 min.'"},
+					"ReleaseDate": {"S":"b'November 20, 2009'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Distributor": {"S":"b'Summit Entertainment'"},
+					"ProductionBudget": {"S":"b'$50 million'"},
+					"Composer": {"S":"b'Alexandre Desplat'"},
+					"Director": {"S":"b'Chris Weitz'"},
+					"Producer": {"S":"b'Marty Bowen, Wyck Godfrey, Karen Rosenfelt'"},
+					"Writer": {"S":"b'Melissa Rosenberg'"},
+					"Actor": {"S":"b'Kristen Stewart, Robert Pattinson, Taylor Lautner, Billy Burke, Ashley Greene, Peter Facinelli, Elizabeth Reaser, Jackson Rathbone, Kellan Lutz, Michael Sheen, Dakota Fanning*, Anna Kendrick*, Cam Gigandet*'"},
+					"Worldwide": {"S":"b'$709,711,008'"},
+					"Foreign": {"S":"b'$413,087,374'"},
+					"Domestic": {"S":"b'$296,623,634'"},
+					"InRelease": {"S":"b'133 days / 19 weeks'"},
+					"CloseDate": {"S":"b'April 1, 2010'"},
+					"OpeningWeekend": {"S":"b'$142,839,137'"},
+					"WidestRelease": {"S":"b'4,124 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Romantic Fantasy': '2', 'Young-Adult Book Adaptations': '8', 'Off-Screen Couples On-Screen': '2', 'Werewolf': '2', 'Teen Romance': '2', 'Vampire': '2'}"},
+					"Franchise": {"S":"{Showdown: 'Twilight' Tiff: '2', Showdown: 'Harry Potter' Vs. 'Twilight': '4', 'Series: Twilight': '2', Showdown: 'Twilight' Vs. 'The Hunger Games': '5'}"},
+					"Chart": {"S":"{'Yearly Opening Weekends (Wide) 2009': '1', 'Single Day Saturday Gross': '27', 'Single Day Tuesday Gross': '52', 'Top 4-Day Grosses': '21', 'Thanksgiving 5-day Weekends Adjusted': '16', 'Fastest to $100 million': '14', 'Foreign Opening Weekends': '39', 'Most Weekends at #1 (non-consecutive)': '205', BOM Users' Grades (2009 Releases): '138', 'Opening Weekends - Holiday': '4', 'Widest Opening Independent Releases': '3', 'Widest Opening Releases': '73', 'Worldwide Openings': '23', 'Top 10-Day Grosses': '21', 'Thanksgiving 3-day Weekends': '14', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,632', 'Single Day Friday Gross Adjusted': '7', 'Widest PG-13 Rated Openings': '47', 'Non-Opening Tuesday Gross Adjusted': '54', 'Smallest Drops, All Wide Releases': '4,337', 'Widest Independent Releases': '2', 'Friday to Saturday Drops on Opening Weekends': '17', 'Single Day Sunday Gross Adjusted': '50', 'Top 3-Day Grosses': '17', 'Rated PG-13, Opening Weekends Adjusted': '16', 'Top 6-Day Grosses': '21', 'Slowest to $200 million': '154', 'Rated PG-13 Adjusted': '63', 'Non-Opening Wednesday Gross': '17', 'Single Day Sunday Gross': '41', 'Theater Averages - Wide Opening Weekends Adjusted': '20', 'Thanksgiving 5-day Weekends': '12', 'Non-Opening Thursday Gross Adjusted': '104', 'Smallest Drops, 2,000+ theaters (Very Wide)': '2,270', 'Thanksgiving 3-day Weekends Adjusted': '19', 'Yearly Opening Weekends 2009': '1', 'Widest Releases': '53', 'Opening Weekends Adjusted': '17', 'Second Weekends Adjusted': '80', 'Single Day Wednesday Gross': '40', 'Opening Weeks': '17', 'Biggest 2nd Weekend Drops': '88', 'Single Day Friday Gross': '9', 'All Time Adjusted': '191', 'Top 9-Day Grosses': '19', 'All Time Domestic': '66', 'Single Day Monday Gross': '93', 'Top 7-Day Grosses': '21', 'Opening Weekends': '17', 'Yearly 2009': '4', 'Twelfth Weekends': '196', 'Single Day Thursday Gross Adjusted': '123', 'Single Day Thursday Gross': '98', 'Single Day Gross': '9', 'Opening Weeks Adjusted': '15', 'Single Day Saturday Gross Adjusted': '26', 'Theater Averages (Wide Releases) - All Time Adjusted': '21', 'Theater Averages (Wide Releases) - All Time': '20', 'Fastest to $150 million': '21', 'Smallest Drops, 3,000+ theaters (Super-Saturation)': '893', 'Top 5-Day Grosses': '21', 'Post-Thanksgiving Weekend  - Biggest Drops': '33', 'Theater Averages - Wide Opening Weekends': '19', 'Consecutive Weekends At #1': '196', 'Non-Opening Tuesday Gross': '47', 'Friday Share of Opening Weekends': '11', 'Widest PG-13 Rated Releases': '37', 'Single Day Wednesday Gross Adjusted': '51', 'Non-Opening Thursday Gross': '80', 'Yearly (Wide) 2009': '4', 'Non-Holiday Monday Gross': '48', 'Rated PG-13, Opening Weekends': '16', 'Non-Opening Friday Gross': '61', 'Fastest to $200 million': '19', 'Opening Weekends - November': '2', BOM Users' Grades: '629', 'Non-Opening Wednesday Gross Adjusted': '18', 'Single Day Tuesday Gross Adjusted': '62', 'Rated PG-13': '42', 'Opening Weekends Adjusted - November': '2', 'Worldwide Yearly 2009': '7', 'Highest All Time Rank (on January 31, 2010)': '33', 'Top 8-Day Grosses': '18', 'Yearly PG-13 Rated 2009': '3', 'Opening Day Gross': '9', 'Fastest to $250 million': '33', 'Single Day Monday Gross Adjusted': '122', 'Opening Weekends Adjusted - Holiday': '3', 'Slowest to $100 million': '621', 'All Time Worldwide': '86', 'Second Weekends': '64'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Two Escobars'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=twoescobars.htm"},
+					"DomesticTotalGross": {"S":"b'$14,457'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Runtime": {"S":"b'1 hrs. 40 min.'"},
+					"ReleaseDate": {"S":"b'August 27, 2010'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Distributor": {"S":"b'All Rise Films'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$14,457'"},
+					"InRelease": {"S":"b'49 days / 7 weeks'"},
+					"CloseDate": {"S":"b'November 4, 2010'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '12,924'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Two Faces of January'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=twofacesofjanuary.htm"},
+					"DomesticTotalGross": {"S":"b'$507,463'"},
+					"Genre": {"S":"b'Thriller'"},
+					"Runtime": {"S":"b'1 hrs. 38 min.'"},
+					"ReleaseDate": {"S":"b'September 26, 2014'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Distributor": {"S":"b'Magnolia'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Composer": {"S":"b'Alberto Iglesias'"},
+					"Director": {"S":"b'Hossein Amini'"},
+					"Producer": {"S":"b'Tim Bevan, Eric Fellner, Max Minghella'"},
+					"Writer": {"S":"b'Hossein Amini'"},
+					"Actor": {"S":"b'Kirsten Dunst, Oscar Isaac, Viggo Mortensen'"},
+					"Worldwide": {"S":"b'$13,551,951'"},
+					"Foreign": {"S":"b'$13,044,488'"},
+					"Domestic": {"S":"b'$507,463'"},
+					"InRelease": {"S":"b'91 days / 13 weeks'"},
+					"CloseDate": {"S":"b'December 25, 2014'"},
+					"OpeningWeekend": {"S":"b'$43,116'"},
+					"WidestRelease": {"S":"b'59 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Con Artist / Hustler': '43'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '8,219'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Two Jakes'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=twojakes.htm"},
+					"DomesticTotalGross": {"S":"b'$10,005,969'"},
+					"Genre": {"S":"b'Crime Thriller'"},
+					"Runtime": {"S":"b'2 hrs. 17 min.'"},
+					"ReleaseDate": {"S":"b'August 10, 1990'"},
+					"MPAARating": {"S":"b'R'"},
+					"Distributor": {"S":"b'Paramount'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Actor": {"S":"b'Jack Nicholson'"},
+					"Domestic": {"S":"b'$10,005,969'"},
+					"OpeningWeekend": {"S":"b'$3,729,149'"},
+					"WidestRelease": {"S":"b'1,206 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Neo Noir': '23', 'Drama - Summer': '112'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly 1990': '100', 'Opening Weekends': '3,533', 'Opening Weekends Adjusted': '3,264', 'Opening Weeks': '3,398', 'Yearly (Wide) 1990': '95', 'Yearly Opening Weekends 1990': '73', 'Opening Weeks Adjusted': '3,128', 'All Time Domestic': '4,473', 'Smallest Drops, All Wide Releases': '3,164', 'Yearly Opening Weekends (Wide) 1990': '75', 'Highest All Time Rank (on September 4, 1990)': '1060', 'Yearly R Rated 1990': '52'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Two Towers (Re-issue)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=twotowers03.htm"},
+					"DomesticTotalGross": {"S":"b'$1,996,877'"},
+					"Genre": {"S":"b'Fantasy'"},
+					"Runtime": {"S":"b'2 hrs. 59 min.'"},
+					"ReleaseDate": {"S":"b'December 12, 2003'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Distributor": {"S":"b'New Line'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"DomesticLifetimeGross": {"S":"b''"},
+					"Players": {"S":"b'No Player Information'"},
+					"Worldwide": {"S":"b'$344,056,535'"},
+					"Foreign": {"S":"b'$1,505,170'"},
+					"Domestic": {"S":"b'$342,551,365'"},
+					"InRelease": {"S":"b'5 days / 0.7 weeks'"},
+					"CloseDate": {"S":"b'December 16, 2003'"},
+					"OpeningWeekend": {"S":"b'$727,645'"},
+					"WidestRelease": {"S":"b'126 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly PG-13 Rated 2003': '77', 'Yearly (Limited) 2003': '50', 'Yearly 2003': '192', 'Yearly Opening Weekends (Limited) 2003': '13', 'Yearly Opening Weekends 2003': '142', 'Worldwide Yearly 2003': '211', 'Highest All Time Rank (on December 16, 2003)': '4043'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The Two of Us'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=twoofus.htm"},
+					"DomesticTotalGross": {"S":"b'$56,558'"},
+					"Genre": {"S":"b'Foreign'"},
+					"Runtime": {"S":"b'1 hrs. 26 min.'"},
+					"ReleaseDate": {"S":"b'May 27, 2005'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Distributor": {"S":"b'Rialto'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$56,558'"},
+					"InRelease": {"S":"b'119 days / 17 weeks'"},
+					"CloseDate": {"S":"b'October 6, 2005'"},
+					"OpeningWeekend": {"S":"b'$5,255'"},
+					"WidestRelease": {"S":"b'2 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1312'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2005': '219', 'Yearly 2005': '379', 'All Time Domestic': '11,113', 'Yearly Opening Weekends 2005': '415', 'Yearly Unrated Movies 2005': '80', 'Yearly Opening Weekends (Limited) 2005': '276'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'The U.S. Vs. John Lennon'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=usvsjohnlennon.htm"},
+					"DomesticTotalGross": {"S":"b'$1,109,146'"},
+					"Genre": {"S":"b'Documentary'"},
+					"Runtime": {"S":"b'1 hrs. 39 min.'"},
+					"ReleaseDate": {"S":"b'September 15, 2006'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Distributor": {"S":"b'Lionsgate'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Worldwide": {"S":"b'$1,408,065'"},
+					"Foreign": {"S":"b'$298,919'"},
+					"Domestic": {"S":"b'$1,109,146'"},
+					"InRelease": {"S":"b'77 days / 11 weeks'"},
+					"CloseDate": {"S":"b'November 30, 2006'"},
+					"OpeningWeekend": {"S":"b'$69,143'"},
+					"WidestRelease": {"S":"b'65 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Documentary - Political': '22', 'Documentary': '156'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 2006': '61', 'Yearly 2006': '236', 'Yearly Opening Weekends (Limited) 2006': '95', 'All Time Domestic': '7,211', 'Yearly Opening Weekends 2006': '253', 'Yearly PG-13 Rated 2006': '82', BOM Users' Grades (2006 Releases): '21', 'Worldwide Yearly 2006': '291'}"}
+				}
+			}
+		}
+	]
+}

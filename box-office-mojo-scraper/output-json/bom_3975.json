@@ -1,0 +1,656 @@
+{
+	"bom":[
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Eden Valley'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=edenvalley.htm"},
+					"Genre": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'January 19, 1996'"},
+					"Distributor": {"S":"b'M D Wax / Courier Films'"},
+					"DomesticTotalGross": {"S":"b'$2,642'"},
+					"Runtime": {"S":"b'1 hrs. 35 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$2,642'"},
+					"CloseDate": {"S":"b'January 25, 1996'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '14,331', 'Yearly 1996': '310'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Edge of Darkness'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=edgeofdarkness.htm"},
+					"Genre": {"S":"b'Drama / Thriller'"},
+					"ProductionBudget": {"S":"b'$80 million'"},
+					"ReleaseDate": {"S":"b'January 29, 2010'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"DomesticTotalGross": {"S":"b'$43,313,890'"},
+					"Runtime": {"S":"b'1 hrs. 48 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Composer": {"S":"b'Howard Shore'"},
+					"Writer": {"S":"b'William Monahan'"},
+					"Actor": {"S":"b'Frank Grillo, Mel Gibson, Ray Winstone, Danny Huston'"},
+					"Producer": {"S":"b'Tim Headington, Graham King'"},
+					"Director": {"S":"b'Martin Campbell'"},
+					"Foreign": {"S":"b'$37,810,239'"},
+					"Domestic": {"S":"b'$43,313,890'"},
+					"Worldwide": {"S":"b'$81,124,129'"},
+					"InRelease": {"S":"b'70 days / 10 weeks'"},
+					"OpeningWeekend": {"S":"b'$17,214,384'"},
+					"CloseDate": {"S":"b'April 8, 2010'"},
+					"WidestRelease": {"S":"b'3,066 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Revenge': '29'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Smallest Drops, 3,000+ theaters (Super-Saturation)': '774', 'Widest R Rated Releases': '171', 'Biggest 2nd Weekend Drops': '485', 'Opening Weekends Adjusted - January': '85', 'Opening Weekends - Winter': '141', 'Opening Weekends Adjusted - Winter': '188', 'Opening Weekends': '1,051', 'Worst Openings - Super Saturated Adjusted': '187', 'Opening Weeks Adjusted': '1,641', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,443', 'Widest R Rated Openings': '144', 'Widest Releases': '839', 'All Time Domestic': '1,805', 'Opening Weekends - January': '61', 'Smallest Drops, All Wide Releases': '3,932', 'Widest Opening Releases': '769', 'Opening Weeks': '1,148', 'Smallest Drops, 2,000+ theaters (Very Wide)': '2,013', 'Opening Weekends Adjusted': '1,524'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Edge of Seventeen'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=edgeofseventeen.htm"},
+					"Genre": {"S":"b'Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'April 30, 1999'"},
+					"Distributor": {"S":"b'Strand'"},
+					"DomesticTotalGross": {"S":"b'$871,759'"},
+					"Runtime": {"S":"b'1 hrs. 39 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$871,759'"},
+					"OpeningWeekend": {"S":"b'$5,302'"},
+					"WidestRelease": {"S":"b'10 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Gay / Lesbian': '114'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 1999': '329', 'Yearly 1999': '210', 'Yearly R Rated 1999': '110', 'All Time Domestic': '7,530', 'Yearly Opening Weekends (Limited) 1999': '197', 'Highest All Time Rank (on August 28, 2002)': '3541', 'Yearly (Limited) 1999': '64'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Edge of Tomorrow'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=allyouneediskill.htm"},
+					"Genre": {"S":"b'Sci-Fi Action'"},
+					"ProductionBudget": {"S":"b'$178 million'"},
+					"ReleaseDate": {"S":"b'June 6, 2014'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"DomesticTotalGross": {"S":"b'$100,206,256'"},
+					"Runtime": {"S":"b'1 hrs. 53 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Composer": {"S":"b'Christophe Beck'"},
+					"Writer": {"S":"b'Jez Butterworth, Christopher McQuarrie'"},
+					"Actor": {"S":"b'Tom Cruise, Emily Blunt, Bill Paxton, Brendan Gleeson'"},
+					"Producer": {"S":"b'Jason Hoffs, Gregory Jacobs, Tom Lassally, Jeffrey Silver, Erwin Stoff'"},
+					"Director": {"S":"b'Doug Liman'"},
+					"Foreign": {"S":"b'$270,335,000'"},
+					"Domestic": {"S":"b'$100,206,256'"},
+					"Worldwide": {"S":"b'$370,541,256'"},
+					"InRelease": {"S":"b'98 days / 14 weeks'"},
+					"OpeningWeekend": {"S":"b'$28,760,246'"},
+					"CloseDate": {"S":"b'September 11, 2014'"},
+					"WidestRelease": {"S":"b'3,505 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'3D': '123', 'IMAX (Feature-length)': '118', 'Sci-Fi - Alien Invasion': '21'}"},
+					"Franchise": {"S":"{'Showdown: Tom Cruise Sci-Fi Showdown': '3', Showdown: 'Elysium' vs. 'Edge of Tomorrow': '1'}"},
+					"Chart": {"S":"{'Smallest Drops, 3,000+ theaters (Super-Saturation)': '300', 'Opening Weeks Adjusted': '768', 'Slowest to $100 million': '45', 'Opening Weekends Adjusted - June': '138', 'Opening Weekends': '524', 'Smallest Drops, 2,500+ theaters (Saturation)': '608', 'Opening Weekends Not At #1 Adjusted': '184', 'Widest Releases': '346', 'Movies That Never Hit #1': '138', 'Widest PG-13 Rated Releases': '196', 'All Time Domestic': '666', 'Widest PG-13 Rated Openings': '189', 'Smallest Drops, All Wide Releases': '2,157', 'All Time Worldwide': '274', 'Opening Weekends Not At #1': '98', 'Widest Opening Releases': '338', 'Opening Weeks': '504', 'Smallest Drops, 2,000+ theaters (Very Wide)': '888', 'Opening Weekends Adjusted': '791', 'Opening Weekends - June': '83'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Edge of Winter'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=edgeofwinter.htm"},
+					"Genre": {"S":"b'Thriller'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'August 12, 2016'"},
+					"Distributor": {"S":"b'Independent'"},
+					"Runtime": {"S":"b'1 hrs. 29 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Tom Holland, Joel Kinnaman, Rachelle Lafevre'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Edge of the City'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=edgeofthecity.htm"},
+					"Genre": {"S":"b'Crime Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'January 29, 1957'"},
+					"Distributor": {"S":"b'MGM'"},
+					"Runtime": {"S":"b'1 hrs. 25 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Cinematographer": {"S":"b'Joseph Brun'"},
+					"Composer": {"S":"b'Leonard Rosenman'"},
+					"Producer": {"S":"b'David Susskind'"},
+					"Writer": {"S":"b'Robert Alan Aurthur'"},
+					"Actor": {"S":"b'John Cassavetes, Sidney Poitier, Jack Warden, Kathleen Maguire, Ruby Dee, Robert F. Simon'"},
+					"Director": {"S":"b'Martin Ritt'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Edison Force'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=edison.htm"},
+					"Genre": {"S":"b'Action / Crime'"},
+					"ProductionBudget": {"S":"b'$25 million'"},
+					"ReleaseDate": {"S":"b'N/A'"},
+					"Distributor": {"S":"b'Unknown'"},
+					"Runtime": {"S":"b'1 hrs. 39 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Kevin Spacey, Morgan Freeman, Justin Timberlake, Cary Elwes'"},
+					"Foreign": {"S":"b'$4,143,414'"},
+					"Domestic": {"S":"b'n/a'"},
+					"Worldwide": {"S":"b'$4,143,414'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Edison, The Man'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=edisontheman.htm"},
+					"Genre": {"S":"b'Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'May 10, 1940'"},
+					"Distributor": {"S":"b'MGM'"},
+					"Runtime": {"S":"b'1 hrs. 47 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Cinematographer": {"S":"b'Harold Rosson'"},
+					"Composer": {"S":"b'Herbert Stothart'"},
+					"Producer": {"S":"b'John W. Considine'"},
+					"Writer": {"S":"b'Talbot Jennings'"},
+					"Actor": {"S":"b'Spencer Tracy, Rita Johnson, Lynne Overman, Charles Coburn, Gene Lockhart, Henry Travers'"},
+					"Director": {"S":"b'Clarence Brown'"},
+					"TotalLifetimeGross": {"S":"b'No Total Lifetime Gross Information'"},
+					"DomesticSummary": {"S":"b'No Domestic Summary Information'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"No Chart Information"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Edmond'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=edmond.htm"},
+					"Genre": {"S":"b'Drama / Thriller'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'July 14, 2006'"},
+					"Distributor": {"S":"b'First Independent Pictures'"},
+					"DomesticTotalGross": {"S":"b'$131,719'"},
+					"Runtime": {"S":"b'1 hrs. 22 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Writer": {"S":"b'David Mamet'"},
+					"Actor": {"S":"b'William H. Macy, Julia Stiles, Denise Richards, Mena Suvari, Joe Mantegna, Bai Ling'"},
+					"Foreign": {"S":"b'$111,805'"},
+					"Domestic": {"S":"b'$131,719'"},
+					"Worldwide": {"S":"b'$243,524'"},
+					"InRelease": {"S":"b'98 days / 14 weeks'"},
+					"OpeningWeekend": {"S":"b'$19,253'"},
+					"CloseDate": {"S":"b'October 19, 2006'"},
+					"WidestRelease": {"S":"b'5 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly R Rated 2006': '139', 'Worldwide Yearly 2006': '354', 'All Time Domestic': '9,982', 'Yearly Opening Weekends (Limited) 2006': '180', 'Yearly 2006': '357', 'Yearly (Limited) 2006': '182', 'Yearly Opening Weekends 2006': '338'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Educating Rita'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=educatingrita.htm"},
+					"Genre": {"S":"b'Comedy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'September 23, 1983'"},
+					"Distributor": {"S":"b'Columbia'"},
+					"DomesticTotalGross": {"S":"b'$14,648,076'"},
+					"Runtime": {"S":"b'1 hrs. 50 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'Michael Caine'"},
+					"Domestic": {"S":"b'$14,648,076'"},
+					"OpeningWeekend": {"S":"b'$73,518'"},
+					"WidestRelease": {"S":"b'407 theaters'"},
+					"Awards": {"S":"Nominated for Three Oscars."},
+					"GenreRank": {"S":"{'Teacher - Other Movies with Teachers as Main Roles': '23'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{BOM Users' Grades (1983 Releases): '18', 'Theater Averages - Opening Weekends Adjusted': '166', 'Yearly Opening Weekends 1983': '125', 'All Time Domestic': '3,813', 'Yearly (Limited) 1983': '5', 'Yearly PG Rated 1983': '21', 'Yearly Opening Weekends (Limited) 1983': '49', 'Highest All Time Rank (on December 27, 1983)': '400', 'Yearly 1983': '50'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Edvard Munch (Re-issue)'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=edwardmunch.htm"},
+					"Genre": {"S":"b'Foreign'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'June 17, 2005'"},
+					"Distributor": {"S":"b'Shadow Dist.'"},
+					"DomesticTotalGross": {"S":"b'$43,539'"},
+					"Runtime": {"S":"b'3 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Foreign": {"S":"b'$16,705'"},
+					"Domestic": {"S":"b'$43,539'"},
+					"Worldwide": {"S":"b'$60,244'"},
+					"InRelease": {"S":"b'273 days / 39 weeks'"},
+					"OpeningWeekend": {"S":"b'$3,961'"},
+					"CloseDate": {"S":"b'March 12, 2006'"},
+					"WidestRelease": {"S":"b'3 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1405'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Unrated Movies 2005': '90', 'Worldwide Yearly 2005': '333', 'All Time Domestic': '11,530', 'Yearly 2005': '402', 'Yearly Opening Weekends 2005': '447', 'Yearly (Limited) 2005': '242', 'Yearly Opening Weekends (Limited) 2005': '308'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Edward II'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=edwardii.htm"},
+					"Genre": {"S":"b'Fantasy Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'March 20, 1992'"},
+					"Distributor": {"S":"b'Fine Line'"},
+					"DomesticTotalGross": {"S":"b'$694,438'"},
+					"Runtime": {"S":"b'1 hrs. 30 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Actor": {"S":"b'Tilda Swinton'"},
+					"Domestic": {"S":"b'$694,438'"},
+					"OpeningWeekend": {"S":"b'$28,318'"},
+					"WidestRelease": {"S":"b'16 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Gay / Lesbian': '124'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly (Limited) 1992': '53', 'Highest All Time Rank (on May 12, 1992)': '2320', 'All Time Domestic': '7,817', 'Yearly Opening Weekends 1992': '178', 'Yearly 1992': '184', 'Yearly Opening Weekends (Limited) 1992': '66', 'Yearly R Rated 1992': '94'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Edward Scissorhands'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=edwardscissorhands.htm"},
+					"Genre": {"S":"b'Fantasy Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'December 7, 1990'"},
+					"Distributor": {"S":"b'Fox'"},
+					"DomesticTotalGross": {"S":"b'$56,362,352'"},
+					"Runtime": {"S":"b'1 hrs. 45 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Composer": {"S":"b'Danny Elfman'"},
+					"Actor": {"S":"b'Johnny Depp, Winona Ryder'"},
+					"Producer": {"S":"b'Tim Burton, Denise Di Novi'"},
+					"Director": {"S":"b'Tim Burton'"},
+					"Foreign": {"S":"b'$29,661,653'"},
+					"Domestic": {"S":"b'$56,362,352'"},
+					"Worldwide": {"S":"b'$86,024,005'"},
+					"WideOpeningWeekend": {"S":"b'$6,325,249'"},
+					"WidestRelease": {"S":"b'1,372 theaters'"},
+					"LimitedOpeningWeekend": {"S":"b'<b> $159,622</b>'"},
+					"Awards": {"S":"Nominated for One Oscar."},
+					"GenreRank": {"S":"{'Romantic Fantasy': '12', 'Off-Screen Couples On-Screen': '14'}"},
+					"Franchise": {"S":"{'Brand: Tim Burton-Johnny Depp': '5'}"},
+					"Chart": {"S":"{'Opening Weeks Adjusted': '2,223', 'Yearly Opening Weekends 1990': '155', BOM Users' Grades: '202', 'Yearly (Wide) 1990': '22', 'Yearly 1990': '20', 'Yearly Opening Weekends (Limited) 1990': '49', 'Opening Weekends': '2,610', 'Theater Averages - All Time Adjusted': '25', 'Worldwide Yearly 1990': '18', 'All Time Domestic': '1,382', 'Yearly Opening Weekends (Wide) 1990': '45', 'Opening Weekends Adjusted - December': '187', 'Theater Averages - Opening Weekends Adjusted': '21', 'Theater Averages - Opening Weekends': '44', 'Opening Weeks': '2,642', 'Yearly PG-13 Rated 1990': '6', 'Opening Weekends Adjusted': '2,227', BOM Users' Grades (1990 Releases): '8', 'Highest All Time Rank (on February 26, 1991)': '208'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Effie Gray'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=effiegray.htm"},
+					"Genre": {"S":"b'Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'April 3, 2015'"},
+					"Distributor": {"S":"b'Adopt Films'"},
+					"DomesticTotalGross": {"S":"b'$352,534'"},
+					"Runtime": {"S":"b'1 hrs. 48 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Writer": {"S":"b'Emma Thompson'"},
+					"Actor": {"S":"b'Dakota Fanning, Emma Thompson, Julie Walters, Tom Sturridge'"},
+					"Foreign": {"S":"b'n/a'"},
+					"Domestic": {"S":"b'$352,534'"},
+					"Worldwide": {"S":"b'$352,534'"},
+					"InRelease": {"S":"b'21 days / 3 weeks'"},
+					"OpeningWeekend": {"S":"b'$161,728'"},
+					"CloseDate": {"S":"b'April 23, 2015'"},
+					"WidestRelease": {"S":"b'201 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '8,638'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Effroyables jardins'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=effroyablesjardins.htm"},
+					"Genre": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'February 20, 2004'"},
+					"Distributor": {"S":"b'Cristal'"},
+					"Runtime": {"S":"b'1 hrs. 37 min.'"},
+					"DomesticTotalasofFeb.29,2004": {"S":"b'$78,668'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Foreign": {"S":"b'$5,714,871'"},
+					"Domestic": {"S":"b'$78,668'"},
+					"Worldwide": {"S":"b'$5,793,539'"},
+					"InRelease": {"S":"b'10 days / 1.4 weeks'"},
+					"OpeningWeekend": {"S":"b'$38,155'"},
+					"WidestRelease": {"S":"b'12 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Romantic Comedy': '409'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 2004': '264', 'Yearly Unrated Movies 2004': '80', 'Yearly (Limited) 2004': '222', 'All Time Domestic': '10,675', 'Highest All Time Rank (on February 29, 2004)': '5746', 'Yearly Opening Weekends (Limited) 2004': '126', 'Yearly 2004': '375', 'Worldwide Yearly 2004': '204'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Eichmann'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=eichmann.htm"},
+					"Genre": {"S":"b'Foreign'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'October 29, 2010'"},
+					"Distributor": {"S":"b'Regent Releasing'"},
+					"DomesticTotalGross": {"S":"b'$2,706'"},
+					"Runtime": {"S":"b'1 hrs. 36 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$2,706'"},
+					"OpeningWeekend": {"S":"b'$573'"},
+					"CloseDate": {"S":"b'November 18, 2010'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '14,322'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Eight Below'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=antarctica.htm"},
+					"Genre": {"S":"b'Adventure'"},
+					"ProductionBudget": {"S":"b'$40 million'"},
+					"ReleaseDate": {"S":"b'February 17, 2006'"},
+					"Distributor": {"S":"b'Buena Vista'"},
+					"DomesticTotalGross": {"S":"b'$81,612,565'"},
+					"Runtime": {"S":"b'1 hrs. 52 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Cinematographer": {"S":"b'Don Burgess'"},
+					"Composer": {"S":"b'Mark Isham'"},
+					"Producer": {"S":"b'Gary Barber, Roger Birnbaum, Patrick Crowley, David Hoberman, Roy Lee, Frank Marshall'"},
+					"Writer": {"S":"b'David DiGilio'"},
+					"Actor": {"S":"b'Paul Walker, Bruce Greenwood, Jason Biggs'"},
+					"Director": {"S":"b'Frank Marshall'"},
+					"Foreign": {"S":"b'$38,843,429'"},
+					"Domestic": {"S":"b'$81,612,565'"},
+					"Worldwide": {"S":"b'$120,455,994'"},
+					"InRelease": {"S":"b'105 days / 15 weeks'"},
+					"OpeningWeekend": {"S":"b'$20,188,176'"},
+					"CloseDate": {"S":"b'June 1, 2006'"},
+					"WidestRelease": {"S":"b'3,122 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Family - Animal (Live action)': '1', 'Remake - Asian': '6', 'Dog': '7', 'Adventure Remake': '8'}"},
+					"Franchise": {"S":"{'Showdown: Disney Dog Duke-Out': '2'}"},
+					"Chart": {"S":"{'Smallest Drops, 3,000+ theaters (Super-Saturation)': '50', 'Opening Weeks Adjusted': '867', 'Opening Weekends Adjusted - February': '60', 'Opening Weekends - Winter': '99', 'Opening Weekends': '860', 'Yearly PG Rated 2006': '7', 'Smallest Drops, 2,500+ theaters (Saturation)': '100', 'Highest All Time Rank (on May 14, 2006)': '447', 'Worldwide Yearly 2006': '47', 'All Time Domestic': '857', 'Sunday Share of Opening Weekends': '122', 'Rated PG, Opening Weekends': '174', 'Opening Weekends Adjusted - Winter': '90', 'Widest Opening Releases': '768', 'Rated PG, Opening Weekends Adjusted': '198', 'Opening Weekends - February': '62', 'Yearly 2006': '27', 'Yearly (Wide) 2006': '28', BOM Users' Grades (2006 Releases): '36', President's Day 4-Day Holiday Weekends: '32', 'Widest Releases': '747', 'Yearly Opening Weekends 2006': '42', 'Yearly Opening Weekends (Wide) 2006': '42', 'Smallest Drops, All Wide Releases': '641', 'Opening Weeks': '786', 'Smallest Drops, 2,000+ theaters (Very Wide)': '159', 'Opening Weekends Adjusted': '943', President's Day 4-Day Holiday Weekend Openers: '19'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Eight Crazy Nights'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=eightcrazynights.htm"},
+					"Genre": {"S":"b'Animation'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'November 27, 2002'"},
+					"Distributor": {"S":"b'Sony / Columbia'"},
+					"DomesticTotalGross": {"S":"b'$23,586,598'"},
+					"Runtime": {"S":"b'1 hrs. 11 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Composer": {"S":"b'Teddy Castellucci'"},
+					"Writer": {"S":"b'Adam Sandler'"},
+					"Actor": {"S":"b'Adam Sandler, Rob Schneider*'"},
+					"Producer": {"S":"b'Jack Giarraputo, Adam Sandler'"},
+					"Foreign": {"S":"b'$246,533'"},
+					"Domestic": {"S":"b'$23,586,598'"},
+					"Worldwide": {"S":"b'$23,833,131'"},
+					"InRelease": {"S":"b'61 days / 8.7 weeks'"},
+					"OpeningWeekend": {"S":"b'$9,434,175'"},
+					"CloseDate": {"S":"b'January 26, 2003'"},
+					"WidestRelease": {"S":"b'2,503 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Animation': '176'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Worldwide Yearly 2002': '126', 'Yearly 2002': '101', 'Opening Weeks Adjusted': '2,453', 'Yearly PG-13 Rated 2002': '47', 'Opening Weekends': '1,983', 'Smallest Drops, 2,500+ theaters (Saturation)': '904', 'Post-Thanksgiving Weekend - Best Holds': '143', 'All Time Domestic': '2,931', 'Opening Weekends Adjusted': '2,058', BOM Users' Grades (2002 Releases): '146', 'Thanksgiving 5-day Openings Adjusted': '58', 'Thanksgiving 5-day Openings': '56', 'Thanksgiving 3-day Weekends Adjusted': '139', 'Yearly Opening Weekends (Wide) 2002': '85', 'Smallest Drops, 2,000+ theaters (Very Wide)': '1,286', 'Yearly Opening Weekends 2002': '83', 'Friday Share of Opening Weekends': '137', 'Yearly (Wide) 2002': '102', 'Thanksgiving 5-day Weekends': '110', 'Smallest Drops, All Wide Releases': '2,800', 'Thanksgiving 5-day Weekends Adjusted': '102', 'Opening Weeks': '2,325', 'Thanksgiving 3-day Openings Adjusted': '60', 'Highest All Time Rank (on January 20, 2003)': '1490'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Eight Days a Week'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=eightdaysaweek.htm"},
+					"Genre": {"S":"b'Unknown'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'February 26, 1999'"},
+					"Distributor": {"S":"b'Legacy'"},
+					"DomesticTotalasofFeb.28,1999": {"S":"b'$9,090'"},
+					"Runtime": {"S":"b'1 hrs. 33 min.'"},
+					"MPAARating": {"S":"b'R'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$9,090'"},
+					"InRelease": {"S":"b'3 days / 0.4 weeks'"},
+					"OpeningWeekend": {"S":"b'$9,090'"},
+					"WidestRelease": {"S":"b'9 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Opening Weekends 1999': '311', 'Yearly 1999': '351', 'Yearly R Rated 1999': '180', 'All Time Domestic': '13,444', 'Yearly Opening Weekends (Limited) 1999': '179', 'Highest All Time Rank (on February 28, 1999)': '4338', 'Yearly (Limited) 1999': '200'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Eight Legged Freaks'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=eightleggedfreaks.htm"},
+					"Genre": {"S":"b'Horror Comedy'"},
+					"ProductionBudget": {"S":"b'$30 million'"},
+					"ReleaseDate": {"S":"b'July 17, 2002'"},
+					"Distributor": {"S":"b'Warner Bros.'"},
+					"DomesticTotalGross": {"S":"b'$17,322,606'"},
+					"Runtime": {"S":"b'1 hrs. 39 min.'"},
+					"MPAARating": {"S":"b'PG-13'"},
+					"Composer": {"S":"b'John Ottman'"},
+					"Actor": {"S":"b'Scarlett Johansson'"},
+					"Producer": {"S":"b'Dean Devlin'"},
+					"Foreign": {"S":"b'$28,544,727'"},
+					"Domestic": {"S":"b'$17,322,606'"},
+					"Worldwide": {"S":"b'$45,867,333'"},
+					"OpeningWeekend": {"S":"b'$6,485,458'"},
+					"CloseDate": {"S":"b'October 17, 2002'"},
+					"WidestRelease": {"S":"b'2,530 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Horror Comedy': '32', 'Creature Feature': '50'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Worldwide Yearly 2002': '89', 'Yearly 2002': '115', 'Opening Weeks Adjusted': '2,735', 'Opening Weekends Adjusted': '2,816', 'Biggest 2nd Weekend Drops': '322', 'Yearly PG-13 Rated 2002': '51', 'Yearly Opening Weekends (Wide) 2002': '107', 'Highest All Time Rank (on August 28, 2002)': '1490', 'Yearly Opening Weekends 2002': '102', 'Opening Weekends': '2,576', 'Smallest Drops, 2,500+ theaters (Saturation)': '1,524', 'Yearly (Wide) 2002': '113', 'Worst Openings - Saturated Adjusted': '166', 'Worst Openings - Saturated': '95', 'All Time Domestic': '3,503', 'Smallest Drops, All Wide Releases': '4,099', 'Opening Weeks': '2,531', 'Smallest Drops, 2,000+ theaters (Very Wide)': '2,126', BOM Users' Grades (2002 Releases): '141', 'Biggest Theater Drops': '197'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Eight Men Out'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=eightmenout.htm"},
+					"Genre": {"S":"b'Sports Drama'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'September 2, 1988'"},
+					"Distributor": {"S":"b'Orion Pictures'"},
+					"DomesticTotalGross": {"S":"b'$5,680,515'"},
+					"Runtime": {"S":"b'1 hrs. 59 min.'"},
+					"MPAARating": {"S":"b'PG'"},
+					"Actor": {"S":"b'D.B. Sweeney, John Cusack, David Strathairn, Charlie Sheen'"},
+					"Domestic": {"S":"b'$5,680,515'"},
+					"OpeningWeekend": {"S":"b'$1,129,491'"},
+					"WidestRelease": {"S":"b'349 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Sports - Baseball': '29', 'Sports - Period': '32', 'Sports Drama': '80'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Highest All Time Rank (on October 11, 1988)': '1116', BOM Users' Grades (1988 Releases): '10', 'All Time Domestic': '5,243', 'Yearly 1988': '116', 'Yearly Opening Weekends 1988': '113', 'Yearly PG Rated 1988': '32', 'Yearly Opening Weekends (Limited) 1988': '9', 'Yearly (Limited) 1988': '14'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Eight Miles High'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=eightmileshigh.htm"},
+					"Genre": {"S":"b'Foreign'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'July 11, 2008'"},
+					"Distributor": {"S":"b'MPI Media Group'"},
+					"DomesticTotalGross": {"S":"b'$2,616'"},
+					"Runtime": {"S":"b'1 hrs. 54 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Foreign": {"S":"b'$955,128'"},
+					"Domestic": {"S":"b'$2,616'"},
+					"Worldwide": {"S":"b'$957,744'"},
+					"InRelease": {"S":"b'7 days / 1 weeks'"},
+					"OpeningWeekend": {"S":"b'$1,496'"},
+					"CloseDate": {"S":"b'July 17, 2008'"},
+					"WidestRelease": {"S":"b'1 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1928'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '14,338', 'Worldwide Yearly 2008': '323', 'Yearly Unrated Movies 2008': '197', 'Yearly Opening Weekends 2008': '564', 'Yearly (Limited) 2008': '412', 'Yearly Opening Weekends (Limited) 2008': '412', 'Yearly 2008': '586'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Eisenstein in Guanajuato'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=eisensteininguanajuato.htm"},
+					"Genre": {"S":"b'Romantic Comedy'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'February 5, 2016'"},
+					"Distributor": {"S":"b'Strand'"},
+					"Runtime": {"S":"b'1 hrs. 45 min.'"},
+					"DomesticTotalasofApr.17,2016": {"S":"b'$34,282'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Writer": {"S":"b'Peter Greenaway'"},
+					"Director": {"S":"b'Peter Greenaway'"},
+					"Foreign": {"S":"b'n/a'"},
+					"Domestic": {"S":"b'$34,282'"},
+					"Worldwide": {"S":"b'$34,282'"},
+					"InRelease": {"S":"b'77 days / 11 weeks'"},
+					"OpeningWeekend": {"S":"b'$9,823'"},
+					"WidestRelease": {"S":"b'5 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"No Genre Information"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'All Time Domestic': '11,809'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Ek Ajnabee'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=ekajnabee.htm"},
+					"Genre": {"S":"b'Foreign'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'December 9, 2005'"},
+					"Distributor": {"S":"b'Eros'"},
+					"DomesticTotalGross": {"S":"b'$213,143'"},
+					"Runtime": {"S":"b'2 hrs. 22 min.'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$213,143'"},
+					"InRelease": {"S":"b'21 days / 3 weeks'"},
+					"OpeningWeekend": {"S":"b'$121,406'"},
+					"CloseDate": {"S":"b'December 26, 2005'"},
+					"WidestRelease": {"S":"b'38 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '886'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Unrated Movies 2005': '43', 'All Time Domestic': '9,342', 'Yearly 2005': '307', 'Yearly Opening Weekends 2005': '203', 'Yearly (Limited) 2005': '147', 'Yearly Opening Weekends (Limited) 2005': '64'}"}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Name": {"S":"b'Ek Khiladi Ek Haseena'"},
+					"Link": {"S":"http://www.boxofficemojo.com/movies/?id=ekkhiladiekhasina.htm"},
+					"Genre": {"S":"b'Foreign'"},
+					"ProductionBudget": {"S":"b'N/A'"},
+					"ReleaseDate": {"S":"b'November 18, 2005'"},
+					"Distributor": {"S":"b'Eros'"},
+					"DomesticTotalGross": {"S":"b'$90,869'"},
+					"Runtime": {"S":"b'N/A'"},
+					"MPAARating": {"S":"b'Unrated'"},
+					"Players": {"S":"b'No Player Information'"},
+					"Domestic": {"S":"b'$90,869'"},
+					"InRelease": {"S":"b'14 days / 2 weeks'"},
+					"OpeningWeekend": {"S":"b'$78,000'"},
+					"CloseDate": {"S":"b'November 27, 2005'"},
+					"WidestRelease": {"S":"b'15 theaters'"},
+					"Awards": {"S":"No Academy Awards Information"},
+					"GenreRank": {"S":"{'Foreign Language': '1172'}"},
+					"Franchise": {"S":"No Franchise Information"},
+					"Chart": {"S":"{'Yearly Unrated Movies 2005': '64', 'All Time Domestic': '10,494', 'Yearly 2005': '353', 'Yearly Opening Weekends 2005': '215', 'Yearly (Limited) 2005': '193', 'Yearly Opening Weekends (Limited) 2005': '76'}"}
+				}
+			}
+		}
+	]
+}
