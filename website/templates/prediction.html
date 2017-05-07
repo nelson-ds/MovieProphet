@@ -47,12 +47,17 @@
         $(function() {
           $('a#calculate').bind('click', function() {
             console.log($('input[name="f_budget"]').val());
-            console.log($('select[name="f_actors[]"]').val());
+            console.log($('select[name="f_act[]"]').val());
             $.getJSON('/_return_revenue', {
               f_moviename: $('input[name="f_moviename"]').val(),
               f_budget: $('input[name="f_budget"]').val(),
-              f_production: $('input[name="f_production"]').val(),
-              f_actors: $('select[name="f_actors[]"]').val()
+              f_act: $('select[name="f_act[]"]').val(),
+              f_dir: $('select[name="f_dir[]"]').val(),
+              f_pro: $('select[name="f_pro[]"]').val(),
+              f_wri: $('select[name="f_wri[]"]').val(),
+              f_cin: $('select[name="f_cin[]"]').val(),
+              f_com: $('select[name="f_com[]"]').val(),
+              f_dis: $('select[name="f_dis[]"]').val(),
             }, function(data) {
               $("#info").html('<font size="4"> For the Movie: </font> <font size="6"><p> ' + data.mname + '</font> <font size="4"><p> With budget: <p><font size="6">$' + data.bdgt + '</font>')
 
@@ -74,16 +79,74 @@
 
 
     <script type="text/javascript">
-        function test_func(data) {
-            console.log(data);
+
+        function func_act(data_act) {
+            //console.log(data_act);
             $(document).ready(function() {
-            // $(".js-example-basic-multiple").select2({ containerCssClass: "mySpecialClass" });
-            $(".js-example-basic-multiple").select2({
-            data: data
-            });
-        });
+	            $(".js-example-basic-multiple-act").select2({
+	            data: data_act
+	            });
+        	});
         }
-        test_func({{ data|safe }})
+        func_act({{ data_act|safe }})
+
+        function func_dir(data_dir) {
+            $(document).ready(function() {
+	            $(".js-example-basic-multiple-dir").select2({
+	            data: data_dir
+	            });
+        	});
+        }
+        func_dir({{ data_dir|safe }})
+
+        function func_pro(data_pro) {
+            $(document).ready(function() {
+	            $(".js-example-basic-multiple-pro").select2({
+	            data: data_pro
+	            });
+        	});
+        }
+        func_pro({{ data_pro|safe }})
+
+
+        function func_wri(data_wri) {
+            $(document).ready(function() {
+	            $(".js-example-basic-multiple-wri").select2({
+	            data: data_wri
+	            });
+        	});
+        }
+        func_wri({{ data_wri|safe }})
+
+
+        function func_cin(data_cin) {
+            $(document).ready(function() {
+	            $(".js-example-basic-multiple-cin").select2({
+	            data: data_cin
+	            });
+        	});
+        }
+        func_cin({{ data_cin|safe }})
+
+
+        function func_com(data_com) {
+            $(document).ready(function() {
+	            $(".js-example-basic-multiple-com").select2({
+	            data: data_com
+	            });
+        	});
+        }
+        func_com({{ data_com|safe }})
+
+
+        function func_dis(data_dis) {
+            $(document).ready(function() {
+	            $(".js-example-basic-multiple-dis").select2({
+	            data: data_dis
+	            });
+        	});
+        }
+        func_dis({{ data_dis|safe }})
 
 
     </script>
@@ -164,27 +227,55 @@
 
                         <form role="form">
 
-                            <div class="form-group">
-                                <label for="moviename">Movie Name</label>
-                                <input class="form-control" type="text" name="f_moviename">
-                                <p class="help-block">Movie Name will not impact prediction</p>
-                            </div>
+                        	<div id="scrollable-area" style="overflow-y:scroll; height:400px;">
 
-                            <div class="form-group">
-                                <label for="budget">Budget</label>
-                                <input class="form-control" placeholder="Enter amount in $" type="number" name="f_budget">
-                            </div>
+	                            <div class="form-group">
+	                                <label for="moviename">Movie Name</label>
+	                                <input class="form-control" type="text" name="f_moviename">
+	                                <p class="help-block">Movie Name will not impact prediction</p>
+	                            </div>
 
-                            <div class="form-group">
-                                <label for="budget">Production House</label>
-                                <input class="form-control" name="f_production">
-                            </div>
+	                            <div class="form-group">
+	                                <label for="budget">Budget</label>
+	                                <input class="form-control" placeholder="Enter amount in $" type="number" name="f_budget">
+	                            </div>
 
-                            <div class="form-group">
-                                <label for="id_label_multiple"> Actors</label>
-                                <p><select class="js-example-basic-multiple form-control" multiple="multiple" style="width:100%" name="f_actors[]"></select>
-                            </div>
+	                            <div class="form-group">
+	                                <label for="id_label_multiple"> Actors</label>
+	                                <p><select class="js-example-basic-multiple-act form-control" multiple="multiple" style="width:100%" name="f_act[]"></select>
+	                            </div>
 
+	                           	<div class="form-group">
+	                                <label for="id_label_multiple"> Directors</label>
+	                                <p><select class="js-example-basic-multiple-dir form-control" multiple="multiple" style="width:100%" name="f_dir[]"></select>
+	                            </div>
+
+	                            <div class="form-group">
+	                                <label for="id_label_multiple"> Producers</label>
+	                                <p><select class="js-example-basic-multiple-pro form-control" multiple="multiple" style="width:100%" name="f_pro[]"></select>
+	                            </div>
+
+	                            <div class="form-group">
+	                                <label for="id_label_multiple"> Writers</label>
+	                                <p><select class="js-example-basic-multiple-wri form-control" multiple="multiple" style="width:100%" name="f_wri[]"></select>
+	                            </div>
+
+	                            <div class="form-group">
+	                                <label for="id_label_multiple"> Cinematographers</label>
+	                                <p><select class="js-example-basic-multiple-com form-control" multiple="multiple" style="width:100%" name="f_cin[]"></select>
+	                            </div>
+
+	                            <div class="form-group">
+	                                <label for="id_label_multiple"> Composers</label>
+	                                <p><select class="js-example-basic-multiple-cin form-control" multiple="multiple" style="width:100%" name="f_com[]"></select>
+	                            </div>
+
+	                            <div class="form-group">
+	                                <label for="id_label_multiple"> Distributors</label>
+	                                <p><select class="js-example-basic-multiple-dis form-control" multiple="multiple" style="width:100%" name="f_dis[]"></select>
+	                            </div>
+
+                            </div>
 
                             <button type="button" class="btn btn-default"> <a href="javascript:void();" id="calculate" style="text-decoration:none; color:inherit;"> Submit</a></button>
                             <button type="reset" class="btn btn-default">Reset</button>
