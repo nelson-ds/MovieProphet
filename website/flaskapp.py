@@ -3,7 +3,7 @@ import sys, pymysql
 app = Flask(__name__)
 
 
-connection = pymysql.connect(host='localhost', user='root', password='toor', db='movies')
+connection = pymysql.connect(host='localhost', user='root', password='toor', db='movies', charset='utf8')
 cur = connection.cursor()
 
 cur.execute("select * FROM scores_act")
