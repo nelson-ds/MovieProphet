@@ -66,10 +66,10 @@
               $("#result").html('<p align="right"><font size="6"><font size="4">Revenue is: </font></p>')
 
               if (data.result > 0) {
-                  $("#arrow").empty().html('<p align="right"><font size="6">$' + data.result + '  </font><img src="{{ url_for("static", filename="images/up.png") }}" style="width:24px;height:24px;" align="centre" /></p>')
+                  $("#arrow").empty().html('<p align="right"><font size="6">$' + Math.round(data.result) + '  </font><img src="{{ url_for("static", filename="images/up.png") }}" style="width:24px;height:24px;" align="centre" /></p>')
               }
               else{
-                  $("#arrow").empty().html('<p align="right"><font size="6">$(' + data.result + ')  </font><img src="{{ url_for("static", filename="images/down.png") }}" style="width:24px;height:24px;" /></p>')
+                  $("#arrow").empty().html('<p align="right"><font size="6">$(' + Math.round(data.result) + ')  </font><img src="{{ url_for("static", filename="images/down.png") }}" style="width:24px;height:24px;" /></p>')
               }
             });
             return false;
