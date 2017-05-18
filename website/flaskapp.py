@@ -3,7 +3,7 @@ import sys, pymysql
 app = Flask(__name__)
 
 
-connection = pymysql.connect(host='localhost', user='root', password='toor', db='movies', charset='utf8')
+connection = pymysql.connect(host='localhost', user='root', password='toor', db='movies',charset='utf8')
 cur = connection.cursor()
 
 cur.execute("select * FROM scores_act")
@@ -114,10 +114,15 @@ def prediction():
         tmp["id"] = v_dis[i]
         tmp["text"] = k_dis[i]
         data_dis.append(tmp)
+	
+    print('before return')	
+
 
     return render_template('prediction.html', data_act=json.dumps(data_act), data_dir=json.dumps(data_dir), 
         data_pro=json.dumps(data_pro), data_wri=json.dumps(data_wri), data_cin=json.dumps(data_cin),
         data_com=json.dumps(data_com), data_dis=json.dumps(data_dis))
+
+    print('after return')
 
 @app.route('/chart/')
 def chart():
@@ -133,12 +138,12 @@ def return_revenue():
     budget = request.args.get('f_budget', 0, type=int)
     actors = request.args.getlist('f_act[]')
     actors = [float(i) for i in actors]
-    print('actors are', actors)
+   # print('actors are', actors)
 
     rev = 0 
     if budget < 1000: 
     	rev+=-2000
-    else: rev+=5000
+    else: rev+=710000000
     rev+=sum(actors)
 
     return jsonify(result=rev, mname=moviename, bdgt=budget, act=actors)

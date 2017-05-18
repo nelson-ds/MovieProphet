@@ -44,6 +44,10 @@
 
     <script type=text/javascript>
 
+        function numberWithCommas(x) {
+            return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        }     
+
         $(function() {
           $('a#calculate').bind('click', function() {
             console.log($('input[name="f_budget"]').val());
@@ -59,17 +63,17 @@
               f_com: $('select[name="f_com[]"]').val(),
               f_dis: $('select[name="f_dis[]"]').val(),
             }, function(data) {
-              $("#info").html('<font size="4"> For the Movie: </font> <font size="6"><p> ' + data.mname + '</font> <font size="4"><p> With budget: <p><font size="6">$' + data.bdgt + '</font>')
+              $("#info").html('<font size="4"> For the Movie: </font> <font size="6"><p> ' + data.mname + '</font> <font size="4"><p> With budget: <p><font size="6">$' + numberWithCommas(data.bdgt) + '</font>')
 
-              $("#pic").empty().prepend('<img src="{{ url_for("static", filename="images/mprophet.gif") }}" style="width:128px;height:160px;" />')
+              $("#pic").empty().prepend('<img src="{{ url_for("static", filename="images/mprophet.gif") }}" style="width:80px;height:100px;" />')
 
-              $("#result").html('<p align="right"><font size="6"><font size="4">Revenue is: </font></p>')
+              $("#result").html('<p align="centre"><font size="6"><font size="4">Revenue is: </font></p>')
 
               if (data.result > 0) {
-                  $("#arrow").empty().html('<p align="right"><font size="6">$' + Math.round(data.result) + '  </font><img src="{{ url_for("static", filename="images/up.png") }}" style="width:24px;height:24px;" align="centre" /></p>')
+                  $("#arrow").empty().html('<p align="centre"><font size="6">$' + numberWithCommas(Math.round(data.result)) + '  </font><img src="{{ url_for("static", filename="images/up.png") }}" style="width:24px;height:24px;" align="centre" /></p>')
               }
               else{
-                  $("#arrow").empty().html('<p align="right"><font size="6">$(' + Math.round(data.result) + ')  </font><img src="{{ url_for("static", filename="images/down.png") }}" style="width:24px;height:24px;" /></p>')
+                  $("#arrow").empty().html('<p align="centre"><font size="6">$(' + numberWithCommas(Math.round(data.result)) + ')  </font><img src="{{ url_for("static", filename="images/down.png") }}" style="width:24px;height:24px;" /></p>')
               }
             });
             return false;

@@ -14,7 +14,7 @@ start_time = time.time()
 print("Parsing Box Office Mojo for movie metadata", time.strftime("%Y/%m/%d %H:%M:%S"), "\n")
 
 # User input for movie index and loop increment; Retrieves movie from start_index to end_index-1
-mov_str_ind, mov_end_ind, mov_inc_ind = 0, 16828, 50
+mov_str_ind, mov_end_ind, mov_inc_ind = 0, 16828, 1
 counter = mov_str_ind+0
 
 # Initializing global variables
