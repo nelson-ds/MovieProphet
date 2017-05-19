@@ -50,8 +50,9 @@
 
         $(function() {
           $('a#calculate').bind('click', function() {
-            console.log($('input[name="f_budget"]').val());
-            console.log($('select[name="f_act[]"]').val());
+            //console.log($('input[name="f_budget"]').val());
+            //console.log($('select[name="f_act[]"]').val());
+            console.log($('input[name="f_dat"]').val());
             $.getJSON('/_return_revenue', {
               f_moviename: $('input[name="f_moviename"]').val(),
               f_budget: $('input[name="f_budget"]').val(),
@@ -62,6 +63,8 @@
               f_cin: $('select[name="f_cin[]"]').val(),
               f_com: $('select[name="f_com[]"]').val(),
               f_dis: $('select[name="f_dis[]"]').val(),
+              f_dat: $('input[name="f_dat"]').val(),
+              f_mpa: $('select[name="f_mpa"]').val()
             }, function(data) {
               $("#info").html('<font size="4"> For the Movie: </font> <font size="6"><p> ' + data.mname + '</font> <font size="4"><p> With budget: <p><font size="6">$' + numberWithCommas(data.bdgt) + '</font>')
 
@@ -151,6 +154,13 @@
         	});
         }
         func_dis({{ data_dis|safe }})
+
+
+		$(document).ready(function() {
+  		$(".js-example-basic-single").select2();
+		});
+
+</script>
 
 
     </script>
@@ -277,6 +287,34 @@
 	                            <div class="form-group">
 	                                <label for="id_label_multiple"> Distributors</label>
 	                                <p><select class="js-example-basic-multiple-dis form-control" multiple="multiple" style="width:100%" name="f_dis[]"></select>
+	                            </div>
+
+	                           	<div class="form-group">
+	                                <label for="moviedate">Release Date</label>
+	                                <input class="form-control" type="date" name="f_dat" min="2017-05-31" max="2020-12-31">
+	                            </div>
+
+	                            <div class="form-group">
+	                                <label for="id_label_multiple">MPAA Rating</label>
+	                                <p><select class="js-example-basic-single" style="width:100%" name="f_mpa">
+	                                	<option value="Unknown">Unknown</option>
+	                                	<option value="G">G</option>
+	                                	<option value="NC-17/X">NC-17/X</option>
+	                               		<option value="PG-13">PG-13</option>
+	                                	<option value="PG/M/GP">PG/M/GP</option>
+	                            		<option value="R">R</option>
+	                                	<option value="Unrated/Not Rated/ Not Yet rated">Unrated/Not Rated/ Not Yet rated</option>
+	                                </select>
+	                            </div>
+
+	                           	<div class="form-group">
+	                                <label for="id_label_multiple">Genre</label>
+	                                <p><select class="js-example-basic-single" style="width:100%" name="f_mpa">
+	                                	<option value="Unknown">Unknown</option>
+	                                	<option value="G">Action</option>
+	                                	<option value="NC-17/X">Romance</option>
+	                                	<option value="NC-17/X">Comedy</option>
+	                                </select>
 	                            </div>
 
                             </div>

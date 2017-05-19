@@ -138,6 +138,9 @@ def return_revenue():
     budget = request.args.get('f_budget', 0, type=int)
     actors = request.args.getlist('f_act[]')
     actors = [float(i) for i in actors]
+    date = request.args.get('f_dat', 'N/A')
+    mpaa = request.args.get('f_mpa', 'N/A')
+    print('MPAA is', mpaa)
    # print('actors are', actors)
 
     rev = 0 
