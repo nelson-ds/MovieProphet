@@ -56,6 +56,7 @@
             $.getJSON('/_return_revenue', {
               f_moviename: $('input[name="f_moviename"]').val(),
               f_budget: $('input[name="f_budget"]').val(),
+              f_gen: $('select[name="f_gen[]"]').val(),
               f_act: $('select[name="f_act[]"]').val(),
               f_dir: $('select[name="f_dir[]"]').val(),
               f_pro: $('select[name="f_pro[]"]').val(),
@@ -160,6 +161,10 @@
   		$(".js-example-basic-single").select2();
 		});
 
+		$(document).ready(function() {
+  		$(".js-example-basic-multiple").select2();
+		});
+
 </script>
 
 
@@ -255,37 +260,70 @@
 	                            </div>
 
 	                            <div class="form-group">
-	                                <label for="id_label_multiple"> Actors</label>
+	                            	<label for="id_label_multiple">Genre</label>
+		                            <p><select class="js-example-basic-multiple" multiple="multiple" style="width:100%" name="f_gen[]">
+										<option value="0">N/A</option>
+										<option value="1">Action</option>
+										<option value="2">Adult</option>
+										<option value="3">Adventure</option>
+										<option value="4">Animation</option>
+										<option value="5">Biography</option>
+										<option value="6">Comedy</option>
+										<option value="0">Crime</option>
+										<option value="1">Documentary</option>
+										<option value="2">Drama</option>
+										<option value="3">Family</option>
+										<option value="4">Fantasy</option>
+										<option value="5">Film-Noir</option>
+										<option value="6">History</option>
+										<option value="0">Horror</option>
+										<option value="1">Music</option>
+										<option value="2">Musical</option>
+										<option value="3">Mystery</option>
+										<option value="4">News</option>
+										<option value="5">Reality-TV</option>
+										<option value="6">Romance</option>
+										<option value="0">Sci-Fi</option>
+										<option value="1">Short</option>
+										<option value="2">Sport</option>
+										<option value="3">Thriller</option>
+										<option value="4">War</option>
+										<option value="5">Western</option>
+									</select>
+								</div>
+
+	                            <div class="form-group">
+	                                <label for="id_label_multiple">Actors</label>
 	                                <p><select class="js-example-basic-multiple-act form-control" multiple="multiple" style="width:100%" name="f_act[]"></select>
 	                            </div>
 
 	                           	<div class="form-group">
-	                                <label for="id_label_multiple"> Directors</label>
+	                                <label for="id_label_multiple">Directors</label>
 	                                <p><select class="js-example-basic-multiple-dir form-control" multiple="multiple" style="width:100%" name="f_dir[]"></select>
 	                            </div>
 
 	                            <div class="form-group">
-	                                <label for="id_label_multiple"> Producers</label>
+	                                <label for="id_label_multiple">Producers</label>
 	                                <p><select class="js-example-basic-multiple-pro form-control" multiple="multiple" style="width:100%" name="f_pro[]"></select>
 	                            </div>
 
 	                            <div class="form-group">
-	                                <label for="id_label_multiple"> Writers</label>
+	                                <label for="id_label_multiple">Writers</label>
 	                                <p><select class="js-example-basic-multiple-wri form-control" multiple="multiple" style="width:100%" name="f_wri[]"></select>
 	                            </div>
 
 	                            <div class="form-group">
-	                                <label for="id_label_multiple"> Cinematographers</label>
+	                                <label for="id_label_multiple">Cinematographers</label>
 	                                <p><select class="js-example-basic-multiple-com form-control" multiple="multiple" style="width:100%" name="f_cin[]"></select>
 	                            </div>
 
 	                            <div class="form-group">
-	                                <label for="id_label_multiple"> Composers</label>
+	                                <label for="id_label_multiple">Composers</label>
 	                                <p><select class="js-example-basic-multiple-cin form-control" multiple="multiple" style="width:100%" name="f_com[]"></select>
 	                            </div>
 
 	                            <div class="form-group">
-	                                <label for="id_label_multiple"> Distributors</label>
+	                                <label for="id_label_multiple">Distributors</label>
 	                                <p><select class="js-example-basic-multiple-dis form-control" multiple="multiple" style="width:100%" name="f_dis[]"></select>
 	                            </div>
 
@@ -297,13 +335,13 @@
 	                            <div class="form-group">
 	                                <label for="id_label_multiple">MPAA Rating</label>
 	                                <p><select class="js-example-basic-single" style="width:100%" name="f_mpa">
-	                                	<option value="Unknown">Unknown</option>
-	                                	<option value="G">G</option>
-	                                	<option value="NC-17/X">NC-17/X</option>
-	                               		<option value="PG-13">PG-13</option>
-	                                	<option value="PG/M/GP">PG/M/GP</option>
-	                            		<option value="R">R</option>
-	                                	<option value="Unrated/Not Rated/ Not Yet rated">Unrated/Not Rated/ Not Yet rated</option>
+	                                	<option value="7">Unknown</option>
+	                                	<option value="1">G</option>
+	                                	<option value="5">NC-17/X</option>
+	                               		<option value="3">PG-13</option>
+	                                	<option value="2">PG/M/GP</option>
+	                            		<option value="4">R</option>
+	                                	<option value="6">Unrated/Not Rated/ Not Yet rated</option>
 	                                </select>
 	                            </div>
                             </div>

@@ -1,8 +1,12 @@
 from flask import Flask, render_template, request, jsonify, json
-import sys, pymysql
+import sys
+import pymysql
+import pickle
+from datetime import datetime
 app = Flask(__name__)
 
-
+loaded_model = pickle.load(open('model\low_budget.mprophet', 'rb'))
+print(loaded_model)
 connection = pymysql.connect(host='localhost', user='root', password='toor', db='movies',charset='utf8')
 cur = connection.cursor()
 
@@ -134,22 +138,77 @@ def table():
 
 @app.route('/_return_revenue')
 def return_revenue():
+
+
     moviename = request.args.get('f_moviename', 'N/A')
-    budget = request.args.get('f_budget', 0, type=int)
-    actors = request.args.getlist('f_act[]')
-    actors = [float(i) for i in actors]
-    date = request.args.get('f_dat', 'N/A')
-    mpaa = request.args.get('f_mpa', 'N/A')
-    print('MPAA is', mpaa)
-   # print('actors are', actors)
+    print("\nMovie Name:", moviename)
+
+    bom_budget = request.args.get('f_budget', 0, type=int)
+    print("Budget:", bom_budget)
+
+    genre = request.args.getlist('f_gen[]')
+    print('Genre:', sum(map(int,genre)))
+
+    actor_score = request.args.getlist('f_act[]')
+    actor_score = sum([float(i) for i in actor_score])
+    print('Actor Score:', actor_score)
+
+    director_score = request.args.getlist('f_dir[]')
+    director_score = sum([float(i) for i in director_score])
+    print('Director Score:', director_score)
+
+    writer_score = request.args.getlist('f_wri[]')
+    writer_score = sum([float(i) for i in writer_score])
+    print('Writer Score:', writer_score)
+
+    distributor_score = request.args.getlist('f_dis[]')
+    distributor_score = sum([float(i) for i in distributor_score])
+    print('Disctributor Score:', distributor_score)
+
+    composer_score = request.args.getlist('f_com[]')
+    composer_score = sum([float(i) for i in composer_score])
+    print('Composer Score:', composer_score)
+
+    cinematographer_score = request.args.getlist('f_cin[]')
+    cinematographer_score = sum([float(i) for i in cinematographer_score])
+    print('Cinematographer Score:', cinematographer_score)
+
+    producer_score = request.args.getlist('f_pro[]')
+    producer_score = sum([float(i) for i in producer_score])
+    print('Producer Score:', producer_score)
+
+    mpaa_rating = request.args.get('f_mpa', 'N/A')
+    print('MPAA Rating:', mpaa_rating)
+
+    date = request.args.get('f_dat')
+    if date != '':
+        date = datetime.strptime(date, '%Y-%m-%d')
+        release_month = datetime.date(date).month
+        release_week_of_the_year = datetime.date(date).isocalendar()[1]
+        release_quarter = (release_month-1)//3 + 1
+        release_day_of_the_year = datetime.date(date).timetuple().tm_yday
+        print('Month, Week, Quarter, Day of the Year:', release_month, release_week_of_the_year, release_quarter, 
+            release_day_of_the_year)
+    else:
+         release_month, release_week_of_the_year, release_quarter, release_day_of_the_year = '', '', '', '' 
+         print('No valid date entered')
+
+    holiday_season = True
+    print('Holiday Season:', holiday_season, '\n')
+
+    x = [bom_budget, release_month, release_week_of_the_year, release_quarter, mpaa_rating,
+    holiday_season,release_day_of_the_year, actor_score,director_score,writer_score,
+    distributor_score, composer_score, cinematographer_score, producer_score, genre]
+
+    #roi = loaded_model.predict(x)
 
     rev = 0 
-    if budget < 1000: 
+    if bom_budget < 1000: 
     	rev+=-2000
     else: rev+=710000000
-    rev+=sum(actors)
+    rev+=actor_score
 
-    return jsonify(result=rev, mname=moviename, bdgt=budget, act=actors)
+    return jsonify(result=rev, mname=moviename, bdgt=bom_budget, act=actor_score)
 
 if __name__ == "__main__":
     app.run(host="127.0.0.1",
