@@ -2,12 +2,19 @@ from flask import Flask, render_template, request, jsonify, json
 import sys
 import pymysql
 import pickle
-from datetime import datetime
+from datetime import datetime, timedelta
+import holidays
 app = Flask(__name__)
 
-loaded_model = pickle.load(open('model\low_budget.mprophet', 'rb'))
-print(loaded_model)
-connection = pymysql.connect(host='localhost', user='root', password='toor', db='movies',charset='utf8')
+# Dev
+path = 'model\low_budget.mprophet'
+pasw = 'toor'
+
+# Prod
+#path = '/home/ubuntu/modeling/notebook/model/low_budget.mprophet'
+#pasw = 'mprophet'
+
+connection = pymysql.connect(host='localhost', user='root', password=pasw, db='movies',charset='utf8')
 cur = connection.cursor()
 
 cur.execute("select * FROM scores_act")
@@ -139,6 +146,8 @@ def table():
 @app.route('/_return_revenue')
 def return_revenue():
 
+    loaded_model = pickle.load(open(path, 'rb'))
+    print(loaded_model)
 
     moviename = request.args.get('f_moviename', 'N/A')
     print("\nMovie Name:", moviename)
@@ -181,20 +190,24 @@ def return_revenue():
     print('MPAA Rating:', mpaa_rating)
 
     date = request.args.get('f_dat')
+    holiday_season = False
     if date != '':
         date = datetime.strptime(date, '%Y-%m-%d')
         release_month = datetime.date(date).month
         release_week_of_the_year = datetime.date(date).isocalendar()[1]
         release_quarter = (release_month-1)//3 + 1
         release_day_of_the_year = datetime.date(date).timetuple().tm_yday
-        print('Month, Week, Quarter, Day of the Year:', release_month, release_week_of_the_year, release_quarter, 
-            release_day_of_the_year)
+
+        us_holidays = holidays.UnitedStates()
+        for i in range(-7, 8):
+            if holiday_season == True: break
+            else: holiday_season = (date - timedelta(days=i)) in us_holidays
+        
+        print('Month, Week, Quarter, Day of the Year, Holiday Season:', release_month, release_week_of_the_year, release_quarter, 
+            release_day_of_the_year, holiday_season)
     else:
          release_month, release_week_of_the_year, release_quarter, release_day_of_the_year = '', '', '', '' 
          print('No valid date entered')
-
-    holiday_season = True
-    print('Holiday Season:', holiday_season, '\n')
 
     x = [bom_budget, release_month, release_week_of_the_year, release_quarter, mpaa_rating,
     holiday_season,release_day_of_the_year, actor_score,director_score,writer_score,

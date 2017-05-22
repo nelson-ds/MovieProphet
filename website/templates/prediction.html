@@ -165,6 +165,18 @@
   		$(".js-example-basic-multiple").select2();
 		});
 
+		function myFunction() {
+    		var x = screen.height + "px";
+    		document.getElementById("demo").innerHTML = x;
+		}
+
+		//function autoResizeDiv()
+        //{
+        //    document.getElementById('main').style.height = window.innerHeight +'px';
+        //}
+        //window.onresize = autoResizeDiv;
+        //autoResizeDiv();
+
 </script>
 
 
@@ -172,7 +184,8 @@
 
 </head>
 
-<body>
+<body style="overflow:hidden;">
+<!-- <body style="overflow:hidden; margin:0"> -->
 
     <div id="wrapper">
 
@@ -236,7 +249,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h1 class="page-header">
-                            Prediction <small>Based on Movie Proposal</small>
+                            <p>Prediction <small>Based on Movie Proposal</small>
                         </h1>
                     </div>
                 </div>
@@ -246,7 +259,7 @@
 
                         <form role="form">
 
-                        	<div id="scrollable-area" style="overflow-y:scroll; height:400px;">
+                        	<div id="scrollable-area" style="overflow-y:scroll; height:430px;">
 
 	                            <div class="form-group">
 	                                <label for="moviename">Movie Name</label>
