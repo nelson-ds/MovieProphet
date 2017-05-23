@@ -73,12 +73,14 @@
 
               $("#result").html('<p align="centre"><font size="6"><font size="4">Revenue is: </font></p>')
 
-              if (data.result > 0) {
+              if (data.result > data.bdgt) {
                   $("#arrow").empty().html('<p align="centre"><font size="6">$' + numberWithCommas(Math.round(data.result)) + '  </font><img src="{{ url_for("static", filename="images/up.png") }}" style="width:24px;height:24px;" align="centre" /></p>')
               }
               else{
                   $("#arrow").empty().html('<p align="centre"><font size="6">$(' + numberWithCommas(Math.round(data.result)) + ')  </font><img src="{{ url_for("static", filename="images/down.png") }}" style="width:24px;height:24px;" /></p>')
               }
+
+              $("#roi").html('<p align="centre"><font size="5">ROI: ' + Math.round(data.result_inc*100)/100 + '%</font></p>')
             });
             return false;
           });
@@ -275,33 +277,33 @@
 	                            <div class="form-group">
 	                            	<label for="id_label_multiple">Genre</label>
 		                            <p><select class="js-example-basic-multiple" multiple="multiple" style="width:100%" name="f_gen[]">
-										<option value="0">N/A</option>
-										<option value="1">Action</option>
-										<option value="2">Adult</option>
-										<option value="3">Adventure</option>
-										<option value="4">Animation</option>
-										<option value="5">Biography</option>
-										<option value="6">Comedy</option>
-										<option value="0">Crime</option>
-										<option value="1">Documentary</option>
-										<option value="2">Drama</option>
-										<option value="3">Family</option>
-										<option value="4">Fantasy</option>
-										<option value="5">Film-Noir</option>
-										<option value="6">History</option>
-										<option value="0">Horror</option>
-										<option value="1">Music</option>
-										<option value="2">Musical</option>
-										<option value="3">Mystery</option>
-										<option value="4">News</option>
-										<option value="5">Reality-TV</option>
-										<option value="6">Romance</option>
-										<option value="0">Sci-Fi</option>
-										<option value="1">Short</option>
-										<option value="2">Sport</option>
-										<option value="3">Thriller</option>
-										<option value="4">War</option>
-										<option value="5">Western</option>
+										<option value="Action">Action</option>
+										<option value="Adult">Adult</option>
+										<option value="Adventure">Adventure</option>
+										<option value="Animation">Animation</option>
+										<option value="Biography">Biography</option>
+										<option value="Comedy">Comedy</option>
+										<option value="Crime">Crime</option>
+										<option value="Documentary">Documentary</option>
+										<option value="Drama">Drama</option>
+										<option value="Family">Family</option>
+										<option value="Fantasy">Fantasy</option>
+										<option value="Film-Noir">Film-Noir</option>
+										<option value="History">History</option>
+										<option value="Horror">Horror</option>
+										<option value="Music">Music</option>
+										<option value="Musical">Musical</option>
+										<option value="Mystery">Mystery</option>
+										<option value="N/A">N/A</option>
+										<option value="News">News</option>
+										<option value="Reality">Reality-TV</option>
+										<option value="Romance">Romance</option>
+										<option value="Sci-Fi">Sci-Fi</option>
+										<option value="Short">Short</option>
+										<option value="Sport">Sport</option>
+										<option value="Thriller">Thriller</option>
+										<option value="War">War</option>
+										<option value="Western">Western</option>
 									</select>
 								</div>
 
@@ -379,8 +381,8 @@
                         <div class="col-md-6">
                             <span id="result"></span>
                             <span id="arrow"></span>
-                        </div>
-                    
+                            <span id="roi"></span>
+                        </div> 
                 </div>
 
             </div>

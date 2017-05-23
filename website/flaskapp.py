@@ -4,14 +4,17 @@ import pymysql
 import pickle
 from datetime import datetime, timedelta
 import holidays
+import numpy as np
 app = Flask(__name__)
 
 # Dev
-path = 'model\low_budget.mprophet'
+path_model = 'model\low_budget.mprophet'
+path_knn = 'model\genre.mprophet'
 pasw = 'toor'
 
 # Prod
-#path = '/home/ubuntu/modeling/notebook/model/low_budget.mprophet'
+#path_model = '/home/ubuntu/capstone/modeling/notebook/model/low_budget.mprophet'
+#path_knn = '/home/ubuntu/capstone/modeling/notebook/model/genre.mprophet'
 #pasw = 'mprophet'
 
 connection = pymysql.connect(host='localhost', user='root', password=pasw, db='movies',charset='utf8')
@@ -146,8 +149,8 @@ def table():
 @app.route('/_return_revenue')
 def return_revenue():
 
-    loaded_model = pickle.load(open(path, 'rb'))
-    print(loaded_model)
+    loaded_model = pickle.load(open(path_model, 'rb'))
+    loaded_knn = pickle.load(open(path_knn, 'rb'))
 
     moviename = request.args.get('f_moviename', 'N/A')
     print("\nMovie Name:", moviename)
@@ -156,7 +159,16 @@ def return_revenue():
     print("Budget:", bom_budget)
 
     genre = request.args.getlist('f_gen[]')
-    print('Genre:', sum(map(int,genre)))
+
+    genre_encoding = np.zeros(27)
+    genre_dict = {"Action":0, "Adult":1, "Adventure":2, "Animation":3, "Biography":4, "Comedy":5,
+        "Crime":6, "Documentary":7, "Drama":8, "Family":9, "Fantasy":10, "Film-Noir":11, "History":12,
+        "Horror":13, "Music":14, "Musical":15, "Mystery":16, "N/A":17, "News":18, "Reality":19, "Romance":20,
+        "Sci-Fi":21, "Short":22, "Sport":23, "Thriller":24, "War":25, "Western":26}
+    for gen in genre: genre_encoding[genre_dict[gen]] = 1
+    genre_encoding = genre_encoding.reshape(1,-1)
+    genre_cluster = loaded_knn.predict(genre_encoding)
+    print(genre, genre_cluster)
 
     actor_score = request.args.getlist('f_act[]')
     actor_score = sum([float(i) for i in actor_score])
@@ -209,19 +221,15 @@ def return_revenue():
          release_month, release_week_of_the_year, release_quarter, release_day_of_the_year = '', '', '', '' 
          print('No valid date entered')
 
-    x = [bom_budget, release_month, release_week_of_the_year, release_quarter, mpaa_rating,
+    X = [bom_budget, release_month, release_week_of_the_year, release_quarter, mpaa_rating,
     holiday_season,release_day_of_the_year, actor_score,director_score,writer_score,
-    distributor_score, composer_score, cinematographer_score, producer_score, genre]
+    distributor_score, composer_score, cinematographer_score, producer_score, genre_cluster]
 
-    #roi = loaded_model.predict(x)
+    roi = loaded_model.predict(X)[0]
+    rev = roi*bom_budget
+    print(bom_budget, roi, rev)
 
-    rev = 0 
-    if bom_budget < 1000: 
-    	rev+=-2000
-    else: rev+=710000000
-    rev+=actor_score
-
-    return jsonify(result=rev, mname=moviename, bdgt=bom_budget, act=actor_score)
+    return jsonify(result=rev, result_inc=roi, mname=moviename, bdgt=bom_budget)
 
 if __name__ == "__main__":
     app.run(host="127.0.0.1",
