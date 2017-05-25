@@ -1,4 +1,5 @@
-# movie-prophet
+# Movie Prophet
+### Data Science meets Hollywood
 
 Movie Prophet is a recommendation engine that predicts the box office revenue given a movie proposal.
 
