@@ -158,7 +158,7 @@ def return_revenue():
     moviename = request.args.get('f_moviename', 'N/A')
     print("\nMovie Name:", moviename)
 
-    bom_budget = request.args.get('f_budget', 0, type=int)
+    bom_budget = request.args.get('f_budget', 0, type=int) * 1000000
     print("Budget:", bom_budget)
 
     genre = request.args.getlist('f_gen[]')

@@ -67,20 +67,20 @@
               f_dat: $('input[name="f_dat"]').val(),
               f_mpa: $('select[name="f_mpa"]').val()
             }, function(data) {
-              $("#info").html('<font size="4"> For the Movie: </font> <font size="6"><p> ' + data.mname + '</font> <font size="4"><p> With budget: <p><font size="6">$' + numberWithCommas(data.bdgt) + '</font>')
+              $("#info").html('<p align="left"><font size="4"> For the Movie: </font> <font size="5"><p> ' + data.mname + '</font> <font size="4"><p> With budget: <p><font size="5">$' + numberWithCommas(data.bdgt/1000000) + ' Million</font></p>')
 
               $("#pic").empty().prepend('<img src="{{ url_for("static", filename="images/mprophet.gif") }}" style="width:80px;height:100px;" />')
 
-              $("#result").html('<p align="centre"><font size="6"><font size="4">Revenue is: </font></p>')
+              $("#result").html('<p align="right"><font size="5"><font size="4">Revenue is: </font></p>')
 
               if (data.result > data.bdgt) {
-                  $("#arrow").empty().html('<p align="centre"><font size="6">$' + numberWithCommas(Math.round(data.result)) + '  </font><img src="{{ url_for("static", filename="images/up.png") }}" style="width:24px;height:24px;" align="centre" /></p>')
+                  $("#arrow").empty().html('<p align="right"><font size="5">$' + numberWithCommas(Math.round(data.result/1000000)) + ' Million  </font><img src="{{ url_for("static", filename="images/up.png") }}" style="width:24px;height:24px;" align="right" /></p>')
               }
               else{
-                  $("#arrow").empty().html('<p align="centre"><font size="6">$(' + numberWithCommas(Math.round(data.result)) + ')  </font><img src="{{ url_for("static", filename="images/down.png") }}" style="width:24px;height:24px;" /></p>')
+                  $("#arrow").empty().html('<p align="right"><font size="5">$(' + numberWithCommas(Math.round(data.result/1000000)) + ' right)  </font><img src="{{ url_for("static", filename="images/down.png") }}" style="width:24px;height:24px;" /></p>')
               }
 
-              $("#roi").html('<p align="centre"><font size="5">ROI: ' + Math.round(data.result_inc*100)/100 + '%</font></p>')
+              $("#roi").html('<p align="right"><font size="4">ROI: </font><font size="5">' + Math.round(data.result_inc*100)/100 + '%</font></p>')
             });
             return false;
           });
@@ -185,7 +185,11 @@
 
 		   	$("input[name=f_budget]").change(function(){
 		        var bud = $(this).val();
-		        if(bud & 2==1){bool_bud=true}
+		        if((bud < 0.1) | (bud > 500)){
+		        	$("input[name=f_budget]").val("");
+		        	window.alert("Please enter budget between 0.2 and 300");
+		        }
+		        if(bud){bool_bud=true}
 		        else{bool_bud = false}
 		    	if(bool_mov & bool_bud & bool_dat & bool_gen & bool_act & bool_dir){$("button[name=sub]").removeAttr("disabled");}
 		    	else{$("button[name=sub]").attr("disabled", true);}
@@ -429,15 +433,15 @@
 
                     <div class="col-md-6">
 
-                        <div class="col-md-4">
-                            <span id="info"></span>
+                        <div class="col-md-5">
+                            <span id="info"><br><br><br><p align="left"><font size="4"><i>Movie reveal thy value..</i></font></p></span>
                         </div>
 
                         <div class="col-md-2">
                             <span id="pic"><img src="{{ url_for("static", filename="images/mprophet.gif") }}" /></span>
                         </div>
 
-                        <div class="col-md-6">
+                        <div class="col-md-5">
                             <span id="result"></span>
                             <span id="arrow"></span>
                             <span id="roi"></span>
