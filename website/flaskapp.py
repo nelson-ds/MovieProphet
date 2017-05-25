@@ -8,12 +8,16 @@ import numpy as np
 app = Flask(__name__)
 
 # Dev
-path_model = 'model\low_budget.mprophet'
+path_model_low = 'model\low_budget.mprophet'
+path_model_med = 'model\mid_budget.mprophet'
+path_model_hig = 'model\high_budget.mprophet'
 path_knn = 'model\genre.mprophet'
 pasw = 'toor'
 
 # Prod
-#path_model = '/home/ubuntu/capstone/modeling/notebook/model/low_budget.mprophet'
+#path_model_low = '/home/ubuntu/capstone/modeling/notebook/model/low_budget.mprophet'
+#path_model_med = '/home/ubuntu/capstone/modeling/notebook/model/mid_budget.mprophet'
+#path_model_hig = '/home/ubuntu/capstone/modeling/notebook/model/high_budget.mprophet'
 #path_knn = '/home/ubuntu/capstone/modeling/notebook/model/genre.mprophet'
 #pasw = 'mprophet'
 
@@ -149,7 +153,6 @@ def table():
 @app.route('/_return_revenue')
 def return_revenue():
 
-    loaded_model = pickle.load(open(path_model, 'rb'))
     loaded_knn = pickle.load(open(path_knn, 'rb'))
 
     moviename = request.args.get('f_moviename', 'N/A')
@@ -203,6 +206,7 @@ def return_revenue():
 
     date = request.args.get('f_dat')
     holiday_season = False
+    print(date)
     if date != '':
         date = datetime.strptime(date, '%Y-%m-%d')
         release_month = datetime.date(date).month
@@ -220,6 +224,19 @@ def return_revenue():
     else:
          release_month, release_week_of_the_year, release_quarter, release_day_of_the_year = '', '', '', '' 
          print('No valid date entered')
+
+
+    if bom_budget < 47000000:
+        loaded_model = pickle.load(open(path_model_low, 'rb'))
+        print('Considering Low Model')
+    else:
+        if bom_budget < 117000000:
+            loaded_model = pickle.load(open(path_model_med, 'rb'))
+            print('Considering Mid Model')
+        else:
+            loaded_model = pickle.load(open(path_model_hig, 'rb'))
+            print('Considering High Model')
+
 
     X = [bom_budget, release_month, release_week_of_the_year, release_quarter, mpaa_rating,
     holiday_season,release_day_of_the_year, actor_score,director_score,writer_score,

@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Movie Prophet - The Box Office Sorcerer</title>
+    <title>Movie Prophet - The Box Office Predictor</title>
 
     <!-- jQuery -->
     <script src="{{url_for('static', filename='js/jquery.js')}}"></script>
@@ -167,6 +167,65 @@
   		$(".js-example-basic-multiple").select2();
 		});
 
+		var bool_mov = false
+		var bool_bud = false
+		var bool_dat = false
+		var bool_gen = false
+		var bool_act = false
+		var bool_dir = false
+
+		$(document).ready(function(){
+		    $("input[name=f_moviename]").change(function(){
+		        var mov = $(this).val();
+		        if(mov){bool_mov = true}
+		        else{bool_mov = false}
+		   		if(bool_mov & bool_bud & bool_dat & bool_gen & bool_act & bool_dir){$("button[name=sub]").removeAttr("disabled");}
+		    	else{$("button[name=sub]").attr("disabled", true);}
+		    });
+
+		   	$("input[name=f_budget]").change(function(){
+		        var bud = $(this).val();
+		        if(bud & 2==1){bool_bud=true}
+		        else{bool_bud = false}
+		    	if(bool_mov & bool_bud & bool_dat & bool_gen & bool_act & bool_dir){$("button[name=sub]").removeAttr("disabled");}
+		    	else{$("button[name=sub]").attr("disabled", true);}
+		    });
+
+		    $("input[name=f_dat]").change(function(){
+		        var dat = $(this).val();
+		        console.log(dat)
+		        if(dat){bool_dat=true}
+		        else{bool_dat = false}
+		    	if(bool_mov & bool_bud & bool_dat & bool_gen & bool_act & bool_dir){$("button[name=sub]").removeAttr("disabled");}
+		    	else{$("button[name=sub]").attr("disabled", true);}
+		    });
+
+		    $("select[name=f_gen\\[\\]]").change(function(){
+		        var gen = $(this).val();
+		        if(gen){bool_gen=true}
+		        else{bool_gen = false}
+		    	if(bool_mov & bool_bud & bool_dat & bool_gen & bool_act & bool_dir){$("button[name=sub]").removeAttr("disabled");}
+		    	else{$("button[name=sub]").attr("disabled", true);}
+		    });
+
+		    $("select[name=f_act\\[\\]]").change(function(){
+		        var act = $(this).val();
+		        if(act){bool_act=true}
+		        else{bool_act = false}
+		    	if(bool_mov & bool_bud & bool_dat & bool_gen & bool_act & bool_dir){$("button[name=sub]").removeAttr("disabled");}
+		    	else{$("button[name=sub]").attr("disabled", true);}
+		    });
+
+		    $("select[name=f_dir\\[\\]]").change(function(){
+		        var dir = $(this).val();
+		        if(dir){bool_dir=true}
+		        else{bool_dir = false}
+		    	if(bool_mov & bool_bud & bool_dat & bool_gen & bool_act & bool_dir){$("button[name=sub]").removeAttr("disabled");}
+		    	else{$("button[name=sub]").attr("disabled", true);}
+		    });
+
+		});
+
 		function myFunction() {
     		var x = screen.height + "px";
     		document.getElementById("demo").innerHTML = x;
@@ -264,18 +323,23 @@
                         	<div id="scrollable-area" style="overflow-y:scroll; height:430px;">
 
 	                            <div class="form-group">
-	                                <label for="moviename">Movie Name</label>
+	                                <label for="moviename">Movie Name*</label>
 	                                <input class="form-control" type="text" name="f_moviename">
 	                                <p class="help-block">Movie Name will not impact prediction</p>
 	                            </div>
 
 	                            <div class="form-group">
-	                                <label for="budget">Budget</label>
-	                                <input class="form-control" placeholder="Enter amount in $" type="number" name="f_budget">
+	                                <label for="budget">Budget*</label>
+	                                <input class="form-control" placeholder="in Million $" type="number" name="f_budget">
 	                            </div>
 
 	                            <div class="form-group">
-	                            	<label for="id_label_multiple">Genre</label>
+	                                <label for="moviedate">Release Date*</label>
+	                                <input class="form-control" type="date" name="f_dat" min="2017-05-31" max="2020-12-31">
+	                            </div>
+
+	                            <div class="form-group">
+	                            	<label for="id_label_multiple">Genre*</label>
 		                            <p><select class="js-example-basic-multiple" multiple="multiple" style="width:100%" name="f_gen[]">
 										<option value="Action">Action</option>
 										<option value="Adult">Adult</option>
@@ -308,12 +372,12 @@
 								</div>
 
 	                            <div class="form-group">
-	                                <label for="id_label_multiple">Actors</label>
+	                                <label for="id_label_multiple">Actors*</label>
 	                                <p><select class="js-example-basic-multiple-act form-control" multiple="multiple" style="width:100%" name="f_act[]"></select>
 	                            </div>
 
 	                           	<div class="form-group">
-	                                <label for="id_label_multiple">Directors</label>
+	                                <label for="id_label_multiple">Directors*</label>
 	                                <p><select class="js-example-basic-multiple-dir form-control" multiple="multiple" style="width:100%" name="f_dir[]"></select>
 	                            </div>
 
@@ -342,11 +406,6 @@
 	                                <p><select class="js-example-basic-multiple-dis form-control" multiple="multiple" style="width:100%" name="f_dis[]"></select>
 	                            </div>
 
-	                           	<div class="form-group">
-	                                <label for="moviedate">Release Date</label>
-	                                <input class="form-control" type="date" name="f_dat" min="2017-05-31" max="2020-12-31">
-	                            </div>
-
 	                            <div class="form-group">
 	                                <label for="id_label_multiple">MPAA Rating</label>
 	                                <p><select class="js-example-basic-single" style="width:100%" name="f_mpa">
@@ -361,7 +420,7 @@
 	                            </div>
                             </div>
 
-                            <button type="button" class="btn btn-default"> <a href="javascript:void();" id="calculate" style="text-decoration:none; color:inherit;"> Submit</a></button>
+                            <a href="javascript:void();" id="calculate" style="text-decoration:none; color:inherit;"><button type="button" class="btn btn-default" name="sub" disabled="disabled">Submit</button></a>
                             <button type="reset" class="btn btn-default">Reset</button>
 
                         </form>
