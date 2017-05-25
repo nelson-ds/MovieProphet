@@ -1,0 +1,58 @@
+1.
+Good evening everyone. My name is Nelson and my teammates are Maria and Saurabh. As you might have guessed from the slide, our capstone project invloves data and movies. What's the connection between something as boring as data and something as fascinating as movies? Well lets find out...
+
+2.
+Ben-Hur...a historical epic! A story adopted from a bestselling novel told and re-told through the generations. A huge production budget and a stellar cast, including Morgan Freeman. A sure hit, right? Well, not quite. The movie lost over 6 million dollars. 
+
+3. 
+And it's not just Ben-Hur. Every year, Hollywood produces more than 15 big budget flops, some of which you can see on the slides. This leads to losses of millions of dollars, not just to production studios, but also individual investors. The number of small budget flops is even higher.
+
+4. So what are the indicators of a movie's success? Is it the actors, the genre, the runtime, the director? Or is it none of these. Maybe it's just one of those things you cannot predict accurately - like which stock will be successful.
+
+5.
+For most of us, this might just be personal doubt to puzzle over. But for BCG Digital Ventures - a organization based on Los Angeles, it's not personal, it's business. That's because BCG is in a line of work where it advices it clients on movie investment opportunities.
+
+6. 
+What happens is, production houses come to BCG pitching them a movie. Now if BCG deems the movie could generate profit, it advices its clients to invest in the movie. However, there is a problem here. How does BCG know if a movie will be successful?
+
+7.
+That's where we come in. We are a group who love watching movies and aspire for a career in Data Science. We believed that we could build a predictive model which could forecast a movie's success. This was a perfect opportunity for us to work in the domains we loved. 
+
+8.
+Every project needs a plan, and this was our plan (please bear with the pumpkin metaphor). So we had no data to start with. So first we had to go and scrape the data, clean it, engineer features and model it - to create our final product which we hoped would be as delicious as the pumpkin pudding.
+
+9.
+We chose open sources to scrape our data from which is why you don't see IMDB up there. Basically, from WIkipedia, we got information on 45,000 movies, from OMDB we got 25,000 movies and from Box Office Mojo we got 17,000 movies.
+
+10.
+Well that was the comparatively easy part. Cleaning data from the 3 different sources and consolidating it into a single dataset was a nightmare. What you see on screen is an actual picture of Maria doing the data cleaning, when we found her.
+
+11. 
+Next came feature engineering. Well for doing predictions, we need something called predictors. This can be something as simple as the runtime of a movie, or something as complicated as the success of the actors in a movie. Just to give you an example, consider the movie prestige.
+
+12. 
+We calculate the score of each actor in the movie based on success of their previous movies. Hugh Jackman's score of 0.5 indicates half his movies were successful. We then use individual scores to create a feature called 'actor score' and we do it for each movie. 
+
+13. 
+This was one feature. We created 20 such features. Finally we had to use all these features to create a model and that's where the iSchool Data Science classes we had taken helped us. What you see on screen again is an actual picture of my teammate Saurabh, doing whiteboard voodoo to come up with a good model.
+
+14. 
+Alright! So the model is created and now we had to make it look pretty and serve it. To give you an idea of the tools we used, we used HTML/Javascript for front-end scripting, mySQL as our database, Python as flask as the server side language and finally hosted it all on AWS.
+
+15. 
+Let's make this interesting. Say I have a brilliant movie idea and I go to BCG. BCG opens up movie-prophet.com. I tell them the name of my blockbuster movie. I'm a student, so obviously my budget won't be that high. But I don't lack ambition. I want to hire Hugh Jackman...
+
+16.
+...And Christian Bale! I have also somehow convinced Christopher Nolan to direct my movie. I don't care about any other fields, so I click on Submit. And there it is...my $5000 budget movie which will be directed by Christopher Nolan is projected to make over 4 million dollars...
+
+17.
+...I decide I also want to hire Morgan Freeman! So I add him to the model and recalculate...and it looks like in this case Morgan Freeman is actually making us more money. So it looks like our model kind of works for now...and I know at-least one person who will be happy about this..
+
+18.
+Well, that was the gist of our product but it is nowhere ready. We haven't benchmarked the accuracy of our mode. We are still in the process of discussing with BCG that the features we designed make sense. Our team is still working hard to increase the accuracy of the model.
+
+19.
+Alright, future work! Well what we have created is not just a specific product but a framework. If tomorrow, we want to get predictions for say how well a TV show does, we can easily use this framework as long as the proper data is in place. We have designed this product to scale!
+
+20.
+We are very excited to improve and present our project on Capstone night and hope we will have a good predictive model by then. On behalf of Maria and Saurabh I thank you all for giving your time to Project Movie Prophet - where Data Science meets Hollywood.
