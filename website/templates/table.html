@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Movie Prophet - The Box Office Sorcerer</title>
+    <title>Movie Prophet - The Box Office Predictor</title>
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
@@ -45,29 +45,12 @@
                 </button>
                 <a class="navbar-brand" href="{{ url_for('index') }}">Movie Prophet</a>
             </div>
-            <!-- Top Menu Items -->
-            <ul class="nav navbar-right top-nav">
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-binoculars"></i> Explore <b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                        <li>
-                            <a href="#"><i class="fa fa-fw fa-newspaper-o"></i> Abstract</a>
-                        </li>
-                        <li>
-                            <a href="#"><i class="fa fa-fw fa-laptop"></i> Analysis</a>
-                        </li>
-                        <li class="divider"></li>
-                        <li>
-                            <a href="#"><i class="fa fa-fw fa-users"></i> Creators</a>
-                        </li>
-                    </ul>
-                </li>
-            </ul>
+
             <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav side-nav">
                     <li>
-                        <a href="{{ url_for('index') }}"><i class="fa fa-fw fa-bullhorn"></i> About</a>   
+                        <a href="{{ url_for('index') }}"><i class="fa fa-fw fa-bullhorn"></i> Overview</a>   
                     </li>
                     <li>
                         <a href="{{ url_for('prediction') }}"><i class="fa fa-fw fa-magic"></i> Prediction</a>   
@@ -77,6 +60,9 @@
                     </li>
                     <li class="active">
                         <a href="{{ url_for('table') }}"><i class="fa fa-fw fa-table"></i> Tables</a>
+                    </li>
+                    <li>
+                        <a href="{{ url_for('about') }}"><i class="fa fa-fw fa-info-circle"></i> About</a>   
                     </li>
                 </ul>
             </div>
@@ -90,16 +76,18 @@
                 <!-- Page Heading -->
                 <div class="row">
                     <div class="col-lg-12">
-                        <h1 class="page-header">
+                        <h2>
                             Tables
-                        </h1>
+                        </h2>
+                        <hr>
                     </div>
                 </div>
                 <!-- /.row -->
 
                 <div class="row">
+
                     <div class="col-lg-6">
-                                            <h2>Top Actors</h2>
+                        <h2>Top Actors</h2>
                         <div class="table-responsive">
                             <table class="table table-bordered table-hover table-striped">
                                 <thead>
@@ -108,12 +96,13 @@
                                         <th>Score</th>
                                     </tr>
                                 </thead>
-                                <tbody>
+                                {% for row in d_act %}
                                     <tr>
-                                        <td>Johnny Depp</td>
-                                        <td>0.9</td>
+                                    {% for d in row %}
+                                        <td>{{ d }}</td>
+                                    {% endfor %}
                                     </tr>
-                                </tbody>
+                                {% endfor %}
                             </table>
                         </div>
 
@@ -128,12 +117,13 @@
                                         <th>Score</th>
                                     </tr>
                                 </thead>
-                                <tbody>
+                                {% for row in d_dir %}
                                     <tr>
-                                        <td>Christopher Nolan</td>
-                                        <td>0.9</td>
+                                    {% for d in row %}
+                                        <td>{{ d }}</td>
+                                    {% endfor %}
                                     </tr>
-                                </tbody>
+                                {% endfor %}
                             </table>
                         </div>
                     </div>
@@ -141,19 +131,20 @@
                     <div class="col-lg-6">
                         <h2>Top Producers</h2>
                         <div class="table-responsive">
-                                                        <table class="table table-bordered table-hover table-striped">
+                            <table class="table table-bordered table-hover table-striped">
                                 <thead>
                                     <tr>
                                         <th>Name</th>
                                         <th>Score</th>
                                     </tr>
                                 </thead>
-                                <tbody>
+                                {% for row in d_pro %}
                                     <tr>
-                                        <td>James Cameron</td>
-                                        <td>0.85</td>
+                                    {% for d in row %}
+                                        <td>{{ d }}</td>
+                                    {% endfor %}
                                     </tr>
-                                </tbody>
+                                {% endfor %}
                             </table>
                         </div>
                     </div>
@@ -162,42 +153,92 @@
                     <div class="col-lg-6">
                         <h2>Top Writers</h2>
                         <div class="table-responsive">
-                                                        <table class="table table-bordered table-hover table-striped">
+                            <table class="table table-bordered table-hover table-striped">
                                 <thead>
                                     <tr>
                                         <th>Name</th>
                                         <th>Score</th>
                                     </tr>
                                 </thead>
-                                <tbody>
+                                {% for row in d_wri %}
                                     <tr>
-                                        <td>Andy Weir</td>
-                                        <td>0.7</td>
+                                    {% for d in row %}
+                                        <td>{{ d }}</td>
+                                    {% endfor %}
                                     </tr>
-                                </tbody>
+                                {% endfor %}
                             </table>
                         </div>
                     </div>
 
 
-                </div>
-                <!-- /.row -->
-
-                <div class="row">
                     <div class="col-lg-6">
-
+                        <h2>Top Cinematographers</h2>
+                        <div class="table-responsive">
+                            <table class="table table-bordered table-hover table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Name</th>
+                                        <th>Score</th>
+                                    </tr>
+                                </thead>
+                                {% for row in d_cin %}
+                                    <tr>
+                                    {% for d in row %}
+                                        <td>{{ d }}</td>
+                                    {% endfor %}
+                                    </tr>
+                                {% endfor %}
+                            </table>
+                        </div>
                     </div>
+
+
                     <div class="col-lg-6">
+                        <h2>Top Composers</h2>
+                        <div class="table-responsive">
+                            <table class="table table-bordered table-hover table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Name</th>
+                                        <th>Score</th>
+                                    </tr>
+                                </thead>
+                                {% for row in d_com %}
+                                    <tr>
+                                    {% for d in row %}
+                                        <td>{{ d }}</td>
+                                    {% endfor %}
+                                    </tr>
+                                {% endfor %}
+                            </table>
+                        </div>
                     </div>
-                </div>
-                <!-- /.row -->
 
-                <div class="row">
+
                     <div class="col-lg-6">
+                        <h2>Top Distributors</h2>
+                        <div class="table-responsive">
+                            <table class="table table-bordered table-hover table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Name</th>
+                                        <th>Score</th>
+                                    </tr>
+                                </thead>
+                                {% for row in d_dis %}
+                                    <tr>
+                                    {% for d in row %}
+                                        <td>{{ d }}</td>
+                                    {% endfor %}
+                                    </tr>
+                                {% endfor %}
+                            </table>
+                        </div>
                     </div>
 
-                </div>
-                <!-- /.row -->
+
+
 
             </div>
             <!-- /.container-fluid -->

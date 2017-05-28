@@ -17,9 +17,6 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ url_for('static', filename='css/sb-admin.css') }}">
 
-    <!-- Morris Charts CSS -->
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/plugins/morris.css') }}">
-
     <!-- Custom Fonts -->
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='font-awesome/css/font-awesome.min.css') }}">
 
@@ -52,24 +49,7 @@
                 <!-- <a class="navbar-brand" href="index.html"><img src="\images\mp_icon7.png" alt="Home" style="width:190px;height:35px;"> -->
                 </a>
             </div>
-            <!-- Top Menu Items -->
-            <ul class="nav navbar-right top-nav">
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-binoculars"></i> Explore <b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                        <li>
-                            <a href="#"><i class="fa fa-fw fa-newspaper-o"></i> Abstract</a>
-                        </li>
-                        <li>
-                            <a href="#"><i class="fa fa-fw fa-laptop"></i> Analysis</a>
-                        </li>
-                        <li class="divider"></li>
-                        <li>
-                            <a href="#"><i class="fa fa-fw fa-users"></i> Creators</a>
-                        </li>
-                    </ul>
-                </li>
-            </ul>
+
             <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav side-nav">
@@ -85,6 +65,9 @@
                     <li>
                         <a href="{{ url_for('table') }}"><i class="fa fa-fw fa-table"></i> Tables</a>
                     </li>
+                    <li>
+                        <a href="{{ url_for('about') }}"><i class="fa fa-fw fa-info-circle"></i> About</a>   
+                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -97,9 +80,10 @@
                 <!-- Page Heading -->
                 <div class="row">
                     <div class="col-lg-12">
-                        <h1 class="page-header">
+                        <h2>
                             Overview
-                        </h1>
+                        </h2>
+                        <hr>
                     </div>
                 </div>
 

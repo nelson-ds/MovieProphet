@@ -20,6 +20,12 @@
     <!-- Select2 -->
     <script src="{{ url_for('static', filename='select2/js/select2.full.js') }}"></script>
 
+    <!-- cdn for modernizr -->
+	<script src="http://cdn.jsdelivr.net/webshim/1.12.4/extras/modernizr-custom.js"></script>
+
+	<!-- polyfiller file to detect and load polyfills -->
+	<script src="http://cdn.jsdelivr.net/webshim/1.12.4/polyfiller.js"></script>
+
 
     <!-- Select2 -->
     <link href= "{{ url_for('static', filename='select2/css/select2.min.css') }}" rel="stylesheet" />
@@ -40,6 +46,12 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+
+    <script>
+		  webshims.setOptions('waitReady', false);
+		  webshims.setOptions('forms-ext', {types: 'date'});
+		  webshims.polyfill('forms forms-ext');
+	</script>
 
 
     <script type=text/javascript>
@@ -99,7 +111,7 @@
                   $("#arrow").empty().html('<p align="right"><font size="5">$' + numberWithCommas(Math.round(data.result/1000000)) + ' Million  </font><img src="{{ url_for("static", filename="images/up.png") }}" style="width:24px;height:24px;" align="right" /></p>')
               }
               else{
-                  $("#arrow").empty().html('<p align="right"><font size="5">$(' + numberWithCommas(Math.round(data.result/1000000)) + ' right)  </font><img src="{{ url_for("static", filename="images/down.png") }}" style="width:24px;height:24px;" /></p>')
+                  $("#arrow").empty().html('<p align="right"><font size="5">$' + numberWithCommas(Math.round(data.result/1000000)) + ' Million  </font><img src="{{ url_for("static", filename="images/down.png") }}" style="width:24px;height:24px;" /></p>')
               }
 
               $("#roi").html('<p align="right"><font size="4">ROI: </font><font size="5">' + Math.round(data.result_inc*100)/100 + '%</font></p>')
@@ -221,7 +233,7 @@
 		$(document).ready(function(){
 
 			//Setting screen size dynamically
-			$("#scrollable-area").height(window.screen.availHeight*0.59);
+			$("#scrollable-area").height(window.screen.availHeight*0.61);
 
 		    $("input[name=f_moviename]").change(function(){
 		        var mov = $(this).val();
@@ -316,29 +328,12 @@
                 <!-- <a class="navbar-brand" href="index.html"><img src="\images\mp_icon7.png" alt="Home" style="width:190px;height:35px;"> -->
                 </a>
             </div>
-            <!-- Top Menu Items -->
-            <ul class="nav navbar-right top-nav">
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-binoculars"></i> Explore <b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                        <li>
-                            <a href="#"><i class="fa fa-fw fa-newspaper-o"></i> Abstract</a>
-                        </li>
-                        <li>
-                            <a href="#"><i class="fa fa-fw fa-laptop"></i> Analysis</a>
-                        </li>
-                        <li class="divider"></li>
-                        <li>
-                            <a href="#"><i class="fa fa-fw fa-users"></i> Creators</a>
-                        </li>
-                    </ul>
-                </li>
-            </ul>
+            
             <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav side-nav">
                     <li>
-                        <a href="{{ url_for('index') }}"><i class="fa fa-fw fa-bullhorn"></i> About</a>   
+                        <a href="{{ url_for('index') }}"><i class="fa fa-fw fa-bullhorn"></i> Overview</a>   
                     </li>
                     <li class="active">
                         <a href="{{ url_for('prediction') }}"><i class="fa fa-fw fa-magic"></i> Prediction</a>   
@@ -348,6 +343,9 @@
                     </li>
                     <li>
                         <a href="{{ url_for('table') }}"><i class="fa fa-fw fa-table"></i> Tables</a>
+                    </li>
+                    <li>
+                        <a href="{{ url_for('about') }}"><i class="fa fa-fw fa-info-circle"></i> About</a>   
                     </li>
                 </ul>
             </div>
@@ -361,9 +359,10 @@
                 <!-- Page Heading -->
                 <div class="row">
                     <div class="col-lg-12">
-                        <h1 class="page-header">
-                            <p>Prediction <small>Based on Movie Proposal</small>
-                        </h1>
+                        <h2>
+                        	Prediction <small>Based on Movie Proposal</small>
+                        </h2>
+                        <hr>
                     </div>
                 </div>
 
