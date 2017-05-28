@@ -158,14 +158,14 @@ def return_revenue():
 
     genre = request.args.getlist('f_gen[]')
 
-    genre_encoding = np.zeros(27)
+    genre_encoding = np.zeros(26)
     genre_dict = {"Action":0, "Adult":1, "Adventure":2, "Animation":3, "Biography":4, "Comedy":5,
         "Crime":6, "Documentary":7, "Drama":8, "Family":9, "Fantasy":10, "Film-Noir":11, "History":12,
-        "Horror":13, "Music":14, "Musical":15, "Mystery":16, "N/A":17, "News":18, "Reality":19, "Romance":20,
-        "Sci-Fi":21, "Short":22, "Sport":23, "Thriller":24, "War":25, "Western":26}
+        "Horror":13, "Music":14, "Musical":15, "Mystery":16, "N/A":17, "News":18, "Romance”:19,
+        "Sci-Fi”:20, "Short”:21, "Sport”:22, "Thriller”:23, "War”:24, "Western”:25}
     for gen in genre: genre_encoding[genre_dict[gen]] = 1
     genre_encoding = genre_encoding.reshape(1,-1)
-    genre_cluster = loaded_knn.predict(genre_encoding)
+    genre_cluster = loaded_knn.predict(genre_encoding) + 1
     print(genre, genre_cluster)
 
     actor_score = request.args.getlist('f_act[]')
@@ -235,7 +235,7 @@ def return_revenue():
 
     X = [bom_budget, release_month, release_week_of_the_year, release_quarter, mpaa_rating,
     holiday_season,release_day_of_the_year, actor_score,director_score,writer_score,
-    distributor_score, composer_score, cinematographer_score, producer_score, genre_cluster]
+    distributor_score, composer_score, cinematographer_score, producer_score, genre_cluster, genre_cluster*actor_score, genre_cluster*writer_score, genre_cluster*director_score]
 
     roi = loaded_model.predict(X)[0]
     rev = roi*bom_budget
