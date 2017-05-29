@@ -16,6 +16,7 @@
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ url_for('static', filename='css/sb-admin.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/mycustom.css') }}">
 
     <!-- Custom Fonts -->
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='font-awesome/css/font-awesome.min.css') }}">
@@ -60,10 +61,10 @@
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav side-nav">
                     <li>
-                        <a href="{{ url_for('index') }}"><i class="fa fa-fw fa-bullhorn"></i> Overview</a>   
+                        <a href="{{ url_for('index') }}"><i class="fa fa-fw fa-bullhorn"></i> Overview</a>
                     </li>
                     <li>
-                        <a href="{{ url_for('prediction') }}"><i class="fa fa-fw fa-magic"></i> Prediction</a>   
+                        <a href="{{ url_for('prediction') }}"><i class="fa fa-fw fa-magic"></i> Prediction</a>
                     </li>
                     <li>
                         <a href="{{ url_for('chart') }}"><i class="fa fa-fw fa-bar-chart-o"></i> Charts</a>
@@ -72,7 +73,7 @@
                         <a href="{{ url_for('table') }}"><i class="fa fa-fw fa-table"></i> Tables</a>
                     </li>
                     <li class="active">
-                        <a href="{{ url_for('about') }}"><i class="fa fa-fw fa-info-circle"></i> About</a>   
+                        <a href="{{ url_for('about') }}"><i class="fa fa-fw fa-info-circle"></i> About</a>
                     </li>
                 </ul>
             </div>
@@ -110,7 +111,7 @@
                             <img src="{{ url_for("static", filename="images/architecture.jpg") }}" alt="Architecture" style="width:1000px;height:423px;">
                         </div>
                     </div>
-                         
+
 
                     <div class="row">
                         <div class="col-lg-12 text-center">
@@ -121,7 +122,7 @@
 
                         <div class="row">
                             <div class="col-lg-4 col-md-4 col-sm-4">
-                                    <img src="{{ url_for("static", filename="images/team/1.png") }}" class="img-responsive img-circle" alt="">
+                                    <img src="{{ url_for("static", filename="images/team/1.png") }}" class="img-responsive myImageCircle" alt="">
                                     <h4 margin=34>Nelson Dsouza</h4><br />
                                     <p class="text-muted">Information Management graduate student majoring in Data Science at University of Washington</p><br />
                                     <ul class="list-inline">
@@ -134,7 +135,7 @@
                                     </ul>
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-4">
-                                    <img src="{{ url_for("static", filename="images/team/2.png") }}" class="img-responsive img-circle" alt="">
+                                    <img src="{{ url_for("static", filename="images/team/2.png") }}" class="img-responsive myImageCircle" alt="">
                                     <h4>Maria George</h4><br />
                                     <p class="text-muted">Information Management graduate student majoring in Data Science at University of Washington</p><br />
                                     <ul class="list-inline">
@@ -147,7 +148,7 @@
                                     </ul>
                             </div>
                             <div class="col-lg-4" col-md-4 col-sm-4>
-                                    <img src="{{ url_for("static", filename="images/team/3.png") }}" class="img-responsive img-circle" alt="">
+                                    <img src="{{ url_for("static", filename="images/team/3.png") }}" class="img-responsive myImageCircle" alt="">
                                     <h4>Saurabh Seth</h4><br />
                                     <p class="text-muted">Information Management graduate student majoring in Data Science at University of Washington</p><br />
                                     <ul class="list-inline">
