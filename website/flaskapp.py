@@ -26,37 +26,37 @@ siz=10
 connection = pymysql.connect(host='localhost', user='root', password=pasw, db='movies',charset='utf8')
 cur = connection.cursor()
 
-cur.execute("select * FROM scores_act")
+cur.execute("select * FROM scores_act order by score desc")
 d_act = cur.fetchmany(size=siz)
 act_sql = []
 for row in cur: act_sql.append(list(row))
 
-cur.execute("select * FROM scores_dir")
+cur.execute("select * FROM scores_dir order by score desc")
 d_dir = cur.fetchmany(size=siz)
 dir_sql = []
 for row in cur: dir_sql.append(list(row))
 
-cur.execute("select * FROM scores_pro")
+cur.execute("select * FROM scores_pro order by score desc")
 d_pro = cur.fetchmany(size=siz)
 pro_sql = []
 for row in cur: pro_sql.append(list(row))
 
-cur.execute("select * FROM scores_wri")
+cur.execute("select * FROM scores_wri order by score desc")
 d_wri = cur.fetchmany(size=siz)
 wri_sql = []
 for row in cur: wri_sql.append(list(row))
 
-cur.execute("select * FROM scores_cin")
+cur.execute("select * FROM scores_cin order by score desc")
 d_cin = cur.fetchmany(size=siz)
 cin_sql = []
 for row in cur: cin_sql.append(list(row))
 
-cur.execute("select * FROM scores_com")
+cur.execute("select * FROM scores_com order by score desc")
 d_com = cur.fetchmany(size=siz)
 com_sql = []
 for row in cur: com_sql.append(list(row))
 
-cur.execute("select * FROM scores_dis")
+cur.execute("select * FROM scores_dis order by score desc")
 d_dis = cur.fetchmany(size=siz)
 dis_sql = []
 for row in cur: dis_sql.append(list(row))
