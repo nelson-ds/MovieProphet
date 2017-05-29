@@ -39,6 +39,9 @@
     <!-- Custom Fonts -->
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='font-awesome/css/font-awesome.min.css') }}">
 
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}"/>
+
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -116,7 +119,7 @@
 
               $("#roi").html('<p align="right"><font size="4">ROI: </font><font size="5">' + Math.round(data.result_inc*100)/100 + '%</font></p>')
 
-              $("#proposal-info").height(window.screen.availHeight*0.35);
+              $("#proposal-info").height(window.screen.availHeight*0.38);
 
               m_dat = $('input[name="f_dat"]').val()
               m_gen = displayGenre($('select[name="f_gen[]"]').val())

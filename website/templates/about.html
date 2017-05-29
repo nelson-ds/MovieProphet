@@ -20,6 +20,9 @@
     <!-- Custom Fonts -->
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='font-awesome/css/font-awesome.min.css') }}">
 
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}"/>
+
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -84,7 +87,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h2>
-                            About
+                            <a href="https://github.com/nelson-ds/movie-prophet" target="_blank"> About</a>
                         </h2>
                         <hr>
                     </div>
@@ -93,21 +96,21 @@
 
                     <div class="row">
                         <div class="col-lg-12 text-center">
+                            <h3 class="section-heading">Video Pitch</h3><br /><br />
+                            <iframe width="600" height="315" src="https://www.youtube.com/embed/qj9zRCihm0Y">
+                            </iframe>
+                        </div>
+                    </div>
+
+                    <hr>
+
+                    <div class="row">
+                        <div class="col-lg-12 text-center">
                             <h3 class="section-heading">Project Architecture</h3><br /><br />
                             <img src="{{ url_for("static", filename="images/architecture.jpg") }}" alt="Architecture" style="width:1000px;height:423px;">
                         </div>
                     </div>
-
-                    <div class="row">
-                        <div class="col-lg-12 text-center">
-                            <h3 class="section-heading">Documentation</h3><br /><br />
-                            <ul>
-                            <li><a href="https://www.youtube.com/watch?v=qj9zRCihm0Y">Video Pitch</a></li>
-                            <li><a href="https://github.com/nelson-ds/">Schematic Report</a></li>
-                            <li><a href="https://github.com/nelson-ds/">Github Repository</a></li>
-                            </ul>
-                        </div>
-                    </div>
+                         
 
                     <div class="row">
                         <div class="col-lg-12 text-center">

@@ -250,3 +250,8 @@ ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
     background-color: #fed136;
 }
+
+.portfolio-modal .modal-content ul.list-inline {
+    margin-top: 0;
+    margin-bottom: 30px;
+}
