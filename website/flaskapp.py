@@ -32,37 +32,53 @@ cur = connection.cursor()
 cur.execute("select * FROM scores_act order by score desc")
 act_sql = []
 for row in cur: act_sql.append(list(row))
-d_act = tuple(tuple(x) for x in act_sql[0:10])
+d_act = tuple(tuple(x) for x in act_sql[0:siz])
 
 cur.execute("select * FROM scores_dir order by score desc")
 dir_sql = []
 for row in cur: dir_sql.append(list(row))
-d_dir = tuple(tuple(x) for x in dir_sql[0:10])
+d_dir = tuple(tuple(x) for x in dir_sql[0:siz])
 
 cur.execute("select * FROM scores_pro order by score desc")
 pro_sql = []
 for row in cur: pro_sql.append(list(row))
-d_pro = tuple(tuple(x) for x in pro_sql[0:10])
+d_pro = tuple(tuple(x) for x in pro_sql[0:siz])
 
 cur.execute("select * FROM scores_wri order by score desc")
 wri_sql = []
 for row in cur: wri_sql.append(list(row))
-d_wri = tuple(tuple(x) for x in wri_sql[0:10])
+d_wri = tuple(tuple(x) for x in wri_sql[0:siz])
 
 cur.execute("select * FROM scores_cin order by score desc")
 cin_sql = []
 for row in cur: cin_sql.append(list(row))
-d_cin = tuple(tuple(x) for x in cin_sql[0:10])
+d_cin = tuple(tuple(x) for x in cin_sql[0:siz])
 
 cur.execute("select * FROM scores_com order by score desc")
 com_sql = []
 for row in cur: com_sql.append(list(row))
-d_com = tuple(tuple(x) for x in com_sql[0:10])
+d_com = tuple(tuple(x) for x in com_sql[0:siz])
 
 cur.execute("select * FROM scores_dis order by score desc")
 dis_sql = []
 for row in cur: dis_sql.append(list(row))
-d_dis = tuple(tuple(x) for x in dis_sql[0:10])
+d_dis = tuple(tuple(x) for x in dis_sql[0:siz])
+
+cur.execute("select genre, name, score from best_genre_actors order by genre,score desc;")
+gen_act_sql = []
+for row in cur: gen_act_sql.append(list(row))
+d_gen_act = tuple(tuple(x) for x in gen_act_sql)
+
+cur.execute("select genre, name, score from best_genre_directors order by genre,score desc;")
+gen_dir_sql = []
+for row in cur: gen_dir_sql.append(list(row))
+d_gen_dir = tuple(tuple(x) for x in gen_dir_sql)
+
+cur.execute("select genre, name, score from best_genre_writers order by genre,score desc;")
+gen_wri_sql = []
+for row in cur: gen_wri_sql.append(list(row))
+d_gen_wri = tuple(tuple(x) for x in gen_wri_sql)
+
 
 cur.close()
 connection.close()
@@ -155,7 +171,8 @@ def chart():
 
 @app.route('/table/')
 def table():
-    return render_template('table.html', d_act=d_act, d_dir=d_dir, d_pro=d_pro, d_wri=d_wri, d_cin=d_cin, d_com=d_com, d_dis=d_dis)
+    return render_template('table.html', d_act=d_act, d_dir=d_dir, d_pro=d_pro, d_wri=d_wri, d_cin=d_cin, d_com=d_com, d_dis=d_dis, 
+        d_gen_act=d_gen_act, d_gen_dir=d_gen_dir, d_gen_wri=d_gen_wri)
 
 @app.route('/about/')
 def about():
