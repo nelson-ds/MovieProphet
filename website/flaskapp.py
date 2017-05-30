@@ -13,17 +13,20 @@ path_model_med = 'model\mid_budget.mprophet'
 path_model_hig = 'model\high_budget.mprophet'
 path_knn = 'model\genre.mprophet'
 pasw = 'toor'
+user = ‘root'
 
 # Prod
 #path_model_low = '/home/ubuntu/capstone/modeling/notebook/model/low_budget.mprophet'
 #path_model_med = '/home/ubuntu/capstone/modeling/notebook/model/mid_budget.mprophet'
 #path_model_hig = '/home/ubuntu/capstone/modeling/notebook/model/high_budget.mprophet'
 #path_knn = '/home/ubuntu/capstone/modeling/notebook/model/genre.mprophet'
-#pasw = 'mprophet'
+#with open('/home/ubuntu/capstone/website/movieprophet/mysql_cred') as f:
+#  credentials = [x.strip().split(':') for x in f.readlines()]
+#user,pasw = credentials[0][0],credentials[0][1]
 
 siz=10
 
-connection = pymysql.connect(host='localhost', user='root', password=pasw, db='movies',charset='utf8')
+connection = pymysql.connect(host='localhost', user=user, password=pasw, db='movies',charset='utf8')
 cur = connection.cursor()
 
 cur.execute("select * FROM scores_act order by score desc")
