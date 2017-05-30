@@ -13,7 +13,7 @@ path_model_med = 'model\mid_budget.mprophet'
 path_model_hig = 'model\high_budget.mprophet'
 path_knn = 'model\genre.mprophet'
 pasw = 'toor'
-user = ‘root'
+user = 'root'
 
 # Prod
 #path_model_low = '/home/ubuntu/capstone/modeling/notebook/model/low_budget.mprophet'
