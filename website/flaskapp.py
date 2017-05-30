@@ -249,7 +249,7 @@ def return_revenue():
     X = [bom_budget, release_month, release_week_of_the_year, release_quarter, mpaa_rating,
     holiday_season,release_day_of_the_year, actor_score,director_score,writer_score,
     distributor_score, composer_score, cinematographer_score, producer_score, genre_cluster, 
-    genre_cluster*actor_score, genre_cluster*writer_score, genre_cluster*director_score]
+    genre_cluster*actor_score, genre_cluster*writer_score, genre_cluster*director_score, genre_cluster * producer_score]
 
     roi = loaded_model.predict(X)[0]
     rev = roi*bom_budget
