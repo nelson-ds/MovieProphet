@@ -1,0 +1,23 @@
+
+**** Opening Pitch - 45 seconds ****
+
+Hey, good evening. Can I tell you more about our project?
+
+We have created a prediction engine which forecasts a movie's revenue, even before a movie is ,made!
+
+The sponsors for our project are Boston Consulting Group - Digital Ventures or BCG-DV for short. BCG-DV are based in Los Angeles. On a daily basis, they are approached by movie studios and producers with movie proposals. Based on the proposals, BCG-DV advices its clients on whether it's a good idea to invest in the movie or not. Until now, BCG-DV relied on experience and 'gut' feeling to make this decision. With our project, they now have a decision support system so they can back their gut with Data Science!
+
+**** Example - 75 to 120 seconds ****
+
+Let me show you an example. Lets assume, hypothetically, the prodcuers for Logan went to BCG a couple years back to pitch their movie. So these are the details for Logan (open OMDB and show them the Logan page). Lets enter the exact details into our engine (we should have data pre-populated for the demo and run them through the data). Alright, so when we click on submit, we see a revenue. This revenue is very close to what Logan actually earned!!!
+
+Our model performs well because
+1. Through Machine Learning, we have enabled our model to learns from data of more than 3000 previous movies
+2. Our R-squared value is 0.53 which means that we predict revenue to the exact millionth dollar 53% of the time
+3. Our model works differently for different budget movies, smartly understanding that high budget movies have to be treated differently than low budget movies
+4. We have accounted for interaction between different features, for example, the director and the genre
+
+Go ahead, try our product! If you had to create a movie, what would your proposal look like? Let's find out how much money it will make :)
+
+*** Time spent per person ***
+Approximately 3 minutes. Or better yet, pitch the project to a group!

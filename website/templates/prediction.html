@@ -111,13 +111,13 @@
               $("#result").html('<p align="right"><font size="5"><font size="4">Revenue is: </font></p>')
 
               if (data.result > data.bdgt) {
-                  $("#arrow").empty().html('<p align="right"><font size="5">$' + numberWithCommas(Math.round(data.result/1000000)) + ' Million  </font><img src="{{ url_for("static", filename="images/up.png") }}" style="width:24px;height:24px;" align="right" /></p>')
+                  $("#arrow").empty().html('<p align="right"><font size="5">$' + numberWithCommas(Math.round((data.result+data.bdgt)/1000000)) + ' Million  </font><img src="{{ url_for("static", filename="images/up.png") }}" style="width:24px;height:24px;" align="right" /></p>')
               }
               else{
-                  $("#arrow").empty().html('<p align="right"><font size="5">$' + numberWithCommas(Math.round(data.result/1000000)) + ' Million  </font><img src="{{ url_for("static", filename="images/down.png") }}" style="width:24px;height:24px;" /></p>')
+                  $("#arrow").empty().html('<p align="right"><font size="5">$' + numberWithCommas(Math.round((data.result+data.bdgt)/1000000)) + ' Million  </font><img src="{{ url_for("static", filename="images/down.png") }}" style="width:24px;height:24px;" /></p>')
               }
 
-              $("#roi").html('<p align="right"><font size="4">ROI: </font><font size="5">' + Math.round(data.result_inc*100)/100 + '%</font></p>')
+              $("#roi").html('<p align="right"><font size="4">ROI: </font><font size="5">' + Math.round(data.result_inc*100)/100 + 'x</font></p>')
 
               $("#proposal-info").height(window.screen.availHeight*0.38);
 
