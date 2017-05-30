@@ -64,21 +64,35 @@ dis_sql = []
 for row in cur: dis_sql.append(list(row))
 d_dis = tuple(tuple(x) for x in dis_sql[0:siz])
 
-cur.execute("select genre, name, score from best_genre_actors order by genre,score desc;")
-gen_act_sql = []
-for row in cur: gen_act_sql.append(list(row))
-d_gen_act = tuple(tuple(x) for x in gen_act_sql)
+cur.execute("select name, score from best_genre_actors where genre='Drama' order by genre,score desc limit 5;")
+gen_act_dra_sql = []
+for row in cur: gen_act_dra_sql.append(list(row))
+d_gen_act_dra = tuple(tuple(x) for x in gen_act_dra_sql)
 
-cur.execute("select genre, name, score from best_genre_directors order by genre,score desc;")
-gen_dir_sql = []
-for row in cur: gen_dir_sql.append(list(row))
-d_gen_dir = tuple(tuple(x) for x in gen_dir_sql)
+cur.execute("select name, score from best_genre_actors where genre='Documentary' order by genre,score desc limit 5;")
+gen_act_doc_sql = []
+for row in cur: gen_act_doc_sql.append(list(row))
+d_gen_act_doc = tuple(tuple(x) for x in gen_act_doc_sql)
 
-cur.execute("select genre, name, score from best_genre_writers order by genre,score desc;")
-gen_wri_sql = []
-for row in cur: gen_wri_sql.append(list(row))
-d_gen_wri = tuple(tuple(x) for x in gen_wri_sql)
+cur.execute("select name, score from best_genre_directors where genre='Western' order by genre,score desc limit 5;")
+gen_dir_wes_sql = []
+for row in cur: gen_dir_wes_sql.append(list(row))
+d_gen_dir_wes = tuple(tuple(x) for x in gen_dir_wes_sql)
 
+cur.execute("select name, score from best_genre_directors where genre='Animation' order by genre,score desc limit 5;")
+gen_dir_ani_sql = []
+for row in cur: gen_dir_ani_sql.append(list(row))
+d_gen_dir_ani = tuple(tuple(x) for x in gen_dir_ani_sql)
+
+cur.execute("select name, score from best_genre_writers where genre='Western' order by genre,score desc limit 5;")
+gen_wri_wes_sql = []
+for row in cur: gen_wri_wes_sql.append(list(row))
+d_gen_wri_wes = tuple(tuple(x) for x in gen_wri_wes_sql)
+
+cur.execute("select name, score from best_genre_writers where genre='Romantic' order by genre,score desc limit 5;")
+gen_wri_rom_sql = []
+for row in cur: gen_wri_rom_sql.append(list(row))
+d_gen_wri_rom = tuple(tuple(x) for x in gen_wri_rom_sql)
 
 cur.close()
 connection.close()
@@ -172,7 +186,8 @@ def chart():
 @app.route('/table/')
 def table():
     return render_template('table.html', d_act=d_act, d_dir=d_dir, d_pro=d_pro, d_wri=d_wri, d_cin=d_cin, d_com=d_com, d_dis=d_dis, 
-        d_gen_act=d_gen_act, d_gen_dir=d_gen_dir, d_gen_wri=d_gen_wri)
+        d_gen_act_dra=d_gen_act_dra, d_gen_act_doc=d_gen_act_doc, d_gen_dir_wes=d_gen_dir_wes, d_gen_dir_ani=d_gen_dir_ani, 
+        d_gen_wri_wes=d_gen_wri_wes, d_gen_wri_rom=d_gen_wri_rom)
 
 @app.route('/about/')
 def about():

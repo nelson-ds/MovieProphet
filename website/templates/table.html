@@ -244,17 +244,16 @@
                 <div class="row">
 
                     <div class="col-lg-6">
-                        <h2 align="center">Top Actors Grouped by Genre</h2>
+                        <h2 align="center">Top Actors in Drama Movies</h2>
                         <div class="table-responsive">
                             <table class="table table-bordered table-hover table-striped">
                                 <thead>
                                     <tr>
-                                        <th>Genre</th>
                                         <th>Name</th>
                                         <th>Score</th>
                                     </tr>
                                 </thead>
-                                {% for row in d_gen_act %}
+                                {% for row in d_gen_act_dra %}
                                     <tr>
                                     {% for d in row %}
                                         <td>{{ d }}</td>
@@ -266,17 +265,16 @@
                     </div>
 
                     <div class="col-lg-6">
-                        <h2 align="center">Top Directors Grouped by Genre</h2>
+                        <h2 align="center">Top Actors in Documentaries</h2>
                         <div class="table-responsive">
                             <table class="table table-bordered table-hover table-striped">
                                 <thead>
                                     <tr>
-                                        <th>Genre</th>
                                         <th>Name</th>
                                         <th>Score</th>
                                     </tr>
                                 </thead>
-                                {% for row in d_gen_dir %}
+                                {% for row in d_gen_act_doc %}
                                     <tr>
                                     {% for d in row %}
                                         <td>{{ d }}</td>
@@ -287,18 +285,80 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-12">
-                        <h2 align="center">Top Writers Grouped by Genre</h2>
+                    <div class="col-lg-6">
+                        <h2 align="center">Top Directors for Western Movies</h2>
                         <div class="table-responsive">
                             <table class="table table-bordered table-hover table-striped">
                                 <thead>
                                     <tr>
-                                        <th>Genre</th>
                                         <th>Name</th>
                                         <th>Score</th>
                                     </tr>
                                 </thead>
-                                {% for row in d_gen_wri %}
+                                {% for row in d_gen_dir_wes %}
+                                    <tr>
+                                    {% for d in row %}
+                                        <td>{{ d }}</td>
+                                    {% endfor %}
+                                    </tr>
+                                {% endfor %}
+                            </table>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <h2 align="center">Top Directors for Animation Movies</h2>
+                        <div class="table-responsive">
+                            <table class="table table-bordered table-hover table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Name</th>
+                                        <th>Score</th>
+                                    </tr>
+                                </thead>
+                                {% for row in d_gen_dir_ani %}
+                                    <tr>
+                                    {% for d in row %}
+                                        <td>{{ d }}</td>
+                                    {% endfor %}
+                                    </tr>
+                                {% endfor %}
+                            </table>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <h2 align="center">Top Writers for Western Movies</h2>
+                        <div class="table-responsive">
+                            <table class="table table-bordered table-hover table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Name</th>
+                                        <th>Score</th>
+                                    </tr>
+                                </thead>
+                                {% for row in d_gen_wri_wes %}
+                                    <tr>
+                                    {% for d in row %}
+                                        <td>{{ d }}</td>
+                                    {% endfor %}
+                                    </tr>
+                                {% endfor %}
+                            </table>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <h2 align="center">Top Writers for Romantic Movies</h2>
+                        <div class="table-responsive">
+                            <table class="table table-bordered table-hover table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Name</th>
+                                        <th>Score</th>
+                                    </tr>
+                                </thead>
+                                {% for row in d_gen_wri_rom %}
                                     <tr>
                                     {% for d in row %}
                                         <td>{{ d }}</td>
