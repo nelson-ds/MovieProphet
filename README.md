@@ -21,4 +21,4 @@ http://www.movie-prophet.com/
 **Saurabh Seth** [Linkedin](https://www.linkedin.com/in/saurabhseth123/) | [Email](mailto:sseth12@uw.edu)
 
 
-* Please feel free to contribute to this project *
+Please feel free to contribute to this project
