@@ -1,4 +1,4 @@
-# Movie Prophet
+# Movie Prophet (http://www.movie-prophet.com/)
 ### Data Science meets Hollywood
 
 Movie Prophet is a predictive engine that forecasts the box office revenue given a movie proposal.
@@ -17,9 +17,6 @@ The project encompasses end to end spectrum of data science - web scraping for c
 
 ## Video Pitch:
 https://www.youtube.com/watch?v=qj9zRCihm0Y
-
-## Implemented Project:
-http://www.movie-prophet.com/
 
 ## Contact
 **Nelson Dsouza** [Linkedin](https://www.linkedin.com/in/nelsondsouza1/) | [Email](mailto:nelsonds@uw.edu)
