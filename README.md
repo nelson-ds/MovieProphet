@@ -7,6 +7,17 @@ The project done in partnership with Boston Consulting Group - Digital Ventures 
 
 The project encompasses end to end spectrum of data science - web scraping for collecting the data, data wrangling, building machine learning algorithms and data visualization. The final deliverable will be a dashboard that will empower the stakeholders to make digital media investment decisions. Currently, investment decisions are made based on industry experience and perceived notion of success. Movie Prophet will be a value add to the stakeholders by supporting the business decisions with powerful machine learning techniques having improved precision and accuracy.
 
-Video Pitch - https://www.youtube.com/watch?v=qj9zRCihm0Y
+## Video Pitch:
+https://www.youtube.com/watch?v=qj9zRCihm0Y
 
-Website - http://www.movie-prophet.com/
+## Implemented Project:
+http://www.movie-prophet.com/
+
+## Contact
+**Nelson Dsouza** [Linkedin](https://www.linkedin.com/in/nelsondsouza1/) | [Email](mailto:nelsonds@uw.edu)
+
+**Maria George** [Linkedin](https://www.linkedin.com/in/maria-george-176595104/) | [Email](mailto:gmaria@uw.edu)
+
+**Saurabh Seth** [Linkedin](https://www.linkedin.com/in/saurabhseth123/) | [Email](mailto:sseth12@uw.edu)
+
+Please feel free to contribute to this project
