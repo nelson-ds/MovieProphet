@@ -7,7 +7,7 @@ import holidays
 import numpy as np
 app = Flask(__name__)
 
-# Dev Parameters
+# Dev Parameter
 path_model_low = 'model\low_budget.mprophet'
 path_model_med = 'model\mid_budget.mprophet'
 path_model_hig = 'model\high_budget.mprophet'
@@ -15,7 +15,7 @@ path_knn = 'model\genre.mprophet'
 pasw = 'toor'
 user = 'root'
 
-# Prod Parameters
+# Prod Parameter
 #path_model_low = '/home/ubuntu/capstone/modeling/notebook/model/low_budget.mprophet'
 #path_model_med = '/home/ubuntu/capstone/modeling/notebook/model/mid_budget.mprophet'
 #path_model_hig = '/home/ubuntu/capstone/modeling/notebook/model/high_budget.mprophet'
