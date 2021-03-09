@@ -7,7 +7,7 @@ import holidays
 import numpy as np
 app = Flask(__name__)
 
-# Dev
+# Dev Parameters
 path_model_low = 'model\low_budget.mprophet'
 path_model_med = 'model\mid_budget.mprophet'
 path_model_hig = 'model\high_budget.mprophet'
@@ -15,83 +15,100 @@ path_knn = 'model\genre.mprophet'
 pasw = 'toor'
 user = 'root'
 
-# Prod
+# Prod Parameters
 #path_model_low = '/home/ubuntu/capstone/modeling/notebook/model/low_budget.mprophet'
 #path_model_med = '/home/ubuntu/capstone/modeling/notebook/model/mid_budget.mprophet'
 #path_model_hig = '/home/ubuntu/capstone/modeling/notebook/model/high_budget.mprophet'
 #path_knn = '/home/ubuntu/capstone/modeling/notebook/model/genre.mprophet'
-#with open('/home/ubuntu/capstone/website/movieprophet/mysql_cred') as f:
+# with open('/home/ubuntu/capstone/website/movieprophet/mysql_cred') as f:
 #  credentials = [x.strip().split(':') for x in f.readlines()]
 #user,pasw = credentials[0][0],credentials[0][1]
 
-siz=10
+siz = 10
 
-connection = pymysql.connect(host='localhost', user=user, password=pasw, db='movies',charset='utf8')
+connection = pymysql.connect(
+    host='localhost', user=user, password=pasw, db='movies', charset='utf8')
 cur = connection.cursor()
 
 cur.execute("select * FROM scores_act order by score desc")
 act_sql = []
-for row in cur: act_sql.append(list(row))
+for row in cur:
+    act_sql.append(list(row))
 d_act = tuple(tuple(x) for x in act_sql[0:siz])
 
 cur.execute("select * FROM scores_dir order by score desc")
 dir_sql = []
-for row in cur: dir_sql.append(list(row))
+for row in cur:
+    dir_sql.append(list(row))
 d_dir = tuple(tuple(x) for x in dir_sql[0:siz])
 
 cur.execute("select * FROM scores_pro order by score desc")
 pro_sql = []
-for row in cur: pro_sql.append(list(row))
+for row in cur:
+    pro_sql.append(list(row))
 d_pro = tuple(tuple(x) for x in pro_sql[0:siz])
 
 cur.execute("select * FROM scores_wri order by score desc")
 wri_sql = []
-for row in cur: wri_sql.append(list(row))
+for row in cur:
+    wri_sql.append(list(row))
 d_wri = tuple(tuple(x) for x in wri_sql[0:siz])
 
 cur.execute("select * FROM scores_cin order by score desc")
 cin_sql = []
-for row in cur: cin_sql.append(list(row))
+for row in cur:
+    cin_sql.append(list(row))
 d_cin = tuple(tuple(x) for x in cin_sql[0:siz])
 
 cur.execute("select * FROM scores_com order by score desc")
 com_sql = []
-for row in cur: com_sql.append(list(row))
+for row in cur:
+    com_sql.append(list(row))
 d_com = tuple(tuple(x) for x in com_sql[0:siz])
 
 cur.execute("select * FROM scores_dis order by score desc")
 dis_sql = []
-for row in cur: dis_sql.append(list(row))
+for row in cur:
+    dis_sql.append(list(row))
 d_dis = tuple(tuple(x) for x in dis_sql[0:siz])
 
-cur.execute("select name, score from best_genre_actors where genre='Drama' order by genre,score desc limit 5;")
+cur.execute(
+    "select name, score from best_genre_actors where genre='Drama' order by genre,score desc limit 5;")
 gen_act_dra_sql = []
-for row in cur: gen_act_dra_sql.append(list(row))
+for row in cur:
+    gen_act_dra_sql.append(list(row))
 d_gen_act_dra = tuple(tuple(x) for x in gen_act_dra_sql)
 
 cur.execute("select name, score from best_genre_actors where genre='Documentary' order by genre,score desc limit 5;")
 gen_act_doc_sql = []
-for row in cur: gen_act_doc_sql.append(list(row))
+for row in cur:
+    gen_act_doc_sql.append(list(row))
 d_gen_act_doc = tuple(tuple(x) for x in gen_act_doc_sql)
 
 cur.execute("select name, score from best_genre_directors where genre='Western' order by genre,score desc limit 5;")
 gen_dir_wes_sql = []
-for row in cur: gen_dir_wes_sql.append(list(row))
+for row in cur:
+    gen_dir_wes_sql.append(list(row))
 d_gen_dir_wes = tuple(tuple(x) for x in gen_dir_wes_sql)
 
 cur.execute("select name, score from best_genre_directors where genre='Animation' order by genre,score desc limit 5;")
 gen_dir_ani_sql = []
-for row in cur: gen_dir_ani_sql.append(list(row))
+for row in cur:
+    gen_dir_ani_sql.append(list(row))
 d_gen_dir_ani = tuple(tuple(x) for x in gen_dir_ani_sql)
 
-cur.execute("select name, score from best_genre_writers where genre='Western' order by genre,score desc limit 5;")
+cur.execute(
+    "select name, score from best_genre_writers where genre='Western' order by genre,score desc limit 5;")
 gen_wri_wes_sql = []
-for row in cur: gen_wri_wes_sql.append(list(row))
+for row in cur:
+    gen_wri_wes_sql.append(list(row))
 d_gen_wri_wes = tuple(tuple(x) for x in gen_wri_wes_sql)
 
-cur.execute("select name, score from best_genre_writers where genre='Romantic' order by genre,score desc limit 5;")
+cur.execute(
+    "select name, score from best_genre_writers where genre='Romantic' order by genre,score desc limit 5;")
 gen_wri_rom_sql = []
-for row in cur: gen_wri_rom_sql.append(list(row))
+for row in cur:
+    gen_wri_rom_sql.append(list(row))
 d_gen_wri_rom = tuple(tuple(x) for x in gen_wri_rom_sql)
 
 cur.close()
@@ -123,11 +140,12 @@ v_dis = [item[1] for item in dis_sql]
 def index():
     return render_template('index.html')
 
+
 @app.route('/prediction/')
 def prediction():
     data_act = []
     for i in range(len(k_act)):
-        tmp={}
+        tmp = {}
         tmp["id"] = v_act[i]
         tmp["text"] = k_act[i]
         data_act.append(tmp)
@@ -135,63 +153,67 @@ def prediction():
 
     data_dir = []
     for i in range(len(k_dir)):
-        tmp={}
+        tmp = {}
         tmp["id"] = v_dir[i]
         tmp["text"] = k_dir[i]
         data_dir.append(tmp)
 
     data_pro = []
     for i in range(len(k_pro)):
-        tmp={}
+        tmp = {}
         tmp["id"] = v_pro[i]
         tmp["text"] = k_pro[i]
         data_pro.append(tmp)
 
     data_wri = []
     for i in range(len(k_wri)):
-        tmp={}
+        tmp = {}
         tmp["id"] = v_wri[i]
         tmp["text"] = k_wri[i]
         data_wri.append(tmp)
 
     data_cin = []
     for i in range(len(k_cin)):
-        tmp={}
+        tmp = {}
         tmp["id"] = v_cin[i]
         tmp["text"] = k_cin[i]
         data_cin.append(tmp)
 
     data_com = []
     for i in range(len(k_com)):
-        tmp={}
+        tmp = {}
         tmp["id"] = v_com[i]
         tmp["text"] = k_com[i]
         data_com.append(tmp)
 
     data_dis = []
     for i in range(len(k_dis)):
-        tmp={}
+        tmp = {}
         tmp["id"] = v_dis[i]
         tmp["text"] = k_dis[i]
         data_dis.append(tmp)
 
-    return render_template('prediction.html', data_act=json.dumps(data_act), data_dir=json.dumps(data_dir), 
-        data_pro=json.dumps(data_pro), data_wri=json.dumps(data_wri), data_cin=json.dumps(data_cin),
-        data_com=json.dumps(data_com), data_dis=json.dumps(data_dis))
+    return render_template('prediction.html', data_act=json.dumps(data_act), data_dir=json.dumps(data_dir),
+                           data_pro=json.dumps(data_pro), data_wri=json.dumps(data_wri), data_cin=json.dumps(data_cin),
+                           data_com=json.dumps(data_com), data_dis=json.dumps(data_dis))
+
 
 @app.route('/chart/')
 def chart():
     return render_template('chart.html')
 
+
 @app.route('/table/')
 def table():
-    return render_template('table.html', d_act=d_act, d_dir=d_dir, d_pro=d_pro, d_wri=d_wri, d_cin=d_cin, d_com=d_com, d_dis=d_dis, 
-        d_gen_act_dra=d_gen_act_dra, d_gen_act_doc=d_gen_act_doc, d_gen_dir_wes=d_gen_dir_wes, d_gen_dir_ani=d_gen_dir_ani, 
-        d_gen_wri_wes=d_gen_wri_wes, d_gen_wri_rom=d_gen_wri_rom)
+    return render_template('table.html', d_act=d_act, d_dir=d_dir, d_pro=d_pro, d_wri=d_wri, d_cin=d_cin, d_com=d_com, d_dis=d_dis,
+                           d_gen_act_dra=d_gen_act_dra, d_gen_act_doc=d_gen_act_doc, d_gen_dir_wes=d_gen_dir_wes, d_gen_dir_ani=d_gen_dir_ani,
+                           d_gen_wri_wes=d_gen_wri_wes, d_gen_wri_rom=d_gen_wri_rom)
+
 
 @app.route('/about/')
 def about():
     return render_template('about.html')
+
 
 @app.route('/_return_revenue')
 def return_revenue():
@@ -207,12 +229,13 @@ def return_revenue():
     genre = request.args.getlist('f_gen[]')
 
     genre_encoding = np.zeros(26)
-    genre_dict = {"Action":0, "Adult":1, "Adventure":2, "Animation":3, "Biography":4, "Comedy":5,
-        "Crime":6, "Documentary":7, "Drama":8, "Family":9, "Fantasy":10, "Film-Noir":11, "History":12,
-        "Horror":13, "Music":14, "Musical":15, "Mystery":16, "N/A":17, "News":18, "Romance":19,
-        "Sci-Fi":20, "Short":21, "Sport":22, "Thriller":23, "War":24, "Western":25}
-    for gen in genre: genre_encoding[genre_dict[gen]] = 1
-    genre_encoding = genre_encoding.reshape(1,-1)
+    genre_dict = {"Action": 0, "Adult": 1, "Adventure": 2, "Animation": 3, "Biography": 4, "Comedy": 5,
+                  "Crime": 6, "Documentary": 7, "Drama": 8, "Family": 9, "Fantasy": 10, "Film-Noir": 11, "History": 12,
+                  "Horror": 13, "Music": 14, "Musical": 15, "Mystery": 16, "N/A": 17, "News": 18, "Romance": 19,
+                  "Sci-Fi": 20, "Short": 21, "Sport": 22, "Thriller": 23, "War": 24, "Western": 25}
+    for gen in genre:
+        genre_encoding[genre_dict[gen]] = 1
+    genre_encoding = genre_encoding.reshape(1, -1)
     genre_cluster = loaded_knn.predict(genre_encoding) + 1
     print(genre, genre_cluster)
 
@@ -259,15 +282,16 @@ def return_revenue():
 
         us_holidays = holidays.UnitedStates()
         for i in range(-7, 8):
-            if holiday_season == True: break
-            else: holiday_season = (date - timedelta(days=i)) in us_holidays
-        
-        print('Month, Week, Quarter, Day of the Year, Holiday Season:', release_month, release_week_of_the_year, release_quarter, 
-            release_day_of_the_year, holiday_season)
-    else:
-         release_month, release_week_of_the_year, release_quarter, release_day_of_the_year = '', '', '', '' 
-         print('No valid date entered')
+            if holiday_season == True:
+                break
+            else:
+                holiday_season = (date - timedelta(days=i)) in us_holidays
 
+        print('Month, Week, Quarter, Day of the Year, Holiday Season:', release_month, release_week_of_the_year, release_quarter,
+              release_day_of_the_year, holiday_season)
+    else:
+        release_month, release_week_of_the_year, release_quarter, release_day_of_the_year = '', '', '', ''
+        print('No valid date entered')
 
     if bom_budget < 47000000:
         loaded_model = pickle.load(open(path_model_low, 'rb'))
@@ -280,11 +304,10 @@ def return_revenue():
             loaded_model = pickle.load(open(path_model_hig, 'rb'))
             print('Considering High Model')
 
-
     X = [bom_budget, release_month, release_week_of_the_year, release_quarter, mpaa_rating,
-    holiday_season,release_day_of_the_year, actor_score,director_score,writer_score,
-    distributor_score, composer_score, cinematographer_score, producer_score, genre_cluster, 
-    genre_cluster*actor_score, genre_cluster*writer_score, genre_cluster*director_score, genre_cluster * producer_score]
+         holiday_season, release_day_of_the_year, actor_score, director_score, writer_score,
+         distributor_score, composer_score, cinematographer_score, producer_score, genre_cluster,
+         genre_cluster*actor_score, genre_cluster*writer_score, genre_cluster*director_score, genre_cluster * producer_score]
 
     roi = loaded_model.predict(X)[0]
     rev = roi*bom_budget
@@ -292,7 +315,8 @@ def return_revenue():
 
     return jsonify(result=rev, result_inc=roi, mname=moviename, bdgt=bom_budget)
 
+
 if __name__ == "__main__":
     app.run(host="127.0.0.1",
-        port=int("5000"),
-        debug=True)
+            port=int("5000"),
+            debug=True)
