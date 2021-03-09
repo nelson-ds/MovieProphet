@@ -8,10 +8,10 @@ import numpy as np
 app = Flask(__name__)
 
 # Dev Parameter
-path_model_low = 'model\low_budget.mprophet'
-path_model_med = 'model\mid_budget.mprophet'
-path_model_hig = 'model\high_budget.mprophet'
-path_knn = 'model\genre.mprophet'
+path_model_low = 'model/low_budget.mprophet'
+path_model_med = 'model/mid_budget.mprophet'
+path_model_hig = 'model/high_budget.mprophet'
+path_knn = 'model/genre.mprophet'
 pasw = 'toor'
 user = 'root'
 
