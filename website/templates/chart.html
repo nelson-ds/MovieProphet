@@ -21,10 +21,11 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='css/plugins/morris.css') }}">
 
     <!-- Custom Fonts -->
-    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='font-awesome/css/font-awesome.min.css') }}">
+    <link rel="stylesheet" type="text/css"
+        href="{{ url_for('static', filename='font-awesome/css/font-awesome.min.css') }}">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}"/>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}" />
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -34,12 +35,12 @@
     <![endif]-->
 
     <style>
-hr {
-    /* border: none;*/
-    height: 30px;
-    /* Set the hr color */
-    /* background-color: #333; /* Modern Browsers */ */
-}
+        hr {
+            /* border: none;*/
+            height: 30px;
+            /* Set the hr color */
+            /* background-color: #333; /* Modern Browsers */
+        }
     </style>
 
 
@@ -67,10 +68,10 @@ hr {
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav side-nav">
                     <li>
-                        <a href="{{ url_for('index') }}"><i class="fa fa-fw fa-bullhorn"></i> Overview</a>   
+                        <a href="{{ url_for('index') }}"><i class="fa fa-fw fa-bullhorn"></i> Overview</a>
                     </li>
                     <li>
-                        <a href="{{ url_for('prediction') }}"><i class="fa fa-fw fa-magic"></i> Prediction</a>   
+                        <a href="{{ url_for('prediction') }}"><i class="fa fa-fw fa-magic"></i> Prediction</a>
                     </li>
                     <li class="active">
                         <a href="{{ url_for('chart') }}"><i class="fa fa-fw fa-bar-chart-o"></i> Charts</a>
@@ -79,7 +80,7 @@ hr {
                         <a href="{{ url_for('table') }}"><i class="fa fa-fw fa-table"></i> Tables</a>
                     </li>
                     <li>
-                        <a href="{{ url_for('about') }}"><i class="fa fa-fw fa-info-circle"></i> About</a>   
+                        <a href="{{ url_for('about') }}"><i class="fa fa-fw fa-info-circle"></i> About</a>
                     </li>
                 </ul>
             </div>
@@ -103,7 +104,23 @@ hr {
 
 
 
-            <div class='tableauPlaceholder' id='viz1496038905587' style='position: relative'><noscript><a href='http:&#47;&#47;movie-prophet.com&#47;'><img alt='MOVIE PROPHET ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mo&#47;MovieProphet-EDA&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='MovieProphet-EDA&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mo&#47;MovieProphet-EDA&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                
+                <div class='tableauPlaceholder' id='viz1496038905587' style='position: relative'><noscript><a
+                            href='http:&#47;&#47;movie-prophet.com&#47;'><img alt='MOVIE PROPHET '
+                                src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mo&#47;MovieProphet-EDA&#47;Story1&#47;1_rss.png'
+                                style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
+                        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                        <param name='site_root' value='' />
+                        <param name='name' value='MovieProphet-EDA&#47;Story1' />
+                        <param name='tabs' value='no' />
+                        <param name='toolbar' value='yes' />
+                        <param name='static_image'
+                            value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mo&#47;MovieProphet-EDA&#47;Story1&#47;1.png' />
+                        <param name='animate_transition' value='yes' />
+                        <param name='display_static_image' value='yes' />
+                        <param name='display_spinner' value='yes' />
+                        <param name='display_overlay' value='yes' />
+                        <param name='display_count' value='yes' />
+                    </object></div>
 
             </div>
             <!-- /.container-fluid -->
@@ -125,13 +142,13 @@ hr {
 
 </body>
 
-    <script type='text/javascript'>                    
-        var divElement = document.getElementById('viz1496038905587');                    
-        var vizElement = divElement.getElementsByTagName('object')[0];                    
-        vizElement.style.width='1020px';vizElement.style.height='1033px';                    
-        var scriptElement = document.createElement('script');                    
-        scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-        vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-    </script>
+<script type='text/javascript'>
+    var divElement = document.getElementById('viz1496038905587');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    vizElement.style.width = '1020px'; vizElement.style.height = '1033px';
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 
 </html>
