@@ -50,6 +50,7 @@ body {
 
 .top-nav>li {
     display: inline-block;
+    /* float: left; NOTE: Commented since it iwll be ignored anyway*/
 }
 
 .top-nav>li>a {
