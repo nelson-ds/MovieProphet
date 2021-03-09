@@ -1,11 +1,12 @@
-from bs4 import BeautifulSoup;  # import beautiful soup scraper
+from bs4 import BeautifulSoup  # import beautiful soup scraper
 import urllib  # url library
 import re  # regular expression package
-import pandas as pd;  # dataframe for final output
+import pandas as pd  # dataframe for final output
 import time  # package for datetime
 
 start_time = time.time()
-print("Parsing Box Office Mojo for movie names and id's", time.strftime("%Y/%m/%d %H:%M:%S"), "\n")
+print("Parsing Box Office Mojo for movie names and id's",
+      time.strftime("%Y/%m/%d %H:%M:%S"), "\n")
 
 # Setting up page links to be scraped
 #page_names = ['A&p=.htm', 'A&page=2&p=.htm']
@@ -36,21 +37,23 @@ page_names = ['NUMB&p=.htm',
               'X&p=.htm',
               'Y&p=.htm', 'Y&page=2&p=.htm',
               'Z&p=.htm', 'Z&page=2&p=.htm']
-links = ['http://www.boxofficemojo.com/movies/alphabetical.htm?letter=' + pn for pn in page_names]
+links = ['http://www.boxofficemojo.com/movies/alphabetical.htm?letter=' +
+         pn for pn in page_names]
 print("Reading URLs...\n")
 pages_search = list(map(urllib.request.urlopen, links))  # Open URL
 
-soups_search, movie_tags, movie_list, merged_movie_list, counter = [], [], {}, {}, 0  # Initialize variables
+soups_search, movie_tags, movie_list, merged_movie_list, counter = [
+], [], {}, {}, 0  # Initialize variables
 
 # Read all URLs in Beautiful Soup
 for page in pages_search:
     print("Scraping page: ", page_names[counter])
     soups_search.append(BeautifulSoup(page.read(), "html.parser"))
-    counter+=1
+    counter += 1
 
 # Navigate soup to get content
 print()
-counter=0
+counter = 0
 for soup in soups_search:
     # Extract only the blocks of HTML code containing the movie names and id by navigating through soup
     movie_tags = list(soup.find_all('a', href=re.compile(r"/movies/\?id=")))
@@ -63,16 +66,19 @@ for soup in soups_search:
             key = str(m_id.group())[3:-4]
             val = str(re.search(r"id=(.)*.htm|.HTM", str(movies)).group())[3:]
             name_id[key] = val
-            merged_movie_list[key] = val # Writing all names and id to single dictionary
+            # Writing all names and id to single dictionary
+            merged_movie_list[key] = val
 
-    movie_list[page_names[counter]] = name_id # Writing names and id to single dictionary with reference of page name
+    # Writing names and id to single dictionary with reference of page name
+    movie_list[page_names[counter]] = name_id
     print('Parsing page: ' + str(page_names[counter]) + '; Obtained '
           + str(len(movie_list[page_names[counter]])) + ' movies')
-    counter+=1
+    counter += 1
 
 print("Obtained a total of ", str(len(merged_movie_list)), " movies")
-print("\nFinished parsing Box Office Mojo at", time.strftime("%Y/%m/%d %H:%M:%S"))
-print("Total time taken: " + str(round(time.time() - start_time,2)) + " seconds")
+print("\nFinished parsing Box Office Mojo at",
+      time.strftime("%Y/%m/%d %H:%M:%S"))
+print("Total time taken: " + str(round(time.time() - start_time, 2)) + " seconds")
 
 output1 = pd.DataFrame(movie_list)
 output2 = pd.Series(merged_movie_list, name='MovieID')
