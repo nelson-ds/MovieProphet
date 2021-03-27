@@ -158,7 +158,8 @@
 				});
 			});
 		}
-		func_act({{ data_act| safe }})
+		func_act({ data_act })
+		// func_act({{ data_act| safe }})  TODO: Validate this can be removed
 
 		function func_dir(data_dir) {
 			$(document).ready(function () {
@@ -167,7 +168,8 @@
 				});
 			});
 		}
-		func_dir({{ data_dir| safe }})
+		func_act({ data_dir })
+		// func_dir({{ data_dir| safe }})
 
 		function func_pro(data_pro) {
 			$(document).ready(function () {
@@ -176,7 +178,8 @@
 				});
 			});
 		}
-		func_pro({{ data_pro| safe }})
+		func_act({ data_pro })
+		// func_pro({{ data_pro| safe }})
 
 
 		function func_wri(data_wri) {
@@ -186,7 +189,8 @@
 				});
 			});
 		}
-		func_wri({{ data_wri| safe }})
+		func_act({ data_wri })
+		// func_wri({{ data_wri| safe }})
 
 
 		function func_cin(data_cin) {
@@ -196,7 +200,8 @@
 				});
 			});
 		}
-		func_cin({{ data_cin| safe }})
+		func_act({ data_cin })
+		// func_cin({{ data_cin| safe }})
 
 
 		function func_com(data_com) {
@@ -206,7 +211,8 @@
 				});
 			});
 		}
-		func_com({{ data_com| safe }})
+		func_act({ data_com })
+		// func_com({{ data_com| safe }})
 
 
 		function func_dis(data_dis) {
@@ -216,7 +222,8 @@
 				});
 			});
 		}
-		func_dis({{ data_dis| safe }})
+		func_act({ data_dis })
+		// func_dis({{ data_dis| safe }})
 
 
 		$(document).ready(function () {
