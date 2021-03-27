@@ -65,7 +65,7 @@ while str_mov_at < mov_end_ind:
         str_soup = str(soup)
         summary_tags = soup.find_all('table', bgcolor="#dcdcdc")
         summary_titles = re.compile(
-            ">([\w|\s|,|.|']*):").findall(str(summary_tags[0]))
+            r">([\w|\s|,|.|']*):").findall(str(summary_tags[0]))
         sm_vals = summary_tags[0].find_all('b')
         # Since we are pulling values in bold, domestic lifetime gross is in bold and will be pulled
         summary_values = [re.sub('Domestic Lifetime Gross', '',
@@ -94,7 +94,7 @@ while str_mov_at < mov_end_ind:
             for i in range(1, len(pl_vals)):
                 # Strip empty string and values which are not required
                 player_values.append(list(filter(lambda name: name.strip() and name not in
-                                                 ['Cinematographer', '* Denotes minor role'], re.compile(">([\w|\s|.|*|-|']*)<").findall(pl_vals[i]))))
+                                                 ['Cinematographer', '* Denotes minor role'], re.compile(r">([\w|\s|.|*|-|']*)<").findall(pl_vals[i]))))
             for i in range(len(player_titles)):  # Append people values to main list
                 players_dict[player_titles[i]] = player_values[i]
             players.append(players_dict)
@@ -108,9 +108,9 @@ while str_mov_at < mov_end_ind:
         mpb_tags_pad = 0  # This will track the number of mbp_tags traversed
         if re.compile("Total Lifetime Grosses").findall(str_soup):
             str_mpb_tags0 = str(mpb_tags[mpb_tags_pad])
-            tlg_titles = re.compile(">([\w]*):").findall(str_mpb_tags0)
+            tlg_titles = re.compile(r">([\w]*):").findall(str_mpb_tags0)
             tlg_values = re.compile(
-                "[$|n/a][\w|\s|,|/]*<", ).findall(str_mpb_tags0)
+                r"[$|n/a][\w|\s|,|/]*<", ).findall(str_mpb_tags0)
             tlg_dict = {}
             for i in range(len(tlg_titles)):  # Append people values to main list
                 tlg_dict[tlg_titles[i]] = tlg_values[i][0:-1]
@@ -124,7 +124,7 @@ while str_mov_at < mov_end_ind:
         if re.compile("Domestic Summary").findall(str_soup):
             str_mpb_tags1 = str(mpb_tags[mpb_tags_pad])
             ds_titles_values = re.compile(
-                ">([\w|\s|%]*):([\w|\s|/|<|>|$|,|.|']*)</tr>").findall(str_mpb_tags1)
+                r">([\w|\s|%]*):([\w|\s|/|<|>|$|,|.|']*)</tr>").findall(str_mpb_tags1)
             # Below code will also extract live movie release date eg - la la land
             # ds_tv = re.compile(">([\w|\s|%]*):(.*?)</tr>", re.DOTALL).findall(str_mpb_tags1)
             ds_dict = {}
@@ -151,7 +151,7 @@ while str_mov_at < mov_end_ind:
         # If movie has Genre Information, it will be in fourth mp_box; retrieve it
         if len(mpb_tags) > mpb_tags_pad and re.compile("Genre").findall(str(mpb_tags[mpb_tags_pad])):
             genre_titles_values = list(mpb_tags[mpb_tags_pad].find_all(
-                'tr', bgcolor=re.compile('#([\w|\s]*)')))
+                'tr', bgcolor=re.compile(r'#([\w|\s]*)')))
             genre_titles_values = [
                 re.sub('<(.*?)>', '', str(item)) for item in genre_titles_values]
             genre_dict = {}
@@ -166,7 +166,7 @@ while str_mov_at < mov_end_ind:
         # If movie has Franchise Information, it will be in fifth mp_box; retrieve it
         if len(mpb_tags) > mpb_tags_pad and re.compile("Franchise").findall(str(mpb_tags[mpb_tags_pad])):
             fran_titles_values = list(mpb_tags[mpb_tags_pad].find_all(
-                'tr', bgcolor=re.compile('#([\w|\s]*)')))
+                'tr', bgcolor=re.compile(r'#([\w|\s]*)')))
             fran_titles_values = [re.sub('<(.*?)>', '', str(item))
                                   for item in fran_titles_values]
             fran_dict = {}
@@ -181,7 +181,7 @@ while str_mov_at < mov_end_ind:
         # If movie has Chart Information, it will be in sixth mp_box; retrieve it
         if len(mpb_tags) > mpb_tags_pad and re.compile("Chart").findall(str(mpb_tags[mpb_tags_pad])):
             chart_titles_values = list(mpb_tags[mpb_tags_pad].find_all(
-                'tr', bgcolor=re.compile('#([\w|\s]*)')))
+                'tr', bgcolor=re.compile(r'#([\w|\s]*)')))
             chart_titles_values = [
                 re.sub('<(.*?)>', '', str(item)) for item in chart_titles_values]
             chart_dict = {}
