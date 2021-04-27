@@ -7,12 +7,18 @@ import holidays
 import numpy as np
 app = Flask(__name__)
 
+# TODO: Sync pyenv to git
+# TODO: Create virtual environment python 2.7 for movie prophet (check environment via old laptop)
+# TODO: Remove all un-needed packages from current python virtual environment
+# TODO: Change date to consider only current date
+# TODO:: encrypt password via https://tinyurl.com/drcybrjx
+
 # Dev Parameter
-path_model_low = 'model/low_budget.mprophet'
-path_model_med = 'model/mid_budget.mprophet'
-path_model_hig = 'model/high_budget.mprophet'
-path_knn = 'model/genre.mprophet'
-pasw = 'toor'
+path_model_low = '/Users/nelson/Repo/MovieProphet/website/model/low_budget.mprophet'
+path_model_med = '/Users/nelson/Repo/MovieProphet/website/model/mid_budget.mprophet'
+path_model_hig = '/Users/nelson/Repo/MovieProphet/website/model/high_budget.mprophet'
+path_knn = '/Users/nelson/Repo/MovieProphet/website/model/genre.mprophet'
+pasw = 'Prophet@123'
 user = 'root'
 
 # Prod Parameters
@@ -217,6 +223,9 @@ def about():
 
 @app.route('/_return_revenue')
 def return_revenue():
+
+    # loc_dir_cur = os.path.dirname(os.path.realpath(__file__))
+    # loc_fil_new = os.path.join(loc_dir_cur, "new_file.txt")
 
     loaded_knn = pickle.load(open(path_knn, 'rb'))
 
