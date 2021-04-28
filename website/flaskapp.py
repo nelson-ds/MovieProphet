@@ -5,30 +5,21 @@ import pickle
 from datetime import datetime, timedelta
 import holidays
 import numpy as np
+import os
 app = Flask(__name__)
 
-# TODO: Sync pyenv to git
-# TODO: Create virtual environment python 2.7 for movie prophet (check environment via old laptop)
-# TODO: Remove all un-needed packages from current python virtual environment
 # TODO: Change date to consider only current date
-# TODO:: encrypt password via https://tinyurl.com/drcybrjx
+# TODO: encrypt password via https://tinyurl.com/drcybrjx
+# TODO: Deploy to prod
 
-# Dev Parameter
-path_model_low = '/Users/nelson/Repo/MovieProphet/website/model/low_budget.mprophet'
-path_model_med = '/Users/nelson/Repo/MovieProphet/website/model/mid_budget.mprophet'
-path_model_hig = '/Users/nelson/Repo/MovieProphet/website/model/high_budget.mprophet'
-path_knn = '/Users/nelson/Repo/MovieProphet/website/model/genre.mprophet'
+# External Parameters
+loc_dir_cur = os.path.dirname(os.path.realpath(__file__))
+path_model_low = os.path.join(loc_dir_cur, "model/low_budget.mprophet")
+path_model_med = os.path.join(loc_dir_cur, "model/low_budget.mprophet")
+path_model_hig = os.path.join(loc_dir_cur, "model/high_budget.mprophet")
+path_knn = os.path.join(loc_dir_cur, "model/genre.mprophet")
 pasw = 'Prophet@123'
 user = 'root'
-
-# Prod Parameters
-#path_model_low = '/home/ubuntu/capstone/modeling/notebook/model/low_budget.mprophet'
-#path_model_med = '/home/ubuntu/capstone/modeling/notebook/model/mid_budget.mprophet'
-#path_model_hig = '/home/ubuntu/capstone/modeling/notebook/model/high_budget.mprophet'
-#path_knn = '/home/ubuntu/capstone/modeling/notebook/model/genre.mprophet'
-# with open('/home/ubuntu/capstone/website/movieprophet/mysql_cred') as f:
-#  credentials = [x.strip().split(':') for x in f.readlines()]
-#user,pasw = credentials[0][0],credentials[0][1]
 
 siz = 10
 
@@ -303,15 +294,17 @@ def return_revenue():
         print('No valid date entered')
 
     if bom_budget < 47000000:
-        loaded_model = pickle.load(open(path_model_low, 'rb'))
+        with open(path_model_low, 'rb') as f:
+            loaded_model = pickle.load(f, encoding='latin1')  # loading python2 pickle in python3
         print('Considering Low Model')
+    elif bom_budget < 117000000:
+        with open(path_model_med, 'rb') as f:
+            loaded_model = pickle.load(f, encoding='latin1')
+        print('Considering Mid Model')
     else:
-        if bom_budget < 117000000:
-            loaded_model = pickle.load(open(path_model_med, 'rb'))
-            print('Considering Mid Model')
-        else:
-            loaded_model = pickle.load(open(path_model_hig, 'rb'))
-            print('Considering High Model')
+        with open(path_model_hig, 'rb') as f:
+            loaded_model = pickle.load(f, encoding='latin1')
+        print('Considering High Model')
 
     X = [bom_budget, release_month, release_week_of_the_year, release_quarter, mpaa_rating,
          holiday_season, release_day_of_the_year, actor_score, director_score, writer_score,

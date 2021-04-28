@@ -1,0 +1,36 @@
+Data:
+    Setup MySql:
+        Install MySql
+        Set up password - encrypt the password and feed it to the backend server (/website/flaskapp.py)
+    Load Data:
+        Create Backup (if not created earlier): mysqldump -u root -p movies > movies_dump_20170530.sql
+        Create DB: create database movies;
+        Load Backup: mysql -u root -p movies < movies_dump_20170530.sql
+
+Server:
+    Setup Python (Mac):
+        Install pyenv: 
+            brew install pyenv pyenv-virtualenv pyenv-virtualenvwrapper
+        Install python:
+            pyenv install 3.5.3
+        Create virtual environment:
+            /Users/<user>/.pyenv/versions/3.5.3/bin/python3 -m venv /Users/<user>/Repo/MovieProphet/binaries/py35_venv
+        Install libraries:
+            pip install --upgrade pip
+			pip install pep8  # pep8 formatter
+			pip install --upgrade autopep8
+			pip install pylint  # code analysis
+			pip install rope  #refactoring
+            pip install flask  # web server
+            pip install pymysql  #  database Connector
+            pip install holidays  # holiday calendar
+            pip install cryptography  # password masking
+            pip install numpy==1.12.1  # Mathematical functions
+            pip install scikit-learn==0.18.1  # Modeling functions
+            pip install scipy==0.19.0  # Science functions
+        Start MySql Server:
+            mysql -u root -p
+        Start web server:
+            /Users/<user>/Repo/MovieProphet/binaries/py35_venv/bin/python /Users/<user>/Repo/MovieProphet/website/flaskapp.py
+
+
