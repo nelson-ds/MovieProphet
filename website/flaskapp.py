@@ -5,29 +5,34 @@ import pickle
 from datetime import datetime, timedelta
 import holidays
 import numpy as np
+import os
+from cryptography.fernet import Fernet
 app = Flask(__name__)
 
-# Dev Parameter
-path_model_low = 'model/low_budget.mprophet'
-path_model_med = 'model/mid_budget.mprophet'
-path_model_hig = 'model/high_budget.mprophet'
-path_knn = 'model/genre.mprophet'
-pasw = 'toor'
-user = 'root'
+# External Parameters
+loc_dir_cur = os.path.dirname(os.path.realpath(__file__))
+path_model_low = os.path.join(loc_dir_cur, "model/low_budget.mprophet")
+path_model_med = os.path.join(loc_dir_cur, "model/low_budget.mprophet")
+path_model_hig = os.path.join(loc_dir_cur, "model/high_budget.mprophet")
+path_knn = os.path.join(loc_dir_cur, "model/genre.mprophet")
+path_db_pass = os.path.join(loc_dir_cur, "db/mysql_p.bin")
 
-# Prod Parameters
-#path_model_low = '/home/ubuntu/capstone/modeling/notebook/model/low_budget.mprophet'
-#path_model_med = '/home/ubuntu/capstone/modeling/notebook/model/mid_budget.mprophet'
-#path_model_hig = '/home/ubuntu/capstone/modeling/notebook/model/high_budget.mprophet'
-#path_knn = '/home/ubuntu/capstone/modeling/notebook/model/genre.mprophet'
-# with open('/home/ubuntu/capstone/website/movieprophet/mysql_cred') as f:
-#  credentials = [x.strip().split(':') for x in f.readlines()]
-#user,pasw = credentials[0][0],credentials[0][1]
 
+def get_db_pwd(key):
+    cipher_suite = Fernet(key)
+    with open(path_db_pass, 'rb') as file_object:
+        for line in file_object:
+            encrypted_p = line
+    uncipher_text = (cipher_suite.decrypt(encrypted_p))
+    return bytes(uncipher_text).decode("utf-8")
+
+
+db_pasw = get_db_pwd(b'i_oPD0alh6eBOFLyHKUzjlhux-p5hERBWvql4SEkTuo=')
+db_user = 'root'
 siz = 10
 
 connection = pymysql.connect(
-    host='localhost', user=user, password=pasw, db='movies', charset='utf8')
+    host='localhost', user=db_user, password=db_pasw, db='movies', charset='utf8')
 cur = connection.cursor()
 
 cur.execute("select * FROM scores_act order by score desc")
@@ -218,6 +223,9 @@ def about():
 @app.route('/_return_revenue')
 def return_revenue():
 
+    # loc_dir_cur = os.path.dirname(os.path.realpath(__file__))
+    # loc_fil_new = os.path.join(loc_dir_cur, "new_file.txt")
+
     loaded_knn = pickle.load(open(path_knn, 'rb'))
 
     moviename = request.args.get('f_moviename', 'N/A')
@@ -294,15 +302,17 @@ def return_revenue():
         print('No valid date entered')
 
     if bom_budget < 47000000:
-        loaded_model = pickle.load(open(path_model_low, 'rb'))
+        with open(path_model_low, 'rb') as f:
+            loaded_model = pickle.load(f, encoding='latin1')  # loading python2 pickle in python3
         print('Considering Low Model')
+    elif bom_budget < 117000000:
+        with open(path_model_med, 'rb') as f:
+            loaded_model = pickle.load(f, encoding='latin1')
+        print('Considering Mid Model')
     else:
-        if bom_budget < 117000000:
-            loaded_model = pickle.load(open(path_model_med, 'rb'))
-            print('Considering Mid Model')
-        else:
-            loaded_model = pickle.load(open(path_model_hig, 'rb'))
-            print('Considering High Model')
+        with open(path_model_hig, 'rb') as f:
+            loaded_model = pickle.load(f, encoding='latin1')
+        print('Considering High Model')
 
     X = [bom_budget, release_month, release_week_of_the_year, release_quarter, mpaa_rating,
          holiday_season, release_day_of_the_year, actor_score, director_score, writer_score,
