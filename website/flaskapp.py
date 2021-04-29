@@ -6,11 +6,8 @@ from datetime import datetime, timedelta
 import holidays
 import numpy as np
 import os
+from cryptography.fernet import Fernet
 app = Flask(__name__)
-
-# TODO: Change date to consider only current date
-# TODO: encrypt password via https://tinyurl.com/drcybrjx
-# TODO: Deploy to prod
 
 # External Parameters
 loc_dir_cur = os.path.dirname(os.path.realpath(__file__))
@@ -18,13 +15,24 @@ path_model_low = os.path.join(loc_dir_cur, "model/low_budget.mprophet")
 path_model_med = os.path.join(loc_dir_cur, "model/low_budget.mprophet")
 path_model_hig = os.path.join(loc_dir_cur, "model/high_budget.mprophet")
 path_knn = os.path.join(loc_dir_cur, "model/genre.mprophet")
-pasw = 'Prophet@123'
-user = 'root'
+path_db_pass = os.path.join(loc_dir_cur, "db/mysql_p.bin")
 
+
+def get_db_pwd(key):
+    cipher_suite = Fernet(key)
+    with open(path_db_pass, 'rb') as file_object:
+        for line in file_object:
+            encrypted_p = line
+    uncipher_text = (cipher_suite.decrypt(encrypted_p))
+    return bytes(uncipher_text).decode("utf-8")
+
+
+db_pasw = get_db_pwd(b'i_oPD0alh6eBOFLyHKUzjlhux-p5hERBWvql4SEkTuo=')
+db_user = 'root'
 siz = 10
 
 connection = pymysql.connect(
-    host='localhost', user=user, password=pasw, db='movies', charset='utf8')
+    host='localhost', user=db_user, password=db_pasw, db='movies', charset='utf8')
 cur = connection.cursor()
 
 cur.execute("select * FROM scores_act order by score desc")

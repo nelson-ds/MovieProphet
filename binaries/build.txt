@@ -1,14 +1,32 @@
-Data:
-    Setup MySql:
+Overview:
+    To replicate development setup in your machine, please follow the step below
+
+Set Up Database:
+    Set up MySql:
         Install MySql
-        Set up password - encrypt the password and feed it to the backend server (/website/flaskapp.py)
     Load Data:
         Create Backup (don't execute, only for reference): mysqldump -u root -p movies > movies_dump_20170530.sql
         Create DB: create database movies;
         Load Backup: mysql -u root -p movies < movies_dump_20170530.sql
+    Mask password:
+        Please follow th example below -
+        Get encryption key:
+			>>> from cryptography.fernet import Fernet
+			>>> key = Fernet.generate_key()
+			>>> print(key)
+			b'i_oPD0alh6eBOFLyHKUzjlhux-p5hERBWvql4SEkTuo='
+		Encrypt password:
+			>>> cipher_suite = Fernet(key)
+			>>> ciphered_text = cipher_suite.encrypt(b"EnterPasswordHere")
+		Verify password decryption:
+			>>> unciphered_text = (cipher_suite.decrypt(ciphered_text))
+	    Write encrypted password to binary file:
+		    >>> with open('/Users/<user>/Desktop/mssql_p.bin', 'wb') as file_object: file_object.write(ciphered_text)
+    Move password:
+        Move the encrypted password to the location '/Users/<user>/Repo/MovieProphet/website/db/mysql_p.bin'
 
-Server:
-    Setup Python (Mac):
+Set Up Server:
+    Set up Python (Mac):
         Install pyenv: 
             brew install pyenv pyenv-virtualenv pyenv-virtualenvwrapper
         Install python:
@@ -28,9 +46,9 @@ Server:
             pip install numpy==1.12.1  # Mathematical functions
             pip install scikit-learn==0.18.1  # Modeling functions
             pip install scipy==0.19.0  # Science functions
-        Start MySql Server:
-            mysql -u root -p
-        Start web server:
-            /Users/<user>/Repo/MovieProphet/binaries/py35_venv/bin/python /Users/<user>/Repo/MovieProphet/website/flaskapp.py
+    Start MySql Server:
+        mysql -u root -p
+    Start web server:
+        /Users/<user>/Repo/MovieProphet/binaries/py35_venv/bin/python /Users/<user>/Repo/MovieProphet/website/flaskapp.py
 
 

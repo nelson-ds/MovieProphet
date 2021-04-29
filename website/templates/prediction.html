@@ -26,7 +26,6 @@
 	<!-- polyfiller file to detect and load polyfills -->
 	<script src="http://cdn.jsdelivr.net/webshim/1.12.4/polyfiller.js"></script>
 
-
 	<!-- Select2 -->
 	<link href="{{ url_for('static', filename='select2/css/select2.min.css') }}" rel="stylesheet" />
 
@@ -69,7 +68,12 @@
 		if(mm<10) mm='0'+mm;
 		return (yyyy+sep+mm+sep+dd);
 		};
-		var curday = console.log(getCurday('-'));
+		var curday = getCurday('-');
+
+		window.onload = function(){
+           var mov_dat = document.getElementById("f_dat_mov");
+		   mov_dat.setAttribute("min", curday)
+        };
 
         function numberWithCommas(x) {
             return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
@@ -88,7 +92,7 @@
 		}
 
 		function displayGenre(gen) {
-		// The function returns the player information
+		// The function returns the genre information
 			var v_gn = ''
 			for (i=0; i < gen.length; i++) { 
 				tmp = gen[i]
@@ -402,8 +406,8 @@
 
 								<div class="form-group">
 									<label for="moviedate">Release Date*</label>
-									<input class="form-control" type="date" name="f_dat" min="2021-01-01"
-										max="2030-12-31">
+									<input class="form-control" type="date" name="f_dat" min="2017-04-26"
+										max="2040-12-31" id="f_dat_mov">
 								</div>
 
 								<div class="form-group">
