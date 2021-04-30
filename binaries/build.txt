@@ -27,28 +27,24 @@ Set Up Database:
 
 Set Up Server:
     Set up Python (Mac):
-        Install pyenv: 
+        Install Pyenv: 
             brew install pyenv pyenv-virtualenv pyenv-virtualenvwrapper
-        Install python:
+        Install Python V3.5:
             pyenv install 3.5.3
-        Create virtual environment:
-            /Users/<user>/.pyenv/versions/3.5.3/bin/python3 -m venv /Users/<user>/Repo/MovieProphet/binaries/py35_venv
-        Install libraries:
-            pip install --upgrade pip
-			pip install pep8  # pep8 formatter
-			pip install --upgrade autopep8
-			pip install pylint  # code analysis
-			pip install rope  #refactoring
-            pip install flask  # web server
-            pip install pymysql  #  database Connector
-            pip install holidays  # holiday calendar
-            pip install cryptography  # password masking
-            pip install numpy==1.12.1  # Mathematical functions
-            pip install scikit-learn==0.18.1  # Modeling functions
-            pip install scipy==0.19.0  # Science functions
+        Create Virtual Environment:
+            pyenv virtualenv 3.5.3 py35_venv_mp
+        Install Libraries 
+            Automatic:
+                pip install -r /Users/<user>/Repo/MovieProphet/build/requirements.txt
+            Manual:
+                pip install numpy==1.12.1  # Mathematical functions
+                pip install scikit-learn==0.18.1  # Modeling functions
+                pip install scipy==0.19.0  # Science functions
+                pip install pymysql  #  database Connector
+                pip install flask  # web server
+                pip install holidays  # holiday calendar
+                pip install cryptography  # password masking
     Start MySql Server:
         mysql -u root -p
     Start web server:
         /Users/<user>/Repo/MovieProphet/binaries/py35_venv/bin/python /Users/<user>/Repo/MovieProphet/website/flaskapp.py
-
-
