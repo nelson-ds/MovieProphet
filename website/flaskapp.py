@@ -29,10 +29,12 @@ def get_db_pwd(key):
 
 db_pasw = get_db_pwd(b'i_oPD0alh6eBOFLyHKUzjlhux-p5hERBWvql4SEkTuo=')
 db_user = 'root'
+db_host = 'localhost'
+
 siz = 10
 
 connection = pymysql.connect(
-    host='localhost', user=db_user, password=db_pasw, db='movies', charset='utf8')
+    host=db_host, user=db_user, password=db_pasw, db='movies', charset='utf8')
 cur = connection.cursor()
 
 cur.execute("select * FROM scores_act order by score desc")
