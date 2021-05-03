@@ -26,7 +26,6 @@
 	<!-- polyfiller file to detect and load polyfills -->
 	<script src="http://cdn.jsdelivr.net/webshim/1.12.4/polyfiller.js"></script>
 
-
 	<!-- Select2 -->
 	<link href="{{ url_for('static', filename='select2/css/select2.min.css') }}" rel="stylesheet" />
 
@@ -53,12 +52,28 @@
 
 	<script>
 		webshims.setOptions('waitReady', false);
-		webshims.setOptions('forms-ext', { types: 'date' });
+		webshims.setOptions('forms-ext', {types: 'date'});
 		webshims.polyfill('forms forms-ext');
 	</script>
 
 
 	<script type=text/javascript>
+
+		var getCurday = function(sep){
+		today = new Date();
+		var dd = today.getDate();
+		var mm = today.getMonth()+1; //As January is 0.
+		var yyyy = today.getFullYear();
+		if(dd<10) dd='0'+dd;
+		if(mm<10) mm='0'+mm;
+		return (yyyy+sep+mm+sep+dd);
+		};
+		var curday = getCurday('-');
+
+		window.onload = function(){
+           var mov_dat = document.getElementById("f_dat_mov");
+		   mov_dat.setAttribute("min", curday)
+        };
 
         function numberWithCommas(x) {
             return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
@@ -77,7 +92,7 @@
 		}
 
 		function displayGenre(gen) {
-		// The function returns the player information
+		// The function returns the genre information
 			var v_gn = ''
 			for (i=0; i < gen.length; i++) { 
 				tmp = gen[i]
@@ -158,7 +173,7 @@
 				});
 			});
 		}
-		func_act({{ data_act| safe }})
+		func_act({{data_act| safe }})
 
 		function func_dir(data_dir) {
 			$(document).ready(function () {
@@ -167,7 +182,7 @@
 				});
 			});
 		}
-		func_dir({{ data_dir| safe }})
+		func_dir({{data_dir| safe }})
 
 		function func_pro(data_pro) {
 			$(document).ready(function () {
@@ -176,7 +191,7 @@
 				});
 			});
 		}
-		func_pro({{ data_pro| safe }})
+		func_pro({{data_pro| safe }})
 
 
 		function func_wri(data_wri) {
@@ -186,7 +201,7 @@
 				});
 			});
 		}
-		func_wri({{ data_wri| safe }})
+		func_wri({{data_wri| safe }})
 
 
 		function func_cin(data_cin) {
@@ -196,7 +211,7 @@
 				});
 			});
 		}
-		func_cin({{ data_cin| safe }})
+		func_cin({{data_cin| safe }})
 
 
 		function func_com(data_com) {
@@ -206,7 +221,7 @@
 				});
 			});
 		}
-		func_com({{ data_com| safe }})
+		func_com({{data_com| safe }})
 
 
 		function func_dis(data_dis) {
@@ -216,7 +231,7 @@
 				});
 			});
 		}
-		func_dis({{ data_dis| safe }})
+		func_dis({{data_dis| safe }})
 
 
 		$(document).ready(function () {
@@ -241,10 +256,10 @@
 
 			$("input[name=f_moviename]").change(function () {
 				var mov = $(this).val();
-				if (mov) { bool_mov = true }
-				else { bool_mov = false }
-				if (bool_mov & bool_bud & bool_dat & bool_gen & bool_act & bool_dir) { $("button[name=sub]").removeAttr("disabled"); }
-				else { $("button[name=sub]").attr("disabled", true); }
+				if (mov) {bool_mov = true}
+				else {bool_mov = false}
+				if (bool_mov & bool_bud & bool_dat & bool_gen & bool_act & bool_dir) {$("button[name=sub]").removeAttr("disabled");}
+				else {$("button[name=sub]").attr("disabled", true);}
 
 			});
 
@@ -254,42 +269,42 @@
 					$("input[name=f_budget]").val("");
 					window.alert("Please enter budget between 0.1 and 500");
 				}
-				if (bud) { bool_bud = true }
-				else { bool_bud = false }
-				if (bool_mov & bool_bud & bool_dat & bool_gen & bool_act & bool_dir) { $("button[name=sub]").removeAttr("disabled"); }
-				else { $("button[name=sub]").attr("disabled", true); }
+				if (bud) {bool_bud = true}
+				else {bool_bud = false}
+				if (bool_mov & bool_bud & bool_dat & bool_gen & bool_act & bool_dir) {$("button[name=sub]").removeAttr("disabled");}
+				else {$("button[name=sub]").attr("disabled", true);}
 			});
 
 			$("input[name=f_dat]").change(function () {
 				var dat = $(this).val();
-				if (dat) { bool_dat = true }
-				else { bool_dat = false }
-				if (bool_mov & bool_bud & bool_dat & bool_gen & bool_act & bool_dir) { $("button[name=sub]").removeAttr("disabled"); }
-				else { $("button[name=sub]").attr("disabled", true); }
+				if (dat) {bool_dat = true}
+				else {bool_dat = false}
+				if (bool_mov & bool_bud & bool_dat & bool_gen & bool_act & bool_dir) {$("button[name=sub]").removeAttr("disabled");}
+				else {$("button[name=sub]").attr("disabled", true);}
 			});
 
 			$("select[name=f_gen\\[\\]]").change(function () {
 				var gen = $(this).val();
-				if (gen) { bool_gen = true }
-				else { bool_gen = false }
-				if (bool_mov & bool_bud & bool_dat & bool_gen & bool_act & bool_dir) { $("button[name=sub]").removeAttr("disabled"); }
-				else { $("button[name=sub]").attr("disabled", true); }
+				if (gen) {bool_gen = true}
+				else {bool_gen = false}
+				if (bool_mov & bool_bud & bool_dat & bool_gen & bool_act & bool_dir) {$("button[name=sub]").removeAttr("disabled");}
+				else {$("button[name=sub]").attr("disabled", true);}
 			});
 
 			$("select[name=f_act\\[\\]]").change(function () {
 				var act = $(this).val();
-				if (act) { bool_act = true }
-				else { bool_act = false }
-				if (bool_mov & bool_bud & bool_dat & bool_gen & bool_act & bool_dir) { $("button[name=sub]").removeAttr("disabled"); }
-				else { $("button[name=sub]").attr("disabled", true); }
+				if (act) {bool_act = true}
+				else {bool_act = false}
+				if (bool_mov & bool_bud & bool_dat & bool_gen & bool_act & bool_dir) {$("button[name=sub]").removeAttr("disabled");}
+				else {$("button[name=sub]").attr("disabled", true);}
 			});
 
 			$("select[name=f_dir\\[\\]]").change(function () {
 				var dir = $(this).val();
-				if (dir) { bool_dir = true }
-				else { bool_dir = false }
-				if (bool_mov & bool_bud & bool_dat & bool_gen & bool_act & bool_dir) { $("button[name=sub]").removeAttr("disabled"); }
-				else { $("button[name=sub]").attr("disabled", true); }
+				if (dir) {bool_dir = true}
+				else {bool_dir = false}
+				if (bool_mov & bool_bud & bool_dat & bool_gen & bool_act & bool_dir) {$("button[name=sub]").removeAttr("disabled");}
+				else {$("button[name=sub]").attr("disabled", true);}
 			});
 
 			$("button[name=reset]").click(function () {
@@ -364,7 +379,7 @@
 				<div class="row">
 					<div class="col-lg-12">
 						<h2>
-							Prediction <small>Based on Movie Proposal</small>
+							Prediction <small>based on movie proposal</small>
 						</h2>
 						<hr>
 					</div>
@@ -391,8 +406,8 @@
 
 								<div class="form-group">
 									<label for="moviedate">Release Date*</label>
-									<input class="form-control" type="date" name="f_dat" min="2017-05-31"
-										max="2020-12-31">
+									<input class="form-control" type="date" name="f_dat" min="2017-04-26"
+										max="2040-12-31" id="f_dat_mov">
 								</div>
 
 								<div class="form-group">
@@ -500,13 +515,13 @@
 						<div class="col-md-5">
 							<span id="info"><br><br><br>
 								<p align="left">
-									<font size="4"><i>Movie, reveal thy value..</i></font>
+									<font size="4"><i>In time, it shall be revealed...</i></font>
 								</p>
 							</span>
 						</div>
 
 						<div class="col-md-2">
-							<span id="pic"><img src="{{ url_for(" static", filename="images/mprophet.gif" )
+							<span id="pic"><img src="{{ url_for("static", filename="images/mprophet.gif" )
 									}}" /></span>
 						</div>
 
