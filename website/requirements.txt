@@ -8,6 +8,7 @@ pymysql==1.0.2
 flask==1.1.2
 holidays==0.11.1
 cryptography==3.4.7
+gunicorn==20.1.0
 
 # Development Libraries
 # autopep8==1.5.7

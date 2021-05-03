@@ -27,7 +27,7 @@ def get_db_pwd(key, path_db_pass):
     return bytes(uncipher_text).decode("utf-8")
 
 
-db_host = 'localhost'
+db_host = 'localhost'  # PROD_DEPLOYMENT: Update this
 db_user = 'root'
 db_pasw = get_db_pwd(b'i_oPD0alh6eBOFLyHKUzjlhux-p5hERBWvql4SEkTuo=', path_db_pass)
 
@@ -328,6 +328,5 @@ def return_revenue():
 
 
 if __name__ == "__main__":
-    app.run(host="127.0.0.1",
-            port=int("5000"),
-            debug=True)
+    # app.run(host='0.0.0.0', port=int('8080'), debug=True)
+    app.run(debug=True)  # in production environment, this is deployed via web server such as gunicorn or uWSSGI (set in app.yaml)
