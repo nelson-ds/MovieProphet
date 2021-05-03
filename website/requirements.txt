@@ -1,0 +1,15 @@
+# All requirements compatible with python 3.7.3
+
+# Production Libraries
+numpy==1.20.2
+scipy==1.6.3
+scikit-learn==0.24.2
+pymysql==1.0.2
+flask==1.1.2
+holidays==0.11.1
+cryptography==3.4.7
+
+# Development Libraries
+# autopep8==1.5.7
+# matplotlib==3.4.1
+# pandas==1.2.4
