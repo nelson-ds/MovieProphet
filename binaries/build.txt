@@ -60,4 +60,4 @@ Start Web Server:
         White-list Web Server in SQL:
             In GCP navigate to SQL -> Connections -> Authorized Networkd -> Add IP of the web server
 	    Deploy App:
-		    gcloud app deploy 
+		    gcloud app deploy
