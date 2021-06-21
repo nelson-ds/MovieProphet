@@ -61,3 +61,10 @@ Start Web Server:
             In GCP navigate to SQL -> Connections -> Authorized Networkd -> Add IP of the web server
 	    Deploy App:
 		    gcloud app deploy
+
+[Optional] Set Up Heroku:
+    Install Heroku CLI:
+        brew tap heroku/brew && brew install heroku
+        heroku login
+        heroku create
+        git push heroku master
