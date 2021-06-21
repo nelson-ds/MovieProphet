@@ -64,7 +64,9 @@ Start Web Server:
 
 [Optional] Set Up Heroku:
     Install Heroku CLI:
+        Create Procfile:
+            web: gunicorn main: app
         brew tap heroku/brew && brew install heroku
         heroku login
         heroku create
-        git push heroku master
+        git subtree push --prefix website heroku master
