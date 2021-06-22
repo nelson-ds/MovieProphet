@@ -86,3 +86,4 @@ Start Web Server:
             heroku logs --tail
         Start App:
             heroku ps:scale web=1
+            heroku restart
