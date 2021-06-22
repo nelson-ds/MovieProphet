@@ -36,8 +36,8 @@ def get_db_pwd(key, path_db_pass):
 # Production
 db_host = 'us-cdbr-east-04.cleardb.com'
 db_user = 'b84dd8de4cd328'
-path_db_pass = os.path.join(loc_dir_cur, "db/mysql_p_prd.bin")
-db_pass = get_db_pwd(b'2dE4tNRjmDYzMbeURZ1p4cx7boqYY1Xz4Pze1kZrOAY=', path_db_pass)
+# path_db_pass = os.path.join(loc_dir_cur, "db/mysql_p_prd.bin")
+db_pass = '82b328a3'
 db_database = 'heroku_3410b9f22575d67'
 
 
