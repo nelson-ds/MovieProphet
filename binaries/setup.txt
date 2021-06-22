@@ -84,5 +84,6 @@ Start Web Server:
             git subtree push --prefix website heroku master
         Troubleshoot Issues:
             heroku logs --tail
-
-           
+        Start App:
+            heroku ps:scale web=1
+            heroku restart
