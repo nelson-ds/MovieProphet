@@ -16,8 +16,18 @@ Set Up Database:
                 Create bucket
                 Upload mysql dump file to the bucket
                 From Sql Overview dashboard, import the dump file to 'movies' database
-    Mask Password:
-        Please follow th example below -
+            Heroku:
+                Install DB:
+                    heroku addons:create cleardb:ignite
+                Retrieve DB details:
+                    heroku config | grep CLEARDB_DATABASE_URL
+                Amend Dump File:
+                    in movies_dump_5_30.sql, comment all 4 lines containing the keyword 'DEFINER'
+                Import Data:
+                    heroku maintenance:on
+                    mysql --host=us-cdbr-east-04.cleardb.com --user=b84dd8de4cd328 -p heroku_3410b9f22575d67 < movies_dump_5_30.sql
+                    heroku maintenance:off
+    Mask Password [EXAMPLE]:
         Get encryption key:
 			>>> from cryptography.fernet import Fernet
 			>>> key = Fernet.generate_key()
@@ -34,24 +44,25 @@ Set Up Database:
         Move the encrypted password to the location '/Users/[USER]/Repo/MovieProphet/website/db/mysql_p.bin'
 
 Set Up Web Server:
-    Install Pyenv: 
-        brew install pyenv pyenv-virtualenv pyenv-virtualenvwrapper  # Mac
-        curl https://pyenv.run | bash  # GCP
-    Install Python V3.5:
-        pyenv install 3.5.3
-    Create Virtual Environment:
-        pyenv virtualenv 3.5.3 py35_venv_mp
-    Install Libraries 
-        Automatic:
-            pip install -r /Users/[USER]/Repo/MovieProphet/build/requirements.txt
-        Manual:
-            pip install numpy==1.12.1  # Mathematical functions
-            pip install scikit-learn==0.18.1  # Modeling functions
-            pip install scipy==0.19.0  # Science functions
-            pip install pymysql  #  database Connector
-            pip install flask  # web server
-            pip install holidays  # holiday calendar
-            pip install cryptography  # password masking
+    Local:
+        Install Pyenv: 
+            brew install pyenv pyenv-virtualenv pyenv-virtualenvwrapper  # Mac
+            curl https://pyenv.run | bash  # GCP
+        Install Python V3.5:
+            pyenv install 3.5.3
+        Create Virtual Environment:
+            pyenv virtualenv 3.5.3 py35_venv_mp
+        Install Libraries 
+            Automatic:
+                pip install -r /Users/[USER]/Repo/MovieProphet/build/requirements.txt
+            Manual:
+                pip install numpy==1.12.1  # Mathematical functions
+                pip install scikit-learn==0.18.1  # Modeling functions
+                pip install scipy==0.19.0  # Science functions
+                pip install pymysql  #  database Connector
+                pip install flask  # web server
+                pip install holidays  # holiday calendar
+                pip install cryptography  # password masking
 
 Start Web Server:
     Local:
@@ -61,3 +72,17 @@ Start Web Server:
             In GCP navigate to SQL -> Connections -> Authorized Networkd -> Add IP of the web server
 	    Deploy App:
 		    gcloud app deploy
+    Heroku:
+        Install Heroku CLI:
+            Create Procfile:
+                web: gunicorn main: app
+            brew tap heroku/brew && brew install heroku
+            heroku login
+        Create Heroku App:
+            heroku create
+        Push Website to Heroku
+            git subtree push --prefix website heroku master
+        Troubleshoot Issues:
+            heroku logs --tail
+
+           
