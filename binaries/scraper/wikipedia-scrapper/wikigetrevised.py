@@ -55,7 +55,7 @@ def fetch_titles(cname, limit=-1):
         for m in members:
             title = unicode_to_utf8(m['title'])
             try:
-                titles.write(title+'\n')
+                titles.write(title + '\n')
                 # TODO - parse will fail for films without an infobox, e.g
                 # 8:46
                 meta = parse_infobox(m['pageid'], title)
@@ -63,13 +63,13 @@ def fetch_titles(cname, limit=-1):
                 meta['title'] = title
                 meta['pageid'] = m['pageid']
                 f_str = '%010d' % (fetched)
-                with open('mdb/m'+f_str+'.json', 'w') as f:
+                with open('mdb/m' + f_str + '.json', 'w') as f:
                     json.dump(meta, f)
                 fetched += 1
                 if (fetched % 10 == 0):
                     time.sleep(1)  # etiquette
             except:
-                skipped_titles.write(title+','+str(m['pageid'])+'\n')
+                skipped_titles.write(title + ',' + str(m['pageid']) + '\n')
                 sys.stderr.write('S: %s\n' % (title))
                 fetched += 1
                 continue
@@ -99,13 +99,13 @@ def extract_names(l):
         if begin == -1:
             break
 
-        start = cursor+begin+2
+        start = cursor + begin + 2
         match = l[start:].find(']]')
         if match == -1:
             break
 
-        names.append(l[start:start+match].strip(' \n'))
-        cursor = start+match+2
+        names.append(l[start:start + match].strip(' \n'))
+        cursor = start + match + 2
     return names
 
 
