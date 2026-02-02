@@ -6,7 +6,11 @@ from datetime import datetime, timedelta
 import holidays
 import numpy as np
 import os
-from cryptography.fernet import Fernet
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
+
 app = Flask(__name__)
 
 # External Parameters
@@ -16,34 +20,24 @@ path_model_med = os.path.join(loc_dir_cur, "model/mid_budget.mprophet")
 path_model_hig = os.path.join(loc_dir_cur, "model/high_budget.mprophet")
 path_knn = os.path.join(loc_dir_cur, "model/genre.mprophet")
 
-
-def get_db_pwd(key, path_db_pass):
-    cipher_suite = Fernet(key)
-    with open(path_db_pass, 'rb') as file_object:
-        for line in file_object:
-            encrypted_p = line
-    uncipher_text = (cipher_suite.decrypt(encrypted_p))
-    return bytes(uncipher_text).decode("utf-8")
-
-
-# Local
-# db_host = 'localhost'
-# db_user = 'root'
-# path_db_pass = os.path.join(loc_dir_cur, "db/mysql_p_lcl.bin")
-# db_pass = get_db_pwd(b'i_oPD0alh6eBOFLyHKUzjlhux-p5hERBWvql4SEkTuo=', path_db_pass)
-# db_database = 'movies'
-
-# Production
-db_host = 'us-cdbr-east-04.cleardb.com'
-db_user = 'b84dd8de4cd328'
-path_db_pass = os.path.join(loc_dir_cur, "db/mysql_p_prd.bin")
-db_pass = get_db_pwd(b'2dE4tNRjmDYzMbeURZ1p4cx7boqYY1Xz4Pze1kZrOAY=', path_db_pass)
-db_database = 'heroku_3410b9f22575d67'
+# Database Configuration from Environment Variables
+db_host = os.getenv('DB_HOST', 'localhost')
+db_user = os.getenv('DB_USER', 'root')
+db_pass = os.getenv('DB_PASSWORD', '')
+db_database = os.getenv('DB_DATABASE', 'movieprophet')
+db_port = int(os.getenv('DB_PORT', '3306'))
 
 
 siz = 10
 
-connection = pymysql.connect(host=db_host, user=db_user, password=db_pass, db=db_database, charset='utf8')
+connection = pymysql.connect(
+    host=db_host,
+    user=db_user,
+    password=db_pass,
+    db=db_database,
+    port=db_port,
+    charset='utf8mb4'
+)
 cur = connection.cursor()
 
 cur.execute("select * FROM scores_act order by score desc")
