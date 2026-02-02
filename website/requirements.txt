@@ -1,16 +1,10 @@
-# All requirements compatible with python 3.7.3
-
-# Production Libraries
-numpy==1.20.2
+# Production Libraries - Compatible with Python 3.9 and scikit-learn 0.24.2
+numpy==1.20.3
 scipy==1.6.3
 scikit-learn==0.24.2
-pymysql==1.0.2
-flask==1.1.2
-holidays==0.11.1
-cryptography==3.4.7
-gunicorn==20.1.0
-
-# Development Libraries
-# autopep8==1.5.7
-# matplotlib==3.4.1
-# pandas==1.2.4
+pymysql>=1.1.0
+cryptography>=41.0.0
+flask>=3.0.0
+python-dotenv>=1.0.0
+holidays>=0.40
+gunicorn>=21.0.0

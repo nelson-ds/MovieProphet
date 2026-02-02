@@ -1,0 +1,46 @@
+version: '3.8'
+
+services:
+  movieprophet_app:
+    container_name: ${APP_CONTAINER_NAME}
+    build: .
+    ports:
+      - "${APP_PORT_NUMBER}:5000"
+    volumes:
+      - ./.env:/movieprophet/.env
+      - ./website:/movieprophet/website
+    env_file:
+      - .env
+    depends_on:
+      movieprophet_mysql:
+        condition: service_healthy
+    networks:
+      - movieprophet_network
+    restart: unless-stopped
+
+  movieprophet_mysql:
+    container_name: ${MYSQL_CONTAINER_NAME}
+    image: mysql:8.0
+    restart: unless-stopped
+    ports:
+      - "${MYSQL_PORT_NUMBER}:3306"
+    volumes:
+      - ./mysql/data:/var/lib/mysql
+      - ./mysql/init_scripts:/docker-entrypoint-initdb.d
+    environment:
+      - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
+      - MYSQL_DATABASE=${MYSQL_DATABASE}
+      - MYSQL_USER=${MYSQL_USER}
+      - MYSQL_PASSWORD=${MYSQL_PASSWORD}
+    env_file:
+      - .env
+    networks:
+      - movieprophet_network
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "root", "-p${MYSQL_ROOT_PASSWORD}"]
+      timeout: 20s
+      retries: 10
+
+networks:
+  movieprophet_network:
+    driver: bridge
