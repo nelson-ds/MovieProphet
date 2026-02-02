@@ -1,0 +1,89 @@
+Overview:
+    To replicate development setup, please follow the step below
+
+Set Up Database:
+    Set up MySql:
+        Install MySql and start it
+    Load Data:
+        Create Backup (don't execute, only for reference): mysqldump -u root -p movies > movies_dump_5_30.sql
+        Compress Backup (don't execute, only for reference): tar -czvf movies_dump_5_30.tar.gz ~/Repo/MovieProphet/binaries/data/movies_dump_5_30.sql
+        Uncompress Backup: tar -xzvf ~/Repo/MovieProphet/binaries/data/movies_dump_5_30.tar.gz
+        Create DB: create database movies;
+        Load Backup: 
+            Local:
+                mysql -u root -p movies < movies_dump_5_30.sql
+            GCP:
+                Create bucket
+                Upload mysql dump file to the bucket
+                From Sql Overview dashboard, import the dump file to 'movies' database
+            Heroku:
+                Install DB:
+                    heroku addons:create cleardb:ignite
+                Retrieve DB details:
+                    heroku config | grep CLEARDB_DATABASE_URL
+                Amend Dump File:
+                    in movies_dump_5_30.sql, comment all 4 lines containing the keyword 'DEFINER'
+                Import Data:
+                    heroku maintenance:on
+                    mysql --host=us-cdbr-east-04.cleardb.com --user=b84dd8de4cd328 -p heroku_3410b9f22575d67 < movies_dump_5_30.sql
+                    heroku maintenance:off
+    Mask Password [EXAMPLE]:
+        Get encryption key:
+			>>> from cryptography.fernet import Fernet
+			>>> key = Fernet.generate_key()
+			>>> print(key)
+			b'i_oPD0alh6eBOFLyHKUzjlhux-p5hERBWvql4SEkTuo='
+		Encrypt password:
+			>>> cipher_suite = Fernet(key)
+			>>> ciphered_text = cipher_suite.encrypt(b"EnterPasswordHere")
+		Verify password decryption:
+			>>> unciphered_text = (cipher_suite.decrypt(ciphered_text))
+	    Write encrypted password to binary file:
+		    >>> with open('/Users/[USER]/Desktop/mssql_p.bin', 'wb') as file_object: file_object.write(ciphered_text)
+    Place Password:
+        Move the encrypted password to the location '/Users/[USER]/Repo/MovieProphet/website/db/mysql_p.bin'
+
+Set Up Web Server:
+    Local:
+        Install Pyenv: 
+            brew install pyenv pyenv-virtualenv pyenv-virtualenvwrapper  # Mac
+            curl https://pyenv.run | bash  # GCP
+        Install Python V3.5:
+            pyenv install 3.5.3
+        Create Virtual Environment:
+            pyenv virtualenv 3.5.3 py35_venv_mp
+        Install Libraries 
+            Automatic:
+                pip install -r /Users/[USER]/Repo/MovieProphet/build/requirements.txt
+            Manual:
+                pip install numpy==1.12.1  # Mathematical functions
+                pip install scikit-learn==0.18.1  # Modeling functions
+                pip install scipy==0.19.0  # Science functions
+                pip install pymysql  #  database Connector
+                pip install flask  # web server
+                pip install holidays  # holiday calendar
+                pip install cryptography  # password masking
+
+Start Web Server:
+    Local:
+        python /Users/[USER]/Repo/MovieProphet/website/flaskapp.py
+    GCP:
+        White-list Web Server in SQL:
+            In GCP navigate to SQL -> Connections -> Authorized Networkd -> Add IP of the web server
+	    Deploy App:
+		    gcloud app deploy
+    Heroku:
+        Install Heroku CLI:
+            Create Procfile:
+                web: gunicorn main: app
+            brew tap heroku/brew && brew install heroku
+            heroku login
+        Create Heroku App:
+            heroku create
+        Push Website to Heroku
+            git subtree push --prefix website heroku master
+        Troubleshoot Issues:
+            heroku logs --tail
+        Start App:
+            heroku ps:scale web=1
+            heroku restart

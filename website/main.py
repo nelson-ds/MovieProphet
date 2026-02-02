@@ -1,12 +1,17 @@
-from flask import Flask, render_template, request, jsonify, json
-import sys
-import pymysql
+import os
 import pickle
+import sys
 from datetime import datetime, timedelta
+
 import holidays
 import numpy as np
-import os
-from cryptography.fernet import Fernet
+import pymysql
+from dotenv import load_dotenv
+from flask import Flask, json, jsonify, render_template, request
+
+# Load environment variables
+load_dotenv()
+
 app = Flask(__name__)
 
 # External Parameters
@@ -15,25 +20,25 @@ path_model_low = os.path.join(loc_dir_cur, "model/low_budget.mprophet")
 path_model_med = os.path.join(loc_dir_cur, "model/mid_budget.mprophet")
 path_model_hig = os.path.join(loc_dir_cur, "model/high_budget.mprophet")
 path_knn = os.path.join(loc_dir_cur, "model/genre.mprophet")
-path_db_pass = os.path.join(loc_dir_cur, "db/mysql_p.bin")
 
+# Database Configuration from Environment Variables
+db_host = os.getenv('DB_HOST', 'localhost')
+db_user = os.getenv('DB_USER', 'root')
+db_pass = os.getenv('DB_PASSWORD', '')
+db_database = os.getenv('DB_DATABASE', 'movieprophet')
+db_port = int(os.getenv('DB_PORT', '3306'))
 
-def get_db_pwd(key, path_db_pass):
-    cipher_suite = Fernet(key)
-    with open(path_db_pass, 'rb') as file_object:
-        for line in file_object:
-            encrypted_p = line
-    uncipher_text = (cipher_suite.decrypt(encrypted_p))
-    return bytes(uncipher_text).decode("utf-8")
-
-
-db_host = 'localhost'
-db_user = 'root'
-db_pasw = get_db_pwd(b'i_oPD0alh6eBOFLyHKUzjlhux-p5hERBWvql4SEkTuo=', path_db_pass)
 
 siz = 10
 
-connection = pymysql.connect(host=db_host, user=db_user, password=db_pasw, db='movies', charset='utf8')
+connection = pymysql.connect(
+    host=db_host,
+    user=db_user,
+    password=db_pass,
+    db=db_database,
+    port=db_port,
+    charset='utf8mb4'
+)
 cur = connection.cursor()
 
 cur.execute("select * FROM scores_act order by score desc")
@@ -286,7 +291,7 @@ def return_revenue():
         date = datetime.strptime(date, '%Y-%m-%d')
         release_month = datetime.date(date).month
         release_week_of_the_year = datetime.date(date).isocalendar()[1]
-        release_quarter = (release_month-1)//3 + 1
+        release_quarter = (release_month - 1) // 3 + 1
         release_day_of_the_year = datetime.date(date).timetuple().tm_yday
 
         us_holidays = holidays.UnitedStates()
@@ -318,16 +323,15 @@ def return_revenue():
     X = [bom_budget, release_month, release_week_of_the_year, release_quarter, mpaa_rating,
          holiday_season, release_day_of_the_year, actor_score, director_score, writer_score,
          distributor_score, composer_score, cinematographer_score, producer_score, genre_cluster,
-         genre_cluster*actor_score, genre_cluster*writer_score, genre_cluster*director_score, genre_cluster * producer_score]
+         genre_cluster * actor_score, genre_cluster * writer_score, genre_cluster * director_score, genre_cluster * producer_score]
 
     roi = loaded_model.predict([X])[0]
-    rev = roi*bom_budget
+    rev = roi * bom_budget
     print(bom_budget, roi, rev)
 
     return jsonify(result=rev, result_inc=roi, mname=moviename, bdgt=bom_budget)
 
 
 if __name__ == "__main__":
-    app.run(host="127.0.0.1",
-            port=int("5000"),
-            debug=True)
+    # app.run(host='0.0.0.0', port=int('8080'), debug=True)
+    app.run(debug=True)  # in production environment, this is deployed via web server such as gunicorn or uWSSGI (set in app.yaml)
