@@ -1,12 +1,13 @@
-from flask import Flask, render_template, request, jsonify, json
-import sys
-import pymysql
+import os
 import pickle
+import sys
 from datetime import datetime, timedelta
+
 import holidays
 import numpy as np
-import os
+import pymysql
 from dotenv import load_dotenv
+from flask import Flask, json, jsonify, render_template, request
 
 # Load environment variables
 load_dotenv()
@@ -290,7 +291,7 @@ def return_revenue():
         date = datetime.strptime(date, '%Y-%m-%d')
         release_month = datetime.date(date).month
         release_week_of_the_year = datetime.date(date).isocalendar()[1]
-        release_quarter = (release_month-1)//3 + 1
+        release_quarter = (release_month - 1) // 3 + 1
         release_day_of_the_year = datetime.date(date).timetuple().tm_yday
 
         us_holidays = holidays.UnitedStates()
@@ -322,10 +323,10 @@ def return_revenue():
     X = [bom_budget, release_month, release_week_of_the_year, release_quarter, mpaa_rating,
          holiday_season, release_day_of_the_year, actor_score, director_score, writer_score,
          distributor_score, composer_score, cinematographer_score, producer_score, genre_cluster,
-         genre_cluster*actor_score, genre_cluster*writer_score, genre_cluster*director_score, genre_cluster * producer_score]
+         genre_cluster * actor_score, genre_cluster * writer_score, genre_cluster * director_score, genre_cluster * producer_score]
 
     roi = loaded_model.predict([X])[0]
-    rev = roi*bom_budget
+    rev = roi * bom_budget
     print(bom_budget, roi, rev)
 
     return jsonify(result=rev, result_inc=roi, mname=moviename, bdgt=bom_budget)
